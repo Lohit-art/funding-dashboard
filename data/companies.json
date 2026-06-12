@@ -1,0 +1,1087 @@
+{
+ "updated": "2026-06-12T01:53:59+00:00",
+ "companies": {
+  "base10-partners": {
+   "name": "Base10 Partners",
+   "country": "USA",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "With a strong focus on logistics, payroll, construction and other sectors, San Francisco-based Base10 Partners has raised two funds totaling $850 million: a seed and Series A fund 4, and a Series B fund 2 to invest in automation for the real economy.",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "$850M",
+     "round": "Seed",
+     "title": "Base10 Partners Closes 2 Funds Totaling $850M To Invest In Real Economy Automation",
+     "link": "https://news.crunchbase.com/venture/base10-partners-invests-real-economy-automation-ajao/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "invisible-light-labs": {
+   "name": "Invisible-Light Labs",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Invisible-Light Labs announced the successful closing of its pre-seed funding round, marking an important milestone in the company’s transition from scientific research to commercial development. \n The post  Invisible-Light Labs Closes Pre-Seed Funding Round  appeared first on  P",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Invisible-Light Labs Closes Pre-Seed Funding Round",
+     "link": "https://pulse2.com/invisible-light-labs-closes-pre-seed-funding-round/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "modon": {
+   "name": "MODON",
+   "country": "Saudi Arabia",
+   "region": "Middle East",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The Saudi Authority for Industrial Cities and Technology Zones (MODON) announced that it secured approximately SAR 30 billion in new investments during 2025, including SAR 18 billion in domestic investment and more than SAR 12 billion in foreign capital. \n The post  MODON Attract",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "30 Billion",
+     "round": "",
+     "title": "MODON Attracts SAR 30 Billion In New Investments During 2025",
+     "link": "https://pulse2.com/modon-attracts-sar-30-billion-in-new-investments-during-2025/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "hut-8": {
+   "name": "Hut 8",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Hut 8 announced the closing of a $4.25 billion offering of 6.129% senior secured notes due 2042 to finance the development of its Beacon Point data center project in Texas. The transaction marks the company’s second investment-grade data center construction bond and brings cumula",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$4.25 Billion",
+     "round": "",
+     "title": "Hut 8 Closes $4.25 Billion Investment-Grade Bond Offering For Beacon Point Data Center Project",
+     "link": "https://pulse2.com/hut-8-closes-4-25-billion-investment-grade-bond-offering-for-beacon-point-data-center-project/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cameramatics": {
+   "name": "CameraMatics",
+   "country": "Ireland",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "CameraMatics, a Dublin-based AI-powered video telematics and fleet intelligence platform, has secured up to €49 million in investment to support its next phase of international expansion and ongoing product innovation as the company scales across the UK, Ireland, Europe, and the ",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€49M",
+     "round": "",
+     "title": "CameraMatics secures up to €49M from Blume Equity to take AI fleet safety to North America and Europe",
+     "link": "https://techfundingnews.com/cameramatics-49m-ai-fleet-safety-europe-north-america/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-06-11",
+     "amount": "€49 million",
+     "round": "",
+     "title": "CameraMatics secures up to €49 million to scale AI-powered fleet intelligence platform across Europe and the US",
+     "link": "https://www.eu-startups.com/2026/06/dublins-cameramatics-secures-up-to-e49-million-to-scale-ai-powered-fleet-intelligence-platform-across-europe-and-the-us/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "revolt-challenger-italian-fintech-unicorn-satispay-to": {
+   "name": "Revolt challenger: Italian fintech unicorn Satispay to",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Alberto Dalmasso co-founded Satispay in 2013 with a simple idea: build a payments network that did not touch…",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€120M",
+     "round": "",
+     "title": "Revolt challenger: Italian fintech unicorn Satispay to raise €120M and unlock a €1.27T investing opportunity",
+     "link": "https://techfundingnews.com/revolt-challenger-italian-fintech-unicorn-satispay-to-raise-e120m-and-unlock-a-e1-27t-investing-opportunity/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "theker": {
+   "name": "THEKER",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Barcelona-based AI robotics startup Theker has raised what it says is the largest robotics Series A round ever in Europe. The $85 million round in Theker was led by US VC CRV, with other investors inc...",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€73 million",
+     "round": "Series A",
+     "title": "Barcelona-based THEKER raises €73 million Series A to accelerate AI robotics deployment",
+     "link": "https://www.eu-startups.com/2026/06/barcelona-based-theker-raises-e73-million-series-a-to-accelerate-ai-robotics-deployment/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-11",
+     "amount": "$85M",
+     "round": "Series A",
+     "title": "Barcelona-based AI robotics outfit Theker raises $85M",
+     "link": "https://tech.eu/2026/06/11/barcelona-based-ai-robotics-outfit-theker-raises-85m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "angel-invest": {
+   "name": "Angel Invest",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Angel Invest, a VC firm based in Berlin, today announced the final close of its Fund III in addition to new venture partners and advisors. The €40 million fund closed above target and will continue Angel Invest’s strategy of investing at angel, pre-Seed, and Seed stages. The firm",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€40 million",
+     "round": "Angel",
+     "title": "Berlin-based Angel Invest close €40 million Fund III targeting angel to Seed stages",
+     "link": "https://www.eu-startups.com/2026/06/berlin-based-angel-invest-close-e40-million-fund-iii-targeting-angel-to-seed-stages/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "sybilla-exits-bootstrapped-orbit-with-over-8-million-to-str": {
+   "name": "Sybilla exits bootstrapped orbit with over €8 million to str",
+   "country": "Poland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Sybilla Technologies, a Polish SpaceTech company specialising in space situational awareness (SSA), space traffic management (STM), and orbital safety, has raised over €8 million in a funding round.  The round was led by TCEE Fund IV, advised by 3TS Capital Partners, with partici",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€8 million",
+     "round": "",
+     "title": "Polish SpaceTech startup Sybilla exits bootstrapped orbit with over €8 million to strengthen space monitoring",
+     "link": "https://www.eu-startups.com/2026/06/polish-spacetech-startup-sybilla-exits-bootstrapped-orbit-with-over-e8-million-to-strengthen-space-monitoring/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "french-trading-card-game-platform-cardnexus": {
+   "name": "French trading card game platform CardNexus",
+   "country": "France",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "CardNexus, the Bordeaux-based mobile-first marketplace and collection platform for trading card game (TCG) enthusiasts, today announced a €3.5 million pre-Seed round to support team expansion. The round was led by Piton Capital, with participation from Motier, FSJ, OPRTRS, Kima V",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€3.5 million",
+     "round": "Pre-Seed",
+     "title": "French trading card game platform CardNexus raises €3.5 million to support team expansion",
+     "link": "https://www.eu-startups.com/2026/06/french-trading-card-game-platform-cardnexus-raises-e3-5-million-to-support-team-expansion/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "unicorn-satispay-plans-120-million": {
+   "name": "unicorn Satispay plans €120 million",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Milan-based FinTech unicorn Satispay has announced its plan to raise up to €120 million to support the acceleration of the company’s growth strategy and evolution into a comprehensive financial platform. The proposed capital increase will be offered as a pre-emptive right to exis",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€120 million",
+     "round": "Growth",
+     "title": "Italian FinTech unicorn Satispay plans €120 million raise; with nearly €60 million already committed by existing investors",
+     "link": "https://www.eu-startups.com/2026/06/italian-fintech-unicorn-satispay-plans-e120-million-raise-secures-nearly-e60-million-from-existing-investors/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "amsterdam-s-ourmind": {
+   "name": "Amsterdam’s OurMind",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "OurMind, an Amsterdam-based startup developing AI solutions to reduce administrative burdens on healthcare providers and to reduce burnout, has raised €2.1 million to scale and expand its platform.  The round was led by 4impact capital, with a group of general practitioners and m",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€2.1 million",
+     "round": "",
+     "title": "Amsterdam’s OurMind raises €2.1 million to reduce healthcare admin burden with AI",
+     "link": "https://www.eu-startups.com/2026/06/amsterdams-ourmind-raises-e2-1-million-to-reduce-healthcare-admin-burden-with-ai/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "naratix": {
+   "name": "Naratix",
+   "country": "Romania",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Naratix announced that it has raised €1 million in seed funding in a round led by Early Game Ventures. The company plans to use the capital to accelerate its expansion in the United States and strengthen its presence in markets where it already operates. \n The post  Naratix Raise",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "€1 million",
+     "round": "Growth",
+     "title": "Romanian eCommerce startup Naratix raises €1 million to accelerate market growth",
+     "link": "https://www.eu-startups.com/2026/06/romanian-ecommerce-startup-naratix-raises-e1-million-to-accelerate-growth/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-12",
+     "amount": "€1 Million",
+     "round": "Seed",
+     "title": "Naratix Raises €1 Million Seed Round Led By Early Game Ventures",
+     "link": "https://pulse2.com/naratix-raises-e1-million-seed-round-led-by-early-game-ventures/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "enera": {
+   "name": "Enera",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Enera, an AI-powered driver experience platform forelectric vehicle charging, has raised $2 million in funding. The round was ledby Lakehouse Ventures, marking the firm's first investment outside the ...",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "$2M",
+     "round": "",
+     "title": "Enera raises $2M to improve the EV charging experience",
+     "link": "https://tech.eu/2026/06/11/enera-raises-2m-to-improve-the-ev-charging-experience/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ourmind": {
+   "name": "OurMind",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Dutch healthtech startup OurMind hasraised €2.1 million in funding to expand its AI platform for healthcareproviders as demand from hospitals continues to grow. The round was led by4impact capital, wi...",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€2.1M",
+     "round": "",
+     "title": "OurMind lands €2.1M to help reduce healthcare workloads",
+     "link": "https://tech.eu/2026/06/11/ourmind-lands-eur21m-to-help-reduce-healthcare-workloads/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "turnup": {
+   "name": "TurnUp",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "TurnUp, the Ghent-based startuphelping dental and medical practices reduce no-shows and last-minutecancellations, has raised €2 million in a seed funding round led by Newion,with participation from RD...",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€2 million",
+     "round": "Seed",
+     "title": "TurnUp raises €2 million to help healthcare providers reduce no-shows",
+     "link": "https://tech.eu/2026/06/11/turnup-raises-eur2-million-to-help-healthcare-providers-reduce-no-shows/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sunbay-io": {
+   "name": "sunbay.io",
+   "country": "Poland",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Warsaw-based sunbay.io, a platformhelping finance teams recover overdue invoices faster, has raised €550,000 infunding from Kogito Ventures, with participation from s20 and a group of angelinvestors, ...",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€550K",
+     "round": "",
+     "title": "sunbay.io raises €550K to automate invoice collection for finance teams",
+     "link": "https://tech.eu/2026/06/11/sunbayio-raises-eur550k-to-automate-invoice-collection-for-finance-teams/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "mendo": {
+   "name": "Mendo",
+   "country": "France",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Mendo, the French startup helping enterprises adopt generative andagentic AI, has raised €12 million in Series A funding. The round was led byVentech and Educapital, with participation from Tomcat and...",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "€12M",
+     "round": "Series A",
+     "title": "Mendo secures €12M to scale enterprise AI adoption in Europe",
+     "link": "https://tech.eu/2026/06/11/mendo-secures-eur12m-to-scale-enterprise-ai-adoption-in-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "neura-robotics": {
+   "name": "NEURA Robotics",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "NEURA Robotics has announced up to $1.4 billion in Series C funding to accelerate the development of its physical AI platform. Investors include Tether, Qualcomm Technologies, Amazon, NVIDIA, imec.xpa...",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-10",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "$1.4B",
+     "round": "Series C",
+     "title": "NEURA Robotics secures up to $1.4B Series C to scale physical AI and cognitive robotics platform",
+     "link": "https://tech.eu/2026/06/10/neura-robotics-secures-up-to-14b-series-c-to-scale-physical-ai-and-cognitive-robotics-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "capsa-ai": {
+   "name": "Capsa AI",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "CapsaAI, the startup building an AI operating system for private capital, has raised$18 million in a Series A round co-led by TX Ventures and Pivot Investment Partners, with significant participation ...",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-10",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "$18M",
+     "round": "Series A",
+     "title": "Capsa AI raises $18M to expand its AI platform for private capital",
+     "link": "https://tech.eu/2026/06/10/capsa-ai-raises-18m-to-expand-its-ai-platform-for-private-capital/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "nanordica-medical": {
+   "name": "Nanordica Medical",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Estonian medtech company Nanordica Medical  has raised €1.6 million to launch wound dressing for fast healing of chronic wounds. The round was led by Estonian fund 2C Ventures, with participation from...",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-10",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "€1.6M",
+     "round": "",
+     "title": "Nanordica Medical raises €1.6M to bring antibiotic-free chronic wound treatment to market",
+     "link": "https://tech.eu/2026/06/10/nanordica-medical-raises-1-6m-to-bring-antibiotic-free-chronic-wound-treatment-to-market/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "uncovr": {
+   "name": "Uncovr",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Uncovr, a surgical AI startup focused onclinical documentation and workflow intelligence, has raised $7 million in seedfunding. The round was led by Index Ventures, with participation from Seedcamp,Fr...",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-10",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "$7M",
+     "round": "",
+     "title": "Uncovr raises $7M to build AI infrastructure for surgery",
+     "link": "https://tech.eu/2026/06/10/uncovr-raises-7m-to-build-ai-infrastructure-for-surgery/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "rotomate": {
+   "name": "Rotomate",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Finnishindustrial AI startup Rotomate has raised €2.1 million in pre-seed funding, ledby Kvanted, with participation from Robin Capital, Angel Invest, Accel throughits scout programme, and Business Fi...",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-10",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "€2.1M",
+     "round": "Pre-Seed",
+     "title": "Rotomate raises €2.1M to automate industrial reliability analysis",
+     "link": "https://tech.eu/2026/06/10/rotomate-raises-eur21m-to-automate-industrial-reliability-analysis/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "01health": {
+   "name": "01Health",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "UK healthtech company 01Health hasraised $15 million in Series A funding to support the rollout of its healthcareplatform across the UK and expand its operations in the United States. Theround was led...",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-10",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "$15M",
+     "round": "Series A",
+     "title": "01Health secures $15M to scale specialist healthcare platform",
+     "link": "https://tech.eu/2026/06/10/01health-secures-15m-to-scale-specialist-healthcare-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "finnish-space-safety-startup-aavuus": {
+   "name": "Finnish space safety startup Aavuus",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Aavuus, a Finnish building infrastructure for orbital safety, has raised Pre-Seed funding from Maki.vc.  Aavuus is building a global network of ground-based laser stations designed to push object trac...",
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "events": [
+    {
+     "date": "2026-06-09",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Finnish space safety startup Aavuus lands Pre-Seed funding to tackle space debris tracking",
+     "link": "https://tech.eu/2026/06/09/finnish-space-safety-startup-aavuus-lands-pre-seed-funding-to-tackle-space-debris-tracking/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "granarium": {
+   "name": "Granarium",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Deeptech energy startup Granarium Technologies, spun out from VTT, has raised over €1 million Pre-Seed funding. BSV Ventures and Beamline led the round, with participation from FiBAN (Finnish Business...",
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "events": [
+    {
+     "date": "2026-06-09",
+     "amount": "€1M",
+     "round": "Pre-Seed",
+     "title": "Granarium raises €1M+ to commercialise renewable supercapacitors for grid stability",
+     "link": "https://tech.eu/2026/06/09/granarium-raises-eur1m-to-commercialise-renewable-supercapacitors-for-grid-stability/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "iceye": {
+   "name": "ICEYE",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Finnish spacetech company ICEYE has raised €450 million in a primary Series F funding round led by General Atlantic, at a valuation of over €10 billion. Together with a secondary placement, the total ...",
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "events": [
+    {
+     "date": "2026-06-09",
+     "amount": "€450M",
+     "round": "Series F",
+     "title": "ICEYE raises €450M at €10B+ valuation as demand for sovereign space intelligence accelerates",
+     "link": "https://tech.eu/2026/06/09/iceye-raises-eur450m-at-eur10b-valuation-as-demand-for-sovereign-space-intelligence-accelerates/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "finland-s-skyfora-turns-cell-towers-into-weather-sensors-wit": {
+   "name": "Finland’s Skyfora turns cell towers into weather sensors wit",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Helsinki-based Skyfora has raised €6.5 million in a round led by strategic and impact-focused investors including Eviny Ventures, Ugly Duckling Ventures, LUMO Labs and the EIC – European Innovation Council Fund, with non-dilutive support from Business Finland. The company is buil",
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "events": [
+    {
+     "date": "2026-06-09",
+     "amount": "€6.5M",
+     "round": "",
+     "title": "Finland’s Skyfora turns cell towers into weather sensors with €6.5M funding round",
+     "link": "https://arcticstartup.com/skyfora-raises-e6-5m/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "iceye-hits-10-5b-valuation-after-1b-funding-round-markin": {
+   "name": "ICEYE hits €10.5B valuation after €1B+ funding round, markin",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "ICEYE has raised €450 million in a Series F equity round led by General Atlantic, bringing total capital raised in the transaction (including secondary sales) to over €1 billion and implying a valuation above €10 billion. The investor group includes Solidium, Tesi, Varma, Ilmarin",
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "events": [
+    {
+     "date": "2026-06-09",
+     "amount": "€10.5B",
+     "round": "Series F",
+     "title": "ICEYE hits €10.5B valuation after €1B+ funding round, marking Finland’s third decacorn",
+     "link": "https://arcticstartup.com/iceye-raises-e450m-in-series-f/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "finnish-granarium": {
+   "name": "Finnish Granarium",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Helsinki-based deeptech startup Granarium Technologies has raised over €1 million in a pre-seed round led by BSV Ventures, with participation from Beamline as well as angel investors from FiBAN, EstBAN, and LatBAN. Originating as a technology transfer from VTT, the company is com",
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "events": [
+    {
+     "date": "2026-06-09",
+     "amount": "€1 million",
+     "round": "Pre-Seed",
+     "title": "Finnish Granarium raises funding to move biobased supercapacitor technology toward industrial pilots",
+     "link": "https://arcticstartup.com/granarium-technologies-raises-over-e1m-pre-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "danish-reel": {
+   "name": "Danish Reel",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Reel, a Copenhagen-based energy technology company, has raised €15 million in a Series A round led by Future Energy Ventures, with participation from UVC Partners, Transition Ventures, The Footprint Firm, and a group of angel investors. The platform helps businesses secure more p",
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "events": [
+    {
+     "date": "2026-06-09",
+     "amount": "€15 million",
+     "round": "Series A",
+     "title": "Danish Reel raises €15 million Series A to expand renewable energy services in Germany",
+     "link": "https://arcticstartup.com/reel-raises-e15-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "sweden-s-haga-bioscience": {
+   "name": "Sweden’s Haga Bioscience",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Haga Bioscience, a Stockholm-based spatial biology startup, has secured $2.3 million (SEK 20.9 million) in an oversubscribed seed funding round from investors including Almi Invest, Life Science Invest, SU Ventures, and a group of private investors and life sciences industry vete",
+   "first_seen": "2026-06-08",
+   "last_seen": "2026-06-08",
+   "events": [
+    {
+     "date": "2026-06-08",
+     "amount": "$2.3 million",
+     "round": "Seed",
+     "title": "Sweden’s Haga Bioscience attracts oversubscribed seed round for spatial RNA technology development",
+     "link": "https://arcticstartup.com/haga-bioscience-raises-2-3m-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "manam-chocolate": {
+   "name": "Manam Chocolate",
+   "country": "India",
+   "region": "Asia",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "D2C premium craft chocolate brand Manam Chocolate has raised $9 Mn (about ₹86 Cr) in its Series A funding round…",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "$9 Mn",
+     "round": "Series A",
+     "title": "D2C Brand Manam Chocolate Nets $9 Mn To Expand Retail Footprint",
+     "link": "https://inc42.com/buzz/d2c-brand-manam-chocolate-nets-9-mn-to-expand-retail-footprint/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ethereal-machines": {
+   "name": "Ethereal Machines",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Deeptech manufacturing startup Ethereal Machines has raised $28.5 Mn (about ₹272 Cr) in its Series B funding round led by…",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "$28.5 Mn",
+     "round": "Series B",
+     "title": "Ethereal Machines Raises $28.5 Mn To Expand Precision Manufacturing Capacity",
+     "link": "https://inc42.com/buzz/ethereal-machines-raises-28-5-mn-to-expand-precision-manufacturing-capacity/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "4basecare": {
+   "name": "4baseCare",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Months after raising ₹90 Cr, healthtech startup 4baseCare has now secured an additional ₹38 Cr (nearly $4 Mn) to finally…",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "₹38",
+     "round": "Series B",
+     "title": "4baseCare Bags ₹38 Cr To Close Series B Round At ₹128 Cr",
+     "link": "https://inc42.com/buzz/4basecare-bags-%e2%82%b938-cr-to-close-series-b-round-at-%e2%82%b9128-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "rivvun-ai": {
+   "name": "Rivvun AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Enterprise tech startup Rivvun AI has raised $7.5 Mn (about ₹72 Cr ) in an oversubscribed seed round led by…",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-10",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "$7.5 Mn",
+     "round": "Seed",
+     "title": "Rivvun AI Bags $7.5 Mn To Help Enterprises Reduce Revenue Leakages",
+     "link": "https://inc42.com/buzz/rivvun-ai-bags-7-5-mn-to-help-enterprise-reduce-revenue-leakages/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "uni-seoul": {
+   "name": "Uni Seoul",
+   "country": "South Korea",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "D2C Korean-inspired lifestyle and gifting startup Uni Seoul has raised ₹35 Cr ($3.6 Mn) in its Series A fund round…",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-10",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "₹35",
+     "round": "Series A",
+     "title": "Exclusive: Uni Seoul Nets ₹35 Cr To Expand Offline Presence, Enter Quick Commerce",
+     "link": "https://inc42.com/buzz/exclusive-uni-seoul-nets-%e2%82%b935-cr-to-expand-offline-presence-enter-quick-commerce/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "paediatric-healthcare-startup-hoola-health": {
+   "name": "Paediatric Healthcare Startup Hoola Health",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Paediatric healthcare brand Hoola Health (erstwhile BabyMD) has raised $5 Mn (around ₹47.6 Cr) in a funding round led by…",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-10",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "$5 Mn",
+     "round": "",
+     "title": "Paediatric Healthcare Startup Hoola Health Raises $5 Mn",
+     "link": "https://inc42.com/buzz/paediatric-healthcare-startup-hoola-health-raises-5-mn/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "koho-becomes-canada-s-latest-unicorn-following-130-million": {
+   "name": "Koho becomes Canada’s latest unicorn following $130-million ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "FinTech firm passes 2.5 million users as it navigates “final stages” of acquiring banking licence. \n The post  Koho becomes Canada’s latest unicorn following $130-million Series E round  first appeared on  BetaKit .",
+   "first_seen": "2026-06-11",
+   "last_seen": "2026-06-11",
+   "events": [
+    {
+     "date": "2026-06-11",
+     "amount": "$130",
+     "round": "Series E",
+     "title": "Koho becomes Canada’s latest unicorn following $130-million Series E round",
+     "link": "https://betakit.com/koho-becomes-canadas-latest-unicorn-following-130-million-series-e-round/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "nesto": {
+   "name": "Nesto",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Montréal-based digital mortgage lender wants to speed up approvals using AI. \n The post  Nesto secures nearly $1.5-billion valuation in new Series E round  first appeared on  BetaKit .",
+   "first_seen": "2026-06-10",
+   "last_seen": "2026-06-10",
+   "events": [
+    {
+     "date": "2026-06-10",
+     "amount": "$1.5",
+     "round": "Series E",
+     "title": "Nesto secures nearly $1.5-billion valuation in new Series E round",
+     "link": "https://betakit.com/nesto-secures-nearly-1-5-billion-valuation-in-new-series-e-round/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "beacon": {
+   "name": "Beacon",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Toronto holding firm fuels up to continue software acquisition spree. \n The post  AI rollup company Beacon closes $225-million USD Series C round  first appeared on  BetaKit .",
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "events": [
+    {
+     "date": "2026-06-09",
+     "amount": "$225",
+     "round": "Series C",
+     "title": "AI rollup company Beacon closes $225-million USD Series C round",
+     "link": "https://betakit.com/ai-rollup-company-beacon-closes-225-million-series-c-round/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "noram-electrolysis-systems": {
+   "name": "NORAM Electrolysis Systems",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Funding will support development of next-generation electrochemical lithium refining platform. \n The post  NORAM Electrolysis Systems nabs $5.6 million to scale up lithium refining  first appeared on  BetaKit .",
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "events": [
+    {
+     "date": "2026-06-09",
+     "amount": "$5.6 million",
+     "round": "",
+     "title": "NORAM Electrolysis Systems nabs $5.6 million to scale up lithium refining",
+     "link": "https://betakit.com/noram-electrolysis-systems-nabs-5-6-million-to-scale-up-lithium-refining/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "databraid": {
+   "name": "DataBraid",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Brainchild of Koru and Scoop aims to solve the quiet inefficiency eating away at brokers’ margins. \n The post  DataBraid secures $1.9 million USD to solve insurance brokers’ “portal hopping” problem  first appeared on  BetaKit .",
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "events": [
+    {
+     "date": "2026-06-09",
+     "amount": "$1.9 million",
+     "round": "",
+     "title": "DataBraid secures $1.9 million USD to solve insurance brokers’ “portal hopping” problem",
+     "link": "https://betakit.com/databraid-secures-1-9-million-usd-to-solve-insurance-brokers-portal-hopping-problem/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "inovia-promotes-mia-morisset-to-partner-on-growth-team": {
+   "name": "Inovia promotes Mia Morisset to partner on growth team",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Montréal VC firm’s third growth fund has raised $365 million USD of $450-million target. \n The post  Inovia promotes Mia Morisset to partner on growth team  first appeared on  BetaKit .",
+   "first_seen": "2026-06-05",
+   "last_seen": "2026-06-05",
+   "events": [
+    {
+     "date": "2026-06-05",
+     "amount": "$365 million",
+     "round": "Growth",
+     "title": "Inovia promotes Mia Morisset to partner on growth team",
+     "link": "https://betakit.com/inovia-promotes-mia-morisset-to-partner-on-growth-team/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "pricepoint": {
+   "name": "Pricepoint",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "All-Québec cap table includes Brightspark Ventures, Boreal Ventures, and AQC Capital. \n The post  Pricepoint closes $6.6-million CAD seed round for AI hospitality platform  first appeared on  BetaKit .",
+   "first_seen": "2026-06-05",
+   "last_seen": "2026-06-05",
+   "events": [
+    {
+     "date": "2026-06-05",
+     "amount": "$6.6",
+     "round": "Seed",
+     "title": "Pricepoint closes $6.6-million CAD seed round for AI hospitality platform",
+     "link": "https://betakit.com/pricepoint-closes-6-6-million-cad-seed-round-for-ai-hospitality-platform/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "skyfora": {
+   "name": "Skyfora",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Skyfora announced that it has raised €6.5 million in funding to accelerate the growth of its atmospheric data platform and expand the commercial deployment of its weather intelligence products. \n The post  Skyfora Raises €6.5 Million To Expand Atmospheric Data Platform  appeared ",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "€6.5 Million",
+     "round": "Growth",
+     "title": "Skyfora Raises €6.5 Million To Expand Atmospheric Data Platform",
+     "link": "https://pulse2.com/skyfora-raises-e6-5-million-to-expand-atmospheric-data-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  }
+ }
+}

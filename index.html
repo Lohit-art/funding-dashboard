@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Funded — Global Startup Funding Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F6F5EF; --card:#FFFFFF; --ink:#1A2417; --ink-soft:#5A6657;
+  --line:#E3E2D8; --green:#7AB317; --green-deep:#4F7A0B;
+  --sage:#D9E9B4; --sage-soft:#EAF2D8; --amber:#D97E2B; --amber-soft:#F8E8D4;
+  --mono:'IBM Plex Mono',monospace; --sans:'IBM Plex Sans',sans-serif;
+  --disp:'Space Grotesk',sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.5}
+a{color:inherit}
+button{font:inherit;cursor:pointer;background:none;border:none;color:inherit}
+:focus-visible{outline:2px solid var(--green-deep);outline-offset:2px;border-radius:4px}
+
+/* ---------- header ---------- */
+header{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:20}
+.hwrap{max-width:1240px;margin:0 auto;padding:14px 24px;display:flex;align-items:baseline;gap:18px;flex-wrap:wrap}
+.wordmark{font-family:var(--disp);font-weight:700;font-size:22px;letter-spacing:-.5px}
+.wordmark em{font-style:normal;color:var(--green-deep)}
+.updated{font-family:var(--mono);font-size:11px;color:var(--ink-soft)}
+.stats{margin-left:auto;display:flex;gap:22px;flex-wrap:wrap}
+.stat{display:flex;flex-direction:column;align-items:flex-end}
+.stat b{font-family:var(--mono);font-size:17px;font-weight:500}
+.stat span{font-size:10px;text-transform:uppercase;letter-spacing:.8px;color:var(--ink-soft)}
+
+/* ---------- layout ---------- */
+.layout{max-width:1240px;margin:0 auto;padding:26px 24px 80px;display:grid;grid-template-columns:300px 1fr;gap:34px}
+@media(max-width:880px){.layout{grid-template-columns:1fr}}
+
+/* ---------- category rank (signature) ---------- */
+.catpanel h2{font-family:var(--disp);font-size:13px;text-transform:uppercase;letter-spacing:1.2px;color:var(--ink-soft);margin-bottom:14px}
+.catlist{display:flex;flex-direction:column;gap:9px}
+.catrow{display:grid;grid-template-columns:30px 1fr;align-items:center;gap:8px}
+.catrow .num{font-family:var(--mono);font-size:11px;color:var(--ink-soft)}
+.catpill{display:flex;align-items:center;justify-content:space-between;gap:8px;
+  background:var(--sage);border-radius:11px;padding:9px 14px;min-width:46%;
+  font-size:13.5px;font-weight:500;text-align:left;transition:transform .12s ease, background .12s ease;border:1.5px solid transparent}
+.catpill:hover{transform:translateX(3px)}
+.catpill .n{font-family:var(--mono);font-size:11px;color:var(--green-deep)}
+.catrow.top .catpill{background:var(--green);color:#fff;font-weight:600}
+.catrow.top .catpill .n{color:#F0FAD8}
+.catpill[aria-pressed="true"]{border-color:var(--ink);background:var(--ink);color:#fff}
+.catpill[aria-pressed="true"] .n{color:var(--sage)}
+.catclear{margin-top:12px;font-size:12px;color:var(--ink-soft);text-decoration:underline;display:none}
+.catclear.show{display:inline}
+@media(max-width:880px){
+  .catlist{flex-direction:row;overflow-x:auto;padding-bottom:8px;gap:8px}
+  .catrow{grid-template-columns:1fr}.catrow .num{display:none}
+  .catpill{min-width:max-content;width:auto!important}
+}
+
+/* ---------- tabs & filters ---------- */
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-bottom:18px;flex-wrap:wrap}
+.tab{font-family:var(--disp);font-size:14px;font-weight:500;padding:9px 16px;border-radius:8px 8px 0 0;color:var(--ink-soft);border-bottom:2.5px solid transparent}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--green);font-weight:700}
+.tab .n{font-family:var(--mono);font-size:11px;color:var(--green-deep);margin-left:5px}
+.filters{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:20px}
+.search{flex:1;min-width:180px;background:var(--card);border:1px solid var(--line);border-radius:9px;padding:9px 13px;font:inherit;font-size:14px}
+select{background:var(--card);border:1px solid var(--line);border-radius:9px;padding:9px 11px;font:inherit;font-size:13px;color:var(--ink)}
+.chip{border:1px solid var(--line);background:var(--card);border-radius:99px;padding:7px 14px;font-size:12.5px;font-weight:500}
+.chip[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+
+/* ---------- cards ---------- */
+.count{font-family:var(--mono);font-size:12px;color:var(--ink-soft);margin-bottom:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 18px 14px;display:flex;flex-direction:column;gap:10px;transition:border-color .12s ease, box-shadow .12s ease}
+.card:hover{border-color:var(--green);box-shadow:0 3px 14px rgba(40,60,20,.07)}
+.card .toprow{display:flex;align-items:flex-start;gap:10px}
+.cname{font-family:var(--disp);font-size:17px;font-weight:700;letter-spacing:-.2px;flex:1}
+.badge{font-family:var(--mono);font-size:10px;font-weight:500;letter-spacing:.5px;padding:3px 8px;border-radius:5px;white-space:nowrap}
+.badge.ai{background:var(--green);color:#fff}
+.badge.nonai{border:1px solid var(--line);color:var(--ink-soft)}
+.badge.multi{background:var(--amber-soft);color:var(--amber);border:1px solid #EAC9A4}
+.badge.research{background:#E4E0F5;color:#4A3FA0}
+.money{font-family:var(--mono);font-size:14.5px;font-weight:500;color:var(--green-deep)}
+.money .rnd{color:var(--ink-soft);font-size:12px}
+.csum{font-size:13px;color:var(--ink-soft);line-height:1.45;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.meta{display:flex;gap:7px;flex-wrap:wrap;font-size:11.5px}
+.tag{background:var(--sage-soft);border-radius:6px;padding:3px 9px;color:var(--green-deep);font-weight:500}
+.tag.geo{background:#F0EFE6;color:var(--ink-soft)}
+.cfoot{display:flex;justify-content:space-between;align-items:center;border-top:1px dashed var(--line);padding-top:9px;font-family:var(--mono);font-size:11px;color:var(--ink-soft)}
+.cfoot a{color:var(--green-deep);text-decoration:none;font-weight:500}
+.cfoot a:hover{text-decoration:underline}
+.histtoggle{font-family:var(--mono);font-size:11px;color:var(--amber);text-decoration:underline dotted}
+.hist{display:none;border-top:1px dashed var(--line);padding-top:8px;font-size:12px}
+.hist.show{display:block}
+.hist li{list-style:none;display:flex;justify-content:space-between;gap:8px;padding:3px 0;font-family:var(--mono);font-size:11px}
+.empty{padding:60px 20px;text-align:center;color:var(--ink-soft);border:1.5px dashed var(--line);border-radius:14px}
+.loaderr{padding:40px;background:var(--amber-soft);border-radius:14px;font-size:14px;line-height:1.7}
+.loaderr code{font-family:var(--mono);background:#fff;padding:2px 6px;border-radius:4px}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="hwrap">
+    <div class="wordmark">FUNDED<em>/DAILY</em></div>
+    <div class="updated" id="updated">loading…</div>
+    <div class="stats">
+      <div class="stat"><b id="s-today">–</b><span>deals today</span></div>
+      <div class="stat"><b id="s-companies">–</b><span>companies tracked</span></div>
+      <div class="stat"><b id="s-ai">–</b><span>AI share</span></div>
+      <div class="stat"><b id="s-countries">–</b><span>countries</span></div>
+    </div>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="catpanel">
+    <h2>What problem they solve</h2>
+    <div class="catlist" id="catlist"></div>
+    <button class="catclear" id="catclear">clear category filter</button>
+  </aside>
+
+  <main>
+    <div class="tabs" role="tablist" id="tabs">
+      <button class="tab" role="tab" data-tab="today" aria-selected="true">Today <span class="n" id="n-today"></span></button>
+      <button class="tab" role="tab" data-tab="all" aria-selected="false">All companies <span class="n" id="n-all"></span></button>
+      <button class="tab" role="tab" data-tab="regular" aria-selected="false">Regularly funded <span class="n" id="n-regular"></span></button>
+      <button class="tab" role="tab" data-tab="research" aria-selected="false">Research-based <span class="n" id="n-research"></span></button>
+    </div>
+
+    <div class="filters">
+      <input class="search" id="search" type="search" placeholder="Search company, sector, keyword…" aria-label="Search companies">
+      <select id="f-country" aria-label="Filter by country"><option value="">All countries</option></select>
+      <select id="f-sector" aria-label="Filter by sector"><option value="">All sectors</option></select>
+      <button class="chip" data-stage="new" aria-pressed="false">New (seed)</button>
+      <button class="chip" data-stage="emerging" aria-pressed="false">Emerging (A–B)</button>
+      <button class="chip" data-stage="established" aria-pressed="false">Established (C+)</button>
+      <button class="chip" id="f-ai" aria-pressed="false">AI only</button>
+    </div>
+
+    <div class="count" id="count"></div>
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty" style="display:none">No companies match these filters. Loosen one and the list refills.</div>
+  </main>
+</div>
+
+<script>
+const FLAGS = {"USA":"🇺🇸","UK":"🇬🇧","Canada":"🇨🇦","France":"🇫🇷","Germany":"🇩🇪",
+"Netherlands":"🇳🇱","Spain":"🇪🇸","Italy":"🇮🇹","Sweden":"🇸🇪","Norway":"🇳🇴",
+"Denmark":"🇩🇰","Finland":"🇫🇮","Switzerland":"🇨🇭","Austria":"🇦🇹","Ireland":"🇮🇪",
+"Portugal":"🇵🇹","Belgium":"🇧🇪","Poland":"🇵🇱","Czechia":"🇨🇿","Hungary":"🇭🇺",
+"Romania":"🇷🇴","Bulgaria":"🇧🇬","Greece":"🇬🇷","Estonia":"🇪🇪","Latvia":"🇱🇻",
+"Lithuania":"🇱🇹","Croatia":"🇭🇷","Luxembourg":"🇱🇺","Ukraine":"🇺🇦","Turkey":"🇹🇷",
+"India":"🇮🇳","Singapore":"🇸🇬","Indonesia":"🇮🇩","Japan":"🇯🇵","South Korea":"🇰🇷",
+"China":"🇨🇳","Hong Kong":"🇭🇰","Taiwan":"🇹🇼","Philippines":"🇵🇭","Thailand":"🇹🇭",
+"Vietnam":"🇻🇳","Malaysia":"🇲🇾","Pakistan":"🇵🇰","UAE":"🇦🇪","Saudi Arabia":"🇸🇦",
+"Israel":"🇮🇱","Egypt":"🇪🇬","Nigeria":"🇳🇬","Kenya":"🇰🇪","South Africa":"🇿🇦",
+"Australia":"🇦🇺","New Zealand":"🇳🇿","Brazil":"🇧🇷","Argentina":"🇦🇷","Chile":"🇨🇱",
+"Colombia":"🇨🇴","Peru":"🇵🇪","Mexico":"🇲🇽","Unknown":"🌐"};
+
+const state = {tab:"today", category:null, country:"", sector:"", stages:new Set(), ai:false, q:""};
+let DB = null, latestDate = "";
+
+const $ = id => document.getElementById(id);
+const esc = s => (s||"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+async function load(){
+  try{
+    const r = await fetch("data/companies.json", {cache:"no-store"});
+    if(!r.ok) throw new Error(r.status);
+    DB = await r.json();
+  }catch(e){
+    $("grid").innerHTML = "";
+    $("count").innerHTML = `<div class="loaderr"><b>Couldn't load data/companies.json.</b><br>
+      If you opened this file directly, run a local server first:
+      <code>python3 -m http.server</code> then visit <code>http://localhost:8000</code>.<br>
+      On GitHub Pages this loads automatically after the first workflow run.</div>`;
+    return;
+  }
+  const companies = Object.values(DB.companies);
+  companies.forEach(c => c.events.sort((a,b)=> b.date.localeCompare(a.date)));
+  latestDate = companies.reduce((m,c)=> c.last_seen > m ? c.last_seen : m, "");
+  DB.list = companies.sort((a,b)=> b.last_seen.localeCompare(a.last_seen) || a.name.localeCompare(b.name));
+
+  $("updated").textContent = "updated " + (DB.updated||"").slice(0,16).replace("T"," ") + " UTC · latest deals " + latestDate;
+  buildHeader(); buildCategoryRank(); buildSelects(); render();
+}
+
+function buildHeader(){
+  const L = DB.list;
+  $("s-companies").textContent = L.length;
+  $("s-today").textContent = L.filter(c=> c.last_seen === latestDate).length;
+  $("s-ai").textContent = Math.round(100 * L.filter(c=>c.is_ai).length / Math.max(L.length,1)) + "%";
+  $("s-countries").textContent = new Set(L.map(c=>c.country).filter(c=>c!=="Unknown")).size;
+  $("n-today").textContent = L.filter(c=> c.last_seen === latestDate).length;
+  $("n-all").textContent = L.length;
+  $("n-regular").textContent = L.filter(c=> c.events.length > 1).length;
+  $("n-research").textContent = L.filter(c=> c.research_based).length;
+}
+
+function buildCategoryRank(){
+  const counts = {};
+  DB.list.forEach(c => counts[c.category] = (counts[c.category]||0)+1);
+  const ranked = Object.entries(counts).sort((a,b)=> b[1]-a[1]);
+  const max = ranked.length ? ranked[0][1] : 1;
+  $("catlist").innerHTML = ranked.map(([cat,n],i)=>{
+    const w = 46 + 54 * (n/max);
+    return `<div class="catrow${i===0?" top":""}">
+      <span class="num">${String(i+1).padStart(2,"0")}.</span>
+      <button class="catpill" data-cat="${esc(cat)}" aria-pressed="false" style="width:${w}%">
+        <span>${esc(cat)}</span><span class="n">${n}</span>
+      </button></div>`;
+  }).join("");
+  document.querySelectorAll(".catpill").forEach(b => b.addEventListener("click", ()=>{
+    state.category = state.category === b.dataset.cat ? null : b.dataset.cat;
+    document.querySelectorAll(".catpill").forEach(x => x.setAttribute("aria-pressed", x.dataset.cat===state.category));
+    $("catclear").classList.toggle("show", !!state.category);
+    render();
+  }));
+  $("catclear").addEventListener("click", ()=>{
+    state.category = null;
+    document.querySelectorAll(".catpill").forEach(x=>x.setAttribute("aria-pressed","false"));
+    $("catclear").classList.remove("show"); render();
+  });
+}
+
+function buildSelects(){
+  const countries = [...new Set(DB.list.map(c=>c.country))].sort();
+  $("f-country").innerHTML += countries.map(c=>`<option>${esc(c)}</option>`).join("");
+  const sectors = [...new Set(DB.list.map(c=>c.sector))].sort();
+  $("f-sector").innerHTML += sectors.map(s=>`<option>${esc(s)}</option>`).join("");
+}
+
+function filtered(){
+  return DB.list.filter(c=>{
+    if(state.tab==="today"    && c.last_seen !== latestDate) return false;
+    if(state.tab==="regular"  && c.events.length < 2) return false;
+    if(state.tab==="research" && !c.research_based) return false;
+    if(state.category && c.category !== state.category) return false;
+    if(state.country  && c.country  !== state.country)  return false;
+    if(state.sector   && c.sector   !== state.sector)   return false;
+    if(state.stages.size && !state.stages.has(c.stage)) return false;
+    if(state.ai && !c.is_ai) return false;
+    if(state.q){
+      const hay = (c.name+" "+c.summary+" "+c.sector+" "+c.category+" "+c.country).toLowerCase();
+      if(!hay.includes(state.q)) return false;
+    }
+    return true;
+  });
+}
+
+function card(c){
+  const ev = c.events[0];
+  const money = ev.amount ? `<span class="money">${esc(ev.amount)} ${ev.round?`<span class="rnd">· ${esc(ev.round)}</span>`:""}</span>` : (ev.round?`<span class="money rnd">${esc(ev.round)}</span>`:"");
+  const badges = [
+    c.is_ai ? '<span class="badge ai">AI</span>' : '<span class="badge nonai">NON-AI</span>',
+    c.events.length>1 ? `<span class="badge multi">FUNDED ×${c.events.length}</span>` : "",
+    c.research_based ? '<span class="badge research">RESEARCH</span>' : "",
+  ].join("");
+  const hist = c.events.length>1 ? `
+    <button class="histtoggle" data-h>show funding history</button>
+    <ul class="hist">${c.events.map(e=>`<li><span>${e.date}</span><span>${esc(e.amount||"–")} ${esc(e.round||"")}</span></li>`).join("")}</ul>` : "";
+  const stage = c.stage!=="unspecified" ? `<span class="tag geo">${c.stage}</span>` : "";
+  return `<article class="card">
+    <div class="toprow"><h3 class="cname">${esc(c.name)}</h3><div>${badges}</div></div>
+    ${money}
+    <p class="csum">${esc(c.summary || ev.title)}</p>
+    <div class="meta">
+      <span class="tag geo">${FLAGS[c.country]||"🌐"} ${esc(c.country)}</span>
+      <span class="tag">${esc(c.sector)}</span>
+      <span class="tag">${esc(c.category)}</span>
+      ${stage}
+    </div>
+    ${hist}
+    <div class="cfoot"><span>${ev.date} · ${esc(ev.source)}</span><a href="${esc(ev.link)}" target="_blank" rel="noopener">read story ↗</a></div>
+  </article>`;
+}
+
+function render(){
+  const rows = filtered();
+  $("count").textContent = rows.length + (rows.length===1?" company":" companies") +
+    (state.tab==="today" ? ` funded on ${latestDate}` : "");
+  $("grid").innerHTML = rows.map(card).join("");
+  $("empty").style.display = rows.length ? "none" : "block";
+  document.querySelectorAll("[data-h]").forEach(b => b.addEventListener("click", ()=>{
+    const ul = b.nextElementSibling; const open = ul.classList.toggle("show");
+    b.textContent = open ? "hide funding history" : "show funding history";
+  }));
+}
+
+$("tabs").addEventListener("click", e=>{
+  const t = e.target.closest(".tab"); if(!t) return;
+  state.tab = t.dataset.tab;
+  document.querySelectorAll(".tab").forEach(x=>x.setAttribute("aria-selected", x===t));
+  render();
+});
+$("search").addEventListener("input", e=>{ state.q = e.target.value.trim().toLowerCase(); render(); });
+$("f-country").addEventListener("change", e=>{ state.country = e.target.value; render(); });
+$("f-sector").addEventListener("change", e=>{ state.sector = e.target.value; render(); });
+document.querySelectorAll(".chip[data-stage]").forEach(b=> b.addEventListener("click", ()=>{
+  const s = b.dataset.stage;
+  state.stages.has(s) ? state.stages.delete(s) : state.stages.add(s);
+  b.setAttribute("aria-pressed", state.stages.has(s)); render();
+}));
+$("f-ai").addEventListener("click", ()=>{
+  state.ai = !state.ai; $("f-ai").setAttribute("aria-pressed", state.ai); render();
+});
+
+load();
+</script>
+</body>
+</html>
