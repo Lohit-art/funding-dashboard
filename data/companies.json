@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-12T03:59:32+00:00",
+ "updated": "2026-06-12T16:16:43+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -7,12 +7,12 @@
    "region": "North America",
    "category": "Mobility & logistics",
    "sector": "Mobility / Logistics",
-   "is_ai": false,
+   "is_ai": true,
    "research_based": false,
-   "stage": "new",
-   "summary": "With a strong focus on logistics, payroll, construction and other sectors, San Francisco-based Base10 Partners has raised two funds totaling $850 million: a seed and Series A fund 4, and a Series B fund 2 to invest in automation for the real economy.",
+   "stage": "established",
+   "summary": "Base10 Partners announced that it closed $850 million in new capital during 2025, bringing its assets under management to $2.6 billion as the venture capital firm continues backing companies focused on applying AI and automation to the real economy. \n The post  Base10 Partners Ra",
    "first_seen": "2026-06-11",
-   "last_seen": "2026-06-11",
+   "last_seen": "2026-06-12",
    "events": [
     {
      "date": "2026-06-11",
@@ -21,6 +21,14 @@
      "title": "Base10 Partners Closes 2 Funds Totaling $850M To Invest In Real Economy Automation",
      "link": "https://news.crunchbase.com/venture/base10-partners-invests-real-economy-automation-ajao/",
      "source": "Crunchbase News"
+    },
+    {
+     "date": "2026-06-12",
+     "amount": "$850 Million",
+     "round": "",
+     "title": "Base10 Partners Raises $850 Million, Assets Under Management Reach $2.6 Billion",
+     "link": "https://pulse2.com/base10-partners-raises-850-million-assets-under-management-reach-2-6-billion/",
+     "source": "Pulse 2.0"
     }
    ],
    "audience": "General / mixed"
@@ -466,9 +474,9 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "NEURA Robotics has announced up to $1.4 billion in Series C funding to accelerate the development of its physical AI platform. Investors include Tether, Qualcomm Technologies, Amazon, NVIDIA, imec.xpa...",
+   "summary": "This week, we tracked more than 65 tech funding deals worth over €2.8 billion and over 10 exits, M&A transactions, rumours, and related news stories across Europe.We also released our monthly repo...",
    "first_seen": "2026-06-10",
-   "last_seen": "2026-06-10",
+   "last_seen": "2026-06-12",
    "events": [
     {
      "date": "2026-06-10",
@@ -476,6 +484,14 @@
      "round": "Series C",
      "title": "NEURA Robotics secures up to $1.4B Series C to scale physical AI and cognitive robotics platform",
      "link": "https://tech.eu/2026/06/10/neura-robotics-secures-up-to-14b-series-c-to-scale-physical-ai-and-cognitive-robotics-platform/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-12",
+     "amount": "$1.4B",
+     "round": "",
+     "title": "NEURA Robotics secures up to $1.4B, Bending Spoons files for US IPO, and UK PM unveils £400M chip plan",
+     "link": "https://tech.eu/2026/06/12/neura-robotics-secures-up-to-1-4b-bending-spoons-files-for-us-ipo-and-uk-pm-unveils-400m-chip-plan/",
      "source": "Tech.eu"
     }
    ],
@@ -1150,6 +1166,462 @@
      "title": "Stake Sale At Lenskart, Ethereal Bags $28 Mn & More",
      "link": "https://inc42.com/buzz/stake-sale-at-lenskart-ethereal-bags-28-mn-more/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "spacex-launches-largest-ipo-of-all-time": {
+   "name": "SpaceX Launches Largest IPO Of All Time",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The SpaceX offering caps a remarkable journey for a company that has raised nearly $12 billion in private investment since its founding in 2002 to become the world’s most valuable venture-backed startup. Along the way, the company helped redefine both the space industry and the l",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$12 billion",
+     "round": "",
+     "title": "SpaceX Launches Largest IPO Of All Time",
+     "link": "https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "nakamoto": {
+   "name": "Nakamoto",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Nakamoto announced a series of capital structure and treasury management initiatives aimed at strengthening its balance sheet, improving financial flexibility, and creating long-term shareholder value. The company reduced outstanding debt by approximately $45 million, refinanced ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$45 Million",
+     "round": "Debt",
+     "title": "Nakamoto Raises Financial Flexibility With $45 Million Debt Reduction And $25 Million Share Repurchase Program",
+     "link": "https://pulse2.com/nakamoto-raises-financial-flexibility-with-45-million-debt-reduction-and-25-million-share-repurchase-program/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "courtroom-emerges-from-stealth-with-pre-seed-funding-to-brin": {
+   "name": "Courtroom Emerges From Stealth With Pre-Seed Funding to Brin",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Courtroom announced its public launch and disclosed pre-seed funding to introduce a new category of litigation technology focused on AI-powered jury and judge simulations. The platform enables legal teams to incorporate juror and judicial perspectives into case development and tr",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Courtroom Emerges From Stealth With Pre-Seed Funding to Bring AI Jury and Judge Simulations to Litigation Teams",
+     "link": "https://pulse2.com/courtroom-emerges-from-stealth-with-pre-seed-funding-to-bring-ai-jury-and-judge-simulations-to-litigation-teams/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "prometheus": {
+   "name": "Prometheus",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Prometheus, the artificial intelligence startup co-led by Amazon founder Jeff Bezos and Stanford professor Vik Bajaj, has raised $12 billion in Series B funding at a $41 billion valuation, according to comments made by Bezos during an interview with CNBC. \n The post  Prometheus R",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$12 Billion",
+     "round": "Series B",
+     "title": "Prometheus Raises $12 Billion Series B At $41 Billion Valuation To Develop AI Tools For Engineering And Manufacturing",
+     "link": "https://pulse2.com/prometheus-raises-12-billion-series-b-at-41-billion-valuation-to-develop-ai-tools-for-engineering-and-manufacturing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "the-first-all-female-gp-team-to": {
+   "name": "The first all-female GP team to",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The structural argument for specialist medtech capital in the UK has been made many times. THENA Capital is…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "£45M",
+     "round": "",
+     "title": "The first all-female GP team to win a British Business Bank ECF mandate just closed £45M, and its medtech portfolio is already in the US",
+     "link": "https://techfundingnews.com/thena-capital-45m-all-female-gp-british-business-bank-ecf-medtech-us/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "bezos-prometheus": {
+   "name": "Bezos’ Prometheus",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Most AI companies are racing to build smarter software. Prometheus is racing to redesign how physical things get…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$12B",
+     "round": "Series B",
+     "title": "Bezos’ Prometheus lands $12B Series B at $41B valuation to build AI that compresses the engineering design cycle",
+     "link": "https://techfundingnews.com/bezos-prometheus-lands-12b-series-b-at-41b-valuation-to-build-ai-that-compresses-the-engineering-design-cycle/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "base10": {
+   "name": "Base10",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Most venture firms chasing AI have pivoted to chase it. Base10 Partners has been running toward the same…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$850M",
+     "round": "",
+     "title": "Base10 closes $850M at $2.6B AUM: How one of the world’s largest Black-led VC firms proved the real economy AI thesis right",
+     "link": "https://techfundingnews.com/black-led-base10-closes-850m-across-two-funds-to-back-ai-companies-transforming-the-real-economy/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "largest-robotics-series-a-ever": {
+   "name": "Largest robotics Series A ever",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Carla Gómez Cano, co-founder at THEKER, Barcelona-based industrial robotics company, wasn’t planning to raise.  “Part of a founder’s…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$85M",
+     "round": "Series A",
+     "title": "Largest robotics Series A ever raised in Europe: How THEKER pulled CRV, Samsung, and LVMH to Barcelona with $85M",
+     "link": "https://techfundingnews.com/theker-85m-series-a-robotics-europe-crv-samsung-lvmh/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "why-anthropic-s-s-1-is-more-important-for-european-ai-startu": {
+   "name": "Why Anthropic’s S-1 is more important for European AI startu",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Anthropic’s audited gross margin will set a new standard for European AI founders. Here’s why this matters and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "",
+     "round": "",
+     "title": "Why Anthropic’s S-1 is more important for European AI startups than any funding round this year",
+     "link": "https://techfundingnews.com/anthropic-s1-filing-impact-european-ai-startups/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ukraine-focused-defencetech-fund-varangians": {
+   "name": "Ukraine-focused DefenceTech fund Varangians",
+   "country": "Ukraine",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Stockholm-based Varangians, a new DefenceTech-focused investment fund co-founded by Beetroot founder Andreas Flodström, has closed at over €9.1 million (100 million kronor) to back Ukraine’s DefenceTech ecosystem. The fund has already completed investments in Ukrainian DefenceTec",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "€9.1 million",
+     "round": "",
+     "title": "Ukraine-focused DefenceTech fund Varangians closes €9.1 million in Stockholm",
+     "link": "https://www.eu-startups.com/2026/06/ukraine-focused-defencetech-fund-varangians-closes-e9-1-million-in-stockholm/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "mimir": {
+   "name": "Mimir",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Mimir, an Oslo-based startup building AI that automates e-commerce operations, has closed a €518.3k ($600k) pre-Seed round. The round was led by Sondo Capital, an Oslo-based venture capital firm, and supported by a group of experienced angel investors from the Nordic tech and e-c",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "€518.3k",
+     "round": "Pre-Seed",
+     "title": "Profitable Oslo-based AI startup Mimir raises €518.3k pre-Seed to automate e-commerce operations",
+     "link": "https://www.eu-startups.com/2026/06/profitable-oslo-based-ai-startup-mimir-raises-e518-3k-pre-seed-to-automate-e-commerce-operations/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "slovakia-s-nordics-rebrands-as-definic": {
+   "name": "Slovakia’s Nordics rebrands as Definic",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Košice-based Nordics today announced that it has rebranded to Definic and closed a €2.5 million Seed round as it expands from a regional IT marketplace into a global vendor intelligence platform. The round was led by J&T Ventures, with participation from Seed Starter ČS (Česká sp",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "€2.5 million",
+     "round": "Seed",
+     "title": "Slovakia’s Nordics rebrands as Definic, raises €2.5 million to scale its vendor intelligence platform",
+     "link": "https://www.eu-startups.com/2026/06/slovakias-nordics-rebrands-as-definic-raises-e2-5-million-to-scale-its-vendor-intelligence-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "germany-s-neura-robotics": {
+   "name": "Germany’s NEURA Robotics",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "NEURA Robotics, a Metzingen-based cognitive robotics startup and the creator of the Neuraverse, has announced a Series C funding round of up to €1.2 billion ($1.4 billion) to build the world’s leading Physical AI platform. The financing was secured by Tether, Qualcomm Technologie",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "€1.2 billion",
+     "round": "Series C",
+     "title": "Germany’s NEURA Robotics raises up to €1.2 billion in Series C round to build Physical AI from Europe",
+     "link": "https://www.eu-startups.com/2026/06/germanys-neura-robotics-raises-up-to-e1-2-billion-in-series-c-round-to-build-physical-ai-from-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "gothenburg-s-arkeon": {
+   "name": "Gothenburg’s Arkeon",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Arkeon Technologies (Arkeon), a Gothenburg-based DeepTech startup focused on unlocking large-scale superconducting quantum computing, has closed a €594.2k (SEK 6.5 million) Seed round to support a technology that improves precision and quality in the production of quantum chips. ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "€594.2k",
+     "round": "Seed",
+     "title": "Gothenburg’s Arkeon closes €594.2k Seed round to boost precision in quantum chip production",
+     "link": "https://www.eu-startups.com/2026/06/gothenburgs-arkeon-closes-e594-2k-seed-round-to-boost-precision-in-quantum-chip-production/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ipo-bound-prism": {
+   "name": "IPO-Bound PRISM",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Hotel aggregator OYO, now rebranded as PRISM, has received a tax relief of ₹3,885.51 Cr, which was in relation to…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "₹3,885",
+     "round": "Angel",
+     "title": "IPO-Bound PRISM Gets Relief In ₹3,885 Cr Angel Tax Demand Case",
+     "link": "https://inc42.com/buzz/ipo-bound-prism-gets-relief-in-%e2%82%b93885-cr-angel-tax-demand-case/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "equal-ai": {
+   "name": "Equal AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Call management and identity verification startup Equal AI has raised $30 Mn (around ₹286 Cr) in its Series B funding…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$30 Mn",
+     "round": "Series B",
+     "title": "Equal AI Raises $30 Mn To Expand AI Assistant Offerings Beyond Calls",
+     "link": "https://inc42.com/buzz/equal-ai-raises-30-mn-to-expand-ai-assistant-offerings-beyond-calls/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "rekise-marine": {
+   "name": "Rekise Marine",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Marine robotics startup Rekise Marine has raised $9.7 Mn (₹92.5 Cr) in a seed funding round led by Accel and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$9.7 Mn",
+     "round": "Seed",
+     "title": "Rekise Marine Bags $9.7 Mn To Build Autonomous Underwater Vessels",
+     "link": "https://inc42.com/buzz/rekise-marine-bags-9-7-mn-to-build-autonomous-underwater-vessels/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "mad-over-buildings-to": {
+   "name": "Mad Over Buildings To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bengaluru-based construction and interior materials marketplace Mad Over Buildings (MOB) has signed a term sheet to raise ₹30 Cr (about…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "₹30",
+     "round": "",
+     "title": "Exclusive: Mad Over Buildings To Raise ₹30 Cr To Enter New Cities",
+     "link": "https://inc42.com/buzz/exclusive-mad-over-buildings-to-raise-%e2%82%b930-cr-to-enter-new-cities/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "maneva": {
+   "name": "Maneva",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Capital will be used to scale into North America, expand into Asian markets. \n The post  Maneva raises $27-million USD Series A to expand AI vision in manufacturing  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$27",
+     "round": "Series A",
+     "title": "Maneva raises $27-million USD Series A to expand AI vision in manufacturing",
+     "link": "https://betakit.com/maneva-raises-27-million-usd-series-a-to-expand-ai-vision-in-manufacturing/",
+     "source": "BetaKit"
     }
    ]
   }
