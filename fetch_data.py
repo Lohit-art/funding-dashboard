@@ -195,6 +195,35 @@ SECTORS = [
 ]
 SECTORS = [(name, re.compile(pat, re.IGNORECASE)) for name, pat in SECTORS]
 
+# ------------------------------------------------- audience (who it's for)
+# First match wins — ordered most-specific to most-general.
+
+AUDIENCES = [
+    ("Healthcare providers & patients",
+     r"hospital|clinic|patient|doctor|nurse|physician|dental|surgeon|"
+     r"medical practice|healthcare provider|care team|pharma"),
+    ("Developers & data teams",
+     r"developer|devops|engineering team|data team|software team|"
+     r"open[- ]source|api platform|ml ?ops"),
+    ("Researchers & scientists",
+     r"researcher|scientist|laborator|r&d team|universit|institute"),
+    ("Government & public sector",
+     r"government|public sector|municipal|defen[cs]e|military|civic|"
+     r"smart city"),
+    ("Banks, insurers & finance teams",
+     r"bank|insurer|insurance compan|broker|finance team|treasury|"
+     r"lender|asset manager|accountant|private capital"),
+    ("Enterprises",
+     r"enterprise|b2b|corporate|large (compan|organi[sz]ation)|fortune 500"),
+    ("SMBs & merchants",
+     r"smb|small business|merchant|seller|shopkeeper|restaurant|retailer|"
+     r"freelancer|d2c|e-?commerce compan"),
+    ("Consumers",
+     r"consumer|app for|families|family|everyday|shopper|traveler|"
+     r"student|drivers|homeowner|fans|gamers"),
+]
+AUDIENCES = [(name, re.compile(pat, re.IGNORECASE)) for name, pat in AUDIENCES]
+
 # ------------------------------------------------- geography
 
 CITY_COUNTRY = {
@@ -438,6 +467,7 @@ def fetch_events() -> list[dict]:
                 "region": reg,
                 "category": classify(CATEGORIES, text, "Professional excellence"),
                 "sector": classify(SECTORS, text, "Other"),
+                "audience": classify(AUDIENCES, text, "General / mixed"),
                 "is_ai": bool(AI_RE.search(text)),
                 "research_based": bool(RESEARCH_RE.search(text)),
                 "stage": stage_type(round_name, amount, text),
@@ -466,6 +496,7 @@ def merge(events: list[dict]) -> dict:
                 "category": ev["category"], "sector": ev["sector"],
                 "is_ai": ev["is_ai"], "research_based": ev["research_based"],
                 "stage": ev["stage"], "summary": ev["summary"],
+                "audience": ev["audience"],
                 "first_seen": ev["date"], "last_seen": ev["date"],
                 "events": [event_entry],
             }
@@ -480,7 +511,16 @@ def merge(events: list[dict]) -> dict:
                 rec["country"], rec["region"] = ev["country"], ev["region"]
             if ev["stage"] != "unspecified":
                 rec["stage"] = ev["stage"]
+            if rec.get("audience", "General / mixed") == "General / mixed":
+                rec["audience"] = ev["audience"]
             rec["summary"] = ev["summary"] or rec["summary"]
+
+    # backfill audience for companies recorded before the field existed
+    for rec in companies.values():
+        if "audience" not in rec:
+            rec["audience"] = classify(
+                AUDIENCES, f'{rec["name"]}. {rec.get("summary", "")}',
+                "General / mixed")
 
     db["updated"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
     return db

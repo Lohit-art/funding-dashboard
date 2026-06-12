@@ -29,7 +29,16 @@ getting funded over time.
   Health & longevity, Climate & sustainability, Security & trust,
   Connection & community, Entertainment & play, Scientific discovery,
   Infrastructure & tools, Mobility & logistics, Food & agriculture)
-- **Filters** — search, country, sector, stage (new / emerging / established), AI-only
+- **Filters** — search, country, sector, audience, stage (new / emerging / established), AI-only
+- **Mindset insights tab** — compares what's getting funded against what the public
+  actually wants from AI, using Anthropic's 81,000-interview study
+  ([What 81,000 People Want from AI](https://www.anthropic.com/features/81k-interviews)):
+  the nine visions people hold vs the share of funded companies building for each,
+  the public's top concerns, and per-region mindset vs funding activity
+- **Mindset context** — filtering by a category or country shows what the study says
+  people hope and fear about that kind of product, and what that country is building
+- **Audience tags** — each company is classified by who its product serves
+  (consumers, healthcare providers, SMBs, enterprises, developers, government, …)
 
 ## Setup (one time, ~5 minutes)
 

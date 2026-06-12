@@ -99,6 +99,31 @@ select{background:var(--card);border:1px solid var(--line);border-radius:9px;pad
 .loaderr{padding:40px;background:var(--amber-soft);border-radius:14px;font-size:14px;line-height:1.7}
 .loaderr code{font-family:var(--mono);background:#fff;padding:2px 6px;border-radius:4px}
 
+/* ---------- mindset banner & insights ---------- */
+.mindset{background:var(--sage-soft);border:1px solid var(--sage);border-radius:12px;padding:13px 16px;margin-bottom:16px;font-size:13px;line-height:1.55}
+.mindset b{font-family:var(--disp)}
+.mindset .src{display:block;margin-top:6px;font-family:var(--mono);font-size:10.5px;color:var(--ink-soft)}
+.mindset .src a{color:var(--green-deep)}
+.tag.aud{background:#EFEAF8;color:#4A3FA0}
+.insights{display:none;flex-direction:column;gap:32px}
+.insights h3{font-family:var(--disp);font-size:15px;margin-bottom:4px}
+.insights .note{font-size:12.5px;color:var(--ink-soft);margin-bottom:12px;line-height:1.5}
+.insights .note a{color:var(--green-deep)}
+.vrow{display:grid;grid-template-columns:175px 1fr;gap:10px;align-items:center;margin-bottom:9px}
+.vrow .lbl{font-size:12.5px;font-weight:500}
+.vbars{display:flex;flex-direction:column;gap:3px}
+.vbar{display:flex;align-items:center;gap:8px;font-family:var(--mono);font-size:10.5px;color:var(--ink-soft)}
+.vbar i{display:block;height:9px;border-radius:4px;background:var(--green);min-width:2px;flex:none}
+.vbar.funded i{background:var(--amber)}
+.legend{display:flex;gap:16px;font-family:var(--mono);font-size:11px;color:var(--ink-soft);margin-bottom:10px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:3px;vertical-align:-1px;margin-right:5px}
+.regcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(280px,100%),1fr));gap:14px}
+.regcard{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 15px;font-size:12.5px;line-height:1.5}
+.regcard b{font-family:var(--disp);font-size:14px;display:block;margin-bottom:5px}
+.regcard .kpis{font-family:var(--mono);font-size:11px;color:var(--green-deep);margin-bottom:6px}
+.regcard p{color:var(--ink-soft)}
+@media(max-width:560px){.vrow{grid-template-columns:1fr;gap:4px}}
+
 /* ---------- phones ---------- */
 @media(max-width:560px){
   header{position:static}
@@ -144,21 +169,25 @@ select{background:var(--card);border:1px solid var(--line);border-radius:9px;pad
       <button class="tab" role="tab" data-tab="all" aria-selected="false">All companies <span class="n" id="n-all"></span></button>
       <button class="tab" role="tab" data-tab="regular" aria-selected="false">Regularly funded <span class="n" id="n-regular"></span></button>
       <button class="tab" role="tab" data-tab="research" aria-selected="false">Research-based <span class="n" id="n-research"></span></button>
+      <button class="tab" role="tab" data-tab="insights" aria-selected="false">Mindset insights</button>
     </div>
 
     <div class="filters">
       <input class="search" id="search" type="search" placeholder="Search company, sector, keyword…" aria-label="Search companies">
       <select id="f-country" aria-label="Filter by country"><option value="">All countries</option></select>
       <select id="f-sector" aria-label="Filter by sector"><option value="">All sectors</option></select>
+      <select id="f-audience" aria-label="Filter by audience"><option value="">All audiences</option></select>
       <button class="chip" data-stage="new" aria-pressed="false">New (seed)</button>
       <button class="chip" data-stage="emerging" aria-pressed="false">Emerging (A–B)</button>
       <button class="chip" data-stage="established" aria-pressed="false">Established (C+)</button>
       <button class="chip" id="f-ai" aria-pressed="false">AI only</button>
     </div>
 
+    <div class="mindset" id="mindset" style="display:none"></div>
     <div class="count" id="count"></div>
     <div class="grid" id="grid"></div>
     <div class="empty" id="empty" style="display:none">No companies match these filters. Loosen one and the list refills.</div>
+    <div class="insights" id="insights" style="display:none"></div>
   </main>
 </div>
 
@@ -176,7 +205,60 @@ const FLAGS = {"USA":"🇺🇸","UK":"🇬🇧","Canada":"🇨🇦","France":"�
 "Australia":"🇦🇺","New Zealand":"🇳🇿","Brazil":"🇧🇷","Argentina":"🇦🇷","Chile":"🇨🇱",
 "Colombia":"🇨🇴","Peru":"🇵🇪","Mexico":"🇲🇽","Unknown":"🌐"};
 
-const state = {tab:"today", category:null, country:"", sector:"", stages:new Set(), ai:false, q:""};
+/* ---- Anthropic "What 81,000 People Want from AI" (80,508 interviews,
+        159 countries, 70 languages) — the public-mindset reference layer ---- */
+const STUDY_URL = "https://www.anthropic.com/features/81k-interviews";
+
+// % of interviewees naming each vision as their hope for AI
+const VISIONS = {"Professional excellence":18.8,"Personal transformation":13.7,
+ "Life management":13.5,"Time freedom":11.1,"Financial independence":9.7,
+ "Societal transformation":9.4,"Entrepreneurship":8.7,"Learning & growth":8.4,
+ "Creative expression":5.6};
+
+const CONCERNS = [["Unreliability / hallucinations",26.7],["Job displacement",22.3],
+ ["Loss of human autonomy",21.9],["Cognitive atrophy",16.3],["Governance gaps",14.7],
+ ["Misinformation",13.6],["Surveillance & privacy",13.1]];
+
+// dashboard category → nearest study vision (the 9 vision categories map to themselves)
+const CAT2VISION = {"Health & longevity":"Personal transformation",
+ "Climate & sustainability":"Societal transformation","Security & trust":"Societal transformation",
+ "Connection & community":"Personal transformation","Entertainment & play":"Time freedom",
+ "Scientific discovery":"Learning & growth","Infrastructure & tools":"Professional excellence",
+ "Mobility & logistics":"Professional excellence","Food & agriculture":"Societal transformation"};
+Object.keys(VISIONS).forEach(v => CAT2VISION[v] = v);
+
+// what the study says people hope & fear, per dashboard category
+const MINDSET = {
+ "Professional excellence":"The #1 hope in the study — 18.8% want AI to take routine work so they can do meaningful work. The shade: 22.3% fear job displacement and 26.7% still distrust AI reliability.",
+ "Personal transformation":"13.7% hope for growth and emotional wellbeing. 16% found real emotional support in AI — but they were 3× likelier to also fear unhealthy dependence (12%).",
+ "Life management":"13.5% want AI to manage life's complexity — the dominant framing in wealthier regions.",
+ "Time freedom":"11.1% hope AI buys back their hours. About half reported real time gains, yet 18% hit 'illusory productivity' — working faster without resting more.",
+ "Financial independence":"9.7% hope AI builds wealth. 28% saw economic gains — independent workers (50%) far more than institutional employees (14%).",
+ "Societal transformation":"9.4% hope AI improves society at large; 14.7% worry nobody is governing it properly.",
+ "Entrepreneurship":"8.7% see AI as the path to building their own venture — the strongest framing in developing regions, where AI means opportunity creation.",
+ "Learning & growth":"8.4% put learning first, and 33% reported learning benefits — but 16.3% fear cognitive atrophy, a worry highest among students and educators.",
+ "Creative expression":"5.6% hope AI unlocks creative work — the smallest but most personal of the nine visions.",
+ "Health & longevity":"Maps to the wellbeing side of Personal transformation (13.7%). A healthcare worker in the study: 'the pressure of documentation has lifted… more time to explain things to family members.'",
+ "Climate & sustainability":"Speaks to Societal transformation (9.4%) — AI as a lever on collective problems.",
+ "Security & trust":"Builds for the worried: 13.1% fear surveillance & privacy erosion and 13.6% fear misinformation — concerns strongest in Western Europe.",
+ "Connection & community":"Touches the study's emotional-support tension: 16% found solace in AI companionship, 12% fear unhealthy reliance.",
+ "Entertainment & play":"The leisure side of Time freedom (11.1%) — what people say they'd do with reclaimed hours.",
+ "Scientific discovery":"Adjacent to Learning & growth (8.4%) and the 'cognitive partnership' benefit 17.2% already experience.",
+ "Infrastructure & tools":"The picks-and-shovels answer to the study's #1 concern — 26.7% cite unreliability and hallucinations.",
+ "Mobility & logistics":"Productivity infrastructure — productivity gains are the study's most-cited realized benefit (32%).",
+ "Food & agriculture":"Opportunity creation in the physical economy — the framing developing regions used most."};
+
+const REGION_NOTES = {
+ "North America":"Net-positive but guarded; wealthier regions frame AI as a way to manage life's complexity.",
+ "Europe":"Western Europe stands out for surveillance & privacy concern; AI framed as managing complexity.",
+ "Asia":"East Asia shows the highest cognitive-atrophy and loss-of-meaning concern; South Asia leans optimistic with less focus on abstract governance.",
+ "Middle East":"Closer to the developing-region pattern: optimism, with AI framed as opportunity creation.",
+ "Africa":"Among the most optimistic regions; AI framed as opportunity via entrepreneurship and education.",
+ "Latin America":"Lower/middle-income optimism — AI as opportunity creation more than risk.",
+ "Oceania":"Patterns similar to North America and Western Europe: positive overall, more cautious than developing regions.",
+ "Global":"Across 159 countries, 67% expressed net-positive sentiment."};
+
+const state = {tab:"today", category:null, country:"", sector:"", audience:"", stages:new Set(), ai:false, q:""};
 let DB = null, latestDate = "";
 
 const $ = id => document.getElementById(id);
@@ -247,6 +329,8 @@ function buildSelects(){
   $("f-country").innerHTML += countries.map(c=>`<option>${esc(c)}</option>`).join("");
   const sectors = [...new Set(DB.list.map(c=>c.sector))].sort();
   $("f-sector").innerHTML += sectors.map(s=>`<option>${esc(s)}</option>`).join("");
+  const audiences = [...new Set(DB.list.map(c=>c.audience||"General / mixed"))].sort();
+  $("f-audience").innerHTML += audiences.map(a=>`<option>${esc(a)}</option>`).join("");
 }
 
 function filtered(){
@@ -257,10 +341,11 @@ function filtered(){
     if(state.category && c.category !== state.category) return false;
     if(state.country  && c.country  !== state.country)  return false;
     if(state.sector   && c.sector   !== state.sector)   return false;
+    if(state.audience && (c.audience||"General / mixed") !== state.audience) return false;
     if(state.stages.size && !state.stages.has(c.stage)) return false;
     if(state.ai && !c.is_ai) return false;
     if(state.q){
-      const hay = (c.name+" "+c.summary+" "+c.sector+" "+c.category+" "+c.country).toLowerCase();
+      const hay = (c.name+" "+c.summary+" "+c.sector+" "+c.category+" "+c.country+" "+(c.audience||"")).toLowerCase();
       if(!hay.includes(state.q)) return false;
     }
     return true;
@@ -287,6 +372,7 @@ function card(c){
       <span class="tag geo">${FLAGS[c.country]||"🌐"} ${esc(c.country)}</span>
       <span class="tag">${esc(c.sector)}</span>
       <span class="tag">${esc(c.category)}</span>
+      ${c.audience && c.audience!=="General / mixed" ? `<span class="tag aud">for: ${esc(c.audience)}</span>` : ""}
       ${stage}
     </div>
     ${hist}
@@ -294,7 +380,85 @@ function card(c){
   </article>`;
 }
 
+function mindsetBanner(){
+  const bits = [];
+  if(state.category && MINDSET[state.category])
+    bits.push(`<b>${esc(state.category)} — what the public feels:</b> ${esc(MINDSET[state.category])}`);
+  if(state.country){
+    const cs = DB.list.filter(c=>c.country===state.country);
+    if(cs.length){
+      const ai = Math.round(100*cs.filter(c=>c.is_ai).length/cs.length);
+      const cats = {}; cs.forEach(c=>cats[c.category]=(cats[c.category]||0)+1);
+      const top = Object.entries(cats).sort((a,b)=>b[1]-a[1]).slice(0,3)
+        .map(([k,n])=>`${k} (${n})`).join(", ");
+      const region = cs[0].region;
+      bits.push(`<b>${FLAGS[state.country]||"🌐"} ${esc(state.country)} — what it's building:</b> ` +
+        `${cs.length} tracked compan${cs.length===1?"y":"ies"}, ${ai}% AI. Top problems: ${esc(top)}. ` +
+        `Public mindset in ${esc(region)}: ${esc(REGION_NOTES[region]||REGION_NOTES.Global)}`);
+    }
+  }
+  const el = $("mindset");
+  if(bits.length){
+    el.innerHTML = bits.join("<br><br>") +
+      `<span class="src">mindset data: <a href="${STUDY_URL}" target="_blank" rel="noopener">Anthropic — What 81,000 People Want from AI</a></span>`;
+    el.style.display = "block";
+  } else el.style.display = "none";
+}
+
+function buildInsights(){
+  const L = DB.list, total = Math.max(L.length, 1);
+  const funded = {};
+  L.forEach(c => { const v = CAT2VISION[c.category] || "Professional excellence";
+                   funded[v] = (funded[v]||0) + 1; });
+  const vis = Object.entries(VISIONS).sort((a,b)=> b[1]-a[1]);
+  const maxPct = Math.max(...vis.map(([,p])=>p), ...vis.map(([v])=>100*(funded[v]||0)/total));
+  const rows = vis.map(([v,p])=>{
+    const f = 100*(funded[v]||0)/total;
+    return `<div class="vrow"><span class="lbl">${esc(v)}</span><div class="vbars">
+      <div class="vbar"><i style="width:${(p/maxPct*100).toFixed(1)}%"></i>${p}% of people hope for this</div>
+      <div class="vbar funded"><i style="width:${(f/maxPct*100).toFixed(1)}%"></i>${f.toFixed(1)}% of funded companies build for it (${funded[v]||0})</div>
+    </div></div>`;
+  }).join("");
+  const cmax = CONCERNS[0][1];
+  const concerns = CONCERNS.map(([c,p])=>`<div class="vrow"><span class="lbl">${esc(c)}</span>
+    <div class="vbar"><i style="width:${(p/cmax*100).toFixed(1)}%"></i>${p}%</div></div>`).join("");
+  const regs = {};
+  L.forEach(c => { (regs[c.region] = regs[c.region]||[]).push(c); });
+  const regcards = Object.entries(regs).sort((a,b)=> b[1].length-a[1].length).map(([r,cs])=>{
+    const ai = Math.round(100*cs.filter(c=>c.is_ai).length/cs.length);
+    const cats = {}; cs.forEach(c=>cats[c.category]=(cats[c.category]||0)+1);
+    const top = Object.entries(cats).sort((a,b)=>b[1]-a[1]).slice(0,2).map(([k])=>k).join(" · ");
+    return `<div class="regcard"><b>${esc(r)}</b>
+      <div class="kpis">${cs.length} companies · ${ai}% AI · ${esc(top)}</div>
+      <p>${esc(REGION_NOTES[r]||REGION_NOTES.Global)}</p></div>`;
+  }).join("");
+  $("insights").innerHTML = `
+    <div><h3>What people want from AI vs what gets funded</h3>
+      <div class="note">The nine visions from <a href="${STUDY_URL}" target="_blank" rel="noopener">Anthropic's
+      81,000-interview study</a> (80,508 people, 159 countries, 70 languages), against the share of
+      companies in this dashboard building for each vision. 81% of interviewees said AI already advanced
+      their vision; 67% are net-positive on AI overall.</div>
+      <div class="legend"><span><i style="background:var(--green)"></i>share of interviewees</span>
+      <span><i style="background:var(--amber)"></i>share of funded companies</span></div>
+      ${rows}</div>
+    <div><h3>What worries the public</h3>
+      <div class="note">Interviewees raised 2.3 distinct concerns each, on average. Worth reading next to
+      what's getting funded above — e.g. reliability is the #1 worry, and infrastructure/tooling startups
+      are the market's answer to it.</div>${concerns}</div>
+    <div><h3>Regional mindsets vs what each region is building</h3>
+      <div class="note">Company data accumulates daily from this dashboard's feeds; mindset notes are the
+      study's regional findings. Pick a country in the filter above for a country-level view.</div>
+      <div class="regcards">${regcards}</div></div>`;
+}
+
 function render(){
+  const ins = state.tab === "insights";
+  document.querySelector(".filters").style.display = ins ? "none" : "flex";
+  $("count").style.display = ins ? "none" : "block";
+  $("grid").style.display = ins ? "none" : "grid";
+  $("insights").style.display = ins ? "flex" : "none";
+  if(ins){ $("empty").style.display="none"; $("mindset").style.display="none"; buildInsights(); return; }
+  mindsetBanner();
   const rows = filtered();
   $("count").textContent = rows.length + (rows.length===1?" company":" companies") +
     (state.tab==="today" ? ` funded on ${latestDate}` : "");
@@ -315,6 +479,7 @@ $("tabs").addEventListener("click", e=>{
 $("search").addEventListener("input", e=>{ state.q = e.target.value.trim().toLowerCase(); render(); });
 $("f-country").addEventListener("change", e=>{ state.country = e.target.value; render(); });
 $("f-sector").addEventListener("change", e=>{ state.sector = e.target.value; render(); });
+$("f-audience").addEventListener("change", e=>{ state.audience = e.target.value; render(); });
 document.querySelectorAll(".chip[data-stage]").forEach(b=> b.addEventListener("click", ()=>{
   const s = b.dataset.stage;
   state.stages.has(s) ? state.stages.delete(s) : state.stages.add(s);

@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-12T02:15:02+00:00",
+ "updated": "2026-06-12T03:59:32+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -22,7 +22,8 @@
      "link": "https://news.crunchbase.com/venture/base10-partners-invests-real-economy-automation-ajao/",
      "source": "Crunchbase News"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "invisible-light-labs": {
    "name": "Invisible-Light Labs",
@@ -45,7 +46,8 @@
      "link": "https://pulse2.com/invisible-light-labs-closes-pre-seed-funding-round/",
      "source": "Pulse 2.0"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "modon": {
    "name": "MODON",
@@ -68,7 +70,8 @@
      "link": "https://pulse2.com/modon-attracts-sar-30-billion-in-new-investments-during-2025/",
      "source": "Pulse 2.0"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "hut-8": {
    "name": "Hut 8",
@@ -91,7 +94,8 @@
      "link": "https://pulse2.com/hut-8-closes-4-25-billion-investment-grade-bond-offering-for-beacon-point-data-center-project/",
      "source": "Pulse 2.0"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "cameramatics": {
    "name": "CameraMatics",
@@ -122,7 +126,8 @@
      "link": "https://www.eu-startups.com/2026/06/dublins-cameramatics-secures-up-to-e49-million-to-scale-ai-powered-fleet-intelligence-platform-across-europe-and-the-us/",
      "source": "EU-Startups"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "revolt-challenger-italian-fintech-unicorn-satispay-to": {
    "name": "Revolt challenger: Italian fintech unicorn Satispay to",
@@ -145,7 +150,8 @@
      "link": "https://techfundingnews.com/revolt-challenger-italian-fintech-unicorn-satispay-to-raise-e120m-and-unlock-a-e1-27t-investing-opportunity/",
      "source": "Tech Funding News"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "theker": {
    "name": "THEKER",
@@ -176,7 +182,8 @@
      "link": "https://tech.eu/2026/06/11/barcelona-based-ai-robotics-outfit-theker-raises-85m/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "angel-invest": {
    "name": "Angel Invest",
@@ -199,7 +206,8 @@
      "link": "https://www.eu-startups.com/2026/06/berlin-based-angel-invest-close-e40-million-fund-iii-targeting-angel-to-seed-stages/",
      "source": "EU-Startups"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "sybilla-exits-bootstrapped-orbit-with-over-8-million-to-str": {
    "name": "Sybilla exits bootstrapped orbit with over €8 million to str",
@@ -222,7 +230,8 @@
      "link": "https://www.eu-startups.com/2026/06/polish-spacetech-startup-sybilla-exits-bootstrapped-orbit-with-over-e8-million-to-strengthen-space-monitoring/",
      "source": "EU-Startups"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "french-trading-card-game-platform-cardnexus": {
    "name": "French trading card game platform CardNexus",
@@ -245,7 +254,8 @@
      "link": "https://www.eu-startups.com/2026/06/french-trading-card-game-platform-cardnexus-raises-e3-5-million-to-support-team-expansion/",
      "source": "EU-Startups"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "unicorn-satispay-plans-120-million": {
    "name": "unicorn Satispay plans €120 million",
@@ -268,7 +278,8 @@
      "link": "https://www.eu-startups.com/2026/06/italian-fintech-unicorn-satispay-plans-e120-million-raise-secures-nearly-e60-million-from-existing-investors/",
      "source": "EU-Startups"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "amsterdam-s-ourmind": {
    "name": "Amsterdam’s OurMind",
@@ -291,7 +302,8 @@
      "link": "https://www.eu-startups.com/2026/06/amsterdams-ourmind-raises-e2-1-million-to-reduce-healthcare-admin-burden-with-ai/",
      "source": "EU-Startups"
     }
-   ]
+   ],
+   "audience": "Healthcare providers & patients"
   },
   "naratix": {
    "name": "Naratix",
@@ -322,7 +334,8 @@
      "link": "https://pulse2.com/naratix-raises-e1-million-seed-round-led-by-early-game-ventures/",
      "source": "Pulse 2.0"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "enera": {
    "name": "Enera",
@@ -345,7 +358,8 @@
      "link": "https://tech.eu/2026/06/11/enera-raises-2m-to-improve-the-ev-charging-experience/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "ourmind": {
    "name": "OurMind",
@@ -368,7 +382,8 @@
      "link": "https://tech.eu/2026/06/11/ourmind-lands-eur21m-to-help-reduce-healthcare-workloads/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "Healthcare providers & patients"
   },
   "turnup": {
    "name": "TurnUp",
@@ -391,7 +406,8 @@
      "link": "https://tech.eu/2026/06/11/turnup-raises-eur2-million-to-help-healthcare-providers-reduce-no-shows/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "Healthcare providers & patients"
   },
   "sunbay-io": {
    "name": "sunbay.io",
@@ -414,7 +430,8 @@
      "link": "https://tech.eu/2026/06/11/sunbayio-raises-eur550k-to-automate-invoice-collection-for-finance-teams/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "Banks, insurers & finance teams"
   },
   "mendo": {
    "name": "Mendo",
@@ -437,7 +454,8 @@
      "link": "https://tech.eu/2026/06/11/mendo-secures-eur12m-to-scale-enterprise-ai-adoption-in-europe/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "Enterprises"
   },
   "neura-robotics": {
    "name": "NEURA Robotics",
@@ -460,7 +478,8 @@
      "link": "https://tech.eu/2026/06/10/neura-robotics-secures-up-to-14b-series-c-to-scale-physical-ai-and-cognitive-robotics-platform/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "capsa-ai": {
    "name": "Capsa AI",
@@ -483,7 +502,8 @@
      "link": "https://tech.eu/2026/06/10/capsa-ai-raises-18m-to-expand-its-ai-platform-for-private-capital/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "Banks, insurers & finance teams"
   },
   "nanordica-medical": {
    "name": "Nanordica Medical",
@@ -506,7 +526,8 @@
      "link": "https://tech.eu/2026/06/10/nanordica-medical-raises-1-6m-to-bring-antibiotic-free-chronic-wound-treatment-to-market/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "uncovr": {
    "name": "Uncovr",
@@ -529,7 +550,8 @@
      "link": "https://tech.eu/2026/06/10/uncovr-raises-7m-to-build-ai-infrastructure-for-surgery/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "Healthcare providers & patients"
   },
   "rotomate": {
    "name": "Rotomate",
@@ -552,7 +574,8 @@
      "link": "https://tech.eu/2026/06/10/rotomate-raises-eur21m-to-automate-industrial-reliability-analysis/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "01health": {
    "name": "01Health",
@@ -575,7 +598,8 @@
      "link": "https://tech.eu/2026/06/10/01health-secures-15m-to-scale-specialist-healthcare-platform/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "finnish-space-safety-startup-aavuus": {
    "name": "Finnish space safety startup Aavuus",
@@ -598,7 +622,8 @@
      "link": "https://tech.eu/2026/06/09/finnish-space-safety-startup-aavuus-lands-pre-seed-funding-to-tackle-space-debris-tracking/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "granarium": {
    "name": "Granarium",
@@ -621,7 +646,8 @@
      "link": "https://tech.eu/2026/06/09/granarium-raises-eur1m-to-commercialise-renewable-supercapacitors-for-grid-stability/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "iceye": {
    "name": "ICEYE",
@@ -644,7 +670,8 @@
      "link": "https://tech.eu/2026/06/09/iceye-raises-eur450m-at-eur10b-valuation-as-demand-for-sovereign-space-intelligence-accelerates/",
      "source": "Tech.eu"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "finland-s-skyfora-turns-cell-towers-into-weather-sensors-wit": {
    "name": "Finland’s Skyfora turns cell towers into weather sensors wit",
@@ -667,7 +694,8 @@
      "link": "https://arcticstartup.com/skyfora-raises-e6-5m/",
      "source": "ArcticStartup"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "iceye-hits-10-5b-valuation-after-1b-funding-round-markin": {
    "name": "ICEYE hits €10.5B valuation after €1B+ funding round, markin",
@@ -690,7 +718,8 @@
      "link": "https://arcticstartup.com/iceye-raises-e450m-in-series-f/",
      "source": "ArcticStartup"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "finnish-granarium": {
    "name": "Finnish Granarium",
@@ -713,7 +742,8 @@
      "link": "https://arcticstartup.com/granarium-technologies-raises-over-e1m-pre-seed/",
      "source": "ArcticStartup"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "danish-reel": {
    "name": "Danish Reel",
@@ -736,7 +766,8 @@
      "link": "https://arcticstartup.com/reel-raises-e15-million/",
      "source": "ArcticStartup"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "sweden-s-haga-bioscience": {
    "name": "Sweden’s Haga Bioscience",
@@ -759,7 +790,8 @@
      "link": "https://arcticstartup.com/haga-bioscience-raises-2-3m-seed/",
      "source": "ArcticStartup"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "manam-chocolate": {
    "name": "Manam Chocolate",
@@ -782,7 +814,8 @@
      "link": "https://inc42.com/buzz/d2c-brand-manam-chocolate-nets-9-mn-to-expand-retail-footprint/",
      "source": "Inc42"
     }
-   ]
+   ],
+   "audience": "SMBs & merchants"
   },
   "ethereal-machines": {
    "name": "Ethereal Machines",
@@ -805,7 +838,8 @@
      "link": "https://inc42.com/buzz/ethereal-machines-raises-28-5-mn-to-expand-precision-manufacturing-capacity/",
      "source": "Inc42"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "4basecare": {
    "name": "4baseCare",
@@ -828,7 +862,8 @@
      "link": "https://inc42.com/buzz/4basecare-bags-%e2%82%b938-cr-to-close-series-b-round-at-%e2%82%b9128-cr/",
      "source": "Inc42"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "rivvun-ai": {
    "name": "Rivvun AI",
@@ -851,7 +886,8 @@
      "link": "https://inc42.com/buzz/rivvun-ai-bags-7-5-mn-to-help-enterprise-reduce-revenue-leakages/",
      "source": "Inc42"
     }
-   ]
+   ],
+   "audience": "Enterprises"
   },
   "uni-seoul": {
    "name": "Uni Seoul",
@@ -874,7 +910,8 @@
      "link": "https://inc42.com/buzz/exclusive-uni-seoul-nets-%e2%82%b935-cr-to-expand-offline-presence-enter-quick-commerce/",
      "source": "Inc42"
     }
-   ]
+   ],
+   "audience": "SMBs & merchants"
   },
   "paediatric-healthcare-startup-hoola-health": {
    "name": "Paediatric Healthcare Startup Hoola Health",
@@ -897,7 +934,8 @@
      "link": "https://inc42.com/buzz/paediatric-healthcare-startup-hoola-health-raises-5-mn/",
      "source": "Inc42"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "koho-becomes-canada-s-latest-unicorn-following-130-million": {
    "name": "Koho becomes Canada’s latest unicorn following $130-million ",
@@ -920,7 +958,8 @@
      "link": "https://betakit.com/koho-becomes-canadas-latest-unicorn-following-130-million-series-e-round/",
      "source": "BetaKit"
     }
-   ]
+   ],
+   "audience": "Banks, insurers & finance teams"
   },
   "nesto": {
    "name": "Nesto",
@@ -943,7 +982,8 @@
      "link": "https://betakit.com/nesto-secures-nearly-1-5-billion-valuation-in-new-series-e-round/",
      "source": "BetaKit"
     }
-   ]
+   ],
+   "audience": "Banks, insurers & finance teams"
   },
   "beacon": {
    "name": "Beacon",
@@ -966,7 +1006,8 @@
      "link": "https://betakit.com/ai-rollup-company-beacon-closes-225-million-series-c-round/",
      "source": "BetaKit"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "noram-electrolysis-systems": {
    "name": "NORAM Electrolysis Systems",
@@ -989,7 +1030,8 @@
      "link": "https://betakit.com/noram-electrolysis-systems-nabs-5-6-million-to-scale-up-lithium-refining/",
      "source": "BetaKit"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "databraid": {
    "name": "DataBraid",
@@ -1012,7 +1054,8 @@
      "link": "https://betakit.com/databraid-secures-1-9-million-usd-to-solve-insurance-brokers-portal-hopping-problem/",
      "source": "BetaKit"
     }
-   ]
+   ],
+   "audience": "Banks, insurers & finance teams"
   },
   "inovia-promotes-mia-morisset-to-partner-on-growth-team": {
    "name": "Inovia promotes Mia Morisset to partner on growth team",
@@ -1035,7 +1078,8 @@
      "link": "https://betakit.com/inovia-promotes-mia-morisset-to-partner-on-growth-team/",
      "source": "BetaKit"
     }
-   ]
+   ],
+   "audience": "General / mixed"
   },
   "pricepoint": {
    "name": "Pricepoint",
@@ -1058,7 +1102,8 @@
      "link": "https://betakit.com/pricepoint-closes-6-6-million-cad-seed-round-for-ai-hospitality-platform/",
      "source": "BetaKit"
     }
-   ]
+   ],
+   "audience": "Healthcare providers & patients"
   },
   "skyfora": {
    "name": "Skyfora",
@@ -1080,6 +1125,31 @@
      "title": "Skyfora Raises €6.5 Million To Expand Atmospheric Data Platform",
      "link": "https://pulse2.com/skyfora-raises-e6-5-million-to-expand-atmospheric-data-platform/",
      "source": "Pulse 2.0"
+    }
+   ],
+   "audience": "General / mixed"
+  },
+  "stake-sale-at-lenskart-ethereal": {
+   "name": "Stake Sale At Lenskart, Ethereal",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "ADIA Sheds Lenskart Stake Investors are booking profits after the expiration of the IPO lock-in period for Lenskart shares. Abu…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$28 Mn",
+     "round": "",
+     "title": "Stake Sale At Lenskart, Ethereal Bags $28 Mn & More",
+     "link": "https://inc42.com/buzz/stake-sale-at-lenskart-ethereal-bags-28-mn-more/",
+     "source": "Inc42"
     }
    ]
   }
