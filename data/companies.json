@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-12T16:16:43+00:00",
+ "updated": "2026-06-13T14:59:36+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -1394,7 +1394,7 @@
    "is_ai": false,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Stockholm-based Varangians, a new DefenceTech-focused investment fund co-founded by Beetroot founder Andreas Flodström, has closed at over €9.1 million (100 million kronor) to back Ukraine’s DefenceTech ecosystem. The fund has already completed investments in Ukrainian DefenceTec",
+   "summary": "Stockholm-based Varangians, a new DefenceTech-focused investment fund co-founded by Beetroot founder Andreas Flodström, has closed at over €10 million (100 million kronor) to back Ukraine’s DefenceTech ecosystem. The fund has already completed investments in Ukrainian DefenceTech",
    "audience": "Government & public sector",
    "first_seen": "2026-06-12",
    "last_seen": "2026-06-12",
@@ -1622,6 +1622,198 @@
      "title": "Maneva raises $27-million USD Series A to expand AI vision in manufacturing",
      "link": "https://betakit.com/maneva-raises-27-million-usd-series-a-to-expand-ai-vision-in-manufacturing/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "spacex-shares": {
+   "name": "SpaceX Shares",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The SpaceX offering caps a remarkable journey for a company that has raised nearly $12 billion in private investment since its founding in 2002 to become the world’s most valuable venture-backed startup. Along the way, the company helped redefine both the space industry and the l",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$12 billion",
+     "round": "",
+     "title": "SpaceX Shares Close Up 19% After Largest IPO Of All Time",
+     "link": "https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "applied-atomics-emerges-from-stealth-with-over-500-million": {
+   "name": "Applied Atomics Emerges From Stealth With Over $500 Million ",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Applied Atomics announced its emergence from stealth with more than $500 million in letters of intent and memoranda of understanding, a $4 million oversubscribed pre-seed financing round led by Oxford Science Enterprises, and a growing network of strategic partnerships across the",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-13",
+   "last_seen": "2026-06-13",
+   "events": [
+    {
+     "date": "2026-06-13",
+     "amount": "$500 Million",
+     "round": "Pre-Seed",
+     "title": "Applied Atomics Emerges From Stealth With Over $500 Million In Demand Commitments For In-Space Mobility Network",
+     "link": "https://pulse2.com/applied-atomics-emerges-from-stealth-with-over-500-million-in-demand-commitments-for-in-space-mobility-network/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "gps-renewables": {
+   "name": "GPS Renewables",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "GPS Renewables, a Bengaluru-based renewable oil and gas company, announced that it has raised ₹635 crore (approximately $74.1 million) in Series C funding to support its next phase of growth and accelerate the execution of compressed biogas (CBG) projects across India. \n The post",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-13",
+   "last_seen": "2026-06-13",
+   "events": [
+    {
+     "date": "2026-06-13",
+     "amount": "₹635",
+     "round": "Series C",
+     "title": "GPS Renewables Raises ₹635 Crore (About $74.1 Million) In Series C Funding To Expand Bioenergy Infrastructure",
+     "link": "https://pulse2.com/gps-renewables-raises-%e2%82%b9635-crore-about-74-1-million-in-series-c-funding-to-expand-bioenergy-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "remedy": {
+   "name": "REMEDY",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "REMEDY Science, the dermatologist-developed skincare company founded by board-certified dermatologist Dr. Muneeb Shah, announced the closing of a Series A funding round led by L Catterton, with participation from existing investor Norwest and new investor Sonoma Brands Capital. F",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-13",
+   "last_seen": "2026-06-13",
+   "events": [
+    {
+     "date": "2026-06-13",
+     "amount": "",
+     "round": "Series A",
+     "title": "REMEDY Raises Series A To Expand Dermatologist-Developed Skincare Brand",
+     "link": "https://pulse2.com/remedy-raises-series-a-to-expand-dermatologist-developed-skincare-brand/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "chatsee": {
+   "name": "ChatSee",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "ChatSee.ai, a company developing a failure intelligence platform for autonomous AI systems, announced a $6.5 million funding round led by True Ventures. The round also included participation from First Rays Venture Partners, Seven Hill Ventures, and industry veterans. \n The post ",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$6.5 Million",
+     "round": "",
+     "title": "ChatSee Raises $6.5 Million To Help Enterprises Identify And Prevent AI Agent Failures",
+     "link": "https://pulse2.com/chatsee-raises-6-5-million-to-help-enterprises-identify-and-prevent-ai-agent-failures/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "blockworks-acquires-messari-to-create-unified-crypto-data-an": {
+   "name": "Blockworks Acquires Messari To Create Unified Crypto Data An",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Blockworks announced the acquisition of Messari, bringing together two of the largest information and data businesses in the crypto industry. The transaction marks the first major acquisition since Blockworks completed a Series A extension at a $192 million valuation, with the co",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "$192 million",
+     "round": "Series A",
+     "title": "Blockworks Acquires Messari To Create Unified Crypto Data And Intelligence Platform",
+     "link": "https://pulse2.com/blockworks-acquires-messari-to-create-unified-crypto-data-and-intelligence-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "zumutor-biologics": {
+   "name": "Zumutor Biologics",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Biotech startup Zumutor Biologics has raised $7.3 Mn (about ₹70 Cr) in its Series B funding round from existing investors…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-13",
+   "last_seen": "2026-06-13",
+   "events": [
+    {
+     "date": "2026-06-13",
+     "amount": "$7.3 Mn",
+     "round": "Series B",
+     "title": "Zumutor Biologics Secures $7.3 Mn To Advance Clinical Trials For Cancer Therapy",
+     "link": "https://inc42.com/buzz/zumutor-biologics-secures-7-3-mn-to-advance-clinical-trials-for-cancer-therapy/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ather-s-board-approves-plan-to": {
+   "name": "Ather’s Board Approves Plan To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Listed electric vehicle (EV) maker Ather Energy’s board has approved a proposal to raise up to ₹2,500 Cr via a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-12",
+   "last_seen": "2026-06-12",
+   "events": [
+    {
+     "date": "2026-06-12",
+     "amount": "₹2,500",
+     "round": "",
+     "title": "Ather’s Board Approves Plan To Raise ₹2,500 Cr",
+     "link": "https://inc42.com/buzz/athers-board-approves-plan-to-raise-%e2%82%b92500-cr/",
+     "source": "Inc42"
     }
    ]
   }
