@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-13T14:59:36+00:00",
+ "updated": "2026-06-14T15:07:40+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -1538,10 +1538,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Call management and identity verification startup Equal AI has raised $30 Mn (around ₹286 Cr) in its Series B funding…",
+   "summary": "Equal AI has secured $30 million in Series B funding in tranches, with the round co-led by Prosus Ventures and Tomales Bay Capital. \n The post  Equal AI Raises $30 Million Series B To Expand AI Lifestyle Concierge Platform In India  appeared first on  Pulse 2.0 .",
    "audience": "General / mixed",
    "first_seen": "2026-06-12",
-   "last_seen": "2026-06-12",
+   "last_seen": "2026-06-14",
    "events": [
     {
      "date": "2026-06-12",
@@ -1550,6 +1550,14 @@
      "title": "Equal AI Raises $30 Mn To Expand AI Assistant Offerings Beyond Calls",
      "link": "https://inc42.com/buzz/equal-ai-raises-30-mn-to-expand-ai-assistant-offerings-beyond-calls/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-06-14",
+     "amount": "$30 Million",
+     "round": "Series B",
+     "title": "Equal AI Raises $30 Million Series B To Expand AI Lifestyle Concierge Platform In India",
+     "link": "https://pulse2.com/equal-ai-raises-30-million-series-b-to-expand-ai-lifestyle-concierge-platform-in-india/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -1814,6 +1822,102 @@
      "title": "Ather’s Board Approves Plan To Raise ₹2,500 Cr",
      "link": "https://inc42.com/buzz/athers-board-approves-plan-to-raise-%e2%82%b92500-cr/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "relai": {
+   "name": "RELAI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "RELAI announced the launch of a verifiable continual learning platform designed to help AI agents continuously improve from real-world failures while preventing regressions. The company also revealed it has secured a total of $6.9 million in funding to support its growth. \n The p",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-14",
+   "last_seen": "2026-06-14",
+   "events": [
+    {
+     "date": "2026-06-14",
+     "amount": "$6.9 Million",
+     "round": "Growth",
+     "title": "RELAI Raises $6.9 Million And Launches Verifiable Continual Learning Platform For AI Agents",
+     "link": "https://pulse2.com/relai-raises-6-9-million-and-launches-verifiable-continual-learning-platform-for-ai-agents/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "genspark": {
+   "name": "Genspark",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Genspark announced a $100 million extension to its Series B financing, bringing the company’s total Series B funding to $485 million and valuing the business at a post-money valuation of $2.6 billion. \n The post  Genspark Raises $100 Million Series B Extension At $2.6 Billion Val",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-14",
+   "last_seen": "2026-06-14",
+   "events": [
+    {
+     "date": "2026-06-14",
+     "amount": "$100 Million",
+     "round": "Series B",
+     "title": "Genspark Raises $100 Million Series B Extension At $2.6 Billion Valuation",
+     "link": "https://pulse2.com/genspark-raises-100-million-series-b-extension-at-2-6-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sybilla-technologies": {
+   "name": "Sybilla Technologies",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Sybilla Technologies announced the completion of its first external funding round, raising 35 million PLN (about $9.5 million). The investment was provided by 3TS Capital Partners and Vinci S.A. \n The post  Sybilla Technologies Raises 35 Million PLN (About $9.5 Million) To Expand",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-14",
+   "last_seen": "2026-06-14",
+   "events": [
+    {
+     "date": "2026-06-14",
+     "amount": "35 Million",
+     "round": "",
+     "title": "Sybilla Technologies Raises 35 Million PLN (About $9.5 Million) To Expand Space Surveillance",
+     "link": "https://pulse2.com/sybilla-technologies-raises-35-million-pln-about-9-5-million-to-expand-space-surveillance/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "definic": {
+   "name": "Definic",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Definic, formerly known as Nordics, announced that it has closed a $2.9 million seed funding round and unveiled a new corporate identity as it seeks to establish itself as the default platform for enterprise IT procurement. \n The post  Definic Raises $2.9 Million Seed Round And R",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-14",
+   "last_seen": "2026-06-14",
+   "events": [
+    {
+     "date": "2026-06-14",
+     "amount": "$2.9 Million",
+     "round": "Seed",
+     "title": "Definic Raises $2.9 Million Seed Round And Rebrands To Build Enterprise IT Procurement Platform",
+     "link": "https://pulse2.com/definic-raises-2-9-million-seed-round-and-rebrands-to-build-enterprise-it-procurement-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   }
