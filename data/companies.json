@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-14T15:07:40+00:00",
+ "updated": "2026-06-15T17:53:14+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -1918,6 +1918,566 @@
      "title": "Definic Raises $2.9 Million Seed Round And Rebrands To Build Enterprise IT Procurement Platform",
      "link": "https://pulse2.com/definic-raises-2-9-million-seed-round-and-rebrands-to-build-enterprise-it-procurement-platform/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "orbio": {
+   "name": "Orbio",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Spanish AI workforce platform Orbio today announced a $21  Series A led by Dawn Capital, alongside existing investors including Visionaries. 80 per cent of the world’s workforce operates on the frontl...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$21 million",
+     "round": "Series A",
+     "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+     "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+     "source": "TechCrunch Venture"
+    },
+    {
+     "date": "2026-06-15",
+     "amount": "$21M",
+     "round": "Series A",
+     "title": "Orbio raises $21M Series A to bring AI workforce management to the world's frontline workers",
+     "link": "https://tech.eu/2026/06/15/orbio-raises-21m-series-a-to-bring-ai-workforce-management-to-the-worlds-frontline-workers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "podium-automation": {
+   "name": "Podium Automation",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Podium Automation announced that it has raised $18 million in Series A funding to accelerate the expansion of its software-driven industrial control panel manufacturing platform. The round was led by Construct Capital, with participation from Andreessen Horowitz, Transition Ventu",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$18 Million",
+     "round": "Series A",
+     "title": "Podium Automation Raises $18 Million Series A To Modernize Industrial Control Panel Manufacturing",
+     "link": "https://pulse2.com/podium-automation-raises-18-million-series-a-to-modernize-industrial-control-panel-manufacturing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "luni": {
+   "name": "Luni",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Luni, a European mobile app studio, announced it has secured $14 million in user acquisition financing from financial services firm PvX Partners to expand its application portfolio and accelerate the growth of Shorts, its micro-drama platform. \n The post  Luni Secures $14 Million",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$14 Million",
+     "round": "Growth",
+     "title": "Luni Secures $14 Million From PvX Partners To Accelerate Growth Of Shorts Platform",
+     "link": "https://pulse2.com/luni-secures-14-million-from-pvx-partners-to-accelerate-growth-of-shorts-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "databank": {
+   "name": "DataBank",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "DataBank announced the completion of two financing transactions totaling $1.45 billion, including an $800 million revolving credit facility and a $650 million expansion of the financing package supporting its Red Oak, Texas data center campus. \n The post  DataBank Secures $1.45 B",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$1.45 Billion",
+     "round": "",
+     "title": "DataBank Secures $1.45 Billion Across Two Financing Transactions",
+     "link": "https://pulse2.com/databank-secures-1-45-billion-across-two-financing-transactions/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "compuvi": {
+   "name": "Compuvi",
+   "country": "Turkey",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Compuvi, the LegalTech and RegTech artificial intelligence company behind the Confinaid platform, announced a seed financing round at a $40 million post-money valuation. The round was backed by Turkish investor Islam Yildiz and Istanbul-based Ozay Law Firm, which also joined the ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$40 Million",
+     "round": "Seed",
+     "title": "Compuvi Raises Seed Funding At $40 Million Valuation To Expand Confinaid Compliance Platform",
+     "link": "https://pulse2.com/compuvi-raises-seed-funding-at-40-million-valuation-to-expand-confinaid-compliance-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "anterra-capital": {
+   "name": "Anterra Capital",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Most venture firms see their investors mainly as sources of money. Anterra Capital, however, treats its investors as…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$100M",
+     "round": "",
+     "title": "Anterra Capital closes $100M Fund III first close with Rabobank, Novo Holdings, and Zoetis as agtech valuations reset to 2016 levels",
+     "link": "https://techfundingnews.com/anterra-capital-100m-first-close-fund-iii-rabobank-novo-zoetis/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "that-shook-up-insurance-stocks-has": {
+   "name": "that shook up insurance stocks has",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "On February 9, Willis Towers Watson fell 13% in a single day, its worst decline since 2008, while…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$8M",
+     "round": "",
+     "title": "The startup that shook up insurance stocks has raised $8M from Seedcamp to change how financial services are distributed",
+     "link": "https://techfundingnews.com/waniwani-raises-8m-seed-ai-insurance-chatgpt-app-insurance-brokers/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "bestie-bite": {
+   "name": "Bestie Bite",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Most restaurant reviews are either fake, sponsored, or written by someone whose taste you don’t trust. Bestie Bite…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "€1.5M",
+     "round": "",
+     "title": "Rome startup Bestie Bite nabs €1.5M to take on TripAdvisor and Yelp with short-form video reviews",
+     "link": "https://techfundingnews.com/rome-startup-bestie-bite-nabs-e1-5m-to-take-on-tripadvisor-and-yelp-with-short-form-video-reviews/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "the-founders-who-sold-cobee-and-nucoro-just": {
+   "name": "The founders who sold Cobee and Nucoro just",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Mobility & logistics",
+   "sector": "HRTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "80% of the global workforce, including shift managers, warehouse operators, and care workers, has never had a corporate…",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$21M",
+     "round": "",
+     "title": "The founders who sold Cobee and Nucoro just raised $21M from Dawn Capital to automate frontline hiring",
+     "link": "https://techfundingnews.com/orbio-raises-21m-series-a-automate-frontline-hiring-deskless-workers/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "undo": {
+   "name": "Undo",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Cambridge-based Undo, a scale-up focused on AI-powered root cause analysis, today announced the close of a €31 million ($37 million) funding round to accelerate development efforts and significantly expand its global market reach. The round was led by Elsewhere Partners. “We are ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "€31 million",
+     "round": "",
+     "title": "Undo secures €31 million to bring runtime context to AI-assisted software engineering",
+     "link": "https://www.eu-startups.com/2026/06/undo-secures-e31-million-to-bring-runtime-context-to-ai-assisted-software-engineering/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "amsterdam-s-anterra-capital-hits-86-million-first": {
+   "name": "Amsterdam’s Anterra Capital hits €86 million first",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Anterra Capital, an Amsterdam-based specialist venture firm investing in food and agriculture, has announced the first close of its Fund III at €86 million ($100 million), against a target of €172.1 million ($200 million).  Anterra’s investor base spans institutional investors, f",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "€86 million",
+     "round": "",
+     "title": "Amsterdam’s Anterra Capital hits €86 million first close for Fund III as AI reshapes food and agriculture",
+     "link": "https://www.eu-startups.com/2026/06/amsterdams-anterra-capital-hits-e86-million-first-close-for-fund-iii-as-ai-reshapes-food-and-agriculture/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "madrid-s-orbio": {
+   "name": "Madrid’s Orbio",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Orbio, a Madrid-based AI workforce platform for global enterprises with frontline teams, has today announced an €18.09 million ($21 million) Series A funding round led by Dawn Capital, with participation from existing investors, including Visionaries. The capital will fund expans",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "€18.09 million",
+     "round": "Series A",
+     "title": "Madrid’s Orbio raises €18.09 million Series A to scale AI workforce platform for frontline teams",
+     "link": "https://www.eu-startups.com/2026/06/madrids-orbio-raises-e18-09-million-series-a-to-scale-ai-workforce-platform-for-frontline-teams/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "italy-s-female-founded-hospitalitytech-startup-bestie-bite": {
+   "name": "Italy’s female-founded HospitalityTech startup Bestie Bite",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bestie Bite, a Rome-based startup democratising marketing for restaurants and streamlining restaurant discovery with its app for video reviews in the hospitality sector, has closed a new €1.5 million fresh-money round as it accelerates its expansion into the United States.  This ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "€1.5 million",
+     "round": "",
+     "title": "Italy’s female-founded HospitalityTech startup Bestie Bite raises €1.5 million to expand its video review app in the US",
+     "link": "https://www.eu-startups.com/2026/06/italys-female-founded-hospitalitytech-startup-bestie-bite-raises-e1-5-million-to-expand-its-video-review-app-in-the-us/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "berlin-s-qorelo": {
+   "name": "Berlin’s Qorelo",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Qorelo, a Berlin-based startup building the AI engine for modern ERP (Enterprise Resource Planning) delivery, has raised €3 million ($3.5 million) in a Seed funding round just five months after the company was founded. The round was co-led by HPI Ventures and Caesar Ventures, wit",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "€3 million",
+     "round": "Seed",
+     "title": "Berlin’s Qorelo raises €3 million five months after launch to tackle SAP’s 2027 transformation crunch",
+     "link": "https://www.eu-startups.com/2026/06/berlins-qorelo-raises-e3-million-five-months-after-launch-to-tackle-saps-2027-transformation-crunch/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "sirius-game": {
+   "name": "Sirius Game",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Edtech startup Sirius Game has closed a €1.3 millionfunding round led by Cassa Depositi e Prestiti, with participation fromTrentino Invest, Ultra VC, 28Digital and Add Value.The newly raised capital w...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "€1.3M",
+     "round": "",
+     "title": "Sirius Game closes €1.3M round to expand game-based learning",
+     "link": "https://tech.eu/2026/06/15/sirius-game-closes-eur13-million-round-to-expand-game-based-learning/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "italian-bestie-bite": {
+   "name": "Italian Bestie Bite",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bestie Bite, the Italian app dedicated toauthentic video reviews in the hospitality sector, has closed a €1.5 millionfresh-money funding round through a SAFE instrument. The investment was led bythe G...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "€1.5M",
+     "round": "",
+     "title": "Italian Bestie Bite raises €1.5M to accelerate US expansion",
+     "link": "https://tech.eu/2026/06/15/italian-bestie-bite-raises-eur15m-to-accelerate-us-expansion/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "qorelo": {
+   "name": "Qorelo",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Qorelo,an AI startup focused on enterprise resource planning (ERP) transformations,has raised $3.5 million in seed funding just five months after launching. Theround was co-led by HPI Ventures and Cae...",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$3.5M",
+     "round": "Seed",
+     "title": "Qorelo raises $3.5M to streamline SAP migrations",
+     "link": "https://tech.eu/2026/06/15/qorelo-raises-35m-to-streamline-sap-migrations/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "club-with-234-mn-funding-round-led-by-hcltech": {
+   "name": "Club With $234 Mn Funding Round Led By HCLTech",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "AI startup Sarvam has become India’s 130th unicorn after raising $234 Mn (about ₹2,210 Cr) as part of its $300…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$234 Mn",
+     "round": "",
+     "title": "Sarvam Enters Unicorn Club With $234 Mn Funding Round Led By HCLTech",
+     "link": "https://inc42.com/buzz/sarvam-enters-unicorn-club-with-234-mn-funding-round-led-by-hcltech/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ar-vr-startup-autovrse": {
+   "name": "AR/VR Startup AutoVRse",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AutoVRse, a startup that provides AR/VR training to enterprises, has raised $2.4 Mn (₹22.7 Cr) in a funding round co-led…",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$2.4 Mn",
+     "round": "",
+     "title": "AR/VR Startup AutoVRse Raises $2.4 Mn For International Expansion",
+     "link": "https://inc42.com/buzz/ar-vr-startup-autovrse-raises-2-4-mn-to-fuel-international-expansion/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "premium-f-b-brand-foodstories": {
+   "name": "Premium F&B Brand Foodstories",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "F&B brand Foodstories has raised Rs 50 Cr (about $5.2 Mn) in a Series B funding round from Zerodha cofounder…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "₹50",
+     "round": "Series B",
+     "title": "Premium F&B Brand Foodstories Bags ₹50 Cr To Expand Digital Business, Delivery Network",
+     "link": "https://inc42.com/buzz/premium-fb-brand-foodstories-bags-%e2%82%b950-cr-to-expand-digital-business-delivery-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "razorpay-files-confidential-ipo-papers-to": {
+   "name": "Razorpay Files Confidential IPO Papers To",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fintech major Razorpay has filed its draft red herring prospectus (DRHP) for an IPO through the confidential route, as per…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$600 Mn",
+     "round": "",
+     "title": "Razorpay Files Confidential IPO Papers To Raise $600 Mn",
+     "link": "https://inc42.com/buzz/razorpay-files-confidential-ipo-papers-to-raise-600-mn/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "picketa": {
+   "name": "Picketa",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Fredericton-based AgTech startup can analyze crop health on the spot. \n The post  Picketa raises $2.1 million to help farmers make the most of their fertilizer   first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$2.1 million",
+     "round": "",
+     "title": "Picketa raises $2.1 million to help farmers make the most of their fertilizer",
+     "link": "https://betakit.com/picketa-raises-2-1-million-to-help-farmers-make-the-most-of-their-fertilizer/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "electric-trucking-startup": {
+   "name": "Electric trucking startup",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Mobility & logistics",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Electric trucks will hit Australian roads this year as New Energy Transport scores $5M to electrify freight transport.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-15",
+   "last_seen": "2026-06-15",
+   "events": [
+    {
+     "date": "2026-06-15",
+     "amount": "$5 million",
+     "round": "",
+     "title": "Electric trucking startup raises $5 million",
+     "link": "https://www.startupdaily.net/topic/funding/electric-trucking-startup-raises-5-million/",
+     "source": "Startup Daily"
     }
    ]
   }
