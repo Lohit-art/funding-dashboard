@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-15T17:53:14+00:00",
+ "updated": "2026-06-16T18:04:04+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -2477,6 +2477,630 @@
      "round": "",
      "title": "Electric trucking startup raises $5 million",
      "link": "https://www.startupdaily.net/topic/funding/electric-trucking-startup-raises-5-million/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "conifer-infrastructure-partners": {
+   "name": "Conifer Infrastructure Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Conifer Infrastructure Partners announced the closing of its inaugural fund, Conifer Infrastructure Partners I, LP, at its hard cap of $900 million. The fund exceeded its original target of $500 million and was oversubscribed, completing a single institutional closing process les",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$900 Million",
+     "round": "",
+     "title": "Conifer Infrastructure Partners Closes Oversubscribed $900 Million Debut Fund",
+     "link": "https://pulse2.com/conifer-infrastructure-partners-closes-oversubscribed-900-million-debut-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aston-power": {
+   "name": "Aston Power",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Aston Power, a provider of integrated large-scale power delivery solutions for data centers, announced a $20 million funding round led by TDK Ventures and Building Ventures, with participation from JLL Spark Global Ventures and other investors. \n The post  Aston Power Raises $20 ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$20 Million",
+     "round": "",
+     "title": "Aston Power Raises $20 Million From TDK Ventures And JLL To Expand Data Center Power Delivery Platform",
+     "link": "https://pulse2.com/aston-power-raises-20-million-from-tdk-ventures-and-jll-to-expand-data-center-power-delivery-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "kimba": {
+   "name": "Kimba",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Kimba, a sleep technology company focused on adaptive scent therapy, announced its launch alongside a $6.5 million funding round led by Selva Ventures. The company is introducing a clinically validated approach to improving sleep through AI-powered scent interventions designed to",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$6.5 Million",
+     "round": "",
+     "title": "Kimba Raises $6.5 Million To Launch AI-Powered Scent Therapy Platform For Better Sleep",
+     "link": "https://pulse2.com/kimba-raises-6-5-million-to-launch-ai-powered-scent-therapy-platform-for-better-sleep/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "rejoni": {
+   "name": "Rejoni",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Rejoni, a clinical-stage women’s health company focused on biomaterial therapies, announced the closing of a $25 million financing round to support the development and commercialization of the Juveena Hydrogel System. \n The post  Rejoni Secures $25 Million To Advance Juveena Hydr",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$25 Million",
+     "round": "",
+     "title": "Rejoni Secures $25 Million To Advance Juveena Hydrogel System Toward FDA Approval And Commercial Launch",
+     "link": "https://pulse2.com/rejoni-secures-25-million-to-advance-juveena-hydrogel-system-toward-fda-approval-and-commercial-launch/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ent": {
+   "name": "Ent",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ent emerged from stealth with $100 million in seed financing as the company seeks to bring prevention back to cybersecurity through its intent-aware Workspace Security platform. \n The post  Ent Raises $100 Million Seed Round And Emerges From Stealth With AI-Powered Workspace Secu",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$100 Million",
+     "round": "Seed",
+     "title": "Ent Raises $100 Million Seed Round And Emerges From Stealth With AI-Powered Workspace Security Platform",
+     "link": "https://pulse2.com/ent-raises-100-million-seed-round-and-emerges-from-stealth-with-ai-powered-workspace-security-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "already-programming-parts-for-blue-origin-rockets-and-cadill": {
+   "name": "already programming parts for Blue Origin rockets and Cadill",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Most AI startups at Series A are still running pilots. Limitless Labs is programming parts for rockets and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$20M",
+     "round": "Series A",
+     "title": "The two-year-old startup already programming parts for Blue Origin rockets and Cadillac’s F1 car has just raised $20M",
+     "link": "https://techfundingnews.com/the-two-year-old-startup-already-programming-parts-for-blue-origin-rockets-and-cadillacs-f1-car-has-just-raised-20m/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "deepseek": {
+   "name": "DeepSeek",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Just 18 months ago, few outside China had heard of DeepSeek. Today, it is closing one of the…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$7.4B",
+     "round": "",
+     "title": "DeepSeek raises $7.4B at $50B valuation in first-ever external funding round",
+     "link": "https://techfundingnews.com/deepseek-raises-7-4b-at-50b-valuation-in-first-ever-external-funding-round/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ex-microsoft-duo-behind-security-copilot": {
+   "name": "Ex-Microsoft duo behind Security Copilot",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "When Elias Manousos and Brandon Dixon left Microsoft, they had already achieved something rare in security: building a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$100M",
+     "round": "Seed",
+     "title": "Ex-Microsoft duo behind Security Copilot raises $100M seed to catch AI threats before they strike",
+     "link": "https://techfundingnews.com/ent-100m-seed-ex-microsoft-security-copilot-ai-threats/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "spacex": {
+   "name": "SpaceX",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "SpaceX has completed the largest initial public offering in history, raising $85.7 billion after underwriters exercised their overallotment…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$85.7B",
+     "round": "",
+     "title": "SpaceX raises record $85.7B in historic IPO as Musk bets on reusable rockets, Starlink, and orbital AI data centres",
+     "link": "https://techfundingnews.com/spacex-raises-record-85-7b-in-historic-ipo-as-musk-bets-on-reusable-rockets-starlink-and-orbital-ai-data-centres/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "lightbringer": {
+   "name": "Lightbringer",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Swedish legaltech startupLightbringer has raised $10 million in Series A funding to accelerate thedevelopment of its AI-powered patent platform and support its expansion intothe US market. The round w...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$10M",
+     "round": "",
+     "title": "Lightbringer raises $10M to make patent lawyers optional for deep tech startups",
+     "link": "https://techfundingnews.com/lightbringer-raises-10m-to-make-patent-lawyers-optional-for-deep-tech-startups/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-06-16",
+     "amount": "€8.6 million",
+     "round": "Series A",
+     "title": "Swedish AI patent platform Lightbringer raises €8.6 million to “take on Big Law” and replace existing patent firms",
+     "link": "https://www.eu-startups.com/2026/06/swedish-ai-patent-platform-lightbringer-raises-e8-6-million-to-take-on-big-law-and-replace-existing-patent-firms/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-16",
+     "amount": "$10M",
+     "round": "Series A",
+     "title": "Lightbringer raises $10M to scale AI-powered patent services",
+     "link": "https://tech.eu/2026/06/16/lightbringer-raises-10m-to-scale-ai-powered-patent-services/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "gate2brain": {
+   "name": "Gate2Brain",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Gate2Brain, a Spanish BioTech company developing a therapeutic candidate for aggressive paediatric  and adult brain tumours, has announced a €7 million investment – the largest investment raised by the company to date. The investment represent a 30.4% equity stake and strategic p",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "€7 million",
+     "round": "",
+     "title": "Barcelona-based Gate2Brain secures €7 million to advance brain tumour candidate",
+     "link": "https://www.eu-startups.com/2026/06/barcelona-based-gate2brain-secures-e7-million-to-advance-brain-tumour-candidate/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "githits": {
+   "name": "GitHits",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Finland-based GitHits has raised €1.5 million in pre-seed funding, which it will use to develop what the company calls the “Google of code search”. The investors include Finnish VC Vendep Capital, Estonian VC Trind, and notable angel investors such as Peter Sarlin, Zach Shelby, a",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "€1.5 million",
+     "round": "Pre-Seed",
+     "title": "Open-source startup GitHits closes €1.5 million to in pre-seed funding for product development",
+     "link": "https://www.eu-startups.com/2026/06/open-source-startup-githits-closes-e1-5-million-to-in-pre-seed-funding-for-product-development/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ghent-s-rainbow-crops": {
+   "name": "Ghent’s Rainbow Crops",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Rainbow Crops, a Ghent-based AgTech startup developing improved crop varieties by engineering complex agronomic traits, has raised €9.7 million in Seed funding to advance its technology platform, expand its application across multiple crops, and scale the team. The over-subscribe",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "€9.7 million",
+     "round": "Seed",
+     "title": "Ghent’s Rainbow Crops bags €9.7 million to advance AI-powered gene editing for improved crop varieties",
+     "link": "https://www.eu-startups.com/2026/06/ghents-rainbow-crops-bags-e9-7-million-to-advance-ai-powered-gene-editing-for-improved-crop-varieties/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "cortea": {
+   "name": "Cortea",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Cortea, a Berlin-based startup building the AI quality layer for audit firms, has raised €12 million in a Seed funding round and announced the launch of its first Audit Quality Agents, designed to help firms improve audit quality while increasing capacity across the audit process",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "€12 million",
+     "round": "Seed",
+     "title": "Berlin-based Cortea raises €12 million Seed round to build AI quality layer for audit firms",
+     "link": "https://www.eu-startups.com/2026/06/berlin-based-cortea-raises-e12-million-seed-round-to-build-ai-quality-layer-for-audit-firms/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "rocapine": {
+   "name": "Rocapine",
+   "country": "France",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Paris-based wellness venture studio Rocapine has raised a $13million Series A round led by Educapital, with participation from Daphni, RingCapital, Centre Court Capital, Athletico Ventures and Better ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "€11.2 million",
+     "round": "Series A",
+     "title": "Paris-based Rocapine raises €11.2 million to scale wellness apps that “hold instead of hook”",
+     "link": "https://www.eu-startups.com/2026/06/paris-based-rocapine-raises-e11-2-million-to-scale-wellness-apps-that-hold-instead-of-hook/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-16",
+     "amount": "$13M",
+     "round": "Series A",
+     "title": "Rocapine raises $13M Series A to scale its wellness app portfolio",
+     "link": "https://tech.eu/2026/06/16/rocapine-raises-13m-series-a-to-scale-its-wellness-app-portfolio/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sloneek": {
+   "name": "Sloneek",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "HR SaaS startup Sloneek has raised $6 million in a newfunding round led primarily by Orbit Capital and Venture to Future Fund,significantly exceeding the company’s original target. The investment will...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$6M",
+     "round": "",
+     "title": "Sloneek raises $6M to turn HR software into AI agents",
+     "link": "https://tech.eu/2026/06/16/sloneek-raises-6m-to-turn-hr-software-into-ai-agents/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "rainbow-crops": {
+   "name": "Rainbow Crops",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Belgian agritech startup Rainbow Crops has raised €9.7million in an oversubscribed seed funding round to advance its crop engineeringplatform, expand its application across multiple crops, and grow it...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "€9.7M",
+     "round": "Seed",
+     "title": "Rainbow Crops raises €9.7M to scale AI-powered crop engineering",
+     "link": "https://tech.eu/2026/06/16/rainbow-crops-raises-eur97m-to-scale-ai-powered-crop-engineering/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "whybrilliant": {
+   "name": "WhyBrilliant",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Berlin-based hiring platform WhyBrilliant has launched publicly with€1 million in pre-seed funding from Merantix. The company is developing anAI-powered recruitment platform designed to help professio...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "€1M",
+     "round": "Pre-Seed",
+     "title": "WhyBrilliant raises €1M to scale AI job matching, backed by Merantix",
+     "link": "https://tech.eu/2026/06/16/whybrilliant-raises-eur1m-to-scale-ai-job-matching-backed-by-merantix/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "emabler": {
+   "name": "eMabler",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Finnish EV charging software company eMabler has raised€5.5 million in Series A funding to support its expansion across Europe andfurther develop its grid-aware charging platform.The funding round was...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "€5.5M",
+     "round": "Series A",
+     "title": "eMabler secures €5.5M to scale EV charging software",
+     "link": "https://tech.eu/2026/06/16/emabler-secures-eur55m-to-scale-ev-charging-software/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "crest-comes-out-of-stealth-with-3-1-mn-funding": {
+   "name": "CREST Comes Out Of Stealth With $3.1 Mn Funding",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Wealth management startup CREST has raised $3.1 Mn (₹29.3 Cr) in a pre-seed funding round led by Atrium Ventures, BEENEXT,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$3.1 Mn",
+     "round": "Pre-Seed",
+     "title": "Wealth Management Startup CREST Comes Out Of Stealth With $3.1 Mn Funding",
+     "link": "https://inc42.com/buzz/wealth-management-startup-crest-comes-out-of-stealth-with-3-1-mn-funding/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "early-stage-focused-vc-firm-yournest": {
+   "name": "Early-Stage Focused VC Firm YourNest",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Early-stage deeptech focused VC firm YourNest Venture Capital has closed its continuation vehicle (CV), the YourNest Continuum Fund I, with…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "₹400",
+     "round": "",
+     "title": "Early-Stage Focused VC Firm YourNest Closes Continuation Fund At ₹400 Cr",
+     "link": "https://inc42.com/buzz/early-stage-focused-vc-firm-yournest-closes-continuation-fund-at-%e2%82%b9400-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "trunativ": {
+   "name": "TruNativ",
+   "country": "USA",
+   "region": "North America",
+   "category": "Food & agriculture",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "D2C nutrition focused brand TruNativ has secured $30 Mn (₹290 Cr) in a Series B round from US-based investor OrbiMed.…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$30 Mn",
+     "round": "Series B",
+     "title": "Supplements Brand TruNativ Raises $30 Mn To Bolster Offline Distribution",
+     "link": "https://inc42.com/buzz/supplements-brand-trunativ-raises-30-mn-to-bolster-offline-distribution/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "solarsquare": {
+   "name": "SolarSquare",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Rooftop solar solutions startup SolarSquare has raised $53 Mn (about ₹510 Cr) in its Series C funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$53 Mn",
+     "round": "Series C",
+     "title": "SolarSquare Bags $53 Mn To Scale Its Rooftop Solar Solutions",
+     "link": "https://inc42.com/buzz/solarsquare-bags-53-mn-to-scale-its-rooftop-solar-solutions/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "contravault": {
+   "name": "ContraVault",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI startup ContraVault AI, which provides enterprises with an AI-powered procurement intelligence platform, has raised $3.1 Mn (₹29.3 Cr) in…",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$3.1 Mn",
+     "round": "",
+     "title": "Exclusive: AI Startup ContraVault Raises $3.1 Mn To Expand In The US",
+     "link": "https://inc42.com/buzz/exclusive-ai-startup-contravault-raises-3-1-mn-to-expand-in-the-us/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "flyweel": {
+   "name": "Flyweel",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Flyweel lands $2.41M pre-Seed to power AI-driven ad spend with real-time finance to turn ad budgets into strategic investments.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$2.41 million",
+     "round": "Pre-Seed",
+     "title": "Advertising fintech Flyweel nabs $2.41 million pre-Seed",
+     "link": "https://www.startupdaily.net/topic/funding/advertising-fintech-flyweel-nabs-2-41-million-pre-seed/",
      "source": "Startup Daily"
     }
    ]
