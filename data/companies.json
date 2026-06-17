@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-16T18:04:04+00:00",
+ "updated": "2026-06-17T16:38:45+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -2153,11 +2153,11 @@
    "sector": "Other",
    "is_ai": true,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "Cambridge-based Undo, a scale-up focused on AI-powered root cause analysis, today announced the close of a €31 million ($37 million) funding round to accelerate development efforts and significantly expand its global market reach. The round was led by Elsewhere Partners. “We are ",
+   "stage": "established",
+   "summary": "Undo announced that it has closed a $37 million growth investment led by Elsewhere Partners. \n The post  Undo Raises $37 Million Growth Investment Led By Elsewhere Partners  appeared first on  Pulse 2.0 .",
    "audience": "General / mixed",
    "first_seen": "2026-06-15",
-   "last_seen": "2026-06-15",
+   "last_seen": "2026-06-17",
    "events": [
     {
      "date": "2026-06-15",
@@ -2166,6 +2166,14 @@
      "title": "Undo secures €31 million to bring runtime context to AI-assisted software engineering",
      "link": "https://www.eu-startups.com/2026/06/undo-secures-e31-million-to-bring-runtime-context-to-ai-assisted-software-engineering/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-17",
+     "amount": "$37 Million",
+     "round": "Growth",
+     "title": "Undo Raises $37 Million Growth Investment Led By Elsewhere Partners",
+     "link": "https://pulse2.com/undo-raises-37-million-growth-investment-led-by-elsewhere-partners/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -2898,10 +2906,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Belgian agritech startup Rainbow Crops has raised €9.7million in an oversubscribed seed funding round to advance its crop engineeringplatform, expand its application across multiple crops, and grow it...",
+   "summary": "Rainbow Crops announced that it has raised €9.7 million in funding to accelerate the development of its crop genetics platform and expand the use of advanced technologies in agricultural innovation. \n The post  Rainbow Crops Raises €9.7 Million To Advance Crop Genetics Platform  ",
    "audience": "General / mixed",
    "first_seen": "2026-06-16",
-   "last_seen": "2026-06-16",
+   "last_seen": "2026-06-17",
    "events": [
     {
      "date": "2026-06-16",
@@ -2910,6 +2918,14 @@
      "title": "Rainbow Crops raises €9.7M to scale AI-powered crop engineering",
      "link": "https://tech.eu/2026/06/16/rainbow-crops-raises-eur97m-to-scale-ai-powered-crop-engineering/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-17",
+     "amount": "€9.7 Million",
+     "round": "",
+     "title": "Rainbow Crops Raises €9.7 Million To Advance Crop Genetics Platform",
+     "link": "https://pulse2.com/rainbow-crops-raises-e9-7-million-to-advance-crop-genetics-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -3101,6 +3117,558 @@
      "round": "Pre-Seed",
      "title": "Advertising fintech Flyweel nabs $2.41 million pre-Seed",
      "link": "https://www.startupdaily.net/topic/funding/advertising-fintech-flyweel-nabs-2-41-million-pre-seed/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "chronograph": {
+   "name": "Chronograph",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Chronograph announced that it has received a strategic minority growth equity investment of more than $140 million from Sixth Street Growth. The investment will support the continued expansion of Chronograph’s AI product suite, accelerate the rollout of its private credit portfol",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$140 Million",
+     "round": "Growth",
+     "title": "Chronograph Raises Over $140 Million From Sixth Street Growth",
+     "link": "https://pulse2.com/chronograph-raises-over-140-million-from-sixth-street-growth/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "safehold": {
+   "name": "Safehold",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Safehold announced that its operating company, Safehold GL Holdings, has signed a definitive note purchase agreement for a private placement of $225 million in aggregate principal amount of senior unsecured notes due August 1, 2056. \n The post  Safehold Closes $225 Million Privat",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$225 Million",
+     "round": "",
+     "title": "Safehold Closes $225 Million Private Placement Of Senior Unsecured Notes Due 2056",
+     "link": "https://pulse2.com/safehold-closes-225-million-private-placement-of-senior-unsecured-notes-due-2056/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "why-iconiq-led-a-60m-series-a-for-a-london-startup-fixing-s": {
+   "name": "Why ICONIQ led a $60M Series A for a London startup fixing S",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Large enterprises often cannot see what is happening inside their software. Years of custom changes to things like…",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$60M",
+     "round": "Series A",
+     "title": "Why ICONIQ led a $60M Series A for a London startup fixing SAP",
+     "link": "https://techfundingnews.com/conduct-60m-series-a-iconiq-index-ventures-sap-2027-deadline/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "this-ex-spacex-engineer": {
+   "name": "This ex-SpaceX engineer",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The AI boom faces a power challenge. Data centers need constant electricity, but solar and wind, which make…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$22M",
+     "round": "",
+     "title": "This ex-SpaceX engineer raised $22M to do to geothermal plants what Henry Ford did to the car",
+     "link": "https://techfundingnews.com/this-ex-spacex-engineer-raised-22m-to-do-to-geothermal-plants-what-henry-ford-did-to-the-car/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "at-21-jenny-duan-saw-what-oura-and-whoop-missed-women-s-ho": {
+   "name": "At 21, Jenny Duan saw what Oura and WHOOP missed: women’s ho",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Women were not required to be included in US clinical trials until 1993. Jenny Duan learned this as…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$11.6M",
+     "round": "",
+     "title": "At 21, Jenny Duan saw what Oura and WHOOP missed: women’s hormones. She raised $11.6M from Khosla Ventures to track them",
+     "link": "https://techfundingnews.com/clair-health-11-6m-seed-noninvasive-continuous-hormone-monitor-women/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "after-taking-nvidia-s-money-odyssey": {
+   "name": "After taking Nvidia’s money, Odyssey",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Four months ago, Nvidia’s venture arm invested in Odyssey. Today, Odyssey announced it will use Amazon’s chips for…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$310M",
+     "round": "",
+     "title": "After taking Nvidia’s money, Odyssey raises $310M and bets on Amazon and AMD instead",
+     "link": "https://techfundingnews.com/odyssey-310m-series-b-nvidia-amazon-amd-ai-world-models/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "as-europe-s-top-drone-startups-compete-to-build-the-next-fig": {
+   "name": "As Europe’s top drone startups compete to build the next fig",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Helsing raised $1.2 billion, and Quantum Systems closed €180 million. Europe’s big drone companies are competing to build…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "€2M",
+     "round": "",
+     "title": "As Europe’s top drone startups compete to build the next fighter jet, this Lithuanian startup grabbed €2M to tackle a problem they all face",
+     "link": "https://techfundingnews.com/as-europes-top-drone-startups-compete-to-build-the-next-fighter-jet-this-lithuanian-startup-grabbed-e2m-to-tackle-a-problem-they-all-face/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "jeff-bezos-backs-cuspai-in-reported-400m": {
+   "name": "Jeff Bezos backs CuspAI in reported $400M",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Jeff Bezos built Amazon, believing that distribution was the toughest challenge in commerce. Now, he seems to think…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$400M",
+     "round": "",
+     "title": "Jeff Bezos backs CuspAI in reported $400M raise that could value it at $2.6B",
+     "link": "https://techfundingnews.com/cuspai-520m-to-2-6b-jeff-bezos-materials-science-bet/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "warsaw-s-microamp": {
+   "name": "Warsaw’s Microamp",
+   "country": "Poland",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Warsaw-based Microamp, an innovator in resilient 5G mmWave wireless solutions, has been awarded €6.5 million in funding to accelerate the development of the Microamp Any-G mmWave AI-RAN Wireless Platform – a fully reconfigurable, software-defined system enabling seamless adaptati",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "€6.5 million",
+     "round": "",
+     "title": "Warsaw’s Microamp raises €6.5 million to support European 5G and 6G network technology",
+     "link": "https://www.eu-startups.com/2026/06/warsaws-microamp-raises-e6-5-million-to-support-european-5g-and-6g-network-technology/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ex-palantir-team-behind-conduct": {
+   "name": "Ex-Palantir team behind Conduct",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "London-based Conduct, an AI OS that help enterprises understand, operate, and change their software systems, today announced a €51 million ($60 million) Series A to expand its engineering and go-to-market teams, deepen its SAP capabilities, and accelerate work across Salesforce, ",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "€51 million",
+     "round": "Series A",
+     "title": "Ex-Palantir team behind Conduct raises €51 million to make enterprise systems AI-ready",
+     "link": "https://www.eu-startups.com/2026/06/ex-palantir-team-behind-conduct-raises-e51-million-to-make-enterprise-systems-ai-ready/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "nexdash": {
+   "name": "NexDash",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Berlin road freight startup NexDash today announced €2.5 million in funding from EIT Urban Mobility. The investment is a pre-Series A commitment securing EIT Urban Mobility’s Series A participation.Ro...",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "€2.5 million",
+     "round": "Pre-Series A",
+     "title": "Berlin-based NexDash secures €2.5 million from EIT Urban Mobility to electrify Europe’s road freight",
+     "link": "https://www.eu-startups.com/2026/06/berlin-based-nexdash-secures-e2-5-million-from-eit-urban-mobility-to-electrify-europes-road-freight/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-17",
+     "amount": "€2.5 million",
+     "round": "Pre-Series A",
+     "title": "NexDash secures €2.5 million from EIT Urban Mobility to accelerate electric freight expansion",
+     "link": "https://tech.eu/2026/06/17/nexdash-secures-eur25-million-from-eit-urban-mobility-to-accelerate-electric-freight-expansion-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "soource": {
+   "name": "Soource",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Soource, a Bolzano-based startup offering procurement solutions focused on sourcing and supplier selection, has announced the close of a €3 million Seed funding round to consolidate its position in Italy’s procurement intelligence market and support its European expansion.  The r",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "€3 million",
+     "round": "Seed",
+     "title": "Bolzano-based Soource raises €3 million to help procurement evolve from “copilot” to “autopilot” model",
+     "link": "https://www.eu-startups.com/2026/06/bolzano-based-soource-raises-e3-million-to-help-procurement-evolve-from-copilot-to-autopilot-model/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "pdkinematics": {
+   "name": "PDKINEMATICS",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Lithuanian defence engineering company PDKINEMATICS  has raised a €2 million Seed round co-led by Coinvest Capital and Iron Wolf Capital.  The round also includes defence-focused angels and experience...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "€2 million",
+     "round": "Seed",
+     "title": "Drone warfare startup PDKINEMATICS raises €2 million for precision-guidance systems out of Lithuania",
+     "link": "https://www.eu-startups.com/2026/06/drone-warfare-startup-pdkinematics-raises-e2-million-for-precision-guidance-systems-out-of-lithuania/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-17",
+     "amount": "€2M",
+     "round": "Seed",
+     "title": "PDKINEMATICS raises €2M for drone guidance technology",
+     "link": "https://tech.eu/2026/06/17/pdkinematics-raises-eur2m-for-drone-guidance-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "neuraltrust": {
+   "name": "NeuralTrust",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "NeuralTrust, a platform for securing AIagents, has raised a $20 million seed financing round, led by Alstin Capital,with participation from VentureFriends, Seaya, Kibo Ventures, Banc Sabadell, EAVentu...",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "€17.2 million",
+     "round": "Seed",
+     "title": "Barcelona-based NeuralTrust raises €17.2 million to secure and govern enterprise AI agents",
+     "link": "https://www.eu-startups.com/2026/06/barcelona-based-neuraltrust-raises-e17-2-million-to-secure-and-govern-enterprise-ai-agents/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-17",
+     "amount": "$20M",
+     "round": "Seed",
+     "title": "NeuralTrust closes $20M to expand AI agent security platform",
+     "link": "https://tech.eu/2026/06/17/neuraltrust-closes-20m-to-expand-ai-agent-security-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "tonada": {
+   "name": "Tonada",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Tonada, a Stockholm-based AI-generated sound platform for retail and hospitality, has today announced a €2.6 million ($3 million) pre-Seed round as it aims to make high-quality AI-generated audio available to every brand with a physical space. The funding round was led by Antler,",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "€2.6 million",
+     "round": "Pre-Seed",
+     "title": "Stockholm-based Tonada lands €2.6 million to help brands design how their spaces sound",
+     "link": "https://www.eu-startups.com/2026/06/stockholm-based-tonada-lands-e2-6-million-to-help-brands-design-how-their-spaces-sound/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "solar-foods": {
+   "name": "Solar Foods",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Solar Foods has secured €77.8 million in grant and loan financing to support the construction and commissioning of Factory 02. The funding package comprises a €39.6 million grant and a €38.1 million R...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "€77.8M",
+     "round": "Grant",
+     "title": "Solar Foods wins €77.8M funding package for Factory 02 expansion",
+     "link": "https://tech.eu/2026/06/17/solar-foods-wins-77-8m-funding-package-for-factory-02-expansion/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "tryll-launches-ai-gaming-engine-alpha-and": {
+   "name": "Tryll launches AI gaming engine alpha and",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Tryll, the company behind an on-device AI engine forvideo games, has raised a $600,000 pre-seed round from Early Game Ventures,reaching a valuation of $6 million. The funding will be used to further d...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$600K",
+     "round": "Pre-Seed",
+     "title": "Tryll launches AI gaming engine alpha and secures $600K pre-seed funding",
+     "link": "https://tech.eu/2026/06/17/tryll-launches-ai-gaming-engine-alpha-and-secures-600k-pre-seed-funding/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "former-palantir-employees": {
+   "name": "Former Palantir employees",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "A London-based AI startup founded by three former Palantir employees, which is looking to modernise ERP systems, has raised $60m in new funding. The Series A investment in Conduct was co-led by new in...",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$60M",
+     "round": "Series A",
+     "title": "Former Palantir employees raise $60M for AI enterprise startup Conduct",
+     "link": "https://tech.eu/2026/06/17/former-palantir-employees-raise-60m-for-ai-enterprise-startup-conduct/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "flagright": {
+   "name": "Flagright",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Flagright,the AI operating system for financial crime compliance, has raised a $12.5million Series A funding round led by Infinity Ventures, with participationfrom Sella Direct Ventures and continued ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$12.5M",
+     "round": "Series A",
+     "title": "Flagright secures $12.5M Series A to scale AI compliance platform",
+     "link": "https://tech.eu/2026/06/17/flagright-secures-125m-series-a-to-scale-ai-compliance-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "dhan-parent": {
+   "name": "Dhan Parent",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Stockbroking platform Dhan parent Raise Securities’ net profit for the fiscal year FY26 declined by 20% to ₹325.8 Cr from…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "₹326",
+     "round": "",
+     "title": "Dhan Parent Raise’s FY26 Profit Declines 20% To ₹326 Cr, Net Income Crosses ₹900 Cr",
+     "link": "https://inc42.com/buzz/dhan-parent-raises-fy26-profit-declines-20-to-%e2%82%b9326-cr-revenue-crosses-%e2%82%b9900-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "bigbasket-founders-step-down-trunativ": {
+   "name": "BigBasket Founders Step Down, TruNativ",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "New Leadership Takes Over BigBasket It is the end of an era at BigBasket. Cofounders Hari Menon and Vipul Parekh…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$30 Mn",
+     "round": "",
+     "title": "BigBasket Founders Step Down, TruNativ Bags $30 Mn & More",
+     "link": "https://inc42.com/buzz/bigbasket-founders-step-down-trunativ-bags-30-mn-more/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "cricketer-pat-cummins-backs-longevity-startup-everlab-s-65": {
+   "name": "Cricketer Pat Cummins backs longevity startup Everlab’s $65 ",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "The 3-year-old Melbourne startup snags $65M Series A, led by Airtree, for AI-powered health diagnostics, and UK expansion.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-16",
+   "last_seen": "2026-06-16",
+   "events": [
+    {
+     "date": "2026-06-16",
+     "amount": "$65 million",
+     "round": "Series A",
+     "title": "Cricketer Pat Cummins backs longevity startup Everlab’s $65 million Series A",
+     "link": "https://www.startupdaily.net/topic/funding/cricketer-pat-cummins-backs-longevity-startup-everlabs-65-million-series-a/",
      "source": "Startup Daily"
     }
    ]
