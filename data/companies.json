@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-17T16:38:45+00:00",
+ "updated": "2026-06-18T16:30:29+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -2775,13 +2775,13 @@
    "region": "Europe",
    "category": "Infrastructure & tools",
    "sector": "DevTools / Cloud",
-   "is_ai": false,
+   "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Finland-based GitHits has raised €1.5 million in pre-seed funding, which it will use to develop what the company calls the “Google of code search”. The investors include Finnish VC Vendep Capital, Estonian VC Trind, and notable angel investors such as Peter Sarlin, Zach Shelby, a",
+   "summary": "GitHits announced that it has raised $1.75 million in pre-seed funding to develop what it describes as the “Google of code search.” The round included participation from Vendep Capital, Trind, and angel investors, including Peter Sarlin, Zach Shelby, and LlamaIndex co-founder Jer",
    "audience": "Developers & data teams",
    "first_seen": "2026-06-16",
-   "last_seen": "2026-06-16",
+   "last_seen": "2026-06-18",
    "events": [
     {
      "date": "2026-06-16",
@@ -2790,6 +2790,14 @@
      "title": "Open-source startup GitHits closes €1.5 million to in pre-seed funding for product development",
      "link": "https://www.eu-startups.com/2026/06/open-source-startup-githits-closes-e1-5-million-to-in-pre-seed-funding-for-product-development/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-18",
+     "amount": "$1.75 Million",
+     "round": "Pre-Seed",
+     "title": "GitHits Raises $1.75 Million Pre-Seed To Build Code Search For AI Coding Agents",
+     "link": "https://pulse2.com/githits-raises-1-75-million-pre-seed-to-build-code-search-for-ai-coding-agents/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -3670,6 +3678,830 @@
      "title": "Cricketer Pat Cummins backs longevity startup Everlab’s $65 million Series A",
      "link": "https://www.startupdaily.net/topic/funding/cricketer-pat-cummins-backs-longevity-startup-everlabs-65-million-series-a/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "june-health": {
+   "name": "June Health",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Securian Canada, PointClickCare co-founders, and others join as investors. \n The post  June Health closes $2.4 million for expanded women’s health platform  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "C$2.4 Million",
+     "round": "",
+     "title": "June Health Raises C$2.4 Million To Expand Women’s Healthcare Platform",
+     "link": "https://pulse2.com/june-health-raises-c2-4-million-to-expand-womens-healthcare-platform/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-06-18",
+     "amount": "$2.4 million",
+     "round": "",
+     "title": "June Health closes $2.4 million for expanded women’s health platform",
+     "link": "https://betakit.com/june-health-closes-2-4-million-for-expanded-womens-health-platform/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "portal-biotechnologies": {
+   "name": "Portal Biotechnologies",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Portal Biotechnologies announced the closing of an oversubscribed $9 million financing round. The round was led by NFX, with participation from existing investors including IA Ventures, Pear VC, Undeterred Ventures, IKJ Capital, and TechU Ventures. \n The post  Portal Biotechnolog",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$9 Million",
+     "round": "",
+     "title": "Portal Biotechnologies Raises $9 Million To Expand Cell Engineering Platform",
+     "link": "https://pulse2.com/portal-biotechnologies-raises-9-million-to-expand-cell-engineering-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "architect-labs": {
+   "name": "Architect Labs",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Architect Labs announced that it has emerged from stealth with $24 million in seed funding. The round was led by Kindred Ventures, with participation from TQ Ventures, Race Capital, Together Fund, and several investors and executives across modern computing and AI. Kindred Ventur",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$24 Million",
+     "round": "Seed",
+     "title": "Architect Labs Raises $24 Million Seed Round To Democratize Custom Chip Design",
+     "link": "https://pulse2.com/architect-labs-raises-24-million-seed-round-to-democratize-custom-chip-design/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "hyperlight": {
+   "name": "HyperLight",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "HyperLight announced the closing of an $80 million Series C financing round. The round was led by MediaTek and included participation from UMC Capital, Jabil, Foxconn, EDBI, CDIB-TEN Capital, Qatar Investment Authority, and strategic investors from silicon IC and networking compa",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$80 Million",
+     "round": "Series C",
+     "title": "HyperLight Raises $80 Million Series C To Accelerate TFLN Deployment For AI Infrastructure",
+     "link": "https://pulse2.com/hyperlight-raises-80-million-series-c-to-accelerate-tfln-deployment-for-ai-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "twenty": {
+   "name": "Twenty",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Twenty announced that it has raised a $100 million Series B funding round at a $1 billion valuation. The round was led by Accel, with participation from Friends & Family Capital, Point72 Ventures, and Caffeinated Capital. The new funding brings Twenty’s total funding to $138 mill",
+   "audience": "Consumers",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$100 Million",
+     "round": "Series B",
+     "title": "Twenty Raises $100 Million Series B At $1 Billion Valuation To Build Offensive Cyber Capabilities",
+     "link": "https://pulse2.com/twenty-raises-100-million-series-b-at-1-billion-valuation-to-build-offensive-cyber-capabilities/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pramaana-labs": {
+   "name": "Pramaana Labs",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI startup Pramaana Labs, a startup that is building a “verification layer” for AI, has raised $27 Mn (about ₹258…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$27 Million",
+     "round": "Seed",
+     "title": "Pramaana Labs Raises $27 Million Follow-On Seed Round",
+     "link": "https://pulse2.com/pramaana-labs-raises-27-million-follow-on-seed-round/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-06-17",
+     "amount": "$27 Mn",
+     "round": "",
+     "title": "Pramaana Labs Raises $27 Mn To Build AI Verification Layer",
+     "link": "https://inc42.com/buzz/pramaana-labs-raises-27-mn-to-build-ai-verification-layer/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "xdof": {
+   "name": "XDOF",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "XDOF has emerged from stealth with $70 million in fundraising to build core infrastructure for robot foundation models. \n The post  XDOF Raises $70 Million To Build Infrastructure For Robot Foundation Models  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$70 Million",
+     "round": "",
+     "title": "XDOF Raises $70 Million To Build Infrastructure For Robot Foundation Models",
+     "link": "https://pulse2.com/xdof-raises-70-million-to-build-infrastructure-for-robot-foundation-models/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "clario": {
+   "name": "Clario",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Clario announced that it has launched from stealth with $6 million in seed funding to help enterprises eliminate redundant, obsolete, and trivial data. \n The post  Clario Raises $6 Million Seed Round To Eliminate Enterprise Data ROT  appeared first on  Pulse 2.0 .",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$6 Million",
+     "round": "Seed",
+     "title": "Clario Raises $6 Million Seed Round To Eliminate Enterprise Data ROT",
+     "link": "https://pulse2.com/clario-raises-6-million-seed-round-to-eliminate-enterprise-data-rot/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "behavox": {
+   "name": "Behavox",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Behavox announced that it has received a $175 million preferred equity investment from investment funds and accounts managed by HPS Investment Partners, a global credit investment firm and part of BlackRock. \n The post  Behavox Raises $175 Million From HPS Investment Partners To ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$175 Million",
+     "round": "Growth",
+     "title": "Behavox Raises $175 Million From HPS Investment Partners To Accelerate Global Growth",
+     "link": "https://pulse2.com/behavox-raises-175-million-from-hps-investment-partners-to-accelerate-global-growth/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "telepatia": {
+   "name": "Telepatia",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Telepatia AI announced that it has raised $42 million in funding, including a $33 million Series A round led by a16z. The round included participation from Shyam Sankar of Palantir, David Vélez of Nubank, and Simón Borrero of Rappi. Existing investors A-Star, Abstract, Canary, Pi",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$42 Million",
+     "round": "Series A",
+     "title": "Telepatia Raises $42 Million To Expand AI Doctor Platform Across Latin America",
+     "link": "https://pulse2.com/telepatia-raises-42-million-to-expand-ai-doctor-platform-across-latin-america/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "comand-ai": {
+   "name": "Comand AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Comand AI announced that it has raised €32 million in Series A funding to expand its next-generation command-and-control platform for allied defense forces. \n The post  Comand AI Raises €32 Million Series A To Accelerate NATO Deployment  appeared first on  Pulse 2.0 .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€32 Million",
+     "round": "Series A",
+     "title": "Comand AI Raises €32 Million Series A To Accelerate NATO Deployment",
+     "link": "https://pulse2.com/comand-ai-raises-e32-million-series-a-to-accelerate-nato-deployment/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "rune-technologies": {
+   "name": "Rune Technologies",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Rune Technologies announced that it has received a five-year, $99 million Indefinite Delivery, Indefinite Quantity contract from the U.S. Army. \n The post  Rune Technologies Wins $99 Million U.S. Army Contract For AI-Powered Predictive Logistics Platform  appeared first on  Pulse",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$99 Million",
+     "round": "",
+     "title": "Rune Technologies Wins $99 Million U.S. Army Contract For AI-Powered Predictive Logistics Platform",
+     "link": "https://pulse2.com/rune-technologies-wins-99-million-u-s-army-contract-for-ai-powered-predictive-logistics-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "intercom-co-founder-backs-11m-round-to-replace-freight-disp": {
+   "name": "Intercom co-founder backs $11M round to replace freight disp",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Des Traynor, co-founder of business messaging giant Intercom, has backed an $11 million Series A round in Cargofy,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$11M",
+     "round": "Series A",
+     "title": "Intercom co-founder backs $11M round to replace freight dispatchers with AI workers",
+     "link": "https://techfundingnews.com/intercom-co-founder-backs-11m-round-to-replace-freight-dispatchers-with-ai-workers/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ex-uber-and-amazon-alums": {
+   "name": "Ex-Uber and Amazon alums",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Devplan, based in Seattle, has raised $2.5 million in seed funding led by AI2 Incubator. The company is…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$2.5M",
+     "round": "Seed",
+     "title": "Exclusive: Ex-Uber and Amazon alums raise $2.5M to reduce AI coordination costs by 3.5x",
+     "link": "https://techfundingnews.com/devplan-2-5m-seed-uber-amazon-ai-coordination-costs/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "85-of-nato-defence-tech-funding-went-to-the-us-avp-and-ear": {
+   "name": "85% of NATO defence tech funding went to the US. AVP and Ear",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "For years, starting a defence or dual-use tech company in Europe usually meant hearing the same thing: the…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€500M",
+     "round": "",
+     "title": "85% of NATO defence tech funding went to the US. AVP and Earlybird just raised €500M to change that",
+     "link": "https://techfundingnews.com/avp-earlybird-e2d-500m-fund-european-defence-startups-us-vc/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "most-belgians-retire-with-less-than-10-000-saved-warren-ju": {
+   "name": "Most Belgians retire with less than €10,000 saved. Warren ju",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The average Belgian spends about 40 years working and retires with a supplementary pension worth less than a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€10,000",
+     "round": "",
+     "title": "Most Belgians retire with less than €10,000 saved. Warren just raised €10M from Motive Ventures to change that",
+     "link": "https://techfundingnews.com/warren-10m-seed-belgium-pension-fintech-10000-retiree-savings/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "this-french-startup-s-ai-is-already-calling-shots-on-battlef": {
+   "name": "This French startup’s AI is already calling shots on battlef",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The Paris-based Comand AI, which builds AI software that helps military commanders process battlefield data and act faster…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€32M",
+     "round": "",
+     "title": "This French startup’s AI is already calling shots on battlefields. Now, it’s raised €32M to scale",
+     "link": "https://techfundingnews.com/this-french-startups-ai-is-already-calling-shots-on-battlefields-now-its-raised-e32m-to-scale/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "fpe-capital": {
+   "name": "FPE Capital",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The British Business Bank (BBB) has announced a cornerstone commitment of €46 million (£40 million) to FPE Capital’s Fund IV, to support high growth smaller businesses across the UK and Ireland. The BBB previously committed €23 million (£20 million) to FPE’s Fund II in 2017 and t",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€46 million",
+     "round": "Growth",
+     "title": "FPE Capital closes Fund IV first round with €46 million cornerstone investment from British Business Bank",
+     "link": "https://www.eu-startups.com/2026/06/fpe-capital-closes-fund-iv-first-round-with-e46-million-cornerstone-investment-from-british-business-bank/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "cargofy": {
+   "name": "Cargofy",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Logisticstechnology company Cargofy has raised $11 million in a Series A funding round,consisting of $6 million in primary capital and $5 million in secondarytransactions. The round was led by u.ventu...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€9.5 million",
+     "round": "Series A",
+     "title": "Cargofy raises €9.5 million Series A to deploy AI “digital workers” across freight operations",
+     "link": "https://www.eu-startups.com/2026/06/cargofy-raises-e9-5-million-series-a-to-deploy-ai-digital-workers-across-freight-operations/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-18",
+     "amount": "$6M",
+     "round": "Series A",
+     "title": "Cargofy lands $6M to scale AI workers for logistics",
+     "link": "https://tech.eu/2026/06/18/cargofy-lands-6m-to-scale-ai-workers-for-logistics/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "kvasir-technologies": {
+   "name": "Kvasir Technologies",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Kvasir Technologies, a Copenhagen-based biofuel startup, has raised €10 million in a Series A investment round to accelerate the scale-up and commercialisation of its climate-neutral marine fuel. European Energy participated in this round as a new investor, alongside existing inv",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€10 million",
+     "round": "Series A",
+     "title": "Copenhagen-based Kvasir Technologies raises €10 million to scale climate-neutral marine biofuel",
+     "link": "https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "vivici": {
+   "name": "Vivici",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vivici, a Dutch ingredients startup aiming to make dairy protein from precision fermentation commercially viable, has secured €12.5 million from the European Innovation Council (EIC) Accelerator Programme.  This capital will support the company’s plans to scale market access and ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€12.5 million",
+     "round": "",
+     "title": "Dutch ingredients startup Vivici secures €12.5 million EIC backing to scale animal-free dairy proteins",
+     "link": "https://www.eu-startups.com/2026/06/dutch-ingredients-startup-vivici-secures-e12-5-million-eic-backing-to-scale-animal-free-dairy-proteins/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "warren": {
+   "name": "Warren",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ghent-based fintech startup Warren hasraised €10 million in a seed funding round led by Motive Ventures, the venturearm of transatlantic investment fund Motive Partners. The round also included FCapit...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€10 million",
+     "round": "Seed",
+     "title": "Warren bags €10 million to rethink workplace pensions and tackle Belgium’s strained pension system",
+     "link": "https://www.eu-startups.com/2026/06/warren-bags-e10-million-to-rethink-workplace-pensions-and-tackle-belgiums-strained-pension-system/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-18",
+     "amount": "€10M",
+     "round": "Seed",
+     "title": "Warren raises €10M to reshape retirement savings",
+     "link": "https://tech.eu/2026/06/18/warren-raises-eur10m-to-reshape-retirement-savings/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "venture-kick-backs-minysa-with-163k-for-gan-chip-developmen": {
+   "name": "Venture Kick backs Minysa with €163K for GaN chip developmen",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swiss electronicsstartup Minysa has secured €163,000 (CHF150,000) from Venture Kick toaccelerate the development of its next-generation gallium nitride (GaN) controlchips for high-performance power el...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€163K",
+     "round": "",
+     "title": "Venture Kick backs Minysa with €163K for GaN chip development",
+     "link": "https://tech.eu/2026/06/18/venture-kick-backs-minysa-with-eur163k-for-gan-chip-development/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "former-palantir-healthcare-head": {
+   "name": "Former Palantir healthcare head",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "A London-based startup founded by a former Palantir healthcare executive who worked in NHS hospitals during Covid has raised £9.7m in a funding round.The funding round in Frontier Health was led by At...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "£10M",
+     "round": "",
+     "title": "Former Palantir healthcare head raises £10M for NHS AI agent startup",
+     "link": "https://tech.eu/2026/06/18/former-palantir-healthcare-head-raises-16m-for-nhs-ai-agent-startup/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "onesoil": {
+   "name": "OneSoil",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Zurich-basedagritech company OneSoil, which develops AI-driven solutions for precisionagriculture, has secured €1 million in funding from existing investors,including Yury Melnichek, serial entreprene...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€1M",
+     "round": "",
+     "title": "OneSoil secures €1M to expand AI-powered farming assistant",
+     "link": "https://tech.eu/2026/06/18/onesoil-secures-eur1m-to-expand-ai-powered-farming-assistant/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "revo-capital-leads-turbo-law-s-3-8m-seed-round-to-expand-li": {
+   "name": "Revo Capital leads Turbo Law's $3.8M seed round to expand li",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Legal technology startup Turbo Lawhas raised $3.8 million in seed funding in a round led by Revo Capital, withparticipation from existing investors Treeo VC, BridgeX Ventures, AlchemistAccelerator, Go...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$3.8M",
+     "round": "Seed",
+     "title": "Revo Capital leads Turbo Law's $3.8M seed round to expand litigation platform",
+     "link": "https://tech.eu/2026/06/18/revo-capital-leads-turbo-laws-38m-seed-round-to-expand-litigation-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "kvasir-technologies-fuels-growth-with-10m-round": {
+   "name": "Kvasir Technologies fuels growth with €10M round",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Danish biofuelstartup Kvasir Technologies has raised €10 million in a Series A funding round,attracting a new investment from European Energy alongside participation fromexisting investors EIFO, Mærsk...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "€10M",
+     "round": "Growth",
+     "title": "Kvasir Technologies fuels growth with €10M round",
+     "link": "https://tech.eu/2026/06/18/kvasir-technologies-fuels-growth-with-eur10m-round/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "turtlemint-ipo-cash-burn-in-focus-after-397-cr-anchor-roun": {
+   "name": "Turtlemint IPO: Cash Burn In Focus After ₹397 Cr Anchor Roun",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Insurtech startup Turtlemint has raised ₹397.2 Cr from anchor investors. The platform allotted 2.61 Cr equity shares to anchor investors…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "₹397",
+     "round": "",
+     "title": "Turtlemint IPO: Cash Burn In Focus After ₹397 Cr Anchor Round",
+     "link": "https://inc42.com/features/turtlemint-ipo-cash-burn-in-focus-after-%e2%82%b9397-cr-anchor-round/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "karo-sambhav": {
+   "name": "Karo Sambhav",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Cleantech startup Karo Sambhav has raised ₹56 Cr ($5.9 Mn) in its Pre-Series A funding round from Rainmatter to scale…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "₹56",
+     "round": "Pre-Series A",
+     "title": "Karo Sambhav Raises ₹56 Cr To Turn E-Waste Into Critical Raw Materials",
+     "link": "https://inc42.com/buzz/karo-sambhav-raises-%e2%82%b956-cr-to-turn-e-waste-into-critical-raw-materials/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "digital-entertainment-startup-rusk-media": {
+   "name": "Digital Entertainment Startup Rusk Media",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Mumbai-based digital entertainment startup Rusk Media has raised ₹100 Cr (about $10.6 Mn) in its pre-series C funding round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "₹100",
+     "round": "Pre-Series C",
+     "title": "Digital Entertainment Startup Rusk Media Secures ₹100 Cr",
+     "link": "https://inc42.com/buzz/digital-entertainment-startup-rusk-media-secures-%e2%82%b9100-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "vetic": {
+   "name": "Vetic",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Pet healthcare startup Vetic has secured $40 Mn (₹377.7 Cr) in a funding round led by existing investor Bessemer Venture…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-18",
+   "last_seen": "2026-06-18",
+   "events": [
+    {
+     "date": "2026-06-18",
+     "amount": "$40 Mn",
+     "round": "",
+     "title": "Petcare Startup Vetic Secures $40 Mn To Scale Clinic Network",
+     "link": "https://inc42.com/buzz/petcare-startup-vetic-secures-40-mn-to-scale-clinic-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "northstar": {
+   "name": "NorthStar",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Montréal-based space tech company plans to go public this fall via SPAC. \n The post  NorthStar secures $40 million to track space threats for Canada’s air force  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$40 million",
+     "round": "",
+     "title": "NorthStar secures $40 million to track space threats for Canada’s air force",
+     "link": "https://betakit.com/northstar-secures-40-million-to-track-space-threats-for-canadas-air-force/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "realize": {
+   "name": "Realize",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Toronto firm raised $142 million from private LPs to complement Ottawa’s anchor commitment. \n The post  Realize closes one of Canada’s largest impact funds at $227 million  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "events": [
+    {
+     "date": "2026-06-17",
+     "amount": "$227 million",
+     "round": "",
+     "title": "Realize closes one of Canada’s largest impact funds at $227 million",
+     "link": "https://betakit.com/realize-closes-one-of-canadas-largest-impact-funds-at-227-million/",
+     "source": "BetaKit"
     }
    ]
   }
