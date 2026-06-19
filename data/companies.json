@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-18T16:30:29+00:00",
+ "updated": "2026-06-19T15:58:50+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -3521,11 +3521,11 @@
    "sector": "Climate / Energy",
    "is_ai": false,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "Solar Foods has secured €77.8 million in grant and loan financing to support the construction and commissioning of Factory 02. The funding package comprises a €39.6 million grant and a €38.1 million R...",
-   "audience": "General / mixed",
+   "stage": "established",
+   "summary": "This week, we tracked more than 60 tech funding deals worth over €585 million and 3 exits, M&A transactions, rumours, and related news stories across Europe.If email is more your thing, you can al...",
+   "audience": "Government & public sector",
    "first_seen": "2026-06-17",
-   "last_seen": "2026-06-17",
+   "last_seen": "2026-06-19",
    "events": [
     {
      "date": "2026-06-17",
@@ -3533,6 +3533,14 @@
      "round": "Grant",
      "title": "Solar Foods wins €77.8M funding package for Factory 02 expansion",
      "link": "https://tech.eu/2026/06/17/solar-foods-wins-77-8m-funding-package-for-factory-02-expansion/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-19",
+     "amount": "€77.8M",
+     "round": "Growth",
+     "title": "Solar Foods bags €77.8M package, €500M defence and dual-use growth fund EDM launched, and warning for Europe's silicon photonics",
+     "link": "https://tech.eu/2026/06/19/solar-foods-bags-77-8m-package-500m-defence-and-dual-use-growth-fund-edm-launched-and-warning-for-europe-s-silicon-photonics/",
      "source": "Tech.eu"
     }
    ]
@@ -4502,6 +4510,390 @@
      "title": "Realize closes one of Canada’s largest impact funds at $227 million",
      "link": "https://betakit.com/realize-closes-one-of-canadas-largest-impact-funds-at-227-million/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "enhanced": {
+   "name": "Enhanced",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Enhanced Group announced the closing of the initial tranche of its previously disclosed $50 million private investment in public equity financing. The remaining tranches are expected to close following customary regulatory and stock exchange approvals. \n The post  Enhanced Closes",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "$50 Million",
+     "round": "",
+     "title": "Enhanced Closes Initial Tranche Of $50 Million PIPE Financing",
+     "link": "https://pulse2.com/enhanced-closes-initial-tranche-of-50-million-pipe-financing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cim-group-s-permanent-power-company": {
+   "name": "CIM Group’s Permanent Power Company",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "CIM Group’s Permanent Power Company announced that it has closed an approximately $600 million construction financing facility for its Grape solar and energy storage project in California. \n The post  CIM Group’s Permanent Power Company Closes $600 Million Construction Financing ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "$600 Million",
+     "round": "",
+     "title": "CIM Group’s Permanent Power Company Closes $600 Million Construction Financing For Grape Solar And Storage Project",
+     "link": "https://pulse2.com/cim-groups-permanent-power-company-closes-600-million-construction-financing-for-grape-solar-and-storage-project/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "anti-fund": {
+   "name": "Anti Fund",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Anti Fund announced the closing of its oversubscribed $100 million Anti Fund Growth I. With the close of Growth I, Anti Fund now has more than $180 million in assets under management. \n The post  Anti Fund Closes Oversubscribed $100 Million Growth Fund  appeared first on  Pulse 2",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "$100 Million",
+     "round": "Growth",
+     "title": "Anti Fund Closes Oversubscribed $100 Million Growth Fund",
+     "link": "https://pulse2.com/anti-fund-closes-oversubscribed-100-million-growth-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "france-adds-13b-to-tibi-the-investment-model-other-europea": {
+   "name": "France adds €13B to Tibi, the investment model other Europea",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Today, France’s finance ministry announced it has raised another €13 billion in institutional capital for the tech sector,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "€13B",
+     "round": "",
+     "title": "France adds €13B to Tibi, the investment model other European countries are starting to follow",
+     "link": "https://techfundingnews.com/france-13b-tibi-national-investment-model-europe-follow/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "tu-wien-spinout-gate-space": {
+   "name": "TU Wien spinout GATE Space",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Most stories about satellite funding focus on getting payloads into orbit. GATE Space’s recent funding, however, is about…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "€6.3M",
+     "round": "",
+     "title": "TU Wien spinout GATE Space lands €6.3M: can Austria’s space sector punch above its weight?",
+     "link": "https://techfundingnews.com/gate-space-6-3m-eic-austria-military-satellite-beaconsat-propulsion/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "a-cambridge-phd-discovery": {
+   "name": "A Cambridge PhD discovery",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Houdini Bio just raised about £1.5 million by combining non-dilutive grants, which do not require giving up equity,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "£1.5M",
+     "round": "",
+     "title": "A Cambridge PhD discovery raised £1.5M led by SCVC to fix gene therapy’s costly flaw",
+     "link": "https://techfundingnews.com/houdini-bio-15m-cambridge-phd-gene-therapy-durability/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "from-5b-to-13b-in-five-months-baseten-reportedly-closing": {
+   "name": "From $5B to $13B in five months: Baseten reportedly closing ",
+   "country": "USA",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Baseten, the San Francisco-based AI inference platform, is reportedly closing in on a $1.5 billion funding round that…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "$5B",
+     "round": "",
+     "title": "From $5B to $13B in five months: Baseten reportedly closing in on $1.5B raise",
+     "link": "https://techfundingnews.com/from-5b-to-13b-in-five-months-baseten-reportedly-closing-in-on-1-5b-raise/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "vcs-have-never-built-anything-how-this-founder": {
+   "name": "VCs have never built anything: how this founder",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "For early-stage companies, venture capital funding is often romanticised as a gold standard. A sign that your company…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "£20M",
+     "round": "",
+     "title": "VCs have never built anything: how this founder raised £20M without a single venture capitalist",
+     "link": "https://techfundingnews.com/vc-model-dying-age-ai-narwhal-labs-20m-without-venture-capitalist/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "seqana": {
+   "name": "Seqana",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Seqana, a Berlin-based digital MRV (Monitoring, Reporting and Verification) company that quantifies soil health using satellite imagery and machine learning, has closed a €3.2 million funding round.  The round was led by Pymwymic, joined by existing investors HTGF and Counteract.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "€3.2 million",
+     "round": "Debt",
+     "title": "Berlin-based Seqana secures €3.2 million to quantify soil health using satellite imagery and machine learning",
+     "link": "https://www.eu-startups.com/2026/06/berlin-based-seqana-secures-e3-2-million-to-quantify-soil-health-using-satellite-imagery-and-machine-learning/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "houdini-bio-emerges-from-stealth-with-1-7-million-to-tackle": {
+   "name": "Houdini Bio emerges from stealth with €1.7 million to tackle",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "British BioTech startup Houdini Bio has exited out of stealth today with approximately €1.7 million (£1.5 million) in pre-Seed funding in order to validate its DNA sequence design infrastructure platform – engineered to overcome the biological barriers limiting genetic medicines.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "€1.7 million",
+     "round": "Pre-Seed",
+     "title": "Houdini Bio emerges from stealth with €1.7 million to tackle DNA silencing in gene therapies",
+     "link": "https://www.eu-startups.com/2026/06/houdini-bio-emerges-from-stealth-with-e1-7-million-to-tackle-dna-silencing-in-gene-therapies/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "adomate": {
+   "name": "Adomate",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Adomate, a Ghent-based AI startup helping marketing teams create social media ads more efficiently, has raised €1.4 million to support its international expansion and continued product development. Participants in the round include Angelwise, RDY Ventures, and Seeder Fund, along ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "€1.4 million",
+     "round": "",
+     "title": "Ghent-based Adomate raises €1.4 million to help marketers create AI-powered social media ads at scale",
+     "link": "https://www.eu-startups.com/2026/06/ghent-based-adomate-raises-e1-4-million-to-help-marketers-create-ai-powered-social-media-ads-at-scale/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "festina-finance": {
+   "name": "Festina Finance",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Festina Finance, a Copenhagen-based FinTech startup that provides cloud-native modular technology platforms for pensions, life insurance and financial planning, has secured over €25 million in growth investment.  The company secured this investment from Birchway Capital, a UK-bas",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "€25 million",
+     "round": "Growth",
+     "title": "Copenhagen-based Festina Finance secures over €25 million to modernise pensions and life insurance platforms",
+     "link": "https://www.eu-startups.com/2026/06/copenhagen-based-festina-finance-secures-over-e25-million-to-modernise-pensions-and-life-insurance-platforms/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "vienna-s-somareality": {
+   "name": "Vienna’s SOMAREALITY",
+   "country": "Austria",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "SOMAREALITY, a Vienna-based software company that provides eye tracking algorithms to measure cognitive states in real-time, has secured over €3 million in an oversubscribed Series A round.  The round was led by Catalyst Romania, with participation from the company’s existing inv",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "€3 million",
+     "round": "Series A",
+     "title": "Vienna’s SOMAREALITY secures over €3 million to power real-time cognitive monitoring through eye tracking",
+     "link": "https://www.eu-startups.com/2026/06/viennas-somareality-secures-over-e3-million-to-power-real-time-cognitive-monitoring-through-eye-tracking/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "healthquad-marks-first": {
+   "name": "HealthQuad Marks First",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Quadria Group-backed VC firm HealthQuad has announced the first close of its ₹1,700 Cr (about $180 Mn) Fund III with…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "₹550",
+     "round": "",
+     "title": "HealthQuad Marks First Close Fund III At ₹550 Cr",
+     "link": "https://inc42.com/buzz/healthquad-marks-first-close-fund-iii-at-%e2%82%b9550-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "hcltech-s-sarvam-bet-vetic": {
+   "name": "HCLTech’s Sarvam Bet, Vetic",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Has Patient Capital Finally Arrived? Sovereign AI is back in the spotlight in India. As global giants tightens AI access…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "$40 Mn",
+     "round": "",
+     "title": "HCLTech’s Sarvam Bet, Vetic Bags $40 Mn & More",
+     "link": "https://inc42.com/buzz/hcltechs-sarvam-bet-vetic-bags-40-mn-more/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "metigy-founder-david-fairfull-jailed-for-9-years-for-mislead": {
+   "name": "Metigy founder David Fairfull jailed for 9 years for mislead",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Metigy founder David Fairfull jailed for 9 years in a criminal case over fraudulent raises and misusing $7.7m to buy property.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "$39 million",
+     "round": "",
+     "title": "Metigy founder David Fairfull jailed for 9 years for misleading conduct raising $39 million and misusing $7.7m",
+     "link": "https://www.startupdaily.net/topic/people/metigy-founder-david-fairfull-jailed-for-9-years-for-misleading-conduct-raising-39-million-and-misusing-7-7m/",
+     "source": "Startup Daily"
     }
    ]
   }
