@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-19T15:58:50+00:00",
+ "updated": "2026-06-20T15:03:11+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -4894,6 +4894,30 @@
      "title": "Metigy founder David Fairfull jailed for 9 years for misleading conduct raising $39 million and misusing $7.7m",
      "link": "https://www.startupdaily.net/topic/people/metigy-founder-david-fairfull-jailed-for-9-years-for-misleading-conduct-raising-39-million-and-misusing-7-7m/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "connie-health": {
+   "name": "Connie Health",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Connie Health announced the completion of its acquisition and integration of Clearlink’s Medicare business. The deal marks Connie Health’s 10th completed acquisition and expands its AI-native Medicare navigation platform. Financial terms of the acquisition were not disclosed. \n T",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-19",
+   "last_seen": "2026-06-19",
+   "events": [
+    {
+     "date": "2026-06-19",
+     "amount": "$40 Million",
+     "round": "",
+     "title": "Connie Health Raises $40 Million And Acquires Clearlink’s Medicare Business",
+     "link": "https://pulse2.com/connie-health-raises-40-million-and-acquires-clearlinks-medicare-business/",
+     "source": "Pulse 2.0"
     }
    ]
   }
