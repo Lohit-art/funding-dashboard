@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-20T15:03:11+00:00",
+ "updated": "2026-06-21T15:10:48+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -4146,10 +4146,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Logisticstechnology company Cargofy has raised $11 million in a Series A funding round,consisting of $6 million in primary capital and $5 million in secondarytransactions. The round was led by u.ventu...",
+   "summary": "Cargofy announced that it has raised $6 million in Series A funding. The round was led by u.ventures, Toloka.vc, and Movens Capital. Des Traynor, co-founder of Intercom and Fin, also participated in the round. \n The post  Cargofy Raises $6 Million Series A To Build Digital Employ",
    "audience": "General / mixed",
    "first_seen": "2026-06-18",
-   "last_seen": "2026-06-18",
+   "last_seen": "2026-06-21",
    "events": [
     {
      "date": "2026-06-18",
@@ -4166,6 +4166,14 @@
      "title": "Cargofy lands $6M to scale AI workers for logistics",
      "link": "https://tech.eu/2026/06/18/cargofy-lands-6m-to-scale-ai-workers-for-logistics/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-21",
+     "amount": "$6 Million",
+     "round": "Series A",
+     "title": "Cargofy Raises $6 Million Series A To Build Digital Employees For Logistics",
+     "link": "https://pulse2.com/cargofy-raises-6-million-series-a-to-build-digital-employees-for-logistics/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -4918,6 +4926,174 @@
      "title": "Connie Health Raises $40 Million And Acquires Clearlink’s Medicare Business",
      "link": "https://pulse2.com/connie-health-raises-40-million-and-acquires-clearlinks-medicare-business/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "devplan": {
+   "name": "Devplan",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Devplan announced its launch and the closing of $2.5 million in seed funding. The round was led by AI2 Incubator and Acequia Capital, with participation from Mighty Capital, Grand Ventures, and eLab Ventures. \n The post  Devplan Raises $2.5 Million Seed Round To Build Product Int",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-06-21",
+   "last_seen": "2026-06-21",
+   "events": [
+    {
+     "date": "2026-06-21",
+     "amount": "$2.5 Million",
+     "round": "Seed",
+     "title": "Devplan Raises $2.5 Million Seed Round To Build Product Intelligence Platform For Software Teams",
+     "link": "https://pulse2.com/devplan-raises-2-5-million-seed-round-to-build-product-intelligence-platform-for-software-teams/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "verse": {
+   "name": "Verse",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Verse announced that it has raised an oversubscribed $54 million Series B funding round. The round was led by Bessemer Venture Partners, with participation from GV, NVIDIA, Norrsken VC, and others. \n The post  Verse Raises $54 Million Series B To Accelerate Power Access For AI Da",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-21",
+   "last_seen": "2026-06-21",
+   "events": [
+    {
+     "date": "2026-06-21",
+     "amount": "$54 Million",
+     "round": "Series B",
+     "title": "Verse Raises $54 Million Series B To Accelerate Power Access For AI Data Centers",
+     "link": "https://pulse2.com/verse-raises-54-million-series-b-to-accelerate-power-access-for-ai-data-centers/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cntxt-ai": {
+   "name": "CNTXT AI",
+   "country": "UAE",
+   "region": "Middle East",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "CNTXT AI announced that it has closed a $60 million Series A funding round. The round was co-led by AI71, Abu Dhabi’s applied AI company focused on sovereign and domain-specialized AI, and BlueFive Capital, a global asset manager originating from the GCC. \n The post  CNTXT AI Rai",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-21",
+   "last_seen": "2026-06-21",
+   "events": [
+    {
+     "date": "2026-06-21",
+     "amount": "$60 Million",
+     "round": "Series A",
+     "title": "CNTXT AI Raises $60 Million Series A To Deploy Sovereign AI Globally",
+     "link": "https://pulse2.com/cntxt-ai-raises-60-million-series-a-to-deploy-sovereign-ai-globally/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "turbo-law": {
+   "name": "Turbo Law",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Turbo Law announced the launch of its platform and the closing of a $3.8 million seed funding round. The round was led by Revo Capital, with participation from Treeo VC, BridgeX Ventures, Alchemist Accelerator, John E. Hall, Jr., Gokul Rajaram, Keith Kitani, and a group of techno",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-21",
+   "last_seen": "2026-06-21",
+   "events": [
+    {
+     "date": "2026-06-21",
+     "amount": "$3.8 Million",
+     "round": "Seed",
+     "title": "Turbo Law Raises $3.8 Million Seed Round To Launch AI Platform For Complex Litigation",
+     "link": "https://pulse2.com/turbo-law-raises-3-8-million-seed-round-to-launch-ai-platform-for-complex-litigation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "karta": {
+   "name": "Karta",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Karta announced that it has raised $140 million in new financing, including a $15 million Series A round and a $125 million credit facility. The Series A round was led by Galaxy Ventures, with participation from Illuminate, Canary, Clocktower Ventures, and other investors. The $1",
+   "audience": "Consumers",
+   "first_seen": "2026-06-21",
+   "last_seen": "2026-06-21",
+   "events": [
+    {
+     "date": "2026-06-21",
+     "amount": "$140 Million",
+     "round": "Series A",
+     "title": "Karta Raises $140 Million To Bring U.S. Credit Cards To Global Travelers",
+     "link": "https://pulse2.com/karta-raises-140-million-to-bring-u-s-credit-cards-to-global-travelers/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "gradial": {
+   "name": "Gradial",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Gradial announced that it has raised $65 million in Series C funding to build what it describes as the first system of work for enterprise marketing. The round was led by Insight Partners, alongside VMG, Madrona, and PruVen. Gradial said it has now raised more than $110 million o",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-21",
+   "last_seen": "2026-06-21",
+   "events": [
+    {
+     "date": "2026-06-21",
+     "amount": "$65 Million",
+     "round": "Series C",
+     "title": "Gradial Raises $65 Million Series C To Build Enterprise Marketing AI Platform",
+     "link": "https://pulse2.com/gradial-raises-65-million-series-c-to-build-enterprise-marketing-ai-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "recykal": {
+   "name": "Recykal",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Waste management startup Recykal has raised $23 Mn (nearly ₹217 Cr) as part of a bridge funding round, in a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-20",
+   "last_seen": "2026-06-20",
+   "events": [
+    {
+     "date": "2026-06-20",
+     "amount": "$23 Mn",
+     "round": "Bridge",
+     "title": "Recykal Bags $23 Mn To Take Its Waste Management Solutions Global",
+     "link": "https://inc42.com/buzz/recykal-bags-23-mn-to-take-its-waste-management-solutions-global/",
+     "source": "Inc42"
     }
    ]
   }
