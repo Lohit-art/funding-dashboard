@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-21T15:10:48+00:00",
+ "updated": "2026-06-22T17:40:18+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -4186,10 +4186,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Kvasir Technologies, a Copenhagen-based biofuel startup, has raised €10 million in a Series A investment round to accelerate the scale-up and commercialisation of its climate-neutral marine fuel. European Energy participated in this round as a new investor, alongside existing inv",
+   "summary": "Kvasir Technologies announced that it has raised €10 million in Series A financing to accelerate the scale-up and commercialization of its climate-neutral marine fuel. European Energy joined the round as a new investor and strategic partner, alongside existing investors EIFO, Mær",
    "audience": "General / mixed",
    "first_seen": "2026-06-18",
-   "last_seen": "2026-06-18",
+   "last_seen": "2026-06-22",
    "events": [
     {
      "date": "2026-06-18",
@@ -4198,6 +4198,14 @@
      "title": "Copenhagen-based Kvasir Technologies raises €10 million to scale climate-neutral marine biofuel",
      "link": "https://www.eu-startups.com/2026/06/copenhagen-based-kvasir-technologies-raises-e10-million-to-scale-climate-neutral-marine-biofuel/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-22",
+     "amount": "€10 Million",
+     "round": "Series A",
+     "title": "Kvasir Technologies Raises €10 Million To Accelerate Climate-Neutral Marine Fuel Commercialization",
+     "link": "https://pulse2.com/kvasir-technologies-raises-e10-million-to-accelerate-climate-neutral-marine-fuel-commercialization/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -5094,6 +5102,566 @@
      "title": "Recykal Bags $23 Mn To Take Its Waste Management Solutions Global",
      "link": "https://inc42.com/buzz/recykal-bags-23-mn-to-take-its-waste-management-solutions-global/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "seedcamp": {
+   "name": "Seedcamp",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Seedcamp, a British first check investor and backer of companies including Revolut, Wise, UiPath, Synthesia and Fluidstack, has raised €279 million ($320 million) to launch Fund VII and invest in the next generation of global companies. The new capital is allocated between €192 m",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$320M",
+     "round": "",
+     "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
+     "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
+     "source": "TechCrunch Venture"
+    },
+    {
+     "date": "2026-06-22",
+     "amount": "$320 Million",
+     "round": "Series B",
+     "title": "Seedcamp Raises $320 Million To Back Next Generation Of Global Companies",
+     "link": "https://pulse2.com/seedcamp-raises-320-million-to-back-next-generation-of-global-companies/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-06-22",
+     "amount": "€279 million",
+     "round": "",
+     "title": "Seedcamp raises €279 million to back Europe’s next generation of global startups",
+     "link": "https://www.eu-startups.com/2026/06/seedcamp-raises-e279-million-to-back-europes-next-generation-of-global-startups/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "european-investor-seedcamp": {
+   "name": "European Investor Seedcamp",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Seedcamp, one of Europe’s earliest seed investors, has closed on its 7th fund of $220 million and a select fund 2 of $100 million to invest in winners from the core fund.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$320M",
+     "round": "Seed",
+     "title": "European Investor Seedcamp Closes On $320M Across Two Funds To Back Seed Startups And Reaches $1B AUM",
+     "link": "https://news.crunchbase.com/venture/europe-seed-investor-seedcamp-closes-two-funds/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "bionyra-pharma": {
+   "name": "Bionyra Pharma",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Bionyra Pharma announced its launch and an oversubscribed $165 million Series A financing round. The round was co-led by Jeito Capital and Sofinnova Partners. Arkin Bio, Sanofi Ventures, Sixty Degree Capital, Vives Partners, and Apollo Health Ventures also participated. \n The pos",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$165 Million",
+     "round": "Series A",
+     "title": "Bionyra Pharma Raises $165 Million Series A To Advance Biologics For Inflammatory Diseases",
+     "link": "https://pulse2.com/bionyra-pharma-raises-165-million-series-a-to-advance-biologics-for-inflammatory-diseases/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "h3-zoom": {
+   "name": "H3 Zoom",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "H3 Zoom announced the final close of its oversubscribed USD$3.6 million Series A funding round. The round was led by JRE VENTURES, the corporate venture capital arm of East Japan Railway Company. SGInnovate and M7 Holdings also participated. \n The post  H3 Zoom Raises $3.6 Millio",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$3.6 Million",
+     "round": "Series A",
+     "title": "H3 Zoom Raises $3.6 Million Series A To Scale AI-Powered Inspection Intelligence",
+     "link": "https://pulse2.com/h3-zoom-raises-3-6-million-series-a-to-scale-ai-powered-inspection-intelligence/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "chemt-biotechnology": {
+   "name": "ChemT Biotechnology",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "ChemT Biotechnology announced that it has raised US$5 million in total funding over the past 18 months. The total includes US$1 million in angel investment and a US$4 million seed round. The seed round was led by Wavemaker Ventures, the early-stage fund of Wavemaker Partners. SEE",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "US$5 Million",
+     "round": "Angel",
+     "title": "ChemT Biotechnology Raises US$5 Million To Bring AI To Biomanufacturing",
+     "link": "https://pulse2.com/chemt-biotechnology-raises-us5-million-to-bring-ai-to-biomanufacturing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "upscale-ai": {
+   "name": "Upscale AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Upscale AI announced that it has raised $190 million in Series A-1 financing. The extension brings the company’s total funding to $500 million and its current valuation to $2 billion. The Series A-1 round was led by Premji Invest. New investors in the round included NVIDIA, Sales",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$190 Million",
+     "round": "Series A",
+     "title": "Upscale AI Raises $190 Million Series A-1 At $2 Billion Valuation For AI Networking Infrastructure",
+     "link": "https://pulse2.com/upscale-ai-raises-190-million-series-a-1-at-2-billion-valuation-for-ai-networking-infrastructure-company/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "syntax-bio": {
+   "name": "Syntax Bio",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Syntax Bio announced an expanded Series A round and several leadership appointments across its executive team, board of directors, and scientific advisory board. The expanded round brings Syntax Bio’s Series A to $14.4 million and total funding to more than $25 million. \n The pos",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$14.4 Million",
+     "round": "Series A",
+     "title": "Syntax Bio Raises $14.4 Million Series A And Announces Leadership Appointments",
+     "link": "https://pulse2.com/syntax-bio-raises-14-4-million-series-a-and-announces-leadership-appointments/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "the-team-behind-exscientia-s-60m-allcyte-acquisition-just": {
+   "name": "The team behind Exscientia’s $60M Allcyte acquisition just",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "When Exscientia paid $60M for Allcyte in June 2021, it was buying one specific idea: that testing drugs…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$60M",
+     "round": "",
+     "title": "The team behind Exscientia’s $60M Allcyte acquisition just raised $5M from Daphni to build their own drugs",
+     "link": "https://techfundingnews.com/exscientia-allcyte-team-5m-daphni-own-drugs/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "prosper-ai": {
+   "name": "Prosper AI",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Right now, an AI agent might be on hold with a health insurer, working through the phone system,…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$30M",
+     "round": "Series A",
+     "title": "Prosper AI raises $30M Series A from a16z to run the entire patient journey beyond scheduling",
+     "link": "https://techfundingnews.com/prosper-ai-30m-series-a-patient-journey-beyond-scheduling/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "onfido-founder": {
+   "name": "Onfido founder",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Learning & growth",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "If you place a tonne of green steel next to a tonne of conventional steel, you cannot tell…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$40M",
+     "round": "",
+     "title": "Onfido founder raises $40M to kill the 12-month certification bottleneck holding back the industrial economy",
+     "link": "https://techfundingnews.com/isometric-40m-series-a-industrial-certification-ai/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "acodyne": {
+   "name": "Acodyne",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Copenhagen-based deep tech startup Acodyne has raised €2.5 million in pre-seed funding to scale its unmanned eVTOL cargo aircraft for heavy-lift logistics in defence, offshore, and remote operations. ...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "€2.5M",
+     "round": "Pre-Seed",
+     "title": "Acodyne lands €2.5M to challenge helicopters with jet-speed cargo drones",
+     "link": "https://techfundingnews.com/acodyne-2-5m-pre-seed-jet-speed-cargo-drones/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-06-22",
+     "amount": "€2.5M",
+     "round": "Pre-Seed",
+     "title": "Acodyne secures €2.5M to develop next-generation autonomous logistics aircraft",
+     "link": "https://tech.eu/2026/06/22/acodyne-secures-eur25m-to-develop-next-generation-autonomous-logistics-aircraft/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "france-s-bionyra-pharma-launches-with-143-million-series-a": {
+   "name": "France’s Bionyra Pharma launches with €143 million Series A ",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Bionyra Pharma, a Paris and Boston-based clinical-stage biopharma company developing next-generation biologics for immune-mediated inflammatory diseases, today announced the company’s launch and its €143 million ($165 million) oversubscribed Series A financing The round is co-led",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "€143 million",
+     "round": "Series A",
+     "title": "France’s Bionyra Pharma launches with €143 million Series A to advance inflammatory disease biologics",
+     "link": "https://www.eu-startups.com/2026/06/frances-bionyra-pharma-launches-with-e143-million-series-a-to-advance-inflammatory-disease-biologics/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "unmanned-cargo-aircraft-developer-acodyne": {
+   "name": "Unmanned cargo aircraft developer Acodyne",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Copenhagen-based DeepTech startup Acodyne has raised €2.5 million in pre-Seed funding to scale its unmanned cargo aircraft for heavy-lift logistics in defence, offshore and remote operations. The round is jointly led by Swedish defence VC Gungnir Capital and Danish PSV Hafnium wi",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "€2.5 million",
+     "round": "Pre-Seed",
+     "title": "Unmanned cargo aircraft developer Acodyne secures €2.5 million for defence and offshore logistics",
+     "link": "https://www.eu-startups.com/2026/06/unmanned-cargo-aircraft-developer-acodyne-secures-e2-5-million-for-defence-and-offshore-logistics/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "grid-online": {
+   "name": "Grid.online",
+   "country": "Czechia",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Grid.online, the Czech company building shared infrastructure for first- or last-mile parcel delivery, has raised €4 million after scaling parcel volumes more than 10× in its first year, surpassing 1 ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "€4 million",
+     "round": "Angel",
+     "title": "Grid.online raises €4 million to expand shared last-mile delivery network for parcel carriers",
+     "link": "https://www.eu-startups.com/2026/06/with-almost-2000-active-couriers-grid-online-raises-e4-million-to-expand-shared-last-mile-delivery-network/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-22",
+     "amount": "€4M",
+     "round": "",
+     "title": "Czech logistics startup Grid.online lands €4M after growing deliveries 10× in a year",
+     "link": "https://tech.eu/2026/06/22/czech-logistics-startup-grid-online-lands-4m-after-growing-deliveries-10-in-a-year/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "london-s-isometric": {
+   "name": "London’s Isometric",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Isometric has closed a €34 million ($40 million) Series A to expand its AI certification platform across the €305 billion ($350 billion) industrial certification market and accelerate its AI-enabled services expansion. The round is led by AVP. All of Isometric’s existing institut",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "€34 million",
+     "round": "Series A",
+     "title": "London’s Isometric lands €34 million to scale certification platform for industrial markets",
+     "link": "https://www.eu-startups.com/2026/06/londons-isometric-lands-e34-million-to-scale-certification-platform-for-industrial-markets/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "a16z-backs-prosper-ai-with-30m-as-healthcare-providers-seek": {
+   "name": "a16z backs Prosper AI with $30M as healthcare providers seek",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Prosper AI an AI platform that runs the entire patient journey, today announced a $30 million Series A financing led by Andreessen Horowitz (“a16z”), with participation from Base10 and continued suppo...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$30M",
+     "round": "Series A",
+     "title": "a16z backs Prosper AI with $30M as healthcare providers seek fewer admin tools",
+     "link": "https://tech.eu/2026/06/22/a16z-backs-prosper-ai-with-30m-as-healthcare-providers-seek-fewer-admin-tools/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "nearfield-instruments": {
+   "name": "Nearfield Instruments",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "A Netherlands-based firm which makes specialised measurement and inspection technology used in chip manufacturing has raised $380m in new funding, valuing it at $1.6bn, it said today. The Series D rou...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$380M",
+     "round": "Series D",
+     "title": "Dutch chip gear maker Nearfield Instruments raises $380M",
+     "link": "https://tech.eu/2026/06/22/dutch-chip-gear-maker-nearfield-instruments-raises-380m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "graph-therapeutics-brings-total-funding-to-over-10m-to-adva": {
+   "name": "Graph Therapeutics brings total funding to over $10M to adva",
+   "country": "France",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Graph Therapeutics, a next-generation techbio company developing precision medicinesfor inflammatory and immune-mediated diseases, has secured a new $5 millioninvestment led by Daphni, the Paris-based...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$10M",
+     "round": "",
+     "title": "Graph Therapeutics brings total funding to over $10M to advance precision immunology",
+     "link": "https://tech.eu/2026/06/22/graph-therapeutics-brings-total-funding-to-over-10m-to-advance-precision-immunology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "superpal": {
+   "name": "Superpal",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Superpal, a Vilnius-based AI startup, has raised €500,000 for its platform that serves as a fully autonomous AI coworker within a company’s Slack. FIRSTPICK led the round, with participation from the ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "€500K",
+     "round": "",
+     "title": "Lithuanian startup Superpal raises €500K for AI coworker platform built inside Slack",
+     "link": "https://tech.eu/2026/06/22/lithuanian-startup-superpal-raises-eur500k-for-ai-coworker-platform-built-inside-slack/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "revolut-and-synthesia-early-backer-seedcamp": {
+   "name": "Revolut and Synthesia early backer Seedcamp",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "An early backer of Revolut and Synthesia has raised  $320m and is deploying the capital across two funds, as it looks to discover the top European companies of the future.London-headquartered Seedcamp...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$320M",
+     "round": "",
+     "title": "Revolut and Synthesia early backer Seedcamp raises $320M, invests in US",
+     "link": "https://tech.eu/2026/06/22/revolut-and-synthesia-early-backer-seedcamp-raises-ps320m-invests-in-us/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cred": {
+   "name": "CRED",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fintech unicorn CRED has raised $900 Mn (about ₹8,550 Cr) in a Series H funding round led by Meta.   The…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$900 Mn",
+     "round": "Series H",
+     "title": "CRED Raises $900 Mn In Round Led By Meta",
+     "link": "https://inc42.com/buzz/cred-raises-900-mn-from-meta/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "sellit9": {
+   "name": "Sellit9",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Startup helps consumers skip \"marketplace drama\" while avoiding price haggling and safety concerns. \n The post  Sellit9 closes $4.1 million to help Canadians trade in old electronics  first appeared on  BetaKit .",
+   "audience": "Consumers",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$4.1 million",
+     "round": "",
+     "title": "Sellit9 closes $4.1 million to help Canadians trade in old electronics",
+     "link": "https://betakit.com/sellit9-closes-4-1-million-to-help-canadians-trade-in-old-electronics/",
+     "source": "BetaKit"
     }
    ]
   }
