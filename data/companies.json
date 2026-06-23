@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-22T17:40:18+00:00",
+ "updated": "2026-06-23T15:46:56+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -2690,10 +2690,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "SpaceX has completed the largest initial public offering in history, raising $85.7 billion after underwriters exercised their overallotment…",
-   "audience": "General / mixed",
+   "summary": "SpaceX has signed a computing deal worth up to $6.3 billion with Reflection AI, the open-source artificial intelligence…",
+   "audience": "Developers & data teams",
    "first_seen": "2026-06-16",
-   "last_seen": "2026-06-16",
+   "last_seen": "2026-06-23",
    "events": [
     {
      "date": "2026-06-16",
@@ -2701,6 +2701,14 @@
      "round": "",
      "title": "SpaceX raises record $85.7B in historic IPO as Musk bets on reusable rockets, Starlink, and orbital AI data centres",
      "link": "https://techfundingnews.com/spacex-raises-record-85-7b-in-historic-ipo-as-musk-bets-on-reusable-rockets-starlink-and-orbital-ai-data-centres/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-06-23",
+     "amount": "$6.3B",
+     "round": "",
+     "title": "SpaceX lands $6.3B compute deal with open-source AI startup Reflection and Nvidia is on both sides of the trade",
+     "link": "https://techfundingnews.com/spacex-lands-6-3b-compute-deal-with-open-source-ai-startup-reflection-and-nvidia-is-on-both-sides-of-the-trade/",
      "source": "Tech Funding News"
     }
    ]
@@ -5322,10 +5330,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Right now, an AI agent might be on hold with a health insurer, working through the phone system,…",
+   "summary": "Prosper AI announced it raised $30 million in Series A funding to scale its AI platform for managing the full patient journey. The round was led by Andreessen Horowitz, with participation from Base10 and continued support from Emergence Capital, Y Combinator, and Company Ventures",
    "audience": "Healthcare providers & patients",
    "first_seen": "2026-06-22",
-   "last_seen": "2026-06-22",
+   "last_seen": "2026-06-23",
    "events": [
     {
      "date": "2026-06-22",
@@ -5334,6 +5342,14 @@
      "title": "Prosper AI raises $30M Series A from a16z to run the entire patient journey beyond scheduling",
      "link": "https://techfundingnews.com/prosper-ai-30m-series-a-patient-journey-beyond-scheduling/",
      "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-06-23",
+     "amount": "$30 Million",
+     "round": "Series A",
+     "title": "Prosper AI Raises $30 Million To Scale Patient Journey Platform",
+     "link": "https://pulse2.com/prosper-ai-raises-30-million-to-scale-patient-journey-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -5662,6 +5678,702 @@
      "title": "Sellit9 closes $4.1 million to help Canadians trade in old electronics",
      "link": "https://betakit.com/sellit9-closes-4-1-million-to-help-canadians-trade-in-old-electronics/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "appsflyer-reportedly": {
+   "name": "AppsFlyer Reportedly",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Data analytics company AppsFlyer is eyeing the public markets after reportedly securing more than $1 billion in a Series E funding round.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$1B",
+     "round": "Series E",
+     "title": "AppsFlyer Reportedly Lands $1B At $2.7B Valuation To Help Companies Track Digital Ads",
+     "link": "https://news.crunchbase.com/venture/marketing-digital-ad-tracker-appsflyer-lands-1b/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "isometric": {
+   "name": "Isometric",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Learning & growth",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Isometric announced it raised $40 million in Series A funding to expand its agentic certification platform across the industrial economy. The round was led by AVP, which counts global insurer AXA as an anchor investor. \n The post  Isometric Raises $40 Million To Expand Agentic Ce",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$40 Million",
+     "round": "Series A",
+     "title": "Isometric Raises $40 Million To Expand Agentic Certification Platform",
+     "link": "https://pulse2.com/isometric-raises-40-million-to-expand-agentic-certification-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "built-by-a-tradesman-backed-by-a16z-and-sequoia-probook": {
+   "name": "Built by a tradesman backed by a16z and Sequoia, Probook",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Built by a founder who spent six summers pressure washing houses with his father, Probook is taking on…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$40M",
+     "round": "",
+     "title": "Built by a tradesman backed by a16z and Sequoia, Probook raises $40M to reinvent dispatch for America’s home service businesses",
+     "link": "https://techfundingnews.com/built-by-a-tradesman-backed-by-a16z-and-sequoia-probook-raises-40m-to-reinvent-dispatch-for-americas-home-service-businesses/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "bristol-fusion-startup": {
+   "name": "Bristol fusion startup",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Every year, more than 50 million cancer scans and treatments depend on a handful of ageing nuclear reactors…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "£23M",
+     "round": "",
+     "title": "Bristol fusion startup raises £23M to produce cancer-fighting isotopes while the rest of the industry is still 20 years away",
+     "link": "https://techfundingnews.com/astral-systems-23m-fusion-isotopes-cancer/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "to-datadog-now-they-ve": {
+   "name": "to Datadog. Now, they’ve",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Gabriel-James Safar and Sébastien Deprez sold their startup Madumbo to Datadog in 2019. Safar became a senior director…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$35M",
+     "round": "",
+     "title": "They sold their startup to Datadog. Now, they’ve raised $35M to disrupt it",
+     "link": "https://techfundingnews.com/ex-datadog-founders-raise-35m-tsuga-observability/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "the-man-who-built-groq-handed-its-technology-to-nvidia-now": {
+   "name": "The man who built Groq handed its technology to NVIDIA, now ",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "In December 2025, Jonathan Ross — the engineer who co-developed Google’s tensor processing unit and founded Groq in…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$650M",
+     "round": "",
+     "title": "The man who built Groq handed its technology to NVIDIA, now his old company raised $650M to fight back without him",
+     "link": "https://techfundingnews.com/the-man-who-built-groq-handed-its-technology-to-nvidia-now-his-old-company-raised-650m-to-fight-back-without-him/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "linc": {
+   "name": "Linc",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "France processes 27 million payslips every month. Almost none of the software handling them was built by people…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€8.5M",
+     "round": "",
+     "title": "Exclusive: Linc raises €8.5M with 100+ angels to crack world’s most complex payroll market",
+     "link": "https://techfundingnews.com/linc-8-5m-seed-round-french-payroll-startup/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "british-asset-finance-platform-equipal": {
+   "name": "British asset finance platform equipal",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "equipal, a FinTech funder of business equipment out of London, has secured €18.84 million (£16.25 million) in a combined investment in order to hire across business development, marketing, operations, credit and data where the team expects to grow to 12 in the next year. The fund",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€18.84 million",
+     "round": "",
+     "title": "British asset finance platform equipal secures €18.84 million to grow team and lending capacity",
+     "link": "https://www.eu-startups.com/2026/06/british-asset-finance-platform-equipal-secures-e18-84-million-to-grow-team-and-lending-capacity/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "bristol-s-astral-systems": {
+   "name": "Bristol’s Astral Systems",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Astral Systems, a British DeepTech firm pioneering multi-state fusion (MSF) technology, has secured €26 million (£23 million) in Series A funding in order to bring critical medical isotopes to market by early 2027, scaling the production of its modular MSF reactors, and advancing",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€26 million",
+     "round": "Series A",
+     "title": "Bristol’s Astral Systems secures €26 million Series A to support medical isotope commercialisation",
+     "link": "https://www.eu-startups.com/2026/06/bristols-astral-systems-secures-e26-million-series-a-to-support-medical-isotope-commercialisation/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "cambridge-s-trimtech-therapeutics-brings-seed-round-to-41-m": {
+   "name": "Cambridge’s TRIMTECH Therapeutics brings Seed round to €41 m",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "TRIMTECH Therapeutics, a Cambridge-based BioTech company developing novel small molecule therapies that target and degrade protein aggregates associated with neurodegenerative diseases, has raised an additional €12 million ($14 million) in Seed funding to progress its proprietary",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€41 million",
+     "round": "Seed",
+     "title": "Cambridge’s TRIMTECH Therapeutics brings Seed round to €41 million for neurodegenerative disease work",
+     "link": "https://www.eu-startups.com/2026/06/cambridges-trimtech-therapeutics-brings-seed-round-to-e41-million-with-jjdc-and-bgf-backing/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "14-million-poorly-insulated-german-homes-varm": {
+   "name": "14 million poorly insulated German homes: VARM",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "VARM, a Berlin-based startup training and deploying insulation specialists, has raised €17.5 million in a Series A funding round to expand its scalable home insulation model across Germany and, eventually, Europe. The round was led by ABN AMRO Sustainable Impact Fund and co-led b",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "14 million",
+     "round": "Series A",
+     "title": "14 million poorly insulated German homes: VARM raises €17.5 million to expand its installer network",
+     "link": "https://www.eu-startups.com/2026/06/14-million-poorly-insulated-german-homes-varm-raises-e17-5-million-to-expand-its-installer-network/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "french-observability-startup-tsuga": {
+   "name": "French observability startup Tsuga",
+   "country": "France",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Tsuga, a Paris-based innovator in AI-Native Resilient Observability, today announced it has raised €30 million ($35 million) in a Series A funding round to scale its GTM motion and accelerate the rollout of their AI agent platform. The round is led by existing investor Singular, ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€30 million",
+     "round": "Series A",
+     "title": "French observability startup Tsuga lands €30 million to expand AI agent platform",
+     "link": "https://www.eu-startups.com/2026/06/french-observability-startup-tsuga-lands-e30-million-to-expand-ai-agent-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ubotica": {
+   "name": "Ubotica",
+   "country": "Ireland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ubotica Technologies, the Irish spacetechnology company pioneering Orbital AI, has secured $11 million in funding toaccelerate the commercial deployment of its AI-powered intelligence platformand expa...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$11M",
+     "round": "",
+     "title": "Ubotica raises $11M to scale real-time maritime intelligence from space",
+     "link": "https://tech.eu/2026/06/23/ubotica-raises-11m-to-scale-real-time-maritime-intelligence-from-space/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "astral-systems": {
+   "name": "Astral Systems",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Astral Systems, a deeptech company pioneering multi-state fusion (MSF) technology, has secured a £23 million first close investment led by Mercia Ventures. The round is supported by various investors ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "£23M",
+     "round": "",
+     "title": "Astral Systems raises £23M to tackle the global shortages of medical radioisotopes",
+     "link": "https://tech.eu/2026/06/23/astral-systems-raises-23m-to-tackle-the-global-shortages-of-medical-radioisotopes/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "fika-jobs": {
+   "name": "Fika Jobs",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Stockholm-based hiring platform Fika Jobs has raised $4 million inpre-seed funding to expand its video-first approach to recruitment. The roundwas led by Luminar Ventures, with participation from more...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$4M",
+     "round": "Seed",
+     "title": "Fika Jobs raises $4M for AI-powered video resumes",
+     "link": "https://tech.eu/2026/06/23/fika-jobs-raises-4m-for-ai-powered-video-resumes/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sportway": {
+   "name": "Sportway",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI-driven sports media and sports tech’s Sportway Media Group has raised €20 million, valuing the company at approximately €92 million ( SEK 1 billion) post-money. The financing was led by Gamma Waves...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€20M",
+     "round": "",
+     "title": "Sportway raises €20M as AI reshapes sports broadcasting",
+     "link": "https://tech.eu/2026/06/23/from-the-sidelines-to-250000-matches-a-year-sportway-raises-eur20m-to-scale-its-ai-sports-media-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "jupus": {
+   "name": "JUPUS",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Legaltech startup JUPUS has raised €13million in a Series A funding round led by Semapa Next, with NRW.BANK joiningas a co-investor through its venture capital fund NRW.Venture. Existinginvestors Acto...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€13M",
+     "round": "Series A",
+     "title": "JUPUS raises €13M to power the next generation of AI-driven law firms",
+     "link": "https://tech.eu/2026/06/23/jupus-raises-eur13m-to-power-the-next-generation-of-ai-driven-law-firms/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "berlin-s-varm": {
+   "name": "Berlin's VARM",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Berlin-based climatetech startup VARMhas raised €17.5 million in a Series A funding round led by ABN AMROSustainable Impact Fund and co-led by GET Fund. The round also includedparticipation from Aurum...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€17.5M",
+     "round": "Series A",
+     "title": "Berlin's VARM bags €17.5M to scale insulation across Europe",
+     "link": "https://tech.eu/2026/06/23/berlins-varm-bags-eur175m-to-scale-insulation-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "flease": {
+   "name": "Flease",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Flease, a company specialising in reconditioned vehicle leasing for enterprise fleets, just closed a €13 million round led by Partech Impact, Partech’s Growth Impact Fund.   Founded five years ago in ...",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€13M",
+     "round": "Growth",
+     "title": "Flease secures €13M to expand sustainable fleet leasing across France",
+     "link": "https://tech.eu/2026/06/23/flease-secures-eur13m-to-expand-sustainable-fleet-leasing-across-france/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "alpsemi": {
+   "name": "AlpSemi",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Frenchsemiconductor company AlpSemi has raised €17million in a funding round led by Yotta Capital, with participation from SE Ventures, Navitas Semiconductor and Cycle Group. The financing will suppor...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€17M",
+     "round": "",
+     "title": "AlpSemi raises €17M to advance solid-state circuit breaker technology",
+     "link": "https://tech.eu/2026/06/23/alpsemi-raises-eur17m-to-advance-solid-state-circuit-breaker-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "kyrok": {
+   "name": "Kyrok",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Berlin-basedindustrial AI startup Kyrok has raised €3.1 million in a pre-seed round led bySpeedinvest. The company is building an AI operating system for supply chainmanagement tailored to Europe's ph...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€3.1M",
+     "round": "Pre-Seed",
+     "title": "Kyrok secures €3.1M to bring AI to pharma and chemical supply chains",
+     "link": "https://tech.eu/2026/06/23/kyrok-secures-3-1m-to-bring-ai-to-pharma-and-chemical-supply-chains/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "timefold": {
+   "name": "Timefold",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Timefold, a developer platform forvehicle routing and shift scheduling APIs, has raised $13 million in a Series Afunding round led by Alstin Capital, with participation from Kompas VC andcontinued bac...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$13M",
+     "round": "Series A",
+     "title": "Timefold raises $13M Series A to scale scheduling optimisation infrastructure",
+     "link": "https://tech.eu/2026/06/23/timefold-raises-13m-series-a-to-scale-scheduling-optimisation-infrastructure/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "lithuania-s-pdkinematics": {
+   "name": "Lithuania’s PDKINEMATICS",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Vilnius-based defence technology startup PDKINEMATICS has secured €2 million in seed funding round co-led by Coinvest Capital and Iron Wolf Capital, with participation from defence-focused angel investors and technology founders. The company develops precision guidance systems fo",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€2 million",
+     "round": "Seed",
+     "title": "Lithuania’s PDKINEMATICS secures funding to advance precision guidance for UAV-deployed munitions",
+     "link": "https://arcticstartup.com/pdkinematics-raises-e2m-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "square-yards": {
+   "name": "Square Yards",
+   "country": "India",
+   "region": "Asia",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Months after raising $35 Mn in November last year at a $900 Mn valuation, proptech startup Square Yards has raised…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "₹900",
+     "round": "",
+     "title": "Proptech Startup Square Yards Raises ₹900 Cr At Unicorn Valuation",
+     "link": "https://inc42.com/buzz/proptech-startup-square-yards-raises-%e2%82%b9900-cr-at-unicorn-valuation/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "kunal-shah-quits-cred-turtlemint-ipo-day-2-more": {
+   "name": "Kunal Shah Quits CRED, Turtlemint IPO Day 2 & More",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "CRED Steps Into A New Era Fintech major CRED has raised a mega $900 Mn round led by Meta, and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$900 Mn",
+     "round": "",
+     "title": "Kunal Shah Quits CRED, Turtlemint IPO Day 2 & More",
+     "link": "https://inc42.com/buzz/kunal-shah-quits-cred-turtlemint-ipo-day-2-more/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "cyber-risk-and-insurance-startup-mitigata": {
+   "name": "Cyber Risk And Insurance Startup Mitigata",
+   "country": "India",
+   "region": "Asia",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Cyber risk and insurance startup Mitigata has raised $15 Mn (about ₹141 Cr) in its Series B funding round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$15 Mn",
+     "round": "Series B",
+     "title": "Cyber Risk And Insurance Startup Mitigata Raises $15 Mn",
+     "link": "https://inc42.com/buzz/cyber-risk-and-insurance-startup-mitigata-raises-15-mn/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "six-month-old-anchorbase": {
+   "name": "Six-month-old Anchorbase",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Payment automation platform plans to scale its engineering and product teams. \n The post  Six-month-old Anchorbase closes $2 million USD pre-seed round  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$2 million",
+     "round": "Pre-Seed",
+     "title": "Six-month-old Anchorbase closes $2 million USD pre-seed round",
+     "link": "https://betakit.com/six-month-old-anchorbase-closes-2-million-usd-pre-seed-round/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "qubic": {
+   "name": "Qubic",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Two Small Fish-led seed round will help scale manufacturing of Qubic’s cryogenic amplifiers. \n The post  Qubic raises $2.5 million USD to commercialize quantum signal amplifiers  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$2.5 million",
+     "round": "Seed",
+     "title": "Qubic raises $2.5 million USD to commercialize quantum signal amplifiers",
+     "link": "https://betakit.com/qubic-raises-2-5-million-usd-to-commercialize-quantum-signal-amplifiers/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "ovum": {
+   "name": "Ovum",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ovum secures $4M to revolutionise women’s health with AI-driven data insights.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-22",
+   "last_seen": "2026-06-22",
+   "events": [
+    {
+     "date": "2026-06-22",
+     "amount": "$4 million",
+     "round": "Seed",
+     "title": "Women’s heath data startup Ovum lands $4 million Seed round",
+     "link": "https://www.startupdaily.net/topic/funding/womens-heath-data-startup-ovum-lands-4-million-seed-round/",
+     "source": "Startup Daily"
     }
    ]
   }
