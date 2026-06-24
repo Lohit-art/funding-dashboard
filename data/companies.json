@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-23T15:46:56+00:00",
+ "updated": "2026-06-24T15:33:00+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -6170,10 +6170,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Berlin-basedindustrial AI startup Kyrok has raised €3.1 million in a pre-seed round led bySpeedinvest. The company is building an AI operating system for supply chainmanagement tailored to Europe's ph...",
+   "summary": "Kyrok announced that it has raised €3.1 million in pre-seed funding to build an AI operating system for supply chain teams at pharmaceutical and chemical SMEs. \n The post  Kyrok Raises €3.1 Million To Build AI Operating System For Pharma And Chemical Supply Chains  appeared first",
    "audience": "Healthcare providers & patients",
    "first_seen": "2026-06-23",
-   "last_seen": "2026-06-23",
+   "last_seen": "2026-06-24",
    "events": [
     {
      "date": "2026-06-23",
@@ -6182,6 +6182,14 @@
      "title": "Kyrok secures €3.1M to bring AI to pharma and chemical supply chains",
      "link": "https://tech.eu/2026/06/23/kyrok-secures-3-1m-to-bring-ai-to-pharma-and-chemical-supply-chains/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-24",
+     "amount": "€3.1 Million",
+     "round": "Pre-Seed",
+     "title": "Kyrok Raises €3.1 Million To Build AI Operating System For Pharma And Chemical Supply Chains",
+     "link": "https://pulse2.com/kyrok-raises-e3-1-million-to-build-ai-operating-system-for-pharma-and-chemical-supply-chains/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -6194,10 +6202,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Timefold, a developer platform forvehicle routing and shift scheduling APIs, has raised $13 million in a Series Afunding round led by Alstin Capital, with participation from Kompas VC andcontinued bac...",
+   "summary": "Timefold announced that it has raised $13 million in Series A funding. The round was led by Alstin Capital, with participation from Kompas VC and continued backing from existing investors Lakestar and Smartfin. \n The post  Timefold Raises $13 Million Series A To Expand Routing An",
    "audience": "Developers & data teams",
    "first_seen": "2026-06-23",
-   "last_seen": "2026-06-23",
+   "last_seen": "2026-06-24",
    "events": [
     {
      "date": "2026-06-23",
@@ -6206,6 +6214,14 @@
      "title": "Timefold raises $13M Series A to scale scheduling optimisation infrastructure",
      "link": "https://tech.eu/2026/06/23/timefold-raises-13m-series-a-to-scale-scheduling-optimisation-infrastructure/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-24",
+     "amount": "$13 Million",
+     "round": "Series A",
+     "title": "Timefold Raises $13 Million Series A To Expand Routing And Scheduling APIs",
+     "link": "https://pulse2.com/timefold-raises-13-million-series-a-to-expand-routing-and-scheduling-apis/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -6374,6 +6390,702 @@
      "title": "Women’s heath data startup Ovum lands $4 million Seed round",
      "link": "https://www.startupdaily.net/topic/funding/womens-heath-data-startup-ovum-lands-4-million-seed-round/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "valor-equity-partners-looks-to": {
+   "name": "Valor Equity Partners looks to",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$2.5B",
+     "round": "",
+     "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
+     "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "on-anthropic-menlo-ventures": {
+   "name": "on Anthropic, Menlo Ventures",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$3B",
+     "round": "",
+     "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+     "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "xcures": {
+   "name": "XCures",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "XCures, a startup that uses AI to streamline patient data and medical records, has closed a Innovius Capital-led $46 million Series B financing round, it tells Crunchbase News exclusively.",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$46M",
+     "round": "Series B",
+     "title": "Exclusive: XCures Lands $46M Series B To Clean Up Messy Medical Records With AI",
+     "link": "https://news.crunchbase.com/venture/xcures-lands-seriesb-medical-records-ai/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "anthropic-backer-menlo-ventures": {
+   "name": "Anthropic Backer Menlo Ventures",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Venture firm Menlo Ventures has raised $3 billion across two new funds, the largest capital raise in its 50-year history, to invest in AI startups from seed through growth stage. The firm says the new capital will target companies in sectors from enterprise tools to healthcare.",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$3B",
+     "round": "Seed",
+     "title": "Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups Across Stages",
+     "link": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "concord": {
+   "name": "Concord",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Concord announced that it has raised $3 million in seed funding to build its agentic media buying platform. The round was backed by A16Z Scout, Drysdale, Motier Ventures, Better Angle, and several industry angels. Participating angel investors included Rémi Lemonnier, Co-Founder ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$3 Million",
+     "round": "Seed",
+     "title": "Concord Raises $3 Million Seed Funding To Build Agentic Media Buying Platform",
+     "link": "https://pulse2.com/concord-raises-3-million-seed-funding-to-build-agentic-media-buying-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fomo": {
+   "name": "fomo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "fomo announced that it has raised $75 million in Series B funding to scale its social-first trading platform. The round was led by Index Ventures, with participation from Union Square Ventures and existing investor Benchmark. \n The post  fomo Raises $75 Million Series B To Scale ",
+   "audience": "Consumers",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$75 Million",
+     "round": "Series B",
+     "title": "fomo Raises $75 Million Series B To Scale Global Consumer Trading App",
+     "link": "https://pulse2.com/fomo-raises-75-million-series-b-to-scale-global-consumer-trading-app/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tsuga": {
+   "name": "Tsuga",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Tsuga announced that it has raised $35 million in Series A funding. The round included backing from Singular, General Catalyst, DST Global, QuantumLight, Picus Capital, and Databricks. \n The post  Tsuga Raises $35 Million Series A To Build AI-Native Resilient Observability Platfo",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$35 Million",
+     "round": "Series A",
+     "title": "Tsuga Raises $35 Million Series A To Build AI-Native Resilient Observability Platform",
+     "link": "https://pulse2.com/tsuga-raises-35-million-series-a-to-build-ai-native-resilient-observability-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ex-waymo-engineer": {
+   "name": "Ex-Waymo engineer",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Before starting her company, Brooke Hopkins worked on systems that helped self-driving cars operate safely on public roads.…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$28M",
+     "round": "",
+     "title": "Ex-Waymo engineer secures $28M from Norwest to bring autonomous vehicle testing to voice AI",
+     "link": "https://techfundingnews.com/coval-28m-series-a-voice-ai-testing-startup/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "the-vc-that-turned-a-750m-anthropic-deal-into-a-14b-stake": {
+   "name": "The VC that turned a $750M Anthropic deal into a $14B stake ",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Menlo Ventures announced $3 billion in new capital, its largest raise in 50 years. The money is split…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$750M",
+     "round": "",
+     "title": "The VC that turned a $750M Anthropic deal into a $14B stake just raised $3B to do it again",
+     "link": "https://techfundingnews.com/the-vc-that-turned-a-750m-anthropic-deal-into-a-14b-stake-just-raised-3b-to-do-it-again/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "a-phd-student-s-nerve-healing-polymer-just": {
+   "name": "A PhD student’s nerve-healing polymer just",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "For decades, surgeons repairing a severed nerve have done the same thing: stitch two fragile ends back together…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€60M",
+     "round": "",
+     "title": "A PhD student’s nerve-healing polymer just raised €60M to take on the US operating room",
+     "link": "https://techfundingnews.com/tissium-60m-funding-sutureless-nerve-repair-medtech/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "sequoia-and-founders-fund-just-backed-a-drone-startup-stark": {
+   "name": "Sequoia and Founders Fund just backed a drone startup Stark ",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Stark, the Berlin-based maker of autonomous strike drones, has closed a €500 million funding round, around €200 million…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€500 million",
+     "round": "",
+     "title": "Sequoia and Founders Fund just backed a drone startup Stark whose drones failed: report",
+     "link": "https://techfundingnews.com/sequoia-and-founders-fund-just-backed-a-drone-startup-whose-drones-failed-report/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "two-quantum-computing-researchers-just": {
+   "name": "Two quantum computing researchers just",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Scientific discovery",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Running large AI models is expensive. For companies operating at scale, compute costs can reach tens of millions…",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€3.5M",
+     "round": "",
+     "title": "Two quantum computing researchers just raised €3.5M to fix AI’s runaway energy bill",
+     "link": "https://techfundingnews.com/ora-computing-3-5m-seed-ai-model-compression/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "austria-s-ora-computing": {
+   "name": "Austria’s Ora Computing",
+   "country": "Austria",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Vienna-based Ora Computing, a startup specialising in optimising and compressing AI foundation models, today announced the close of a €3.5 million Seed round in order to grow the team, extend compression capabilities to the largest frontier models, and launch a commercial product",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€3.5 million",
+     "round": "Seed",
+     "title": "Austria’s Ora Computing secures €3.5 million to make AI models smaller and faster",
+     "link": "https://www.eu-startups.com/2026/06/austrias-ora-computing-secures-e3-5-million-to-make-ai-models-smaller-and-faster/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "compri": {
+   "name": "Compri",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Compri, a Milan-based startup developingAI-powered procurement software for industrial companies, has raised €3.2million in a seed funding round led by Picus Capital, bringing its totalfunding to more...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€3.2M",
+     "round": "Seed",
+     "title": "Compri secures €3.2M to build AI-powered procurement teams",
+     "link": "https://tech.eu/2026/06/24/compri-secures-eur32m-to-build-ai-powered-procurement-teams/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "wakeline": {
+   "name": "Wakeline",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Düsseldorf-basedWakeline, a deeptech startup developing continuously adaptive AI systems, hasraised €2.1 million in pre-seed funding. The round was led by Aachen-basedTechVision Fonds (TVF), with part...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€2.1M",
+     "round": "Pre-Seed",
+     "title": "Wakeline lands €2.1M to bring continuous learning to AI",
+     "link": "https://tech.eu/2026/06/24/wakeline-lands-eur21m-to-bring-continuous-learning-to-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "tissium": {
+   "name": "Tissium",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "A French startup which uses a novel technology to reconstruct damaged tissue and restore it to its natural state has raised €30m in equity funding and taken out up to €30m in debt financing, it said t...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€30M",
+     "round": "Debt",
+     "title": "Tissium raises €30M in equity funding, €30M in debt",
+     "link": "https://tech.eu/2026/06/24/tissium-raises-eur30m-in-equity-eur30m-in-debt/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "labcycle": {
+   "name": "LabCycle",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "UK-based startup LabCycle has received £180,000 in funding from the British Design Fund (BDF) to support the development of what it calls the ‘world’s first’ AutoDecon system, designed to safely recyc...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "£430K",
+     "round": "",
+     "title": "LabCycle secures £430K to commercialise lab plastic recycling system and cut incineration waste",
+     "link": "https://tech.eu/2026/06/24/labcycle-secures-ps430k-to-commercialise-lab-plastic-recycling-system-and-cut-incineration-waste/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "superplane": {
+   "name": "SuperPlane",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "SuperPlane has raised $2.6 million in a Pre-Seed round to bring AI to the engineers managing production infrastructure. The investment was led by Credo Ventures, with participation from First Momentum...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$2.6M",
+     "round": "Pre-Seed",
+     "title": "SuperPlane secures $2.6M to turn production operations into an AI-native workflow layer",
+     "link": "https://tech.eu/2026/06/24/superplane-secures-26m-to-turn-production-operations-into-an-ai-native-workflow-layer/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "main-capital-doubles-down-on-enterprise-software-with-5-25": {
+   "name": "Main Capital doubles down on enterprise software with €5.25 ",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "European enterprise software investors Main Capital Partners announced today that Main Capital IX and Main Foundation III have together closed over €5.25 billion in commitments.  Main Capital IX close...",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€5.25 billion",
+     "round": "",
+     "title": "Main Capital doubles down on enterprise software with €5.25 billion fund close",
+     "link": "https://tech.eu/2026/06/24/main-capital-doubles-down-on-enterprise-software-with-eur525-billion-fund-close/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "zelara": {
+   "name": "Zelara",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Zelara,a Berlin-based startup developing an AI-native learning system for lifecyclemarketing, has raised €3 million in a pre-seed funding round led by NAP, withparticipation from Heartfelt and Angel I...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€3M",
+     "round": "Pre-Seed",
+     "title": "Zelara lands €3M to bring continuous learning to customer engagement",
+     "link": "https://tech.eu/2026/06/24/zelara-lands-eur3m-to-bring-continuous-learning-to-customer-engagement/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ora-computing": {
+   "name": "Ora Computing",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ora Computing, a startup developing softwareto optimise and compress AI foundation models, has closed a €3.5 million seedfunding round led by Constructor Capital and Greencode Ventures, with continued...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€3.5M",
+     "round": "",
+     "title": "Ora Computing raises €3.5M to build the efficiency layer of the AI stack",
+     "link": "https://tech.eu/2026/06/24/ora-computing-raises-eur35m-to-build-the-efficiency-layer-of-the-ai-stack/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "stark": {
+   "name": "Stark",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Stark, the German defence tech startup which makes weaponised drones, has today confirmed it has raised €500 million in new funding.Sequoia, Peter Thiel's Founders Fund, the NATO Innovation Fund, Proj...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "€500M",
+     "round": "",
+     "title": "Stark bags €500M in new funding",
+     "link": "https://tech.eu/2026/06/23/stark-bags-eur500-million-in-new-funding/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "the-hub": {
+   "name": "The Hub",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "The Hub, a Nordic recruitment platform focused on startups, has raised €896K (NOK 10 million) from a group of angel investors that includes former alpine skier Aksel Lund Svindal, investor Trond Riiber Knudsen, and founders from Tise, Superside, Kahoot, and Firi. The new funding ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "€896K",
+     "round": "Angel",
+     "title": "The Hub secures funding to strengthen position in Nordic startup recruitment",
+     "link": "https://arcticstartup.com/the-hub-raises-e896k/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "saffronstays": {
+   "name": "SaffronStays",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hospitality platform SaffronStays has raised $3.5 Mn (around ₹29 Cr) in a mix of primary transactions and a secondary stake…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$3.5 Mn",
+     "round": "",
+     "title": "SaffronStays Nets $3.5 Mn To Scale Holiday Home Network",
+     "link": "https://inc42.com/buzz/saffronstays-nets-3-5-mn-to-scale-holiday-home-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "home-loan-marketplace-ambak-in-talks-to": {
+   "name": "Home Loan Marketplace Ambak In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Home loan marketplace Ambak is in talks to raise ₹80 Cr ($8.4 Mn) in a fresh funding round, which will…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "₹80",
+     "round": "",
+     "title": "Exclusive: Home Loan Marketplace Ambak In Talks To Raise ₹80 Cr",
+     "link": "https://inc42.com/buzz/exclusive-home-loan-marketplace-ambak-in-talks-to-raise-%e2%82%b980-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ikin-global": {
+   "name": "Ikin Global",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "IoT smart lock startup IkinGlobal has raised $2 Mn (about ₹19 Cr) in its pre-Series A2 funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$2 Mn",
+     "round": "Series A2",
+     "title": "Ikin Global Raises $2 Mn To Take Its Smart Lock Solutions Overseas",
+     "link": "https://inc42.com/buzz/ikin-global-raises-2-mn-to-take-its-smart-lock-solutions-overseas/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "qosmic": {
+   "name": "QOSMIC",
+   "country": "India",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Spacetech startup QOSMIC has raised $3.3 Mn (about ₹31 Cr) in its seed funding round led by Accel and Prosus,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$3.3 Mn",
+     "round": "Seed",
+     "title": "QOSMIC Bags $3.3 Mn To Build Laser-Based Satellite Communication Systems",
+     "link": "https://inc42.com/buzz/qosmic-bags-3-3-mn-to-build-laser-based-satellite-communication-systems/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "blossom-social": {
+   "name": "Blossom Social",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Connection & community",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Funding will help the social network for investors continue its global expansion.  \n The post  Blossom Social raises more than $2 million through FrontFundr campaign  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$2 million",
+     "round": "",
+     "title": "Blossom Social raises more than $2 million through FrontFundr campaign",
+     "link": "https://betakit.com/blossom-social-raises-more-than-2-million-through-frontfundr-campaign/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "tetrix": {
+   "name": "Tetrix",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Canadian co-founded, New York-based investment intelligence platform will expand Montréal office with new funding. \n The post  Tetrix raises $15 million USD to excavate investor data buried in old technolgies  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-23",
+   "last_seen": "2026-06-23",
+   "events": [
+    {
+     "date": "2026-06-23",
+     "amount": "$15 million",
+     "round": "",
+     "title": "Tetrix raises $15 million USD to excavate investor data buried in old technolgies",
+     "link": "https://betakit.com/tetrix-raises-15-million-usd-to-excavate-investor-data-buried-in-old-technolgies/",
+     "source": "BetaKit"
     }
    ]
   }
