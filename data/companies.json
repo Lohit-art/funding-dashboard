@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-24T15:33:00+00:00",
+ "updated": "2026-06-25T15:39:23+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -6760,12 +6760,12 @@
    "category": "Professional excellence",
    "sector": "Other",
    "is_ai": false,
-   "research_based": false,
+   "research_based": true,
    "stage": "established",
-   "summary": "A French startup which uses a novel technology to reconstruct damaged tissue and restore it to its natural state has raised €30m in equity funding and taken out up to €30m in debt financing, it said t...",
-   "audience": "General / mixed",
+   "summary": "TISSIUM announced a €60 million financing package to support its commercial and clinical activities, pipeline development, and platform expansion. The financing package includes a completed €30 million Series D2 financing and a financing facility of up to €30 million from the Eur",
+   "audience": "Healthcare providers & patients",
    "first_seen": "2026-06-24",
-   "last_seen": "2026-06-24",
+   "last_seen": "2026-06-25",
    "events": [
     {
      "date": "2026-06-24",
@@ -6774,6 +6774,14 @@
      "title": "Tissium raises €30M in equity funding, €30M in debt",
      "link": "https://tech.eu/2026/06/24/tissium-raises-eur30m-in-equity-eur30m-in-debt/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-25",
+     "amount": "€60 Million",
+     "round": "Series D2",
+     "title": "TISSIUM Secures €60 Million To Support Commercial And Clinical Expansion",
+     "link": "https://pulse2.com/tissium-secures-e60-million-to-support-commercial-and-clinical-expansion/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -6881,11 +6889,11 @@
    "sector": "AI Infrastructure",
    "is_ai": true,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "Ora Computing, a startup developing softwareto optimise and compress AI foundation models, has closed a €3.5 million seedfunding round led by Constructor Capital and Greencode Ventures, with continued...",
+   "stage": "new",
+   "summary": "Ora Computing announced that it raised a €3.5 million seed funding round to support the development of its software and algorithm stack for more efficient AI systems. \n The post  Ora Computing Raises €3.5 Million Seed Round  appeared first on  Pulse 2.0 .",
    "audience": "General / mixed",
    "first_seen": "2026-06-24",
-   "last_seen": "2026-06-24",
+   "last_seen": "2026-06-25",
    "events": [
     {
      "date": "2026-06-24",
@@ -6894,6 +6902,14 @@
      "title": "Ora Computing raises €3.5M to build the efficiency layer of the AI stack",
      "link": "https://tech.eu/2026/06/24/ora-computing-raises-eur35m-to-build-the-efficiency-layer-of-the-ai-stack/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-25",
+     "amount": "€3.5 Million",
+     "round": "Seed",
+     "title": "Ora Computing Raises €3.5 Million Seed Round",
+     "link": "https://pulse2.com/ora-computing-raises-e3-5-million-seed-round/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -7086,6 +7102,566 @@
      "title": "Tetrix raises $15 million USD to excavate investor data buried in old technolgies",
      "link": "https://betakit.com/tetrix-raises-15-million-usd-to-excavate-investor-data-buried-in-old-technolgies/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "arca": {
+   "name": "Arca",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Arca announced its emergence from stealth with $64 million raised across its seed round and Series A. \n The post  Arca Raises $64 Million To Build AI-Native Wealth Management Platform  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$64 Million",
+     "round": "Seed",
+     "title": "Arca Raises $64 Million To Build AI-Native Wealth Management Platform",
+     "link": "https://pulse2.com/arca-raises-64-million-to-build-ai-native-wealth-management-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "netris": {
+   "name": "Netris",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Netris announced it raised a $15 million Series A round to accelerate adoption of its network automation and multi-tenancy platform for AI infrastructure. The round was led by Andreessen Horowitz. Guido Appenzeller, Partner at Andreessen Horowitz, led the round and is joining Net",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$15 Million",
+     "round": "Series A",
+     "title": "Netris Raises $15 Million Series A Led By Andreessen Horowitz",
+     "link": "https://pulse2.com/netris-raises-15-million-series-a-led-by-andreessen-horowitz/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "trase": {
+   "name": "Trase",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Trase announced it raised a $107 million seed funding round to continue building its agentic operating system for regulated industries. The round was led by ARCH Venture Partners, with participation from Red Cell Partners and other investors. \n The post  Trase Raises $107 Million",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$107 Million",
+     "round": "Seed",
+     "title": "Trase Raises $107 Million Seed Round Led By ARCH Venture Partners",
+     "link": "https://pulse2.com/trase-raises-107-million-seed-round-led-by-arch-venture-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "airwallex": {
+   "name": "Airwallex",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Airwallex has closed a $320 million Series H round that values the global payments company at $11 billion,…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$320 Million",
+     "round": "Series H",
+     "title": "Airwallex Raises $320 Million Series H At $11 Billion Valuation",
+     "link": "https://pulse2.com/airwallex-raises-320-million-series-h-at-11-billion-valuation/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-06-25",
+     "amount": "$320M",
+     "round": "Series H",
+     "title": "Airwallex raises $320M at $11B valuation to let AI run your finance team from day one",
+     "link": "https://techfundingnews.com/airwallex-raises-320m-at-11b-valuation-to-let-ai-run-your-finance-team-from-day-one/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "float-financial": {
+   "name": "Float Financial",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Float Financial announced it raised a CAD $85 million all-equity Series C round to continue building what it describes as Canada’s intelligent financial operating system. \n The post  Float Financial Raises C$85 Million Series C  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "C$85 Million",
+     "round": "Series C",
+     "title": "Float Financial Raises C$85 Million Series C",
+     "link": "https://pulse2.com/float-financial-raises-c85-million-series-c/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "stark-defence-reportedly": {
+   "name": "Stark Defence Reportedly",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Stark Defence reportedly raised €500 million in new funding, valuing the German drone startup at about €3.5 billion, according to Bloomberg. The round was backed by Sequoia Capital and Founders Fund, the venture capital firm co-founded by Peter Thiel. Other investors reportedly i",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "€500 Million",
+     "round": "",
+     "title": "Stark Defence Reportedly Raises €500 Million At €3.5 Billion Valuation",
+     "link": "https://pulse2.com/stark-defence-reportedly-raises-e500-million-at-e3-5-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "allianzgi": {
+   "name": "AllianzGI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Allianz Global Investors announced the first close of Allianz Asia Pacific Secured Lending Fund III, securing $744 million in commitments. \n The post  AllianzGI Raises $744 Million At First Close Of Asia Pacific Secured Lending Fund III  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$744 Million",
+     "round": "",
+     "title": "AllianzGI Raises $744 Million At First Close Of Asia Pacific Secured Lending Fund III",
+     "link": "https://pulse2.com/allianzgi-raises-744-million-at-first-close-of-asia-pacific-secured-lending-fund-iii/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "finn": {
+   "name": "FINN",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "FINN announced the closing of its Series D funding round, which includes nearly €100 million in fresh equity capital and more than €40 million in debt financing, bringing the total financing package to about €140 million. \n The post  FINN Raises €140 Million And Achieves Unicorn ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "€140 Million",
+     "round": "Series D",
+     "title": "FINN Raises €140 Million And Achieves Unicorn Status",
+     "link": "https://pulse2.com/finn-raises-e140-million-and-achieves-unicorn-status/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "backed-by-spotify-pinterest-investor-blisce-almetra": {
+   "name": "Backed by Spotify, Pinterest investor blisce/, Almetra",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Most factories producing goods for the world’s biggest brands have no reliable, real-time picture of what is happening…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "€16.3M",
+     "round": "",
+     "title": "Backed by Spotify, Pinterest investor blisce/, Almetra raises €16.3M to become the intelligence layer of the modern factory",
+     "link": "https://techfundingnews.com/almetra-16-3m-series-a-factory-intelligence/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "bosch-and-siemens-energy-partner-almetra": {
+   "name": "Bosch and Siemens Energy partner Almetra",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Almetra, the Berlin-based manufacturing intelligence company formerly known as Deltia, today announced a €16 million ($19 million) Series A funding round to accelerate product development, international expansion into the US, and the build-out of Almetra’s platform into a compreh",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "€16 million",
+     "round": "Series A",
+     "title": "Bosch and Siemens Energy partner Almetra raises €16 million Series A for manufacturing intelligence platform",
+     "link": "https://www.eu-startups.com/2026/06/bosch-and-siemens-energy-partner-almetra-raises-e16-million-series-a-for-manufacturing-intelligence-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "amid-a-500-700-million-sme-hrtech-opportunity-ireland-s-hr": {
+   "name": "Amid a €500-700 million SME HRTech opportunity, Ireland’s HR",
+   "country": "Ireland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "HR Duo, an Irish employer operating layer for frontline-heavy businesses, today announces the completion of a €1.6 million funding round in order to grow their UK sales team and strengthen its SaaS infrastructure to support scale. The investment was led by existing key investor P",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "€500",
+     "round": "Growth",
+     "title": "Amid a €500-700 million SME HRTech opportunity, Ireland’s HR Duo secures €1.6 million for growth",
+     "link": "https://www.eu-startups.com/2026/06/amid-a-e500-700-million-sme-hrtech-opportunity-irelands-hr-duo-secures-e1-6-million-for-growth/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "leyden-labs": {
+   "name": "Leyden Labs",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Following their selection for the EIC STEP Scale Up programme, Dutch BioTech startup Leyden Labs has raised €40 million to advance its nasal spray platform designed to protect against influenza and other respiratory viruses. The round brings together the European Innovation Counc",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "€40 million",
+     "round": "",
+     "title": "Leyden Labs secures €40 million to develop intranasal protection against influenza and coronaviruses",
+     "link": "https://www.eu-startups.com/2026/06/leyden-labs-secures-e40-million-to-develop-intranasal-protection-against-influenza-and-coronaviruses/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "serpier": {
+   "name": "Serpier",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Danishmartech startup Serpier has raised €1.4 million in funding from True Collectiveand the Export and Investment Fund of Denmark (EIFO) to expand its AI-poweredmarketing platform for e-commerce busi...",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "€1.4M",
+     "round": "",
+     "title": "Serpier raises €1.4M to help online retailers improve digital visibility",
+     "link": "https://tech.eu/2026/06/25/serpier-raises-eur14m-to-help-online-retailers-improve-digital-visibility/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "french-health-insurance-outfit-alan-agrees-480m-funding-rou": {
+   "name": "French health insurance outfit Alan agrees €480M funding rou",
+   "country": "France",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "French health insurance company Alan says it has reached an agreement on a €480m funding round, valuing it at €5.5bn.   The new Series G funding round follows just months after Alan announced a €100m ...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "€480M",
+     "round": "Series G",
+     "title": "French health insurance outfit Alan agrees €480M funding round",
+     "link": "https://tech.eu/2026/06/25/french-health-insurance-outfit-alan-agrees-eur480m-funding-round/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "wayout": {
+   "name": "Wayout",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Wayout International, the Swedish developer of Distributed Drinking Water Infrastructure, today announced the successful closing of a €2.42 million (SEK 26.6 million) Series A extension. The round was...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "€2.42M",
+     "round": "Series A",
+     "title": "Wayout raises €2.42M to scale decentralised drinking water infrastructure platform",
+     "link": "https://tech.eu/2026/06/25/wayout-raises-eur242m-to-scale-decentralised-drinking-water-infrastructure-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "kalipso": {
+   "name": "Kalipso",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Barcelona-based Kalipso, a regulatorytechnology platform built by lawyers and engineers to help organisationsoperationalise regulatory change, has raised $3.2 million in funding. The roundwas backed b...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$3.2M",
+     "round": "",
+     "title": "Kalipso raises $3.2M to scale regulatory compliance platform",
+     "link": "https://tech.eu/2026/06/25/kalipso-raises-32m-to-scale-regulatory-compliance-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "almetra": {
+   "name": "Almetra",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Berlin-basedmanufacturing intelligence company Almetra, formerly known as Deltia, hasraised €16.3 million in a Series A funding round led by blisce/, with participation from NAP, Merantix Capital, Rob...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "€16.3M",
+     "round": "Series A",
+     "title": "Almetra secures €16.3M Series A to drive smarter manufacturing",
+     "link": "https://tech.eu/2026/06/25/almetra-secures-eur163m-series-a-to-drive-smarter-manufacturing/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "centre-may-acquire-1-2-stake-in-sarvam-post-300-mn": {
+   "name": "Centre May Acquire 1-2% Stake In Sarvam Post $300 Mn",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The central government may end up acquiring a 1-2% stake in AI unicorn Sarvam once its $300 Mn funding round…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$300 Mn",
+     "round": "",
+     "title": "Centre May Acquire 1-2% Stake In Sarvam Post $300 Mn Raise: Report",
+     "link": "https://inc42.com/buzz/centre-may-acquire-1-2-stake-in-sarvam-post-300-mn-raise-report/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "rbi-s-digital-fraud-compensation-rules-victims-to": {
+   "name": "RBI’s Digital Fraud Compensation Rules: Victims To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The Reserve Bank of India (RBI) has issued directives to limit the liabilities of customers in cases of unauthorised electronic…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "₹25,000",
+     "round": "",
+     "title": "RBI’s Digital Fraud Compensation Rules: Victims To Get Up To ₹25,000",
+     "link": "https://inc42.com/buzz/rbis-digital-fraud-compensation-rules-victims-to-get-up-to-%e2%82%b925000/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "superliving": {
+   "name": "SuperLiving",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI-native health and nutrition-focused platform SuperLiving has raised $7 Mn (about ₹65.9 Cr) in its Series A funding round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$7 Mn",
+     "round": "Series A",
+     "title": "Preventive Health Platform SuperLiving Bags $7 Mn To Scale In Tier II & III Cities",
+     "link": "https://inc42.com/buzz/preventive-health-platform-superliving-bags-7-mn-to-scale-in-tier-ii-iii-cities/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ex-infosys-ceo-vishal-sikka-s-new-ai-venture-hang-ten": {
+   "name": "Ex-Infosys CEO Vishal Sikka’s New AI Venture Hang Ten",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Former Infosys CEO Vishal Sikka’s new AI venture Hang Ten Systems has raised $32 Mn (₹302 Cr) in its seed…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$32 Mn",
+     "round": "Seed",
+     "title": "Ex-Infosys CEO Vishal Sikka’s New AI Venture Hang Ten Bags $32 Mn",
+     "link": "https://inc42.com/buzz/ex-infosys-ceo-vishal-sikkas-new-ai-venture-hang-ten-bags-32-mn/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "justai": {
+   "name": "JustAI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI-powered martech platform JustAI, erstwhile Just Words, has raised $17 Mn (₹160.2 Cr) in its Series A funding round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-24",
+   "last_seen": "2026-06-24",
+   "events": [
+    {
+     "date": "2026-06-24",
+     "amount": "$17 Mn",
+     "round": "Series A",
+     "title": "JustAI Bags $17 Mn To Scale Its Agentic Martech Stack",
+     "link": "https://inc42.com/buzz/justai-bags-17-mn-to-scale-its-agentic-martech-stack/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "airwallex-worth-16-billion-after-460-million-series-h": {
+   "name": "Airwallex worth $16 billion after $460 million Series H",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Airwallex hits $16B valuation with a $460M Series H, shrugging off AUSTRAC heat as it bets on AI finance.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$16 billion",
+     "round": "Series H",
+     "title": "Airwallex worth $16 billion after $460 million Series H",
+     "link": "https://www.startupdaily.net/topic/funding/airwallex-worth-16-billion-after-460-million-series-h/",
+     "source": "Startup Daily"
     }
    ]
   }
