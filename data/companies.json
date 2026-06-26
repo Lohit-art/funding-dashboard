@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-25T15:39:23+00:00",
+ "updated": "2026-06-26T15:22:56+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -6922,10 +6922,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Stark, the German defence tech startup which makes weaponised drones, has today confirmed it has raised €500 million in new funding.Sequoia, Peter Thiel's Founders Fund, the NATO Innovation Fund, Proj...",
+   "summary": "This week, we tracked more than 75 tech funding deals worth over €2.1 billion and over 5 exits, M&A transactions, rumours, and related news stories across Europe.If email is more your thing, you c...",
    "audience": "Government & public sector",
    "first_seen": "2026-06-23",
-   "last_seen": "2026-06-23",
+   "last_seen": "2026-06-26",
    "events": [
     {
      "date": "2026-06-23",
@@ -6933,6 +6933,14 @@
      "round": "",
      "title": "Stark bags €500M in new funding",
      "link": "https://tech.eu/2026/06/23/stark-bags-eur500-million-in-new-funding/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-26",
+     "amount": "€500M",
+     "round": "",
+     "title": "Stark bags €500M, Tech.eu Funding Explorer launched, and Luxembourg's big ambitions",
+     "link": "https://tech.eu/2026/06/26/stark-bags-500m-tech-eu-funding-explorer-launched-and-luxembourg-s-big-ambitions/",
      "source": "Tech.eu"
     }
    ]
@@ -7662,6 +7670,366 @@
      "title": "Airwallex worth $16 billion after $460 million Series H",
      "link": "https://www.startupdaily.net/topic/funding/airwallex-worth-16-billion-after-460-million-series-h/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "patronus-ai": {
+   "name": "Patronus AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$50M",
+     "round": "",
+     "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+     "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "tombot": {
+   "name": "Tombot",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Tombot announced that it closed a $7 million Series A3 financing round to scale operations and expand its companion robotics product line. \n The post  Tombot Raises $7 Million Series A3 To Scale Robotic Companion Animals  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "$7 Million",
+     "round": "Series A3",
+     "title": "Tombot Raises $7 Million Series A3 To Scale Robotic Companion Animals",
+     "link": "https://pulse2.com/tombot-raises-7-million-series-a3-to-scale-robotic-companion-animals/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "lumenai": {
+   "name": "Lumenai",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Lumenai announced that it has secured pre-seed investment from Corpora.ai to advance its work around structured people intelligence for AI-era workplaces. \n The post  Lumenai Secures Pre-Seed Investment From Corpora.ai  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Lumenai Secures Pre-Seed Investment From Corpora.ai",
+     "link": "https://pulse2.com/lumenai-secures-pre-seed-investment-from-corpora-ai/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "public-storage-announces-3-billion-revolving-credit-facilit": {
+   "name": "Public Storage Announces $3 Billion Revolving Credit Facilit",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Public Storage announced that it has closed a new $3 billion unsecured revolving credit facility, a $500 million delayed draw term loan facility, and established a $1 billion unsecured commercial paper program. The new revolving credit facility replaces Public Storage’s previous ",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "$3 Billion",
+     "round": "",
+     "title": "Public Storage Announces $3 Billion Revolving Credit Facility And $1 Billion Commercial Paper Program",
+     "link": "https://pulse2.com/public-storage-announces-3-billion-revolving-credit-facility-and-1-billion-commercial-paper-program/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "hera": {
+   "name": "Hera",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Hera announced that it raised $27 million in Series A funding to expand its AI-powered senior care coordination platform. The round was led by Bain Capital Ventures, with continued participation from Accel and IA Ventures. Angel investors also participated, including the CFO of M",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "$27 Million",
+     "round": "Series A",
+     "title": "Hera Raises $27 Million Series A Led By Bain Capital Ventures",
+     "link": "https://pulse2.com/hera-raises-27-million-series-a-led-by-bain-capital-ventures/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cleantek-industries": {
+   "name": "Cleantek Industries",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Cleantek Industries announced that it has secured a $2 million senior credit facility with a Canadian financial institution. \n The post  Cleantek Industries Secures $2 Million Credit Facility  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "$2 Million",
+     "round": "",
+     "title": "Cleantek Industries Secures $2 Million Credit Facility",
+     "link": "https://pulse2.com/cleantek-industries-secures-2-million-credit-facility/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nebulock": {
+   "name": "Nebulock",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Nebulock announced that it raised $25 million in Series A financing to expand its AI-native contextual security platform. The round was led by FirstMark, with participation from existing investors Bain Capital Ventures, Decibel, Zetta Venture Partners, and Step Function. \n The po",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "$25 Million",
+     "round": "Series A",
+     "title": "Nebulock Raises $25 Million Series A Led By FirstMark",
+     "link": "https://pulse2.com/nebulock-raises-25-million-series-a-led-by-firstmark/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "mgx": {
+   "name": "MGX",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "MGX has reportedly raised close to $50 billion from regional and global investors to accelerate its artificial intelligence investment strategy, according to Bloomberg. \n The post  MGX Raises About $50 Billion To Accelerate AI Deals  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "$50 Billion",
+     "round": "",
+     "title": "MGX Raises About $50 Billion To Accelerate AI Deals",
+     "link": "https://pulse2.com/mgx-raises-about-50-billion-to-accelerate-ai-deals/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "german-spinout": {
+   "name": "German spinout",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Every year, about 350,000 women die from cervical cancer, even though most cases could be prevented. The biggest…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "€3M",
+     "round": "",
+     "title": "German spinout raises over €3M to tackle cervical cancer with a test that works anywhere without electricity or a lab",
+     "link": "https://techfundingnews.com/intu-diagnostics-1-1m-lab-free-hpv-testing/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "general-intuition": {
+   "name": "General Intuition",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "A New York AI lab that trains its models on billions of gameplay clips from real human players…",
+   "audience": "Consumers",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "$320M",
+     "round": "Series A",
+     "title": "General Intuition bags $320M Series A at $2.3B to build the AI that learns to act from gamers",
+     "link": "https://techfundingnews.com/khosla-wrote-two-cheques-in-three-months-now-general-intuition-wants-a-third/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "lab-free-testing-moves-closer-to-home-as-germany-s-intu-diag": {
+   "name": "Lab-free testing moves closer to home as Germany’s Intu Diag",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Intu Diagnostics, a Liepzig-based startup developing a platform for completely lab-free molecular diagnostics, has closed a €1.1 million strategic bridge round- bringing their total funding secured to over €3 million. The round was supported by BSV Ventures, SAB (Saxonian Develop",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "€1.1 million",
+     "round": "Bridge",
+     "title": "Lab-free testing moves closer to home as Germany’s Intu Diagnostics raises €1.1 million",
+     "link": "https://www.eu-startups.com/2026/06/lab-free-testing-moves-closer-to-home-as-germanys-intu-diagnostics-raises-e1-1-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "uk-biotech-thalia-therapeutics": {
+   "name": "UK BioTech Thalia Therapeutics",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Thalia Therapeutics, a British BioTech company developing RNA-based therapeutics and delivery technologies in oncology and cardiovascular disease, has announced the acquisition of Sanmirna Therapeutics, alongside a €3.1 million (£2.75 million) raise. The round was supported by ne",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "€3.1 million",
+     "round": "",
+     "title": "UK BioTech Thalia Therapeutics raises €3.1 million and acquires Sanmirna Therapeutics",
+     "link": "https://www.eu-startups.com/2026/06/uk-biotech-thalia-therapeutics-raises-e3-1-million-and-acquires-sanmirna-therapeutics/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "pharmeasy-cofounders-home-interiors-startup-allhome": {
+   "name": "PharmEasy Cofounders’ Home Interiors Startup AllHome",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Home improvement startup AllHome has raised ₹200 Cr (about $21 Mn) in its Series B round led by Bessemer Venture…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "₹200",
+     "round": "Series B",
+     "title": "PharmEasy Cofounders’ Home Interiors Startup AllHome Raises ₹200 Cr",
+     "link": "https://inc42.com/buzz/pharmeasy-cofounders-home-interiors-startup-allhome-raises-%e2%82%b9200-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "gen-z-focused-cafe-chain-alienkind": {
+   "name": "Gen Z-Focused Cafe Chain Alienkind",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Cafe chain Alienkind has raised $3.2 Mn (about ₹30 Cr) in its pre-Series A funding round from a clutch of…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-26",
+   "last_seen": "2026-06-26",
+   "events": [
+    {
+     "date": "2026-06-26",
+     "amount": "$3.2 Mn",
+     "round": "Pre-Series A",
+     "title": "Gen Z-Focused Cafe Chain Alienkind Bags $3.2 Mn To Expand Footprint",
+     "link": "https://inc42.com/buzz/gen-z-focused-cafe-chain-alienkind-bags-3-2-mn-to-expand-footprint/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "float-announces-85-million-series-c-round-to-support-ai-pus": {
+   "name": "Float announces $85-million Series C round to support AI pus",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fast-growing Toronto FinTech now serves more than 7,500 Canadian businesses. \n The post  Float announces $85-million Series C round to support AI push  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-25",
+   "last_seen": "2026-06-25",
+   "events": [
+    {
+     "date": "2026-06-25",
+     "amount": "$85",
+     "round": "Series C",
+     "title": "Float announces $85-million Series C round to support AI push",
+     "link": "https://betakit.com/float-announces-85-million-series-c-round-to-support-ai-push/",
+     "source": "BetaKit"
     }
    ]
   }
