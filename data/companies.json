@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-26T15:22:56+00:00",
+ "updated": "2026-06-27T14:28:24+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -7898,10 +7898,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "A New York AI lab that trains its models on billions of gameplay clips from real human players…",
+   "summary": "General Intuition announced that it has raised $320 million in Series A funding at a $2.3 billion valuation. The round was led by Khosla Ventures, with participation from General Catalyst, Hillspire, the family office of Eric Schmidt, and Jeff Bezos. \n The post  General Intuition",
    "audience": "Consumers",
    "first_seen": "2026-06-26",
-   "last_seen": "2026-06-26",
+   "last_seen": "2026-06-27",
    "events": [
     {
      "date": "2026-06-26",
@@ -7910,6 +7910,14 @@
      "title": "General Intuition bags $320M Series A at $2.3B to build the AI that learns to act from gamers",
      "link": "https://techfundingnews.com/khosla-wrote-two-cheques-in-three-months-now-general-intuition-wants-a-third/",
      "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-06-27",
+     "amount": "$320 Million",
+     "round": "Series A",
+     "title": "General Intuition Raises $320 Million Series A At $2.3 Billion Valuation",
+     "link": "https://pulse2.com/general-intuition-raises-320-million-series-a-at-2-3-billion-valuation/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -8030,6 +8038,198 @@
      "title": "Float announces $85-million Series C round to support AI push",
      "link": "https://betakit.com/float-announces-85-million-series-c-round-to-support-ai-push/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "verizon": {
+   "name": "Verizon",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Connection & community",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Verizon Communications successfully bid nearly $3.2 billion for wireless licenses in a Federal Communications Commission auction for mid-band spectrum. \n The post  Verizon Wins Nearly $3.2 Billion In FCC Spectrum Licenses  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-27",
+   "last_seen": "2026-06-27",
+   "events": [
+    {
+     "date": "2026-06-27",
+     "amount": "$3.2 Billion",
+     "round": "",
+     "title": "Verizon Wins Nearly $3.2 Billion In FCC Spectrum Licenses",
+     "link": "https://pulse2.com/verizon-wins-nearly-3-2-billion-in-fcc-spectrum-licenses/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "venture-global": {
+   "name": "Venture Global",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Venture Global announced that its wholly owned subsidiary, Venture Global Shipping Holdings, has entered into a senior secured term loan facility totaling up to $1.5 billion. \n The post  Venture Global Closes $1.5 Billion Senior Secured Vessel Financing Facility  appeared first o",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-27",
+   "last_seen": "2026-06-27",
+   "events": [
+    {
+     "date": "2026-06-27",
+     "amount": "$1.5 Billion",
+     "round": "",
+     "title": "Venture Global Closes $1.5 Billion Senior Secured Vessel Financing Facility",
+     "link": "https://pulse2.com/venture-global-closes-1-5-billion-senior-secured-vessel-financing-facility/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "warp": {
+   "name": "Warp",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Warp announced that it has raised $60 million in Series B funding to accelerate development of its AI-native employee management platform. \n The post  Warp Raises $60 Million Series B To Build AI-Native Employee Management Platform  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-27",
+   "last_seen": "2026-06-27",
+   "events": [
+    {
+     "date": "2026-06-27",
+     "amount": "$60 Million",
+     "round": "Series B",
+     "title": "Warp Raises $60 Million Series B To Build AI-Native Employee Management Platform",
+     "link": "https://pulse2.com/warp-raises-60-million-series-b-to-build-ai-native-employee-management-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "mirendil": {
+   "name": "Mirendil",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Mirendil announced its formal launch with a $200 million seed round led by Andreessen Horowitz and Kleiner Perkins. NVIDIA also invested in the company, along with other backers. \n The post  Mirendil Raises $200 Million Seed Round To Build Self-Accelerating AI R&D Systems  appear",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-27",
+   "last_seen": "2026-06-27",
+   "events": [
+    {
+     "date": "2026-06-27",
+     "amount": "$200 Million",
+     "round": "Seed",
+     "title": "Mirendil Raises $200 Million Seed Round To Build Self-Accelerating AI R&D Systems",
+     "link": "https://pulse2.com/mirendil-raises-200-million-seed-round-to-build-self-accelerating-ai-rd-systems/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "reed-semiconductor": {
+   "name": "Reed Semiconductor",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Reed Semiconductor announced that it has completed an upsized and oversubscribed $100 million funding round. The round included participation from several leading global semiconductor companies. \n The post  Reed Semiconductor Raises $100 Million To Scale AI Infrastructure Power S",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-27",
+   "last_seen": "2026-06-27",
+   "events": [
+    {
+     "date": "2026-06-27",
+     "amount": "$100 Million",
+     "round": "",
+     "title": "Reed Semiconductor Raises $100 Million To Scale AI Infrastructure Power Solutions",
+     "link": "https://pulse2.com/reed-semiconductor-raises-100-million-to-scale-ai-infrastructure-power-solutions/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "oblenio-bio": {
+   "name": "Oblenio Bio",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Oblenio Bio announced that it has closed an oversubscribed $62 million Series B financing round to advance its lead autoimmune disease program into clinical development. The round was led by Pfizer Ventures, with participation from new investors Deep Track Capital and GV. Aditum ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-27",
+   "last_seen": "2026-06-27",
+   "events": [
+    {
+     "date": "2026-06-27",
+     "amount": "$62 Million",
+     "round": "Series B",
+     "title": "Oblenio Bio Raises $62 Million Series B To Advance Autoimmune Disease Therapy",
+     "link": "https://pulse2.com/oblenio-bio-raises-62-million-series-b-to-advance-autoimmune-disease-therapy/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "scaled-cognition": {
+   "name": "Scaled Cognition",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Scaled Cognition announced that it has raised $100 million in Series A funding led by Khosla Ventures. \n The post  Scaled Cognition Raises $100 Million To Build Reliable Enterprise AI  appeared first on  Pulse 2.0 .",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-27",
+   "last_seen": "2026-06-27",
+   "events": [
+    {
+     "date": "2026-06-27",
+     "amount": "$100 Million",
+     "round": "Series A",
+     "title": "Scaled Cognition Raises $100 Million To Build Reliable Enterprise AI",
+     "link": "https://pulse2.com/scaled-cognition-raises-100-million-to-build-reliable-enterprise-ai/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sail-research": {
+   "name": "Sail Research",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Sail Research announced that it has raised $80 million in Seed and Series A funding at a $450 million valuation. \n The post  Sail Research Raises $80 Million To Build Infrastructure For Long-Horizon AI Agents  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-27",
+   "last_seen": "2026-06-27",
+   "events": [
+    {
+     "date": "2026-06-27",
+     "amount": "$80 Million",
+     "round": "Seed",
+     "title": "Sail Research Raises $80 Million To Build Infrastructure For Long-Horizon AI Agents",
+     "link": "https://pulse2.com/sail-research-raises-80-million-to-build-infrastructure-for-long-horizon-ai-agents/",
+     "source": "Pulse 2.0"
     }
    ]
   }
