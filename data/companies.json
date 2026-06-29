@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-28T14:47:37+00:00",
+ "updated": "2026-06-29T16:38:14+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -5386,10 +5386,10 @@
    "is_ai": false,
    "research_based": true,
    "stage": "new",
-   "summary": "Copenhagen-based deep tech startup Acodyne has raised €2.5 million in pre-seed funding to scale its unmanned eVTOL cargo aircraft for heavy-lift logistics in defence, offshore, and remote operations. ...",
+   "summary": "Acodyne has raised €2.5 million in pre-seed funding to support the development of autonomous cargo aircraft for defence, offshore and remote logistics applications. The investment round was co-led by Gungnir Capital and PSV Hafnium, with participation from EIFO, SAP9 Group and Gr",
    "audience": "Government & public sector",
    "first_seen": "2026-06-22",
-   "last_seen": "2026-06-22",
+   "last_seen": "2026-06-29",
    "events": [
     {
      "date": "2026-06-22",
@@ -5406,6 +5406,14 @@
      "title": "Acodyne secures €2.5M to develop next-generation autonomous logistics aircraft",
      "link": "https://tech.eu/2026/06/22/acodyne-secures-eur25m-to-develop-next-generation-autonomous-logistics-aircraft/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-29",
+     "amount": "€2.5 million",
+     "round": "Pre-Seed",
+     "title": "Acodyne lands €2.5 million in a pre-seed round to advance autonomous cargo aircraft for defence and offshore logistics",
+     "link": "https://arcticstartup.com/acodyne-raises-e2-5m-pre-seed/",
+     "source": "ArcticStartup"
     }
    ]
   },
@@ -6957,7 +6965,7 @@
    "summary": "The Hub, a Nordic recruitment platform focused on startups, has raised €896K (NOK 10 million) from a group of angel investors that includes former alpine skier Aksel Lund Svindal, investor Trond Riiber Knudsen, and founders from Tise, Superside, Kahoot, and Firi. The new funding ",
    "audience": "General / mixed",
    "first_seen": "2026-06-24",
-   "last_seen": "2026-06-24",
+   "last_seen": "2026-06-29",
    "events": [
     {
      "date": "2026-06-24",
@@ -7411,17 +7419,17 @@
   },
   "serpier": {
    "name": "Serpier",
-   "country": "Unknown",
+   "country": "Denmark",
    "region": "Europe",
    "category": "Entrepreneurship",
    "sector": "E-commerce / Retail",
    "is_ai": true,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Danishmartech startup Serpier has raised €1.4 million in funding from True Collectiveand the Export and Investment Fund of Denmark (EIFO) to expand its AI-poweredmarketing platform for e-commerce busi...",
+   "summary": "Aarhus-based Serpier, a marketing technology startup focused on helping e-commerce companies improve visibility in both traditional search engines and AI-driven recommendation systems, has raised €1.4M in fresh funding. The round was led by venture fund True Collective with parti",
    "audience": "SMBs & merchants",
    "first_seen": "2026-06-25",
-   "last_seen": "2026-06-25",
+   "last_seen": "2026-06-29",
    "events": [
     {
      "date": "2026-06-25",
@@ -7430,6 +7438,14 @@
      "title": "Serpier raises €1.4M to help online retailers improve digital visibility",
      "link": "https://tech.eu/2026/06/25/serpier-raises-eur14m-to-help-online-retailers-improve-digital-visibility/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-29",
+     "amount": "€1.4 million",
+     "round": "",
+     "title": "Danish martech company Serpier raises €1.4 million to expand AI visibility tools for online retailers",
+     "link": "https://arcticstartup.com/serpier-raises-e1-4m/",
+     "source": "ArcticStartup"
     }
    ]
   },
@@ -8230,6 +8246,486 @@
      "title": "Sail Research Raises $80 Million To Build Infrastructure For Long-Horizon AI Agents",
      "link": "https://pulse2.com/sail-research-raises-80-million-to-build-infrastructure-for-long-horizon-ai-agents/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "osney-capital": {
+   "name": "Osney Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Osney Capital announced the final close of its debut fund at its £60 million hard cap. The fund was oversubscribed against its initial £50 million target and is one of the largest debut seed funds in UK history. \n The post  Osney Capital Closes £60 Million Cybersecurity Seed Fund",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "£60 Million",
+     "round": "Seed",
+     "title": "Osney Capital Closes £60 Million Cybersecurity Seed Fund",
+     "link": "https://pulse2.com/osney-capital-closes-60-million-cybersecurity-seed-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "generativex": {
+   "name": "GenerativeX",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entrepreneurship",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "GenerativeX announced that it has closed a $4 million Series A funding round led by Nissay Capital. The round included participation from Salesforce Ventures, Angel Bridge, DeepCore, and SMBC Venture Capital. \n The post  GenerativeX Raises $4 Million Series A To Scale Forward Dep",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "$4 Million",
+     "round": "Series A",
+     "title": "GenerativeX Raises $4 Million Series A To Scale Forward Deployed Engineer Model",
+     "link": "https://pulse2.com/generativex-raises-4-million-series-a-to-scale-forward-deployed-engineer-model/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "straiker": {
+   "name": "Straiker",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Straiker announced that it has raised $64 million in Series A funding to secure enterprise AI agents. The round was led by Marathon Management Partners, Citi Ventures, Illuminate Financial, and Workday Ventures, with continued support from Bain Capital Ventures and Lightspeed. Th",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "$64 Million",
+     "round": "Series A",
+     "title": "Straiker Raises $64 Million Series A To Secure Enterprise AI Agents",
+     "link": "https://pulse2.com/straiker-raises-64-million-series-a-to-secure-enterprise-ai-agents/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sharon-ai": {
+   "name": "Sharon AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "SharonAI Holdings announced the closing of its previously announced oversubscribed $1.6 billion private placement financing. The company plans to use the proceeds to support its six-year strategic compute collaboration with NVIDIA and broader expansion initiatives. \n The post  Sh",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "$1.6 Billion",
+     "round": "",
+     "title": "Sharon AI Closes $1.6 Billion Strategic Financing To Support NVIDIA Compute Collaboration",
+     "link": "https://pulse2.com/sharon-ai-closes-1-6-billion-strategic-financing-to-support-nvidia-compute-collaboration/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "accel-backs-pocket-s-11m": {
+   "name": "Accel backs Pocket’s $11M",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "In 2024, Pocket, a little-known startup, posted a concept video of a small device that could record conversations…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "$11M",
+     "round": "",
+     "title": "Accel backs Pocket’s $11M raise, as the AI hardware startup turns a viral launch into $27M ARR",
+     "link": "https://techfundingnews.com/pocket-11m-accel-ai-hardware-27m-arr/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ariadnext-founders-backed-wultra-s-6-8m-series-a-as-custome": {
+   "name": "ARIADNEXT founders backed Wultra’s €6.8M Series A as custome",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Marc Norlain and Guillaume Despagne have a strong background in digital identity, having grown ARIADNEXT from a startup…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "€6.8M",
+     "round": "Series A",
+     "title": "ARIADNEXT founders backed Wultra’s €6.8M Series A as customers before investors. Here’s what they saw",
+     "link": "https://techfundingnews.com/wultra-6-8m-series-a-post-quantum-authentication/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "bending-spoons-is-eyeing-a-20b-ipo-beacon-has": {
+   "name": "Bending Spoons is eyeing a $20B IPO. Beacon has",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "While the venture capital industry spent the last decade chasing consumer apps and foundation models, a quieter kind…",
+   "audience": "Consumers",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "$20B",
+     "round": "",
+     "title": "Bending Spoons is eyeing a $20B IPO. Beacon has raised $550M. Now London’s Circeus emerges as a new force among AI-native software acquirers",
+     "link": "https://techfundingnews.com/bending-spoons-is-eyeing-a-20b-ipo-beacon-has-raised-550m-now-londons-circeus-emerges-as-a-new-force-among-ai-native-software-acquirers/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "archimede": {
+   "name": "Archimede",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Archimede, an Italian DeepTech startup developing a modular system for managing and monitoring off-grid critical infrastructure, has closed a €1.5 million Seed funding round, surpassing its initial €1 million target, to strengthen its technical and commercial teams, complete prod",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "€1.5 million",
+     "round": "Seed",
+     "title": "Syracuse-based Archimede closes €1.5 million Seed round for remote infrastructure monitoring",
+     "link": "https://www.eu-startups.com/2026/06/syracuse-based-archimede-closes-e1-5-million-seed-round-for-remote-infrastructure-monitoring/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "spain-s-openchip": {
+   "name": "Spain’s Openchip",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Openchip, a Barcelona-based scale-up specialising in the design and marketing of high-performance, energy-efficient chips, has secured an investment of €115 million to accelerate the design of high-performance, energy-efficient chips for AI and high-performance computing (HPC) ap",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "€115 million",
+     "round": "",
+     "title": "Spain’s Openchip lands €115 million SETT investment to strengthen Europe’s semiconductor capabilities",
+     "link": "https://www.eu-startups.com/2026/06/spains-openchip-lands-e115-million-sett-investment-to-strengthen-europes-semiconductor-capabilities/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "wultra": {
+   "name": "Wultra",
+   "country": "Czechia",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Wultra, a Prague-based provider of post-quantum authentication and digital identity solutions for banks and FinTechs, announced a €6.8 million Series A raise to scale their platform and accelerate development of digital identity wallet capabilities to support the rollout of the E",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "€6.8 million",
+     "round": "Series A",
+     "title": "Czech cybersecurity startup Wultra lands €6.8 million to support Europe’s digital identity wallet rollout",
+     "link": "https://www.eu-startups.com/2026/06/czech-cybersecurity-startup-wultra-lands-e6-8-million-to-support-europes-digital-identity-wallet-rollout/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "from-charging-evs-and-drones-to-powering-data-centres-londo": {
+   "name": "From charging EVs and drones to powering data centres: Londo",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Gaussion, a London-based DeepTech company pioneering energy intelligence technology for battery packs, today announces the close of a €24.5 million ($28 million) funding round – bringing total funding to over €38 million ($44 million). The round was co-led by BGF and AlbionVC, wi",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "€24.5 million",
+     "round": "",
+     "title": "From charging EVs and drones to powering data centres: London-based Gaussion raises €24.5 million",
+     "link": "https://www.eu-startups.com/2026/06/from-charging-evs-and-drones-to-powering-data-centres-london-based-gaussion-raises-e24-5-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "amid-rising-uk-cyber-talent-growth-osney-capital": {
+   "name": "Amid rising UK cyber talent growth, Osney Capital",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "UK venture capital firm Osney Capital today announced the final close of its debut fund, oversubscribed at its €69 million (£60 million) hard cap – cementing its position as one of the UK’s first cybersecurity Seed funds. The fund was supported by a cornerstone commitment from th",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "€69 million",
+     "round": "Growth",
+     "title": "Amid rising UK cyber talent growth, Osney Capital closes oversubscribed €69 million debut fund",
+     "link": "https://www.eu-startups.com/2026/06/amid-rising-uk-cyber-talent-growth-osney-capital-closes-oversubscribed-e69-million-debut-fund/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "subatron": {
+   "name": "Subatron",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Connection & community",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swiss engineering startup Subatron has obtained €162,000 (CHF 150,000) from Venture Kick to develop a new generation of underwater communication technology.  The solution aims to enable faster, more r...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "€162K",
+     "round": "",
+     "title": "Subatron secures €162K to tackle one of underwater tech's biggest communication challenges",
+     "link": "https://tech.eu/2026/06/29/subatron-secures-eur162k-to-tackle-one-of-underwater-techs-biggest-communication-challenges/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "danish-franklin": {
+   "name": "Danish Franklin",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Franklin, a Copenhagen-based fintech focused on financial tooling for e-commerce businesses, has raised €1.6M (DKK 12M) in seed funding in a round led by True Collective, alongside several angel investors. The company offers a payment card and finance platform aimed at online mer",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "€1.6 million",
+     "round": "Seed",
+     "title": "Danish Franklin secures €1.6 million in a seed round to expand AI-powered finance platform",
+     "link": "https://arcticstartup.com/franklin-raises-e1-6m/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "lightbox-backed-nua-in-talks-to": {
+   "name": "Lightbox-Backed Nua In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C femtech brand Nua is in talks to raise $20 Mn (about ₹189 Cr) to $25 Mn (about ₹236 Cr)…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "$25 Mn",
+     "round": "",
+     "title": "Exclusive: Lightbox-Backed Nua In Talks To Raise $25 Mn From Peak XV, Others",
+     "link": "https://inc42.com/buzz/lightbox-backed-nua-in-talks-to-raise-25-mn-from-peak-xv-others/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "incuspaze": {
+   "name": "Incuspaze",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Managed workspace provider Incuspaze has raised ₹150 Cr (about $15.9 Mn) in a fresh funding round led by Bharat Value…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "₹150",
+     "round": "",
+     "title": "Coworking Space Provider Incuspaze Bags ₹150 Cr For M&A Push Ahead Of IPO",
+     "link": "https://inc42.com/buzz/coworking-space-provider-incuspaze-bags-%e2%82%b9150-cr-for-ma-push-ahead-of-ipo/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "mykare": {
+   "name": "Mykare",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Healthtech startup Mykare has raised an additional $1 Mn (₹9.4 Cr) from US-based healthtech company Papa.com cofounders Andrew Parker and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "$3.2 Mn",
+     "round": "",
+     "title": "Mykare Closes Round At $3.2 Mn To Enhance AI Capabilities",
+     "link": "https://inc42.com/buzz/mykare-closes-round-at-3-2-mn-to-enhance-ai-capabilities/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "drag-reduction-aerospace-startup-mako-takes-off-with-28-mil": {
+   "name": "Drag reduction aerospace startup Mako takes off with $28 mil",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Sydney startup Mako flies high with $28M to slap sharkskin-inspired tech on jets, cutting fuel burn by up to 4%.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "$28 million",
+     "round": "Series A",
+     "title": "Drag reduction aerospace startup Mako takes off with $28 million Series A",
+     "link": "https://www.startupdaily.net/topic/funding/drag-reduction-aerospace-startup-mako-takes-off-with-28-million-series-a/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "adelaide-vc-eastend-ventures": {
+   "name": "Adelaide VC Eastend Ventures",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Funds SA drops $5m into Eastend’s debut VC fund, betting Adelaide’s lean tech founders can out-return hype machines.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "$5 million",
+     "round": "",
+     "title": "Adelaide VC Eastend Ventures lands $5 million from Funds SA",
+     "link": "https://www.startupdaily.net/topic/venture-capital/adelaide-vc-eastend-ventures-lands-5-million-from-funds-sa/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "firmus": {
+   "name": "Firmus",
+   "country": "Indonesia",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Firmus bets US$30B on Nvidia’s Batam AI factory as its IPO hype wobbles; see how the compute gold rush reshapes Asia.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-28",
+   "last_seen": "2026-06-28",
+   "events": [
+    {
+     "date": "2026-06-28",
+     "amount": "$43 billion",
+     "round": "",
+     "title": "Firmus lands $43 billion Indonesian data centre deal with Nvidia",
+     "link": "https://www.startupdaily.net/topic/global-tech/firmus-lands-43-billion-indonesian-data-centre-deal-with-nvidia/",
+     "source": "Startup Daily"
     }
    ]
   }
