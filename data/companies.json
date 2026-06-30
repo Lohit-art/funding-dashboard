@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-29T16:38:14+00:00",
+ "updated": "2026-06-30T15:26:11+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -6082,10 +6082,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Legaltech startup JUPUS has raised €13million in a Series A funding round led by Semapa Next, with NRW.BANK joiningas a co-investor through its venture capital fund NRW.Venture. Existinginvestors Acto...",
+   "summary": "JUPUS announced it has completed a €13 million Series A funding round to expand its legal AI platform for small and medium-sized law firms. \n The post  JUPUS Raises €13 Million To Expand Legal AI For Law Firms  appeared first on  Pulse 2.0 .",
    "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-06-23",
-   "last_seen": "2026-06-23",
+   "last_seen": "2026-06-30",
    "events": [
     {
      "date": "2026-06-23",
@@ -6094,6 +6094,14 @@
      "title": "JUPUS raises €13M to power the next generation of AI-driven law firms",
      "link": "https://tech.eu/2026/06/23/jupus-raises-eur13m-to-power-the-next-generation-of-ai-driven-law-firms/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-06-30",
+     "amount": "€13 Million",
+     "round": "Series A",
+     "title": "JUPUS Raises €13 Million To Expand Legal AI For Law Firms",
+     "link": "https://pulse2.com/jupus-raises-e13-million-to-expand-legal-ai-for-law-firms/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -8450,7 +8458,7 @@
    "is_ai": true,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Openchip, a Barcelona-based scale-up specialising in the design and marketing of high-performance, energy-efficient chips, has secured an investment of €115 million to accelerate the design of high-performance, energy-efficient chips for AI and high-performance computing (HPC) ap",
+   "summary": "Openchip, a Barcelona-based scale-up specialising in the design and marketing of high-performance, energy-efficient chips, has secured an investment of €115 million to accelerate the design of their chips for AI and high-performance computing (HPC) applications. The backing came ",
    "audience": "General / mixed",
    "first_seen": "2026-06-29",
    "last_seen": "2026-06-29",
@@ -8725,6 +8733,590 @@
      "round": "",
      "title": "Firmus lands $43 billion Indonesian data centre deal with Nvidia",
      "link": "https://www.startupdaily.net/topic/global-tech/firmus-lands-43-billion-indonesian-data-centre-deal-with-nvidia/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "higharc": {
+   "name": "Higharc",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Higharc announced it has raised $95 million in Series C funding to scale its AI platform for the homebuilding industry. The round was led by Insight Partners, with participation from Wellington Management and existing investors including Fifth Wall, Spark Capital, Lux Capital, SE",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$95 Million",
+     "round": "Series C",
+     "title": "Higharc Raises $95 Million To Scale AI For Homebuilding",
+     "link": "https://pulse2.com/higharc-raises-95-million-to-scale-ai-for-homebuilding/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "revora": {
+   "name": "Revora",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Revora, formerly known as MyAlice, announced it has raised $2 million in funding to help e-commerce merchants improve customer engagement through AI agents. \n The post  Revora Raises $2 Million To Build AI Agents For E-Commerce Merchants  appeared first on  Pulse 2.0 .",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$2 Million",
+     "round": "",
+     "title": "Revora Raises $2 Million To Build AI Agents For E-Commerce Merchants",
+     "link": "https://pulse2.com/revora-raises-2-million-to-build-ai-agents-for-e-commerce-merchants/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "grailpay": {
+   "name": "GrailPay",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "GrailPay announced it has raised $10.5 million in Series A funding to expand its risk decisioning infrastructure for instant payments and agentic commerce. The round was led by MissionOG, with participation from EJF Ventures, Counterpart Ventures, Construct Capital, Commerce Vent",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$10.5 Million",
+     "round": "Series A",
+     "title": "GrailPay Raises $10.5 Million To Scale Risk Decisioning Infrastructure For Instant And Agentic Payments",
+     "link": "https://pulse2.com/grailpay-raises-10-5-million-to-scale-risk-decisioning-infrastructure-for-instant-and-agentic-payments/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "jarvie-ai": {
+   "name": "Jarvie AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Jarvie AI announced it has raised $8.3 million in seed funding to bring AI agents to everyday consumers. The funding round included Andreessen Horowitz, Base10 Partners, and Lightspeed. \n The post  Jarvie AI Raises $8.3 Million To Bring AI Agents To Group Chats  appeared first on",
+   "audience": "Consumers",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$8.3 Million",
+     "round": "Seed",
+     "title": "Jarvie AI Raises $8.3 Million To Bring AI Agents To Group Chats",
+     "link": "https://pulse2.com/jarvie-ai-raises-8-3-million-to-bring-ai-agents-to-group-chats/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "premier-lacrosse-league": {
+   "name": "Premier Lacrosse League",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The Premier Lacrosse League announced it raised $100 million in financing, representing the largest capital raise in the history of professional lacrosse. The round was led by funds managed by Ares Management and Joe Tsai, who owns the New York Liberty and Brooklyn Nets. Tsai fir",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$100 Million",
+     "round": "",
+     "title": "Premier Lacrosse League Raises $100 Million",
+     "link": "https://pulse2.com/premier-lacrosse-league-raises-100-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "lightspeed-backs-pie-s-23-7m": {
+   "name": "Lightspeed backs Pie’s $23.7M",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Entrepreneurship",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Pie, an AI growth platform for small businesses, has secured $19.5 million in Series A funding led by…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$23.7M",
+     "round": "Growth",
+     "title": "Lightspeed backs Pie’s $23.7M raise to stop small businesses from going invisible in AI search. Check out the pitch deck it used",
+     "link": "https://techfundingnews.com/lightspeed-pie-23-7m-ai-search-small-business/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ex-special-forces-founder-s-six-robotics": {
+   "name": "Ex-Special Forces founder’s Six Robotics",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "While most defence-tech founders raise capital based on a pitch deck and a promise, Christian Fredrik Eggesbø took…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "€12M",
+     "round": "",
+     "title": "Ex-Special Forces founder’s Six Robotics raises €12M: can it scale before Helsing swallows the market?",
+     "link": "https://techfundingnews.com/six-robotics-raises-12m-drone-swarm-software/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "just": {
+   "name": "just",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Duolingo, valued at $6.15 billion and known for its gamified approach, leads the language-learning market. But Lucida AI,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$7M",
+     "round": "",
+     "title": "This London AI startup just raised $7M to go after Duolingo. Here’s how",
+     "link": "https://techfundingnews.com/lucida-ai-7m-seed-duolingo-london/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "build": {
+   "name": "Build",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Build, a British and U.S.-based AI-native infrastructure company helping governments, developers and investors accelerate critical projects, has raised €7.4. million ($8.5 million) in Seed funding to expand its engineering and infrastructure teams, accelerate R&D and deepen its p",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "€7.4 million",
+     "round": "Seed",
+     "title": "British-U.S. startup Build secures €7.4 million to accelerate “agentic real estate” platform",
+     "link": "https://www.eu-startups.com/2026/06/british-u-s-startup-build-secures-e7-4-million-to-accelerate-agentic-real-estate-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "epitome-therapeutics-announces-4-million-in-funding-to-adva": {
+   "name": "Epitome Therapeutics announces €4 million in funding to adva",
+   "country": "Austria",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Vienna-based Epitome Therapeutics, a BioTech company advancing precision epigenome editing for programmable gene expression, today announced a total funding of €4 million to advance development programmes and grow the company’s team. The pre-seed round, comprising an oversubscrib",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "€4 million",
+     "round": "Pre-Seed",
+     "title": "Austrian BioTech startup Epitome Therapeutics announces €4 million in funding to advance programmes and grow team",
+     "link": "https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "lucida-ai": {
+   "name": "Lucida AI",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Connection & community",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Lucida AI, aspeech-to-speech AI platform for global communication, has secured anadditional $1.6 million in funding, bringing its seed round to $7 million. The seedround was led by UK-based Velocity C...",
+   "audience": "Enterprises",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "€6.1 million",
+     "round": "Seed",
+     "title": "UK speech AI startup Lucida AI lands €6.1 million to develop speech-native AI for global communication",
+     "link": "https://www.eu-startups.com/2026/06/uk-speech-ai-startup-lucida-ai-lands-e6-1-million-to-develop-speech-native-ai-for-global-communication/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-06-30",
+     "amount": "$7M",
+     "round": "Seed",
+     "title": "Lucida AI closes $7M seed round for speech-to-speech AI",
+     "link": "https://tech.eu/2026/06/30/lucida-ai-closes-7m-seed-round-for-speech-to-speech-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "six-robotics": {
+   "name": "Six Robotics",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Six Robotics, an Oslo-based DefenceTech company, has announced a €12 million Seed round to accelerate the development and deployment of its autonomy software platform for unmanned systems. DTCP leads the round through DTCP Defence, a recently launched €500 million venture capital",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "€12 million",
+     "round": "Seed",
+     "title": "Six Robotics lands €12 million to advance unmanned systems software with Norwegian defence partners",
+     "link": "https://www.eu-startups.com/2026/06/six-robotics-lands-e12-million-to-advance-unmanned-systems-software-with-norwegian-defence-partners/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "with-3-500-agricultural-smes-financed-estonia-s-insoil": {
+   "name": "With 3,500+ agricultural SMEs financed, Estonia’s InSoil",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Vilnius-based climate finance company InSoil has secured a €120 million senior secured credit facility to expand their capacity to provide mid-term debt capital to agricultural SMEs adopting sustainable farming practices, including no-till cultivation, cover cropping, diversified",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "€120 million",
+     "round": "Debt",
+     "title": "With 3,500+ agricultural SMEs financed, Estonia’s InSoil lands €120 million to expand regenerative agriculture lending",
+     "link": "https://www.eu-startups.com/2026/06/with-3500-agricultural-smes-financed-estonias-insoil-lands-e120-million-to-expand-regenerative-agriculture-lending/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "hypefy-ai": {
+   "name": "Hypefy AI",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Founded in Croatia, Hypefy AI, a platformthat uses AI to automate influencer marketing campaign execution, has raised$7.2 million in a Series A funding round. The round was led by AYMO Ventures,with p...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$7.2M",
+     "round": "Series A",
+     "title": "Hypefy AI raises $7.2M Series A to automate global influencer campaigns",
+     "link": "https://tech.eu/2026/06/30/hypefy-ai-raises-72m-series-a-to-automate-global-influencer-campaigns/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "digiclean": {
+   "name": "Digiclean",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Swedish deeptech company Digiclean has raised €2.5 millionin a seed funding round to advance its platform for industrial cleaning andmaintenance optimisation. The round was co-led by Unconventional Ve...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "€2.5M",
+     "round": "Seed",
+     "title": "Digiclean raises €2.5M to optimise industrial cleaning with AI",
+     "link": "https://tech.eu/2026/06/30/digiclean-raises-eur25m-to-optimise-industrial-cleaning-with-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "saltroad": {
+   "name": "Saltroad",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Saltroad, the clinician-led speech and language therapy (SLT) provider, has raised £1.5 million and acquired Ogma, an AI documentation platform designed for SLT.  The round was led by Techstart Ventur...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "£1.5M",
+     "round": "",
+     "title": "Saltroad raises £1.5M and acquires AI platform Ogma to scale speech therapy for children",
+     "link": "https://tech.eu/2026/06/30/saltroad-raises-ps15m-and-acquires-ai-platform-ogma-to-scale-speech-therapy-for-children/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "nomerra": {
+   "name": "Nomerra",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Nomerra, an AI platformfor private market operations, has raised $2 million in its first fundinground. The round was led by 14Peaks Capital, with participation from RedstoneFintech and senior individu...",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$2 million",
+     "round": "",
+     "title": "Nomerra raises $2 million to automate private market operations",
+     "link": "https://tech.eu/2026/06/30/nomerra-raises-2-million-to-automate-private-market-operations/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "norwegian-six-robotics": {
+   "name": "Norwegian Six Robotics",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Oslo-based defence tech startup Six Robotics has raised €12 million in a seed equity round led by venture investor DTCP, with participation from Denmark’s state-backed fund EIFO and Copenhagen-based VC firm Scale Capital, to accelerate the development of its autonomy software pla",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "€12M",
+     "round": "Seed",
+     "title": "Norwegian Six Robotics secures €12M seed round to expand unmanned systems autonomy platform",
+     "link": "https://arcticstartup.com/six-robotics-raises-e12-million-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "lithuania-s-insoil": {
+   "name": "Lithuania’s InSoil",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vilnius-based climate finance company InSoil has secured a €120 million senior secured credit facility from Pollen Street Capital to expand lending to small and medium-sized agricultural businesses across Europe. The financing, supported by a guarantee from the European Investmen",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "€120M",
+     "round": "",
+     "title": "Lithuania’s InSoil lands €120M facility to scale sustainable agriculture lending in Europe",
+     "link": "https://arcticstartup.com/insoil-secures-e120m-facility/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "the-indus-valley": {
+   "name": "The Indus Valley",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "D2C kitchenware startup The Indus Valley has raised $17 Mn (around ₹161 Cr) in its Series B funding round led…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$17 Mn",
+     "round": "Series B",
+     "title": "The Indus Valley Raises $17 Mn To Scale D2C Kitchenware Business",
+     "link": "https://inc42.com/buzz/the-indus-valley-raises-17-mn-to-scale-d2c-kitchenware-business/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "kapture-cx": {
+   "name": "Kapture CX",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI-powered SaaS platform Kapture CX has raised $10 Mn (₹94.5 Cr) as part of its Pre-Series B round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$10 Mn",
+     "round": "Pre-Series B",
+     "title": "Kapture CX Bags $10 Mn To Take Its Verticalised Agentic AI Platform Global",
+     "link": "https://inc42.com/buzz/kapture-cx-bags-10-mn-to-take-its-ai-powered-crm-tools-global/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "dominion-dynamics": {
+   "name": "Dominion Dynamics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Georgian doubles down, OMERS and BDC join alongside US, European backers. \n The post  Dominion Dynamics lands $139 million in Canada’s largest defence-tech Series A  first appeared on  BetaKit .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$139 million",
+     "round": "Series A",
+     "title": "Dominion Dynamics lands $139 million in Canada’s largest defence-tech Series A",
+     "link": "https://betakit.com/dominion-dynamics-lands-139-million-in-canadas-largest-defence-tech-series-a/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "investeco-capital": {
+   "name": "InvestEco Capital",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Toronto-based investor targets companies promoting a healthier, more sustainable food sector. \n The post  InvestEco Capital raises $106 million for fourth sustainable food fund  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-29",
+   "last_seen": "2026-06-29",
+   "events": [
+    {
+     "date": "2026-06-29",
+     "amount": "$106 million",
+     "round": "",
+     "title": "InvestEco Capital raises $106 million for fourth sustainable food fund",
+     "link": "https://betakit.com/investeco-capital-raises-106-million-for-fourth-sustainable-food-fund/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "nrf-boosts-southern-launch-in-25-million-series-a": {
+   "name": "NRF boosts Southern Launch in $25 million Series A",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Australia bets $10m NRF cash on Southern Launch’s $25m Series A to smash the spaceport bottleneck.",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$25 million",
+     "round": "Series A",
+     "title": "NRF boosts Southern Launch in $25 million Series A",
+     "link": "https://www.startupdaily.net/topic/funding/nrf-boosts-southern-launch-in-25-million-series-a/",
      "source": "Startup Daily"
     }
    ]
