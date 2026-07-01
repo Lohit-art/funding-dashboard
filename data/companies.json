@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T15:26:11+00:00",
+ "updated": "2026-07-01T15:40:42+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -9090,10 +9090,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Swedish deeptech company Digiclean has raised €2.5 millionin a seed funding round to advance its platform for industrial cleaning andmaintenance optimisation. The round was co-led by Unconventional Ve...",
-   "audience": "General / mixed",
+   "summary": "Gothenburg-based industrial technology startup Digiclean has raised €2.5 million in seed funding in a round co-led by Unconventional Ventures and Almi Invest GreenTech, with participation from S-E Bankens Utvecklingsstiftelse, Impact Shakers, and Feminvest Ventures. The company d",
+   "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-06-30",
-   "last_seen": "2026-06-30",
+   "last_seen": "2026-07-01",
    "events": [
     {
      "date": "2026-06-30",
@@ -9102,6 +9102,14 @@
      "title": "Digiclean raises €2.5M to optimise industrial cleaning with AI",
      "link": "https://tech.eu/2026/06/30/digiclean-raises-eur25m-to-optimise-industrial-cleaning-with-ai/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-07-01",
+     "amount": "€2.5 million",
+     "round": "Seed",
+     "title": "Swedish startup Digiclean secures €2.5 million seed for manufacturing process optimisation",
+     "link": "https://arcticstartup.com/digiclean-raises-e2-5m-seed/",
+     "source": "ArcticStartup"
     }
    ]
   },
@@ -9317,6 +9325,582 @@
      "round": "Series A",
      "title": "NRF boosts Southern Launch in $25 million Series A",
      "link": "https://www.startupdaily.net/topic/funding/nrf-boosts-southern-launch-in-25-million-series-a/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "london-based-tapestry-vc": {
+   "name": "London-Based Tapestry VC",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Tapestry VC has closed an $80 million third fund to double down on Europe’s repeat founders and expects the coming wave of AI exits to produce yet another generation of experienced founders.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$80M",
+     "round": "",
+     "title": "London-Based Tapestry VC Closes On $80M Third Fund To Invest In Repeat European Founders",
+     "link": "https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "etched-comes-out-of-stealth-with-800-million": {
+   "name": "Etched Comes Out Of Stealth With $800 Million",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Etched announced that it has come out of stealth after building its first racks following a successful A0 tapeout. The company also disclosed that it has raised $800 million and secured more than $1 billion in customer contracts. \n The post  Etched Comes Out Of Stealth With $800 ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$800 Million",
+     "round": "",
+     "title": "Etched Comes Out Of Stealth With $800 Million Raised And $1 Billion In Customer Contracts",
+     "link": "https://pulse2.com/etched-comes-out-of-stealth-with-800-million-raised-and-1-billion-in-customer-contracts/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aligned": {
+   "name": "Aligned",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Aligned announced it has raised $60 million in Series B financing, bringing its total funding to $73.8 million. Aligned is the AI Deal Workspace where sellers, buyers, and AI agents run deals together. \n The post  Aligned Raises $60 Million To Advance AI Deal Workspace Platform  ",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$60 Million",
+     "round": "Series B",
+     "title": "Aligned Raises $60 Million To Advance AI Deal Workspace Platform",
+     "link": "https://pulse2.com/aligned-raises-60-million-to-advance-ai-deal-workspace-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "oxmiq": {
+   "name": "OXMIQ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "OXMIQ Labs announced the close of its $35 million Series A financing round, bringing the company’s total capital raised to $60 million. OXMIQ is a unified GPU and AI architecture company founded by Raja Koduri. \n The post  OXMIQ Raises $35 Million To Scale OxCore Architecture  ap",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$35 Million",
+     "round": "Series A",
+     "title": "OXMIQ Raises $35 Million To Scale OxCore Architecture",
+     "link": "https://pulse2.com/oxmiq-raises-35-million-to-scale-oxcore-architecture/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "together-ai": {
+   "name": "Together AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Together AI announced it has raised $800 million in Series C financing at an $8.3 billion post-money valuation. Together AI is known for making it cheaper and easier for companies to run open-source AI models at scale. The round was led by Aramco Ventures, with participation from",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$800 Million",
+     "round": "Series C",
+     "title": "Together AI Raises $800 Million Series C At $8.3 Billion Valuation",
+     "link": "https://pulse2.com/together-ai-raises-800-million-series-c-at-8-3-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "materna-medical": {
+   "name": "Materna Medical",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Materna Medical announced the successful close of its $5 million B3 financing round. The funding positions the company for a pivotal year of clinical, commercial, and operational advancement. \n The post  Materna Medical Raises $5 Million In B3 Financing  appeared first on  Pulse ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$5 Million",
+     "round": "",
+     "title": "Materna Medical Raises $5 Million In B3 Financing",
+     "link": "https://pulse2.com/materna-medical-raises-5-million-in-b3-financing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "joulent": {
+   "name": "Joulent",
+   "country": "USA",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Joulent announced that National Grid has agreed to make a $1.75 billion strategic minority investment in the company. Joulent is a technology-driven energy company developing multi-gigawatt power infrastructure to meet the rising electricity demands of American industry, AI infra",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$1.75 Billion",
+     "round": "",
+     "title": "Joulent Raises $1.75 Billion From National Grid",
+     "link": "https://pulse2.com/joulent-raises-1-75-billion-from-national-grid/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "mgx-confirms-fund-i": {
+   "name": "MGX Confirms Fund I",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "MGX announced the final close of MGX Fund I at $49 billion in total commitments, exceeding its initial target of $45 billion. \n The post  MGX Confirms Fund I Closes At $49 Billion  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$49 Billion",
+     "round": "",
+     "title": "MGX Confirms Fund I Closes At $49 Billion",
+     "link": "https://pulse2.com/mgx-confirms-fund-i-closes-at-49-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "feinstein-institutes": {
+   "name": "Feinstein Institutes",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Northwell Health’s Feinstein Institutes for Medical Research announced that it has secured $4.9 million in new multi-year grant funding from the National Institutes of Health. The funding will support two research projects focused on acute inflammation and Alzheimer’s disease. \n ",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$4.9 Million",
+     "round": "Grant",
+     "title": "Feinstein Institutes Secures $4.9 Million In NIH Grants For Inflammation And Alzheimer’s Research",
+     "link": "https://pulse2.com/feinstein-institutes-secures-4-9-million-in-nih-grants-for-inflammation-and-alzheimers-research/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pictor": {
+   "name": "Pictor",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Pictor Holdings announced that it has closed a $7.5 million bridge round of growth capital. The financing was supported by existing investors and brings Pictor’s total capital raised to approximately $30 million. \n The post  Pictor Raises $7.5 Million Bridge Round To Accelerate T",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$7.5 Million",
+     "round": "Bridge",
+     "title": "Pictor Raises $7.5 Million Bridge Round To Accelerate Targeted Proteomic Platform Commercialization",
+     "link": "https://pulse2.com/pictor-raises-7-5-million-bridge-round-to-accelerate-targeted-proteomic-platform-commercialization/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "kim-cc": {
+   "name": "Kim.cc",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Kim.cc announced that it has finalized an institutional venture funding round led by Stellaris Venture Partners. The company will use the funding to accelerate its U.S. expansion and build the next generation of AI-native customer service. Financial terms of the round were not di",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "",
+     "round": "",
+     "title": "Kim.cc Raises Funding To Build AI-Native Customer Support Operations",
+     "link": "https://pulse2.com/kim-cc-raises-funding-to-build-ai-native-customer-support-operations/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "prague-s-equilibre": {
+   "name": "Prague’s EquiLibre",
+   "country": "Czechia",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "The founders of EquiLibre Technologies, who previously built an AI that beat professional poker players, are now using…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$500M",
+     "round": "Series A",
+     "title": "Prague’s EquiLibre raises Series A at $500M valuation to scale AI trading agents",
+     "link": "https://techfundingnews.com/equilibre-series-a-500m-ai-trading-agents-creandum/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "bending-spoons": {
+   "name": "Bending Spoons",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bending Spoons priced its Nasdaq initial public offering at $29 per share on June 30, above its $26…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$1.68B",
+     "round": "",
+     "title": "Bending Spoons raises $1.68B in Nasdaq debut, valuation jumps to $18.4B from $11B: report",
+     "link": "https://techfundingnews.com/bending-spoons-raises-1-68b-in-nasdaq-debut-valuation-jumps-to-18-4b-from-11b-report/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "nothing-and-hopin-backer-tapestry-vc": {
+   "name": "Nothing and Hopin backer Tapestry VC",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Connection & community",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Intercom spent 15 years as one of Europe’s best-known customer messaging tools before co-founders Eoghan McCabe and Des…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$80M",
+     "round": "",
+     "title": "Nothing and Hopin backer Tapestry VC raises $80M Fund III to back Europe’s repeat founder wave",
+     "link": "https://techfundingnews.com/tapestry-vc-launches-80m-fund-after-fin-exit/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "dawnguard": {
+   "name": "Dawnguard",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Amsterdam-based cybersecurity startup Dawnguard has announced the public launch of its security architecture automation platform, alongside an additional €2.8 million ($3.3 million) in pre-Seed funding. The round came from existing investor BNVT Capital in the UK, with new partic",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "€2.8 million",
+     "round": "Pre-Seed",
+     "title": "Dutch cybersecurity startup Dawnguard lands €2.8 million for AI-native security architecture automation",
+     "link": "https://www.eu-startups.com/2026/07/dutch-cybersecurity-startup-dawnguard-lands-e2-8-million-for-ai-native-security-architecture-automation/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "telum-therapeutics": {
+   "name": "Telum Therapeutics",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Telum Therapeutics, a Spanish BioTech company, today announced the successful completion of an €18 million Series A financing to advance its lead programme targeting hospital-acquired (HABP) and ventilator-associated bacterial pneumonia (VABP). AMR Action Fund led the financing r",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "€18 million",
+     "round": "Series A",
+     "title": "Telum Therapeutics raises €18 million to advance treatments for hospital-acquired infections",
+     "link": "https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "equilibre": {
+   "name": "EquiLibre",
+   "country": "Czechia",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Prague-based EquiLibre Technologies, a frontier AI trading research lab applying reinforcement learning to financial markets, announced the close of its Series A round at a valuation of more than €438 million ($500 million). The round was led by Creandum and reportedly represente",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "€438 million",
+     "round": "Series A",
+     "title": "EquiLibre secures Series A at €438 million valutation to scale AI trading agents handling billions daily",
+     "link": "https://www.eu-startups.com/2026/07/equilibre-secures-series-a-at-e438-million-valutation-to-scale-ai-trading-agents-handling-billions-daily/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "nothing-backer-tapestry-vc": {
+   "name": "Nothing-backer Tapestry VC",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The backer of smartphone disruptor Nothing has raised an $80m fund, nearly three times bigger than its predecessor, as it looks to invest in repeat founders across both sides of the Atlantic, which it...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$80M",
+     "round": "",
+     "title": "Nothing-backer Tapestry VC raises $80M fund, opens London office",
+     "link": "https://tech.eu/2026/07/01/nothing-backer-tapestry-vc-closes-80m-fund-opens-london-office/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "spense": {
+   "name": "Spense",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "For nearly a decade, India’s fintech ecosystem chased the dream of using technology and alternative data to lend to millions…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$2.8 Mn",
+     "round": "",
+     "title": "Spense Raises $2.8 Mn From Arkam Ventures To Build Secured Lending Infra",
+     "link": "https://inc42.com/buzz/spense-raises-2-8-mn-from-arkam-ventures-to-build-secured-lending-infra/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "dovetail-capital": {
+   "name": "Dovetail Capital",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Investment asset servicing startup Dovetail Capital has raised ₹100 Cr (about $10.5 Mn) in its Series A round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "₹100",
+     "round": "Series A",
+     "title": "Dovetail Capital Raises ₹100 Cr To Expand Asset Servicing Business Globally",
+     "link": "https://inc42.com/buzz/dovetail-capital-raises-%e2%82%b9100-cr-to-expand-asset-servicing-business-globally/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "supply6": {
+   "name": "Supply6",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C nutrition and wellness startup Supply6 has raised ₹48 Cr (about $5 Mn) in a funding round led by Unilever…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "₹48",
+     "round": "",
+     "title": "Supply6 Nets ₹48 Cr To Expand Product Portfolio, Enter New Markets",
+     "link": "https://inc42.com/buzz/supply6-nets-%e2%82%b948-cr-to-expand-product-portfolio-enter-new-markets/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "stathera": {
+   "name": "Stathera",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "CEO says there’s “no reason” precision timing tech can’t be built in Canada. \n The post  Stathera raises $55 million USD for semiconductor clock tech amid data centre boom  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-06-30",
+   "last_seen": "2026-06-30",
+   "events": [
+    {
+     "date": "2026-06-30",
+     "amount": "$55 million",
+     "round": "",
+     "title": "Stathera raises $55 million USD for semiconductor clock tech amid data centre boom",
+     "link": "https://betakit.com/stathera-raises-55-million-usd-for-semiconductor-clock-tech-amid-data-centre-boom/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "medical-angels-scrubs-up-michael-batko-as-venture-partner-to": {
+   "name": "Medical Angels scrubs up Michael Batko as venture partner to",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hourglass AI founder Michael Batko joins Medical Angels as a venture partner as it looks to build a $40m first fund.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$40 million",
+     "round": "",
+     "title": "Medical Angels scrubs up Michael Batko as venture partner to raise $40 million fund",
+     "link": "https://www.startupdaily.net/topic/venture-capital/medical-angels-scrubs-up-michael-batko-as-venture-partner-to-raise-40-million-fund/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "melbourne-uni-brain-chip-spinout-fluent": {
+   "name": "Melbourne uni brain-chip spinout Fluent",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Fluent’s $2M brain-chip could turn silent thoughts into speech without major, invasive skull surgery.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$2 million",
+     "round": "",
+     "title": "Melbourne uni brain-chip spinout Fluent raises $2 million",
+     "link": "https://www.startupdaily.net/topic/funding/melbourne-uni-brain-chip-spinout-fluent-raises-2-million/",
      "source": "Startup Daily"
     }
    ]
