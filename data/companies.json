@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T15:40:42+00:00",
+ "updated": "2026-07-02T15:14:06+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -9434,10 +9434,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "Together AI announced it has raised $800 million in Series C financing at an $8.3 billion post-money valuation. Together AI is known for making it cheaper and easier for companies to run open-source AI models at scale. The round was led by Aramco Ventures, with participation from",
+   "summary": "Together AI has raised an $800 million in Series C funding led by Aramco Ventures, valuing the company…",
    "audience": "Developers & data teams",
    "first_seen": "2026-07-01",
-   "last_seen": "2026-07-01",
+   "last_seen": "2026-07-02",
    "events": [
     {
      "date": "2026-07-01",
@@ -9446,6 +9446,14 @@
      "title": "Together AI Raises $800 Million Series C At $8.3 Billion Valuation",
      "link": "https://pulse2.com/together-ai-raises-800-million-series-c-at-8-3-billion-valuation/",
      "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-02",
+     "amount": "$800M",
+     "round": "Series C",
+     "title": "Together AI raises $800M at $8.3B valuation as enterprises ditch closed models for open-source",
+     "link": "https://techfundingnews.com/together-ai-raises-800m-at-8-3b-valuation-as-enterprises-ditch-closed-models-for-open-source/",
+     "source": "Tech Funding News"
     }
    ]
   },
@@ -9901,6 +9909,526 @@
      "round": "",
      "title": "Melbourne uni brain-chip spinout Fluent raises $2 million",
      "link": "https://www.startupdaily.net/topic/funding/melbourne-uni-brain-chip-spinout-fluent-raises-2-million/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "meet-talp-ai-startup-with-turkish-roots-raising-20m-pre-se": {
+   "name": "Meet Talp: AI startup with Turkish roots raising $20M pre-se",
+   "country": "Turkey",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Surveys and focus groups have run the same way for decades: ask people what they want, then hope…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$20M",
+     "round": "Pre-Seed",
+     "title": "Meet Talp: AI startup with Turkish roots raising $20M pre-seed valuation to simulate customers with AI personas",
+     "link": "https://techfundingnews.com/meet-talp-ai-startup-with-turkish-roots-raising-20m-pre-seed-valuation-to-simulate-customers-with-ai-personas/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ex-intel-chief-s-oxmiq": {
+   "name": "Ex-Intel chief’s OXMIQ",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Groq spent a decade building a chip good enough that Nvidia wanted it more than Groq’s independence. In…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$35M",
+     "round": "",
+     "title": "Ex-Intel chief’s OXMIQ lands $35M to license AI chips instead of building them",
+     "link": "https://techfundingnews.com/ex-intel-chiefs-oxmiq-raises-35m-to-license-ai-chips-instead-of-building-them/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "kredosai": {
+   "name": "KredosAi",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "KredosAi has raised $7 million in a Series A round led by BMW i Ventures. CEO Balaji Sridharan…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$7M",
+     "round": "Series A",
+     "title": "Exclusive: KredosAi raises $7M from BMW i Ventures. See the pitch deck below",
+     "link": "https://techfundingnews.com/exclusive-kredosai-raises-7m-from-bmw-i-ventures-see-the-pitch-deck-below/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "goldman-and-mit-founded-linqalpha": {
+   "name": "Goldman and MIT-founded LinqAlpha",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "In 2022, three co-founders left investment banks and quantitative funds to build an AI platform that analyses earnings…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$22M",
+     "round": "",
+     "title": "Goldman and MIT-founded LinqAlpha bags $22M: Can it compete with AlphaSense’s $1.74B head start?",
+     "link": "https://techfundingnews.com/linqalpha-raises-22m-avp-ai-research-platform/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "higgsfield-targets-5b-valuation-and-500m-run-rate-as-sora": {
+   "name": "Higgsfield targets $5B valuation and $500M run rate as Sora ",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Higgsfield is reportedly in talks to raise between $300 million and $500 million at a $5 billion pre-money…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$5B",
+     "round": "",
+     "title": "Higgsfield targets $5B valuation and $500M run rate as Sora folds and Runway retreats",
+     "link": "https://techfundingnews.com/higgsfield-targets-5b-valuation-and-500m-run-rate-as-sora-folds-and-runway-retreats/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "twelvelabs": {
+   "name": "TwelveLabs",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "TwelveLabs wants to build what its chief executive officer, Jae Lee, calls “video superintelligence.” That phrase invites comparison…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$100M",
+     "round": "",
+     "title": "TwelveLabs raises $100M as Amazon secures AWS as its preferred cloud",
+     "link": "https://techfundingnews.com/twelvelabs-raises-100m-as-amazon-secures-aws-as-its-preferred-cloud/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "bidscript-reports-up-to-50-higher-tender": {
+   "name": "BidScript reports up to 50% higher tender",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Manchester-based BidScript, an AI-native, tender management platform aiming to help businesses find, qualify, manage, write and submit bids for public and private sector contracts, has announced it has raised €701k ($800k) – bringing the total pre-Seed funding received to over €8",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "€701k",
+     "round": "Pre-Seed",
+     "title": "BidScript reports up to 50% higher tender win rates as it secures €701k pre-Seed funding",
+     "link": "https://www.eu-startups.com/2026/07/bidscript-reports-up-to-50-higher-tender-win-rates-as-it-secures-e701k-pre-seed-funding/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "quantum-systems": {
+   "name": "Quantum Systems",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "German drone manufacturer Quantum Systems has raised $1.2bn in fresh funding, in a round which more than doubles its valuation to $8bn, it said today.   The Series D was co-led by US investor Blacksto...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "€1 billion",
+     "round": "Series D",
+     "title": "Quantum Systems lands €1 billion Series D in one of Europe’s largest DefenceTech financings",
+     "link": "https://www.eu-startups.com/2026/07/quantum-systems-lands-e1-billion-series-d-in-one-of-europes-largest-defencetech-financings/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-02",
+     "amount": "$1.2BN",
+     "round": "Series D",
+     "title": "Quantum Systems raises $1.2BN at $8BN valuation",
+     "link": "https://tech.eu/2026/07/02/quantum-systems-raises-12bn-at-8bn-valuation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "orbit-capital": {
+   "name": "Orbit Capital",
+   "country": "Czechia",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "CEE investors Orbit Capital have announced the second closing of Growth Debt Fund II at €107 million, surpassing its initial target.  To date, Orbit Capital has supported over 20 high-growth companies...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "€107 million",
+     "round": "Growth",
+     "title": "Czech VC firm Orbit Capital raises Growth Debt Fund II to €107 million",
+     "link": "https://www.eu-startups.com/2026/07/czech-vc-firm-orbit-capital-raises-growth-debt-fund-ii-to-e107-million/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-02",
+     "amount": "€107M",
+     "round": "Debt",
+     "title": "Orbit Capital closes €107M venture debt fund for CEE scaleups",
+     "link": "https://tech.eu/2026/07/02/orbit-capital-closes-eur107m-venture-debt-fund-for-cee-scaleups/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "stirlingx": {
+   "name": "StirlingX",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "British data intelligence company StirlingX has raised a $20 million Series A round from Ventura Capital and RCM Private Markets Master Fund managed by Rokos Capital Management US (LP). The funding co...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$20M",
+     "round": "Series A",
+     "title": "StirlingX secures $20M Series A to expand sovereign intelligence platform",
+     "link": "https://tech.eu/2026/07/02/stirlingx-secures-20m-series-a-to-expand-sovereign-intelligence-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "visiblie": {
+   "name": "Visiblie",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Visiblie, the Belgian startup helpingbusinesses improve their visibility in AI-powered search, has raised €500,000through a convertible loan funding round to support growth in the SME marketand accele...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "€500K",
+     "round": "Growth",
+     "title": "Belgian startup Visiblie raises €500K for AI search visibility",
+     "link": "https://tech.eu/2026/07/02/belgian-startup-visiblie-raises-eur500k-for-ai-search-visibility/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "brym": {
+   "name": "BRYM",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "BRYM, the Swedish neurotechcompany developing wearable EEG technology to improve cognitive performance,has raised €650,000 in a pre-seed funding round led by Singapore-based familyoffice Lotus One Inv...",
+   "audience": "Consumers",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "€650K",
+     "round": "Pre-Seed",
+     "title": "BRYM secures €650K to develop wearable neurofeedback platform",
+     "link": "https://tech.eu/2026/07/02/brym-secures-eur650k-to-develop-wearable-neurofeedback-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "housapp": {
+   "name": "HousApp",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "HousApp, the AI-powered platform designedto help real estate agents work more efficiently, has raised €4.3 million in aseed funding round led by venture capital firms Arches Capital and Antler, withpa...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "€4.3 million",
+     "round": "",
+     "title": "HousApp secures €4.3 million to expand its AI platform for real estate agents",
+     "link": "https://tech.eu/2026/07/02/housapp-secures-eur43-million-to-expand-its-ai-platform-for-real-estate-agents/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "alva-industries": {
+   "name": "Alva Industries",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Alva Industries, the Norwegian deeptech company developingultra-compact electric motors, has raised €16 million in an equity financinground to support manufacturing expansion and international growth....",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "€16M",
+     "round": "Growth",
+     "title": "Alva Industries lands €16M to scale next-generation electric motors",
+     "link": "https://tech.eu/2026/07/02/alva-industries-lands-eur16m-to-scale-next-generation-electric-motors/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "university-founded-ai-tender-startup-bidscript-exceeds-1m-i": {
+   "name": "University-founded AI tender startup BidScript exceeds $1M i",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "BidScript, anAI-native tender management platform that helps businesses find, manage andsubmit bids for public and private sector contracts, has raised $800,000 in itslatest funding round, taking its ...",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$1M",
+     "round": "Pre-Seed",
+     "title": "University-founded AI tender startup BidScript exceeds $1M in total pre-seed funding",
+     "link": "https://tech.eu/2026/07/02/university-founded-ai-tender-startup-bidscript-exceeds-1m-in-total-pre-seed-funding/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ninjacart": {
+   "name": "Ninjacart",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "B2B agritech soonicorn Ninjacart has raised $6 Mn in the first tranche of a larger funding round. This tranche was…",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$6 Mn",
+     "round": "",
+     "title": "Ninjacart Nets $6 Mn From Accel, Nandan Nilekani; Eyes IPO In 2 Years",
+     "link": "https://inc42.com/buzz/ninjacart-nets-6-mn-from-accel-nandan-nilekani-eyes-ipo-in-2-years/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "batx-energies": {
+   "name": "BatX Energies",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Battery recycling startup BatX Energies has raised ₹105 Cr (over $11 Mn) in its Series A funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "₹105",
+     "round": "Series A",
+     "title": "Battery Tech Startup BatX Energies Nets ₹105 Cr To Bolster R&D",
+     "link": "https://inc42.com/buzz/battery-tech-startup-batx-energies-nets-%e2%82%b9105-cr-to-bolster-rd/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "age-care-labs": {
+   "name": "Age Care Labs",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Eldercare startup Age Care Labs has raised ₹85 Cr (about $9 Mn) in a Series B1 funding round, part of…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "₹85",
+     "round": "Series B1",
+     "title": "Age Care Labs Raises ₹85 Cr To Build Senior Living Communities",
+     "link": "https://inc42.com/buzz/age-care-labs-raises-%e2%82%b985-cr-to-build-senior-living-communities/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "sparrow-capital": {
+   "name": "Sparrow Capital",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "VC firm Sparrow Capital has closed its third fund with a corpus of ₹475 Cr (about ₹50 Mn), surpassing its…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "₹475",
+     "round": "Seed",
+     "title": "Sparrow Capital Closes Third Fund At ₹475 Cr To Back Seed Stage Startups",
+     "link": "https://inc42.com/buzz/sparrow-capital-closes-third-fund-at-%e2%82%b9475-cr-to-back-seed-stage-startups/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "sharechat-eyes-up-to-400-mn-ipo-in-fy28": {
+   "name": "ShareChat Eyes Up To $400 Mn IPO In FY28",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Social media unicorn ShareChat is looking to raise up to $400 Mn through an initial public offering (IPO) planned for…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$400 Mn",
+     "round": "",
+     "title": "ShareChat Eyes Up To $400 Mn IPO In FY28",
+     "link": "https://inc42.com/buzz/sharechat-eyes-up-to-400-mn-ipo-in-fy28/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "emesent": {
+   "name": "Emesent",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Emesent grabs $15m to scale mine-mapping drones, along with $10m from the NRF’s first venture debt bet.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-01",
+   "last_seen": "2026-07-01",
+   "events": [
+    {
+     "date": "2026-07-01",
+     "amount": "$15 million",
+     "round": "Debt",
+     "title": "Mine drone mapping scaleup Emesent raises $15 million",
+     "link": "https://www.startupdaily.net/topic/funding/mine-drone-mapping-scaleup-emesent-raises-15-million/",
      "source": "Startup Daily"
     }
    ]
