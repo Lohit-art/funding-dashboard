@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-02T15:14:06+00:00",
+ "updated": "2026-07-03T15:10:06+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -10090,10 +10090,10 @@
    "is_ai": false,
    "research_based": true,
    "stage": "established",
-   "summary": "German drone manufacturer Quantum Systems has raised $1.2bn in fresh funding, in a round which more than doubles its valuation to $8bn, it said today.   The Series D was co-led by US investor Blacksto...",
+   "summary": "This week, we tracked more than 55 tech funding deals worth over €1.6 billion and over 10 exits, M&A transactions, rumours, and related news stories across Europe.If email is more your thing, you ...",
    "audience": "Government & public sector",
    "first_seen": "2026-07-02",
-   "last_seen": "2026-07-02",
+   "last_seen": "2026-07-03",
    "events": [
     {
      "date": "2026-07-02",
@@ -10109,6 +10109,22 @@
      "round": "Series D",
      "title": "Quantum Systems raises $1.2BN at $8BN valuation",
      "link": "https://tech.eu/2026/07/02/quantum-systems-raises-12bn-at-8bn-valuation/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-07-02",
+     "amount": "$1.2 Billion",
+     "round": "Series D",
+     "title": "Quantum Systems Raises $1.2 Billion Series D At $8 Billion Valuation",
+     "link": "https://pulse2.com/quantum-systems-raises-1-2-billion-series-d-at-8-billion-valuation/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-03",
+     "amount": "$1.2B",
+     "round": "",
+     "title": "Quantum Systems raises $1.2B, IQM becomes first European quantum company on major US exchange, and European startup funding in June",
+     "link": "https://tech.eu/2026/07/03/quantum-systems-raises-1-2b-iqm-becomes-first-european-quantum-company-on-major-us-exchange-and-european-startup-funding-in-june/",
      "source": "Tech.eu"
     }
    ]
@@ -10430,6 +10446,462 @@
      "title": "Mine drone mapping scaleup Emesent raises $15 million",
      "link": "https://www.startupdaily.net/topic/funding/mine-drone-mapping-scaleup-emesent-raises-15-million/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "melinda-gates-venture-firm-backs-magnify-ventures-46-6m-f": {
+   "name": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M F",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$46.6M",
+     "round": "",
+     "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
+     "link": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "hamilton-lane": {
+   "name": "Hamilton Lane",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Hamilton Lane announced it has closed on $3.8 billion in total commitments for its Direct Equity strategy in and alongside the final closing of Hamilton Lane Equity Opportunities Fund VI. \n The post  Hamilton Lane Raises $3.8 Billion For Sixth Direct Equity Fund  appeared first o",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$3.8 Billion",
+     "round": "",
+     "title": "Hamilton Lane Raises $3.8 Billion For Sixth Direct Equity Fund",
+     "link": "https://pulse2.com/hamilton-lane-raises-3-8-billion-for-sixth-direct-equity-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "carbonsix": {
+   "name": "CarbonSix",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "CarbonSix announced it has raised $40 million, or about KRW 60 billion, in Series A funding to deploy Physical AI across the manufacturing sector. The funding round was co-led by DSC Investment and LB Investment. New investors in the round included IMM Investment, Korea Developme",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$40 Million",
+     "round": "Series A",
+     "title": "CarbonSix Raises $40 Million Series A To Deploy Physical AI Across Global Manufacturing",
+     "link": "https://pulse2.com/carbonsix-raises-40-million-series-a-to-deploy-physical-ai-across-global-manufacturing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "starwood-capital": {
+   "name": "Starwood Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Starwood Capital Group announced the final closing of its latest opportunistic real estate fund, Starwood Distressed Opportunity Fund XIII, with capital commitments of more than $10.2 billion. \n The post  Starwood Capital Raises $10.2 Billion For Opportunistic Real Estate Fund  a",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$10.2 Billion",
+     "round": "",
+     "title": "Starwood Capital Raises $10.2 Billion For Opportunistic Real Estate Fund",
+     "link": "https://pulse2.com/starwood-capital-raises-10-2-billion-for-opportunistic-real-estate-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "celea-therapeutics": {
+   "name": "Celea Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Celea Therapeutics announced the completion of a $180 million financing round to support the development of deupirfenidone, also known as LYT-100, as a potential new standard of care for idiopathic pulmonary fibrosis (IPF). \n The post  Celea Therapeutics Raises $180 Million To Ad",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$180 Million",
+     "round": "",
+     "title": "Celea Therapeutics Raises $180 Million To Advance Deupirfenidone As Potential New Standard Of Care For IPF",
+     "link": "https://pulse2.com/celea-therapeutics-raises-180-million-to-advance-deupirfenidone-as-potential-new-standard-of-care-for-ipf/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "luxonis": {
+   "name": "Luxonis",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Luxonis announced it has raised $14 million in Series A funding led by Denali Growth Partners, with participation from Taiwania Capital. And the funding will be used to accelerate the company’s commercial expansion, advance its product roadmap, and scale production of its OAK cam",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$14 Million",
+     "round": "Series A",
+     "title": "Luxonis Raises $14 Million Series A To Power Physical AI Perception Platform",
+     "link": "https://pulse2.com/luxonis-raises-14-million-series-a-to-power-physical-ai-perception-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tripo-ai": {
+   "name": "Tripo AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Tripo AI announced that it has completed a Series A3 financing round, raising over $150 million. The funding round included participation from a broad group of strategic and financial investors spanning the automotive, gaming, internet, and technology sectors. \n The post  Tripo A",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$150 Million",
+     "round": "Series A3",
+     "title": "Tripo AI Raises Over $150 Million In Series A3 Financing",
+     "link": "https://pulse2.com/tripo-ai-raises-over-150-million-in-series-a3-financing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "kling-ai": {
+   "name": "Kling AI",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "OpenAI shut down the consumer version of Sora in April 2026 after it burned through roughly a million…",
+   "audience": "Consumers",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "$3B",
+     "round": "",
+     "title": "Kling AI closes $3B round at $18B valuation as Alibaba and Tencent back China’s Sora rival: report",
+     "link": "https://techfundingnews.com/kling-ai-closes-3b-round-at-18b-valuation-as-alibaba-and-tencent-back-chinas-sora-rival/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "crusoe-to-triple-valuation-to-30b-as-ai-infrastructure-race": {
+   "name": "Crusoe to triple valuation to $30B as AI infrastructure race",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI infrastructure startup Crusoe is reportedly in talks to raise about $3 billion at a valuation of roughly…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "$30B",
+     "round": "",
+     "title": "Crusoe to triple valuation to $30B as AI infrastructure race heats up: report",
+     "link": "https://techfundingnews.com/crusoe-to-triple-valuation-to-30b-as-ai-infrastructure-race-heats-up-report/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "denmark-s-largest-trade-union-becomes-a-venture-capital-inve": {
+   "name": "Denmark’s largest trade union becomes a venture capital inve",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "It’s rare for a trade union representing more than 180,000 engineers and scientists to invest in venture funds.…",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "€60M",
+     "round": "",
+     "title": "Denmark’s largest trade union becomes a venture capital investor as Climentum Capital closes €60M for its climate hardtech Fund II",
+     "link": "https://techfundingnews.com/climentum-capital-60m-fund-ii-ida-eif-eifo/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "with-a-record-73-6b": {
+   "name": "With a record $73.6B",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Female-founded startups raised a record $73.6 billion in the United States in 2025, according to PitchBook's \"All In\"…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "$73.6B",
+     "round": "",
+     "title": "With a record $73.6B raised by female founders, why does the AI funding gap feel wider than ever?",
+     "link": "https://techfundingnews.com/female-founded-startups-technovation/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "london-s-geosurge": {
+   "name": "London’s geoSurge",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "geoSurge, a British DeepTech AI company helping brands shape how they are represented inside generative AI systems, announced a €10 million ($12 million) Seed round to expand its global research and engineering teams, invest in AI infrastructure and compute capacity, and accelera",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "€10 million",
+     "round": "Seed",
+     "title": "London’s geoSurge raises €10 million to help brands understand AI-generated outputs",
+     "link": "https://www.eu-startups.com/2026/07/londons-geosurge-raises-e10-million-to-help-brands-understand-ai-generated-outputs/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "danish-climate-vc-climentum-capital-launches-fund-ii-with-6": {
+   "name": "Danish climate VC Climentum Capital launches Fund II with €6",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Copenhagen-based Climentum Capital has reached the first close of its second fund at €60 million, matching the full size of its first fund as it continues backing European climate HardTech companies aiming to strengthen the continent’s industrial resilience, sustainability and co",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "€60 million",
+     "round": "",
+     "title": "Danish climate VC Climentum Capital launches Fund II with €60 million first close",
+     "link": "https://www.eu-startups.com/2026/07/danish-climate-vc-climentum-capital-launches-fund-ii-with-e60-million-first-close/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "danish-vc-climentum-capital": {
+   "name": "Danish VC Climentum Capital",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Danish investment firm Climentum Capital has raised €60 million in a first close for its second climate tech fund, backed by the European Investment Fund (EIF), Denmark's export and investment fund EI...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "€60M",
+     "round": "",
+     "title": "Danish VC Climentum Capital secures €60M first close for climate hardware investments",
+     "link": "https://tech.eu/2026/07/03/danish-vc-climentum-capital-secures-eur60m-first-close-for-climate-hardware-investments/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "more-deals-smaller-rounds-european-startup-funding-in-june": {
+   "name": "More deals, smaller rounds: European startup funding in June",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "A total of 293 funding deals were announced in June, up from 258 in May, representing a 14 per cent increase in deal activity. Despite the higher number of transactions, European startups raised €8.3 ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "€8.3",
+     "round": "",
+     "title": "More deals, smaller rounds: European startup funding in June 2026",
+     "link": "https://tech.eu/2026/07/03/more-deals-smaller-rounds-european-startup-funding-in-june-2026/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "alp-bio": {
+   "name": "ALP Bio",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swiss biotechstartup ALP Bio has secured €161,000 (CHF 150,000) from Venture Kick to supportthe commercial development of its platform, which helps drug developersidentify immune-related risks earlier...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "€161K",
+     "round": "",
+     "title": "ALP Bio raises €161K from Venture Kick to improve the safety of biologic medicines",
+     "link": "https://tech.eu/2026/07/03/alp-bio-raises-eur161k-from-venture-kick-to-improve-the-safety-of-biologic-medicines/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "unicorn-moneyview": {
+   "name": "Unicorn Moneyview",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fintech unicorn Moneyview has received SEBI’s approval to proceed with its proposed IPO. The regulator issued a final observation letter…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "₹1,500",
+     "round": "",
+     "title": "Fintech Unicorn Moneyview Gets SEBI Approval For ₹1,500 Cr+ IPO",
+     "link": "https://inc42.com/buzz/fintech-unicorn-moneyview-gets-sebi-approval-for-%e2%82%b91500-cr-ipo/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "bct-ventures": {
+   "name": "BCT Ventures",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Nutrition and wellness-focused ecommerce startup BCT Ventures has raised ₹42 Cr ($4.4 Mn) in a seed funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "₹42",
+     "round": "Seed",
+     "title": "BCT Ventures Nets ₹42 Cr To Build AI-Led Nutrition & Wellness Brands",
+     "link": "https://inc42.com/buzz/bct-ventures-nets-%e2%82%b942-cr-to-build-ai-led-nutrition-wellness-brands/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "playblue": {
+   "name": "PlayBlue",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Sports retail startup PlayBlue has secured $2.7 Mn (₹25.7 Cr) in a seed funding round co-led by Centre Court Capital…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-02",
+   "last_seen": "2026-07-02",
+   "events": [
+    {
+     "date": "2026-07-02",
+     "amount": "$2.7 Mn",
+     "round": "Seed",
+     "title": "Sports Retail Brand PlayBlue Bags $2.7 Mn To Expand Into Offline Retail",
+     "link": "https://inc42.com/buzz/sports-retail-brand-playblue-bags-2-7-mn-to-expand-into-offline-retail/",
+     "source": "Inc42"
     }
    ]
   }
