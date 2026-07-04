@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-03T15:10:06+00:00",
+ "updated": "2026-07-04T14:28:12+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -10625,11 +10625,11 @@
    "sector": "Consumer Apps",
    "is_ai": true,
    "research_based": false,
-   "stage": "unspecified",
+   "stage": "established",
    "summary": "OpenAI shut down the consumer version of Sora in April 2026 after it burned through roughly a million…",
    "audience": "Consumers",
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-03",
+   "last_seen": "2026-07-04",
    "events": [
     {
      "date": "2026-07-03",
@@ -10638,6 +10638,14 @@
      "title": "Kling AI closes $3B round at $18B valuation as Alibaba and Tencent back China’s Sora rival: report",
      "link": "https://techfundingnews.com/kling-ai-closes-3b-round-at-18b-valuation-as-alibaba-and-tencent-back-chinas-sora-rival/",
      "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-04",
+     "amount": "$2.8 Billion",
+     "round": "",
+     "title": "Kling AI Raises $2.8 Billion To Expand AI Video Business",
+     "link": "https://pulse2.com/kling-ai-raises-2-8-billion-to-expand-ai-video-business/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -10902,6 +10910,78 @@
      "title": "Sports Retail Brand PlayBlue Bags $2.7 Mn To Expand Into Offline Retail",
      "link": "https://inc42.com/buzz/sports-retail-brand-playblue-bags-2-7-mn-to-expand-into-offline-retail/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "magnify-ventures": {
+   "name": "Magnify Ventures",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Magnify Ventures announced the launch of Fund II with $46.6 million closed. The early-stage venture capital firm will use the fund to invest in category-defining technology companies driving AI innovation across health, wealth, family care, and the systems that support them. \n Th",
+   "audience": "Consumers",
+   "first_seen": "2026-07-04",
+   "last_seen": "2026-07-04",
+   "events": [
+    {
+     "date": "2026-07-04",
+     "amount": "$46.6 Million",
+     "round": "",
+     "title": "Magnify Ventures Closes $46.6 Million Fund II To Build AI Infrastructure Layer Of The Care Economy",
+     "link": "https://pulse2.com/magnify-ventures-closes-46-6-million-fund-ii-to-build-ai-infrastructure-layer-of-the-care-economy/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "marlinspike": {
+   "name": "Marlinspike",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Marlinspike Partners announced the final close of Marlinspike Disruptive Technology Fund II at $127 million. The fund surpassed its original $75 million target. \n The post  Marlinspike Closes Oversubscribed $127 Million Fund II To Invest In Dual-Use Technologies  appeared first o",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-04",
+   "last_seen": "2026-07-04",
+   "events": [
+    {
+     "date": "2026-07-04",
+     "amount": "$127 Million",
+     "round": "",
+     "title": "Marlinspike Closes Oversubscribed $127 Million Fund II To Invest In Dual-Use Technologies",
+     "link": "https://pulse2.com/marlinspike-closes-oversubscribed-127-million-fund-ii-to-invest-in-dual-use-technologies/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "geosurge": {
+   "name": "geoSurge",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "geoSurge announced an oversubscribed $12 million Seed round. The financing was led by AlbionVC and included participation from Play Ventures, Octopus Ventures, Celero Ventures, Boost Capital, existing investors Passion Capital and Tuesday Capital, and angel investors from Google ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-03",
+   "events": [
+    {
+     "date": "2026-07-03",
+     "amount": "$12 Million",
+     "round": "Seed",
+     "title": "geoSurge Raises $12 Million Seed Round To Advance AI Visibility Platform",
+     "link": "https://pulse2.com/geosurge-raises-12-million-seed-round-to-advance-ai-visibility-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   }
