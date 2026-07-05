@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T14:28:12+00:00",
+ "updated": "2026-07-05T14:42:13+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -6778,10 +6778,10 @@
    "is_ai": false,
    "research_based": true,
    "stage": "established",
-   "summary": "TISSIUM announced a €60 million financing package to support its commercial and clinical activities, pipeline development, and platform expansion. The financing package includes a completed €30 million Series D2 financing and a financing facility of up to €30 million from the Eur",
+   "summary": "TISSIUM announced a €60 million financing package to support its commercial and clinical activities and platform expansion. The package combines a completed €30 million Series D2 financing with a €30 million financing facility from the European Investment Bank. \n The post  TISSIU",
    "audience": "Healthcare providers & patients",
    "first_seen": "2026-06-24",
-   "last_seen": "2026-06-25",
+   "last_seen": "2026-07-05",
    "events": [
     {
      "date": "2026-06-24",
@@ -6797,6 +6797,14 @@
      "round": "Series D2",
      "title": "TISSIUM Secures €60 Million To Support Commercial And Clinical Expansion",
      "link": "https://pulse2.com/tissium-secures-e60-million-to-support-commercial-and-clinical-expansion/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-05",
+     "amount": "€60 Million",
+     "round": "Series D2",
+     "title": "TISSIUM Secures €60 Million Financing Package To Support Commercial And Clinical Activities",
+     "link": "https://pulse2.com/tissium-secures-e60-million-financing-package-to-support-commercial-and-clinical-activities/",
      "source": "Pulse 2.0"
     }
    ]
@@ -9730,10 +9738,10 @@
    "is_ai": true,
    "research_based": true,
    "stage": "emerging",
-   "summary": "Prague-based EquiLibre Technologies, a frontier AI trading research lab applying reinforcement learning to financial markets, announced the close of its Series A round at a valuation of more than €438 million ($500 million). The round was led by Creandum and reportedly represente",
-   "audience": "General / mixed",
+   "summary": "EquiLibre Technologies announced the closing of its Series A funding round at a valuation of more than $500 million. The round was led by Creandum, and the company plans to use the capital to scale compute infrastructure, expand into more markets, and grow its team of researchers",
+   "audience": "Researchers & scientists",
    "first_seen": "2026-07-01",
-   "last_seen": "2026-07-01",
+   "last_seen": "2026-07-05",
    "events": [
     {
      "date": "2026-07-01",
@@ -9742,6 +9750,14 @@
      "title": "EquiLibre secures Series A at €438 million valutation to scale AI trading agents handling billions daily",
      "link": "https://www.eu-startups.com/2026/07/equilibre-secures-series-a-at-e438-million-valutation-to-scale-ai-trading-agents-handling-billions-daily/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-05",
+     "amount": "$500",
+     "round": "Series A",
+     "title": "EquiLibre Raises Series A At $500+ Million Valuation To Scale AI Trading Agents",
+     "link": "https://pulse2.com/equilibre-raises-series-a-at-500-million-valuation-to-scale-ai-trading-agents/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -10041,11 +10057,11 @@
    "sector": "DevTools / Cloud",
    "is_ai": false,
    "research_based": false,
-   "stage": "established",
-   "summary": "TwelveLabs wants to build what its chief executive officer, Jae Lee, calls “video superintelligence.” That phrase invites comparison…",
+   "stage": "emerging",
+   "summary": "TwelveLabs announced that it has raised $100 million in Series B funding. The round was co-led by NEA and NAVER Ventures, with participation from Amazon, Radical Ventures, Korea Investment Partners, Index Ventures, Quadrille Capital, and Red Bull Ventures. \n The post  TwelveLabs ",
    "audience": "General / mixed",
    "first_seen": "2026-07-02",
-   "last_seen": "2026-07-02",
+   "last_seen": "2026-07-05",
    "events": [
     {
      "date": "2026-07-02",
@@ -10054,6 +10070,14 @@
      "title": "TwelveLabs raises $100M as Amazon secures AWS as its preferred cloud",
      "link": "https://techfundingnews.com/twelvelabs-raises-100m-as-amazon-secures-aws-as-its-preferred-cloud/",
      "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-05",
+     "amount": "$100 Million",
+     "round": "Series B",
+     "title": "TwelveLabs Raises $100 Million Series B To Build Video Superintelligence",
+     "link": "https://pulse2.com/twelvelabs-raises-100-million-series-b-to-build-video-superintelligence/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -10981,6 +11005,102 @@
      "round": "Seed",
      "title": "geoSurge Raises $12 Million Seed Round To Advance AI Visibility Platform",
      "link": "https://pulse2.com/geosurge-raises-12-million-seed-round-to-advance-ai-visibility-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "wayout-international": {
+   "name": "Wayout International",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Wayout International has raised €2.42 million in a Series A extension. The Stockholm-based climate technology startup will use the funding to execute its first commercial projects and accelerate international market activities. \n The post  Wayout International Raises €2.42 Millio",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-07-05",
+   "events": [
+    {
+     "date": "2026-07-05",
+     "amount": "€2.42 Million",
+     "round": "Series A",
+     "title": "Wayout International Raises €2.42 Million Series A Extension To Scale Distributed Drinking Water Infrastructure",
+     "link": "https://pulse2.com/wayout-international-raises-e2-42-million-series-a-extension-to-scale-distributed-drinking-water-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "inuvo": {
+   "name": "Inuvo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Inuvo announced financing transactions resulting in gross proceeds of $12.97 million. The transactions are designed to provide working capital while retiring the company’s existing debt facilities. \n The post  Inuvo Secures $12.97 Million Financing To Strengthen Balance Sheet  ap",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-07-05",
+   "events": [
+    {
+     "date": "2026-07-05",
+     "amount": "$12.97 Million",
+     "round": "Debt",
+     "title": "Inuvo Secures $12.97 Million Financing To Strengthen Balance Sheet",
+     "link": "https://pulse2.com/inuvo-secures-12-97-million-financing-to-strengthen-balance-sheet/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "insoil": {
+   "name": "InSoil",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "InSoil announced that it has secured a €120 million senior secured credit facility from Pollen Street Capital. The facility represents one of the largest private credit commitments to date for sustainable agriculture lending in Europe. \n The post  InSoil Secures €120 Million Cred",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-07-05",
+   "events": [
+    {
+     "date": "2026-07-05",
+     "amount": "€120 Million",
+     "round": "",
+     "title": "InSoil Secures €120 Million Credit Facility To Scale Agri-SME Lending Across Europe",
+     "link": "https://pulse2.com/insoil-secures-e120-million-credit-facility-to-scale-agri-sme-lending-across-europe/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "wallbox": {
+   "name": "Wallbox",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Wallbox announced the completion of the conditions for the effectiveness of its previously announced financial restructuring. This included an approximately €11.8 million equity raise, along with a separate €4 million investment by FOCUS ON NEXT FRONTIER, the investment company t",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-05",
+   "last_seen": "2026-07-05",
+   "events": [
+    {
+     "date": "2026-07-05",
+     "amount": "€11.8 Million",
+     "round": "",
+     "title": "Wallbox Raises €11.8 Million And Secures Additional €4 Million Investment",
+     "link": "https://pulse2.com/wallbox-raises-e11-8-million-and-secures-additional-e4-million-investment/",
      "source": "Pulse 2.0"
     }
    ]
