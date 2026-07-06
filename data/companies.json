@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T14:42:13+00:00",
+ "updated": "2026-07-06T16:19:59+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -9714,10 +9714,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Telum Therapeutics, a Spanish BioTech company, today announced the successful completion of an €18 million Series A financing to advance its lead programme targeting hospital-acquired (HABP) and ventilator-associated bacterial pneumonia (VABP). AMR Action Fund led the financing r",
+   "summary": "Telum Therapeutics announced the completion of an €18 million Series A financing round. The funding will advance the company’s lead antimicrobial program targeting hospital-acquired bacterial pneumonia and ventilator-associated bacterial pneumonia caused by Acinetobacter baumanni",
    "audience": "Healthcare providers & patients",
    "first_seen": "2026-07-01",
-   "last_seen": "2026-07-01",
+   "last_seen": "2026-07-06",
    "events": [
     {
      "date": "2026-07-01",
@@ -9726,6 +9726,14 @@
      "title": "Telum Therapeutics raises €18 million to advance treatments for hospital-acquired infections",
      "link": "https://www.eu-startups.com/2026/07/telum-therapeutics-raised-e18-million-to-advance-treatments-for-hospital-acquired-infections/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-06",
+     "amount": "€18 Million",
+     "round": "Series A",
+     "title": "Telum Therapeutics Raises €18 Million Series A To Advance Antimicrobial Program",
+     "link": "https://pulse2.com/telum-therapeutics-raises-e18-million-series-a-to-advance-antimicrobial-program/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -11102,6 +11110,662 @@
      "title": "Wallbox Raises €11.8 Million And Secures Additional €4 Million Investment",
      "link": "https://pulse2.com/wallbox-raises-e11-8-million-and-secures-additional-e4-million-investment/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "rgreen-invest": {
+   "name": "RGREEN INVEST",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "RGREEN INVEST announced the final close of its INFRABRIDGE IV fund at its target size of nearly €500 million. The fundraising more than doubled the size of the firm’s previous vintage. \n The post  RGREEN INVEST Raises Nearly €500 Million For INFRABRIDGE IV  appeared first on  Pul",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€500 Million",
+     "round": "",
+     "title": "RGREEN INVEST Raises Nearly €500 Million For INFRABRIDGE IV",
+     "link": "https://pulse2.com/rgreen-invest-raises-nearly-e500-million-for-infrabridge-iv/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "flexpoint-ford": {
+   "name": "Flexpoint Ford",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Flexpoint Ford announced the closing of a single-asset continuation vehicle for SageSure, one of the largest managing general underwriters focused on catastrophe-exposed markets. The vehicle closed with total commitments of more than $460 million, including commitments from the g",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$460 Million",
+     "round": "",
+     "title": "Flexpoint Ford Closes Over $460 Million Continuation Vehicle For SageSure",
+     "link": "https://pulse2.com/flexpoint-ford-closes-over-460-million-continuation-vehicle-for-sagesure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tapestry-vc": {
+   "name": "Tapestry VC",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Tapestry VC announced Fund III, an $80 million fundraise focused on backing ambitious repeat founders building new companies. The firm will continue investing in founders who are applying lessons from prior startup journeys to their next ventures. \n The post  Tapestry VC Raises $",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$80 Million",
+     "round": "",
+     "title": "Tapestry VC Raises $80 Million Fund III To Back Repeat Founders",
+     "link": "https://pulse2.com/tapestry-vc-raises-80-million-fund-iii-to-back-repeat-founders/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "dawnguard-launches": {
+   "name": "Dawnguard Launches",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Dawnguard announced the public launch of its security architecture automation platform. The platform is designed to help organizations design, build, and operate secure cloud-native systems from day zero through production. \n The post  Dawnguard Launches Secure Cloud Architecture",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$3.3 Million",
+     "round": "",
+     "title": "Dawnguard Launches Secure Cloud Architecture Platform With $3.3 Million In Fresh Funding",
+     "link": "https://pulse2.com/dawnguard-launches-secure-cloud-architecture-platform-with-3-3-million-in-fresh-funding/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "orbit-capital-holds-second": {
+   "name": "Orbit Capital Holds Second",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Orbit Capital announced the second closing of Growth Debt II at €107 million. The milestone reflects support from both existing and new investors. \n The post  Orbit Capital Holds Second Close Of Growth Debt II At €107 Million  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€107 Million",
+     "round": "Growth",
+     "title": "Orbit Capital Holds Second Close Of Growth Debt II At €107 Million",
+     "link": "https://pulse2.com/orbit-capital-holds-second-close-of-growth-debt-ii-at-e107-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "climentum-capital-holds-first-60-million": {
+   "name": "Climentum Capital Holds First €60 Million",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Climentum Capital announced the first €60 million close of Fund II. The first close matches the full size of the firm’s Fund I. \n The post  Climentum Capital Holds First €60 Million Close Of Fund II  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€60 Million",
+     "round": "",
+     "title": "Climentum Capital Holds First €60 Million Close Of Fund II",
+     "link": "https://pulse2.com/climentum-capital-holds-first-e60-million-close-of-fund-ii/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "venice": {
+   "name": "Venice",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Venice announced that it has raised $65 million in Series A funding at a $1 billion valuation. The round was led by Dragonfly, with participation from Coinbase Ventures, F-Prime, North Island Ventures, and other investors. \n The post  Venice Raises $65 Million Series A At $1 Bill",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$65 Million",
+     "round": "Series A",
+     "title": "Venice Raises $65 Million Series A At $1 Billion Valuation",
+     "link": "https://pulse2.com/venice-raises-65-million-series-a-at-1-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "altera": {
+   "name": "Altera",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Altera announced that it has held closings on three separate investment strategies totaling $136.5 million in capital commitments. The alternative asset manager focuses on the lower market and invests across multiple asset classes. \n The post  Altera Closes Three Investment Strat",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$136.5 Million",
+     "round": "",
+     "title": "Altera Closes Three Investment Strategies Totaling $136.5 Million",
+     "link": "https://pulse2.com/altera-closes-three-investment-strategies-totaling-136-5-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "alqem": {
+   "name": "alqem",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "China makes 94% of the world’s permanent magnets. The last big discovery in magnet chemistry happened more than…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€8M",
+     "round": "",
+     "title": "alqem raises €8M from UVC Partners and Union Square Ventures to hunt for rare-earth-free magnets",
+     "link": "https://techfundingnews.com/alqem-raises-8m-rare-earth-free-magnets/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "europe-s-mid-market-is-back-cvc": {
+   "name": "Europe’s mid-market is back: CVC",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "CVC Capital Partners has closed its third mid-market fund, Catalyst III, at approximately €3 billion, almost double its…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€3B",
+     "round": "",
+     "title": "Europe’s mid-market is back: CVC closes €3B Catalyst Fund at double target",
+     "link": "https://techfundingnews.com/europes-mid-market-is-back-cvc-closes-e3b-catalyst-fund-at-double-target/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "taisan-founded-by-a-kazakh-engineer": {
+   "name": "TaiSan, founded by a Kazakh engineer",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "TaiSan, the Cambridge-based startup, has raised £4.65 million to develop solid-state sodium-ion batteries for e-bikes, scooters, vehicles, and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "£4.65M",
+     "round": "",
+     "title": "Sodium battery startup TaiSan, founded by a Kazakh engineer, raises £4.65M to target e-bikes over EVs",
+     "link": "https://techfundingnews.com/taisan-raises-4-65m-sodium-ion-batteries/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "london-s-myricx-bio": {
+   "name": "London’s Myricx Bio",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Six years ago, three academics started a cancer research project at Imperial College London and the Francis Crick…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$1.5B",
+     "round": "",
+     "title": "London’s Myricx Bio lands up to $1.5B Novartis exit after raising just $121M",
+     "link": "https://techfundingnews.com/novartis-acquires-myricx-bio-15b/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "curifylabs-second": {
+   "name": "CurifyLabs’ second",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "In May 2025, CurifyLabs raised €6.7 million to support its pharmacy compounding automation. 14 months later, it secured…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$14M",
+     "round": "",
+     "title": "CurifyLabs’ second raise in 14 months: husband-and-wife startup lands $14M to automate personalised medicine",
+     "link": "https://techfundingnews.com/curifylabs-raises-14m-series-a/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ex-meta-policy-vp-joins-board-as-worldmodeldata": {
+   "name": "Ex-Meta policy VP joins board as Worldmodeldata",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Worldmodeldata, a Cambridge-based deeptech startup, aims to build the largest library of AI training data from video games,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "£7M",
+     "round": "Seed",
+     "title": "Ex-Meta policy VP joins board as Worldmodeldata raises £7M seed. Can it hit 1M hours of data before its rivals do?",
+     "link": "https://techfundingnews.com/worldmodeldata-7m-seed-ai-training-data-video-games/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "uk-startups": {
+   "name": "UK startups",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Six months ago, the UK had less than a quarter of Europe's deep tech and life sciences funding,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$17B",
+     "round": "",
+     "title": "UK startups raise $17B in H1 2026 as AI takes 74% of VC and deeptech share nearly doubles",
+     "link": "https://techfundingnews.com/uk-startups-17b-h1-2026-ai-74-percent-vc/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "europe-s-magnet-supply-chain-push": {
+   "name": "Europe’s magnet supply chain push",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "alqem, a Munich-based DeepTech startup building an AI-driven engine to discover and commercialise next-generation materials, has raised €8 million in pre-Seed funding in their effort to establish a European-led supply chain for materials. The round was co-led by UVC Partners and ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€8 million",
+     "round": "Pre-Seed",
+     "title": "Europe’s magnet supply chain push gets €8 million boost from German startup alqem",
+     "link": "https://www.eu-startups.com/2026/07/europes-magnet-supply-chain-push-gets-e8-million-boost-from-german-startup-alqem/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "from-cash-deposits-to-everyday-rewards-london-based-stoa": {
+   "name": "From cash deposits to everyday rewards: London-based Stoa",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK FinTech startup Stoa has raised €2.1 million ($2.4 million) in pre-Seed funding to accelerate the growth of its cash management platform, which enables consumers and businesses to unlock upfront lifestyle and business value from idle cash deposits. The round was co-led by Besp",
+   "audience": "Consumers",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€2.1 million",
+     "round": "Pre-Seed",
+     "title": "From cash deposits to everyday rewards: London-based Stoa raises €2.1 million",
+     "link": "https://www.eu-startups.com/2026/07/360944/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "worldmodeldata": {
+   "name": "Worldmodeldata",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Cambridge-basedstartup Worldmodeldata has raised £7 million in seed funding as it emerged fromstealth. The round was led by Iona Star Capital, a London-based venture capitalfirm focused on early-stage...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€8 million",
+     "round": "Seed",
+     "title": "UK startup Worldmodeldata raises €8 million to turn video games into training data for physical AI",
+     "link": "https://www.eu-startups.com/2026/07/uk-startup-worldmodeldata-raises-e8-million-to-turn-video-games-into-training-data-for-physical-ai/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-06",
+     "amount": "£7M",
+     "round": "Seed",
+     "title": "Worldmodeldata lands £7M to turn gaming data into AI training",
+     "link": "https://tech.eu/2026/07/06/worldmodeldata-lands-ps7m-to-turn-gaming-data-into-ai-training/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "finland-s-curifylabs": {
+   "name": "Finland’s CurifyLabs",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "CurifyLabs, a Helsinki-based HealthTech company transforming how personalised medicines are made, today announced the closing of a €12 million ($14 million) Series A round to expand U.S. operations, strengthen supply chain infrastructure, enhance customer support, and accelerate ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€12 million",
+     "round": "Series A",
+     "title": "Finland’s CurifyLabs raises €12 million to expand 3D printing-based medicine compounding",
+     "link": "https://www.eu-startups.com/2026/07/finlands-curifylabs-raises-e12-million-to-expand-3d-printing-based-medicine-compounding/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "france-s-skello": {
+   "name": "France’s Skello",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Paris-based Skello, an AI-powered HR management solution for frontline teams, announces a €200 million investment in order to accelerate its European expansion and its ongoing investments in AI. The investment was sourced from Bridgepoint, becoming Skello’s lead minority sharehol",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€200 million",
+     "round": "",
+     "title": "France’s Skello secures €200 million to grow its AI tools for frontline workforce management",
+     "link": "https://www.eu-startups.com/2026/07/frances-skello-secures-e200-million-to-grow-its-ai-tools-for-frontline-workforce-management/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "uk-battery-materials-startup-taisan-founded-by-chess-champio": {
+   "name": "UK battery materials startup TaiSan founded by chess champio",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "A UK battery materials startup founded by a former chess champion has raised £4.65m in a seed round, it said today. TaiSan, which operates out of a Cambridge battery lab, builds next-generation sodium...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "£4.65M",
+     "round": "Seed",
+     "title": "UK battery materials startup TaiSan founded by chess champion raises £4.65M",
+     "link": "https://tech.eu/2026/07/06/uk-battery-materials-startup-taisan-founded-by-chess-champion-raises-ps465m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "stoa": {
+   "name": "Stoa",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK fintech startup Stoa has raised$2.4 million in a pre-seed funding round to accelerate the growth of its cashmanagement platform, which enables consumers and businesses to access upfrontrewards on c...",
+   "audience": "Consumers",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$2.4M",
+     "round": "Pre-Seed",
+     "title": "Stoa secures $2.4M for cash rewards platform",
+     "link": "https://tech.eu/2026/07/06/stoa-secures-24m-for-cash-rewards-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "curifylabs": {
+   "name": "CurifyLabs",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Finnishhealth technology company CurifyLabs has raised €12 million in a Series Afunding round to expand its operations in the United States and accelerate thedevelopment of its platform for personalis...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€12M",
+     "round": "",
+     "title": "CurifyLabs bags €12M to automate personalised medicine",
+     "link": "https://tech.eu/2026/07/06/curifylabs-bags-eur12m-to-automate-personalised-medicine/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "thought-machine": {
+   "name": "Thought Machine",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Thought Machine, one of the UK’s most valuable fintechs, is set to unveil that it has received £30m ($41m) funding from a \"tier 1\" bank later this year, as its annual revenues surpass $100m for the fi...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$40M",
+     "round": "",
+     "title": "Thought Machine lands $40M funding from bank, surpasses $100M in annual revenue",
+     "link": "https://tech.eu/2026/07/06/thought-machine-to-unveil-100m-plus-funding-round-surpasses-100m-in-annual-revenue/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sherpa-ai": {
+   "name": "Sherpa.ai",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Sherpa.ai, a company specialisingin artificial intelligence for data privacy and security, has raised $18million in a funding round to accelerate the development of its AI platform forenterprises and ...",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$18M",
+     "round": "",
+     "title": "Sherpa.ai raises $18M to support data-sovereign AI development",
+     "link": "https://tech.eu/2026/07/06/sherpaai-raises-18m-to-support-data-sovereign-ai-development/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "aylight": {
+   "name": "Aylight",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Swiss photonics startup Aylight has raised€4.5 million in a pre-seed funding round to support the development of itschip-scale multiwavelength laser technology. The round was co-led by Elaia andSwissc...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "€4.5M",
+     "round": "Pre-Seed",
+     "title": "Aylight closes €4.5M pre-seed round to advance optical interconnect technology",
+     "link": "https://tech.eu/2026/07/06/aylight-closes-eur45m-pre-seed-round-to-advance-optical-interconnect-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "graph-ai-in-talks-to": {
+   "name": "Graph AI In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Pharmaceutical-sector focused AI startup Graph AI is in talks to raise $14 Mn (about ₹133 Cr) in a Series A…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$14 Mn",
+     "round": "Series A",
+     "title": "Exclusive: Graph AI In Talks To Raise $14 Mn From Insight Partners, Others",
+     "link": "https://inc42.com/buzz/graph-ai-in-talks-to-raise-14-mn-from-insight-partners-others/",
+     "source": "Inc42"
     }
    ]
   }
