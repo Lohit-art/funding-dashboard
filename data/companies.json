@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-06T16:19:59+00:00",
+ "updated": "2026-07-07T15:42:57+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -11766,6 +11766,750 @@
      "title": "Exclusive: Graph AI In Talks To Raise $14 Mn From Insight Partners, Others",
      "link": "https://inc42.com/buzz/graph-ai-in-talks-to-raise-14-mn-from-insight-partners-others/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "norm": {
+   "name": "Norm",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$120M",
+     "round": "Series C",
+     "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+     "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "skello": {
+   "name": "Skello",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Skello announced that it has secured a €200 million investment led by Bridgepoint. The funding will support the company’s European expansion and continued investment in artificial intelligence. \n The post  Skello Raises €200 Million To Expand AI-Powered HR Platform Across Europe ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€200 Million",
+     "round": "",
+     "title": "Skello Raises €200 Million To Expand AI-Powered HR Platform Across Europe",
+     "link": "https://pulse2.com/skello-raises-e200-million-to-expand-ai-powered-hr-platform-across-europe/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bae-systems-and-keysight-back-expeditions-197m-fund-for-eu": {
+   "name": "BAE Systems and Keysight back Expeditions’ €197M fund for Eu",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Expeditions, which operates from Warsaw and London, closed its second fund at €197 million. This is more than…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€197M",
+     "round": "",
+     "title": "BAE Systems and Keysight back Expeditions’ €197M fund for European defence tech",
+     "link": "https://techfundingnews.com/expeditions-closes-fund-ii-197m-bae-systems/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "nscale-banks-900m-from-j-p-morgan-and-goldman-sachs-is-ai": {
+   "name": "Nscale banks $900M from J.P. Morgan and Goldman Sachs: Is AI",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Financial independence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Josh Payne raised $2 billion in equity this year. He didn’t need another round, yet a credit line.…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$900M",
+     "round": "Debt",
+     "title": "Nscale banks $900M from J.P. Morgan and Goldman Sachs: Is AI infrastructure debt the next bubble?",
+     "link": "https://techfundingnews.com/nscale-banks-900m-from-j-p-morgan-and-goldman-sachs-is-ai-infrastructure-debt-the-next-bubble/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "backed-by-anthropic-openai-and-meta-insiders-bespoke-labs": {
+   "name": "Backed by Anthropic, OpenAI, and Meta insiders, Bespoke Labs",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The engineers building some of the industry’s most closely watched AI models are personally backing a 40-person startup…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$40M",
+     "round": "",
+     "title": "Backed by Anthropic, OpenAI, and Meta insiders, Bespoke Labs raises $40M: can better environments beat bigger models?",
+     "link": "https://techfundingnews.com/backed-by-anthropic-openai-and-meta-insiders-bespoke-labs-raises-40m-can-better-environments-beat-bigger-models/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "proxima-fusion": {
+   "name": "Proxima Fusion",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Proxima Fusion announced a €411 million funding round at a €2.4 billion valuation, making it Europe’s best-funded fusion…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€411M",
+     "round": "",
+     "title": "Proxima Fusion raises €411M at €2.4B valuation, marking Google’s first European fusion investment",
+     "link": "https://techfundingnews.com/proxima-fusion-raises-411m-google-rwe/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "before-it": {
+   "name": "Before it",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Tentris, a graph database startup from Paderborn University, raised €2 million in pre-seed funding to help enterprise I…",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€2 million",
+     "round": "Grant",
+     "title": "Before it raised any VC money, Tentris used a German government grant to build its product. Here’s why",
+     "link": "https://techfundingnews.com/tentris-raises-2m-graph-database-paderborn/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "hive": {
+   "name": "Hive",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "HIVE, a London-based physical AI company building the intelligence layer for industrial machines, today announced a €13.1 million ($15 million) pre-Series A round to further build its platform, expand its founding team, and scale its commercial deployments.  The round was led by ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$15M",
+     "round": "Pre-Series A",
+     "title": "Hive raises $15M in pre-Series A to create a silicon brain that can operate any industrial machine",
+     "link": "https://techfundingnews.com/hive-raises-15m-silicon-brain-industrial-machines/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-07",
+     "amount": "€13.1 million",
+     "round": "Pre-Series A",
+     "title": "London-based HIVE raises €13.1 million to build “silicon brain” for industrial machines",
+     "link": "https://www.eu-startups.com/2026/07/london-based-hive-raises-e13-1-million-to-build-silicon-brain-for-industrial-machines/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "arc-intelligence": {
+   "name": "ARC Intelligence",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Berlin-based ARC Intelligence, a software company developing an AI-native finance platform forenterprises, has raised €4 million in a seed funding round led by 42CAP.Existing investors 468 Capital and...",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€4M",
+     "round": "Seed",
+     "title": "Exclusive: ARC Intelligence closes €4M seed from 42CAP in one week after opening the round",
+     "link": "https://techfundingnews.com/arc-intelligence-raises-4m-seed-erp-ai/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-07",
+     "amount": "€4M",
+     "round": "Seed",
+     "title": "ARC Intelligence raises €4M to scale its AI-native finance platform",
+     "link": "https://tech.eu/2026/07/07/arc-intelligence-raises-eur4m-to-scale-its-ai-native-finance-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "spanish-cybersecurity-startup-8layers-extends-pre-seed-round": {
+   "name": "Spanish cybersecurity startup 8Layers extends pre-Seed round",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Madrid-based cybersecurity company 8Layers has closed a €1 million extension of its pre-Seed round to strengthen their GTM strategy and accelerate commercialisation across the European market – raising its total funding to €2.5 million. Today’s raise marks the entry of two strate",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€2.5 million",
+     "round": "Pre-Seed",
+     "title": "Spanish cybersecurity startup 8Layers extends pre-Seed round to €2.5 million total funding",
+     "link": "https://www.eu-startups.com/2026/07/spanish-cybersecurity-startup-8layers-extends-pre-seed-round-to-e2-5-million-total-funding/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "luffy-ai": {
+   "name": "Luffy AI",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Luffy AI, an Oxfordshire-based startup using neuroplastic AI for real-time adaptive control, has raised €9.4 million (£8.1 million) in a Series A funding round to drive the startup’s commercialisation pipeline.  The round was led by BGF and joined by MIG Capital AG through its MI",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€9.4 million",
+     "round": "Series A",
+     "title": "Oxfordshire-based Luffy AI raises €9.4 million Series A to scale neuroplastic AI for real-time adaptive control",
+     "link": "https://www.eu-startups.com/2026/07/oxfordshire-based-luffy-ai-raises-e9-4-million-series-a-to-scale-neuroplastic-ai-for-real-time-adaptive-control/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "largest-european-fusion-investment-on-record-sees-proxima-fu": {
+   "name": "Largest European fusion investment on record sees Proxima Fu",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Munich-based Proxima Fusion today announced a €411 million ($468 million) financing round, bringing the company’s valuation to €2.4 billion ($2.7 billion) and establishing Proxima as one of the best-funded fusion companies in Europe. The round was led by XTX Ventures and East X V",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€411 million",
+     "round": "",
+     "title": "Largest European fusion investment on record sees Proxima Fusion raise €411 million",
+     "link": "https://www.eu-startups.com/2026/07/largest-european-fusion-investment-on-record-sees-proxima-fusion-raise-e411-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "bizay": {
+   "name": "BIZAY",
+   "country": "Portugal",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "BIZAY, a Portugal-based technology platform for customisedproducts, has raised $55 million in a Series D funding round. The investmentwas led by existing investor Indico Capital Partners, with partici...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€48.7 million",
+     "round": "Series D",
+     "title": "Lisbon-based BIZAY raises €48.7 million Series D; set to surpass €88.6 million revenue and reach profitability",
+     "link": "https://www.eu-startups.com/2026/07/lisbon-based-bizay-raises-e48-75-million-series-d-set-to-surpass-e88-6-million-revenue-and-reach-profitability/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-07",
+     "amount": "$55M",
+     "round": "Growth",
+     "title": "BIZAY secures $55M to fuel US growth and industry consolidation",
+     "link": "https://tech.eu/2026/07/07/bizay-secures-55m-to-fuel-us-growth-and-industry-consolidation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "whispp": {
+   "name": "Whispp",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Whispp, a Leiden-based AI startup specialising in audio-to-audio voice reconstruction AI, has raised €5 million to scale the global deployment of its technology. This follow-on investment round was led by LUMO Labs, together with strategic angel investors, and complemented by non",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€5 million",
+     "round": "Angel",
+     "title": "Leiden-based Whispp raises €5 million to scale on-device voice reconstruction AI technology globally",
+     "link": "https://www.eu-startups.com/2026/07/leiden-based-whispp-raises-e5m-to-scale-on-device-voice-reconstruction-ai-technology-globally/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "luffy": {
+   "name": "Luffy",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Luffy AI, a UK-based startup developing AI for real-timeadaptive control in industrial systems, has raised £8.1 million in a Series Afunding round. The investment was led by BGF, with participation fr...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "£8.1M",
+     "round": "",
+     "title": "Luffy secures £8.1M to scale real-time adaptive control technology",
+     "link": "https://tech.eu/2026/07/07/luffy-secures-ps81m-to-scale-real-time-adaptive-control-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "whering": {
+   "name": "Whering",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Whering, a UK-based digital wardrobeplatform, has raised $7 million in a seed funding round led by eBay Venturesand Google AI Futures Fund. The investment comes as the company reaches amilestone of 10...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$7M",
+     "round": "Seed",
+     "title": "Whering lands $7M as digital wardrobe platform reaches 10M users",
+     "link": "https://tech.eu/2026/07/07/whering-lands-7m-as-digital-wardrobe-platform-reaches-10m-users/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "porelio": {
+   "name": "Porelio",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Porelio, a Germany-based deeptech startupdeveloping advanced materials for industrial separation and water treatment,has raised €2.4 million in an oversubscribed pre-seed funding round. Theinvestment ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€2.4M",
+     "round": "Pre-Seed",
+     "title": "Porelio secures €2.4M to scale industrial water treatment materials",
+     "link": "https://tech.eu/2026/07/07/porelio-secures-eur24m-to-scale-industrial-water-treatment-materials/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "auxilius": {
+   "name": "Auxilius",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Auxilius, a Germany-based startup developing AI-poweredgovernance, risk and compliance (GRC) automation software, has raised around€1.3 million in a pre-seed funding round. The investment was led by H...",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€1.3M",
+     "round": "Pre-Seed",
+     "title": "Auxilius raises €1.3M pre-seed to automate enterprise compliance",
+     "link": "https://tech.eu/2026/07/07/auxilius-raises-eur13m-pre-seed-to-automate-enterprise-compliance/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "panora": {
+   "name": "Panora",
+   "country": "France",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Panora, a French startup developing AI software for insurance brokers,has raised $5 million in a seed funding round led by Isai. The round alsoincluded participation from Kima Ventures, 100in, 199 Ven...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$5M",
+     "round": "Seed",
+     "title": "Panora bags $5M to modernise insurance brokerage across Europe",
+     "link": "https://tech.eu/2026/07/07/panora-bags-5m-to-modernise-insurance-brokerage-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "display-dev": {
+   "name": "Display.dev",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Display.dev, a Tallinn-based startupbuilding a document platform for AI agents, has raised €470,000 in pre-seedfunding. The round was backed by Outlast Fund, FIRSTPICK, Curiosity VC, andangel investor...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "€470K",
+     "round": "",
+     "title": "Display.dev raises €470K to power document collaboration for AI agents",
+     "link": "https://tech.eu/2026/07/07/displaydev-raises-eur470k-to-power-document-collaboration-for-ai-agents/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "gyre-energy": {
+   "name": "Gyre Energy",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Gyre Energy an Oxford-founded energy tech company using AI and thermal energy storage to cut the cost and energy demand of industrial cooling, has secured over $1.3 million in investment and grant fun...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$1.3M",
+     "round": "Grant",
+     "title": "Gyre Energy raises $1.3M to cut industrial cooling costs with AI and thermal storage",
+     "link": "https://tech.eu/2026/07/07/gyre-energy-raises-13m-to-cut-industrial-cooling-costs-with-ai-and-thermal-storage/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "origin-fresh-in-talks-to": {
+   "name": "Origin Fresh In Talks To",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Fresh produce startup Origin Fresh is in talks to raise $10 Mn in a Series A funding round from a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$10 Mn",
+     "round": "Series A",
+     "title": "Origin Fresh In Talks To Raise $10 Mn To Expand Distribution: CEO Prashanth Vasan",
+     "link": "https://inc42.com/buzz/origin-fresh-in-talks-to-raise-10-mn-to-expand-distribution-ceo-prashanth-vasan/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "lissun-in-talks-to": {
+   "name": "Lissun In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Gurugram-based mental wellness platform Lissun is in talks with Colossa Ventures to raise around ₹45 Cr ($4.7 Mn) in its…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "₹45",
+     "round": "",
+     "title": "Exclusive: Lissun In Talks To Raise ₹45 Cr Funding From Colossa Ventures",
+     "link": "https://inc42.com/buzz/lissun-in-talks-to-raise-%e2%82%b945-cr-funding-from-colossa-ventures/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "mowito": {
+   "name": "Mowito",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bengaluru-based robotic startup Mowito has secured $3 Mn (almost ₹28.6 Cr) in a pre-seed funding round led by Version One…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$3 Mn",
+     "round": "Pre-Seed",
+     "title": "Robotics Startup Mowito Raises $3 Mn To Expand US Presence",
+     "link": "https://inc42.com/buzz/robotics-startup-mowito-raises-3-mn-to-expand-us-presence/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "econovus": {
+   "name": "Econovus",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Industrial packaging startup Econovus Packaging has raised ₹40 Cr (about $4.2 Mn) in its maiden institutional funding round. The pre-Series…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "₹40",
+     "round": "",
+     "title": "Econovus Nets ₹40 Cr To Expand Sustainable Industrial Packaging",
+     "link": "https://inc42.com/buzz/econovus-packaging-nets-%e2%82%b940-cr-to-expand-sustainable-industrial-packaging/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "live-entertainment-discovery-platform-thumpn": {
+   "name": "Live Entertainment Discovery Platform thumpN",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Recently launched live entertainment discovery and ticketing platform thumpN has raised over $3.75 Mn (₹35.7 Cr) in its Pre-Seed funding…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$3.75 Mn",
+     "round": "Pre-Seed",
+     "title": "Exclusive: Live Entertainment Discovery Platform thumpN Nets $3.75 Mn From Vijay Shekhar Sharma, Others",
+     "link": "https://inc42.com/buzz/exclusive-live-entertainment-discovery-platform-thumpn-nets-3-75-mn-from-vijay-shekhar-sharma-others/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "chocolate-finds-its-d2c-sweet-spot": {
+   "name": "Chocolate Finds Its D2C Sweet Spot",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "In June 2026, Manam Chocolate raised a $9 Mn Series A round. This marked a notable move in India’s consumer…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "$9 Mn",
+     "round": "Series A",
+     "title": "Chocolate Finds Its D2C Sweet Spot",
+     "link": "https://inc42.com/features/chocolate-finds-its-d2c-sweet-spot/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "cult-fit-files-draft-papers-for-4-000-cr-ipo": {
+   "name": "Cult.fit Files Draft Papers For ₹4,000 Cr IPO",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fitness unicorn Cult.fit has filed its draft red herring prospectus (DRHP) to raise over ₹950 Cr through its IPO. The…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "₹4,000",
+     "round": "",
+     "title": "Cult.fit Files Draft Papers For ₹4,000 Cr IPO",
+     "link": "https://inc42.com/buzz/cult-fit-files-draft-papers-for-over-%e2%82%b9950-cr-ipo/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "paraito": {
+   "name": "Paraito",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Inovia-backed startup out of Montréal is using AI to speed up real estate title searches. \n The post  Paraito raises $2.65 million to automate grunt work for Québec notaries  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$2.65 million",
+     "round": "",
+     "title": "Paraito raises $2.65 million to automate grunt work for Québec notaries",
+     "link": "https://betakit.com/paraito-raises-2-65-million-to-automate-grunt-work-for-quebec-notaries/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "katalyze-ai-thinks-the-future-of-pharma-operations-is-teams": {
+   "name": "Katalyze AI thinks the future of pharma operations is teams ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "WFHomie co-founder and former Sanofi leader close $10.5 million USD to speed drug development. \n The post  Katalyze AI thinks the future of pharma operations is teams of AI agents  first appeared on  BetaKit .",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-06",
+   "last_seen": "2026-07-06",
+   "events": [
+    {
+     "date": "2026-07-06",
+     "amount": "$10.5 million",
+     "round": "",
+     "title": "Katalyze AI thinks the future of pharma operations is teams of AI agents",
+     "link": "https://betakit.com/katalyze-ai-thinks-the-future-of-pharma-operations-is-teams-of-ai-agents/",
+     "source": "BetaKit"
     }
    ]
   }
