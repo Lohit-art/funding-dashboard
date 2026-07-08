@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T15:42:57+00:00",
+ "updated": "2026-07-08T15:20:36+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -9799,13 +9799,13 @@
    "region": "Asia",
    "category": "Financial independence",
    "sector": "Fintech",
-   "is_ai": false,
+   "is_ai": true,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "For nearly a decade, India’s fintech ecosystem chased the dream of using technology and alternative data to lend to millions…",
+   "stage": "new",
+   "summary": "Spense announced that it has raised a $2.8 million seed round. The round was led by Arkam Ventures, with participation from Razorpay, GrowthCap Ventures, AtriumVC, and a group of operators and angel investors. \n The post  Spense Raises $2.8 Million Seed Round To Build Agentic Cre",
    "audience": "General / mixed",
    "first_seen": "2026-07-01",
-   "last_seen": "2026-07-01",
+   "last_seen": "2026-07-07",
    "events": [
     {
      "date": "2026-07-01",
@@ -9814,6 +9814,14 @@
      "title": "Spense Raises $2.8 Mn From Arkam Ventures To Build Secured Lending Infra",
      "link": "https://inc42.com/buzz/spense-raises-2-8-mn-from-arkam-ventures-to-build-secured-lending-infra/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-07-07",
+     "amount": "$2.8 Million",
+     "round": "Seed",
+     "title": "Spense Raises $2.8 Million Seed Round To Build Agentic Credit Infrastructure",
+     "link": "https://pulse2.com/spense-raises-2-8-million-seed-round-to-build-agentic-credit-infrastructure/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -11727,13 +11735,13 @@
    "region": "Europe",
    "category": "Creative expression",
    "sector": "Semiconductors",
-   "is_ai": false,
+   "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Swiss photonics startup Aylight has raised€4.5 million in a pre-seed funding round to support the development of itschip-scale multiwavelength laser technology. The round was co-led by Elaia andSwissc...",
+   "summary": "Aylight announced that it has raised €4.5 million in pre-seed funding. The company is developing laser technology designed to address the optical bottleneck created by the rapid scaling of AI infrastructure. The round was co-led by Elaia and Swisscom Ventures. Verve Ventures and ",
    "audience": "General / mixed",
    "first_seen": "2026-07-06",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "events": [
     {
      "date": "2026-07-06",
@@ -11742,6 +11750,14 @@
      "title": "Aylight closes €4.5M pre-seed round to advance optical interconnect technology",
      "link": "https://tech.eu/2026/07/06/aylight-closes-eur45m-pre-seed-round-to-advance-optical-interconnect-technology/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-07-07",
+     "amount": "€4.5 Million",
+     "round": "Pre-Seed",
+     "title": "Aylight Raises €4.5 Million Pre-Seed To Address AI’s Optical Bottleneck",
+     "link": "https://pulse2.com/aylight-raises-e4-5-million-pre-seed-to-address-ais-optical-bottleneck/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -12510,6 +12526,598 @@
      "title": "Katalyze AI thinks the future of pharma operations is teams of AI agents",
      "link": "https://betakit.com/katalyze-ai-thinks-the-future-of-pharma-operations-is-teams-of-ai-agents/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "solo-gp-ashley-smith-announces-second-25m-fund-to-back-star": {
+   "name": "Solo GP Ashley Smith announces second $25M fund to back star",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vermilion Cliffs Ventures announced Wednesday the close of a $25 million Fund II.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$25M",
+     "round": "",
+     "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+     "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "beeline-medicines": {
+   "name": "Beeline Medicines",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Beeline Medicines announced the closing of a $126.3 million Series A extension. The new funding brings the company’s total Series A financing round to $426.3 million. The extension adds to Beeline Medicines’ previously announced $300 million Series A financing. The funding came f",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$426.3 Million",
+     "round": "Series A",
+     "title": "Beeline Medicines Raises $426.3 Million Series A To Advance Autoimmune And Inflammatory Disease Portfolio",
+     "link": "https://pulse2.com/beeline-medicines-raises-426-3-million-series-a-to-advance-autoimmune-and-inflammatory-disease-portfolio/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "arato": {
+   "name": "Arato",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Arato announced that it has raised a $10 million seed round. The round was led by TLV Partners. Jibe Ventures also participated in the financing. Additional backers included a16z’s Raghu Raghuram, the former CEO of VMware, and Marianna Tessel, the former CTO of Intuit. \n The post",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$10 Million",
+     "round": "Seed",
+     "title": "Arato Raises $10 Million Seed Round To Improve AI Quality Assurance",
+     "link": "https://pulse2.com/arato-raises-10-million-seed-round-to-improve-ai-quality-assurance/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "keyfactor": {
+   "name": "Keyfactor",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Keyfactor announced a strategic growth investment of more than $1 billion led by Summit Partners. The company said the investment reflects rising urgency around machine identity security and the growing importance of trust infrastructure for enterprises operating in the AI and po",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$1 Billion",
+     "round": "Growth",
+     "title": "Keyfactor Raises Over $1 Billion Strategic Growth Investment Led By Summit Partners",
+     "link": "https://pulse2.com/keyfactor-raises-over-1-billion-strategic-growth-investment-led-by-summit-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "even-realities": {
+   "name": "Even Realities",
+   "country": "China",
+   "region": "Asia",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Even Realities Technology raised $150 million in a pre-Series B funding round. The round valued the Chinese smart-glasses company at $1 billion. The financing included investors such as Meituan and Tencent. The funding makes Even Realities a unicorn as it looks to compete in the ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$150 Million",
+     "round": "Pre-Series B",
+     "title": "Even Realities Raises $150 Million At $1 Billion Valuation To Build AI Smart Glasses",
+     "link": "https://pulse2.com/even-realities-raises-150-million-at-1-billion-valuation-to-build-ai-smart-glasses/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "quaise-energy": {
+   "name": "Quaise Energy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Quaise Energy announced the initial close of its Series B financing, raising $134 million. The round was led by Prelude Ventures, with strategic investments from JERA and Idemitsu, two of Japan’s largest energy companies. Nearly all existing investors, including Safar Partners, a",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$134 Million",
+     "round": "Series B",
+     "title": "Quaise Energy Raises $134 Million Series B Initial Close To Build Superhot Geothermal Power Plant",
+     "link": "https://pulse2.com/quaise-energy-raises-134-million-series-b-initial-close-to-build-superhot-geothermal-power-plant/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "storika": {
+   "name": "Storika",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Creative expression",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Storika announced the closing of a seed funding round to scale its AI-native creator marketing platform. The round terms were not disclosed. The round included a strategic investment from Amorepacific. Additional participants included Schmidt, Hustle Fund, BonAngels Venture Partn",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "events": [
+    {
+     "date": "2026-07-07",
+     "amount": "",
+     "round": "Seed",
+     "title": "Storika Closes Seed Round To Scale AI-Native Creator Marketing Platform",
+     "link": "https://pulse2.com/storika-closes-seed-round-to-scale-ai-native-creator-marketing-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "norm-ai": {
+   "name": "Norm Ai",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Norm Ai has built something most legal AI startups avoid touching: a law firm that does not bill…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$120M",
+     "round": "",
+     "title": "Norm Ai raises $120M from Khosla, Blackstone and Bain to take on Harvey and Legora with a new pricing model",
+     "link": "https://techfundingnews.com/norm-ai-raises-120m-from-khosla-blackstone-and-bain-to-take-on-harvey-and-legora-with-a-new-pricing-model/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "lovable-in-talks-to": {
+   "name": "Lovable in talks to",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Lovable was valued at $6.6 billion in December 2025. Now, according to four sources cited by Forbes, the…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$12B",
+     "round": "",
+     "title": "Lovable in talks to raise funding at $12B valuation, doubling its price tag in six months: report",
+     "link": "https://techfundingnews.com/lovable-raises-12b-valuation-talks-vibe-coding/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "fleek": {
+   "name": "Fleek",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Fleek,a UK-based startup developing AI infrastructure for the secondhand clothingindustry, has raised $25 million in a Series B funding round. The investmentwas led by Burda Principal Investments, wit...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$25M",
+     "round": "",
+     "title": "Fleek raises $25M from eBay and Vinted’s early backer to rebuild secondhand fashion’s supply chain",
+     "link": "https://techfundingnews.com/fleek-raises-25m-series-b-ebay-burda-secondhand/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-08",
+     "amount": "$25M",
+     "round": "Series B",
+     "title": "Fleek secures $25M to digitise secondhand fashion",
+     "link": "https://tech.eu/2026/07/08/fleek-secures-25m-to-digitise-secondhand-fashion/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "fuchs-eule": {
+   "name": "Fuchs & Eule",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Property with a high ESG rating is gaining value across Europe. Property with a poor one is losing…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "€10M",
+     "round": "",
+     "title": "Fuchs & Eule raises €10M from GET Fund as Europe’s property market splits on ESG ratings",
+     "link": "https://techfundingnews.com/fuchs-eule-raises-10m-commercial-landlords-esg/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "point-nine-breaks-from-software-to-back-a-dutch-startup-s-pr": {
+   "name": "Point Nine breaks from software to back a Dutch startup’s pr",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Aardaia, a Wageningen startup breeding a new protein-rich crop, has raised a €5 million seed round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "€5M",
+     "round": "Seed",
+     "title": "Point Nine breaks from software to back a Dutch startup’s protein potato in an oversubscribed €5M round",
+     "link": "https://techfundingnews.com/aardaia-raises-5m-seed-point-nine-protein-tuber/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "bohr-energie": {
+   "name": "Bohr Energie",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Bohr Energie, a Toulouse-based scale-up specialised in the aggregation, optimisation and management of distributed renewable and flexible assets, including batteries and hybrid systems, has secured €10 million in a Series A round.  The round was led by Suma Capital through SC Net",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "€10 million",
+     "round": "Series A",
+     "title": "Toulouse-based Bohr Energie secures €10 million to scale its AI-powered renewable energy aggregation platform",
+     "link": "https://www.eu-startups.com/2026/07/toulouse-based-bohr-energie-secures-e10-million-to-scale-its-ai-powered-renewable-energy-aggregation-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "as-power-demand-rises-from-electrification-and-data-centres": {
+   "name": "As power demand rises from electrification and data centres,",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Axle Energy, a British energy flexibility platform that turns EV chargers, batteries and heat pumps into grid-balancing capacity, has raised €21 million ($25 million) in Series A to expand across the UK and international markets, allowing Axle to connect more distributed energy a",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "€21 million",
+     "round": "Series A",
+     "title": "As power demand rises from electrification and data centres, London’s Axle Energy raises €21 million for energy flexibility",
+     "link": "https://www.eu-startups.com/2026/07/as-power-demand-rises-from-electrification-and-data-centres-londons-axle-energy-raises-e21-million-for-energy-flexibility/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "yc-backed-fleek": {
+   "name": "YC-backed Fleek",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Fleek, a London-based startup building the AI infrastructure powering the global secondhand clothing industry, today announced it has raised €21.9 million ($25 million) in Series B funding, bringing its total funding amount to €39.4 million ($45 million).  The round was led by Bu",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "€22 million",
+     "round": "Series B",
+     "title": "YC-backed Fleek raises €22 million to build AI infrastructure keeping global secondhand fashion on fleek",
+     "link": "https://www.eu-startups.com/2026/07/yc-backed-fleek-raises-e22-million-to-build-ai-infrastructure-keeping-global-secondhand-fashion-on-fleek/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "leipzig-s-birdsview-takes-flight-with-2-5-million-seed-to-s": {
+   "name": "Leipzig’s Birdsview takes flight with €2.5 million Seed to s",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Birdsview, a Leipzig-based startup behind Avys, an AI email marketing agent for online shops, announced today that it has raised €2.5 million in a Seed round to expand Avys.  This round was led by Fortino Ventures and Newion. It was initially backed by TGFS in its pre-Seed phase.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "€2.5 million",
+     "round": "Seed",
+     "title": "Leipzig’s Birdsview takes flight with €2.5 million Seed to scale Avys, its AI email marketing agent for online shops",
+     "link": "https://www.eu-startups.com/2026/07/leipzigs-birdsview-takes-flight-with-e2-5-million-seed-to-scale-avys-its-ai-email-marketing-agent-for-online-shops/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "aardaia": {
+   "name": "Aardaia",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Aardaia, a Wageningen-based agritechstartup developing new crop varieties from wild plants, has raised €5 millionin a seed funding round led by Point Nine. Existing investor FoodLabsparticipated in th...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "€5 million",
+     "round": "Seed",
+     "title": "Dutch startup Aardaia raises €5 million to turn wild plants into new crops and develop its “protein potato”",
+     "link": "https://www.eu-startups.com/2026/07/dutch-startup-aardaia-raises-e5m-to-turn-wild-plants-into-new-crops-and-develop-its-protein-potato/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-08",
+     "amount": "€5M",
+     "round": "Seed",
+     "title": "Aardaia bags €5M to build the next generation of crops",
+     "link": "https://tech.eu/2026/07/08/aardaia-bags-eur5m-to-build-the-next-generation-of-crops/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "y-combinator-backed-german-startup-finto": {
+   "name": "Y Combinator-backed German startup Finto",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "A German startup building AI agents for accounting today said it had deliberately opted to be based in Munich over Silicon Valley after going through Y Combinator in San Francisco and raising a £3.4m ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$3.4M",
+     "round": "",
+     "title": "Y Combinator-backed German startup Finto raises $3.4M, says chose Munich over Silicon Valley",
+     "link": "https://tech.eu/2026/07/08/y-combinator-backed-german-startup-finto-raises-34m-says-chose-munich-over-the-valley/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "kord": {
+   "name": "Kord",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "UK fintech Kord, theend-to-end platform making onboarding clients, identity verification and paymentprocessing simplerand more secure, has raised £6.4 million in a Series A funding round. The investme...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "£6.4M",
+     "round": "Series A",
+     "title": "Kord secures £6.4M to unify onboarding, compliance and payments",
+     "link": "https://tech.eu/2026/07/08/kord-secures-ps64m-to-unify-onboarding-compliance-and-payments/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "polysense": {
+   "name": "Polysense",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Belgian startup Polysense has raised $10.7million in an oversubscribed seed funding round to accelerate the globalrollout of its AI-powered quality control platform for food manufacturers. Theround wa...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$10.7M",
+     "round": "Seed",
+     "title": "Polysense raises $10.7M to scale AI quality control for food manufacturers",
+     "link": "https://tech.eu/2026/07/08/polysense-raises-107m-to-scale-ai-quality-control-for-food-manufacturers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "berlin-s-reverse-fashion": {
+   "name": "Berlin's reverse.fashion",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Berlin-based reverse.fashion, a startup developingAI-powered textile sorting technology, has secured a seven-figure extension toits pre-seed funding round from High-Tech Gründerfonds (HTGF).Founded in...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "",
+     "round": "Extension",
+     "title": "Berlin's reverse.fashion bags seven-figure funding to scale textile sorting",
+     "link": "https://tech.eu/2026/07/08/berlins-reversefashion-bags-seven-figure-funding-to-scale-textile-sorting/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "respiro-diagnostics": {
+   "name": "Respiro Diagnostics",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Respiro Diagnostics, a UK-based startup developing breath-based diagnostics for lungdiseases, has raised £1 million in a pre-seed funding round led by Zinc Venture Capital and SFC Capital. The round a...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "£1M",
+     "round": "Pre-Seed",
+     "title": "Respiro Diagnostics secures £1M to advance lung diagnostics",
+     "link": "https://tech.eu/2026/07/08/respiro-diagnostics-secures-ps1m-to-advance-lung-diagnostics/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "milo-drive": {
+   "name": "Milo Drive",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Electric mobility startup Milo Drive has raised $2.4 Mn (about ₹22.9 Cr) in a seed funding round co-led by Caret…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$2.4 Mn",
+     "round": "Seed",
+     "title": "Milo Drive Bags $2.4 Mn To Scale Electric Mobility Platform",
+     "link": "https://inc42.com/buzz/milo-drive-bags-2-4-mn-to-scale-electric-mobility-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "elevate-education": {
+   "name": "Elevate Education",
+   "country": "India",
+   "region": "Asia",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Edtech startup Elevate Education, formerly known as Sunstone, has raised ₹170 Cr ($17.7 Mn) in its Series D funding round…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "₹170",
+     "round": "Series D",
+     "title": "Elevate Education Bags ₹170 Cr To Scale AI-Led Higher Education Platform",
+     "link": "https://inc42.com/buzz/elevate-education-bags-%e2%82%b9170-cr-to-scale-ai-led-higher-education-platform/",
+     "source": "Inc42"
     }
    ]
   }
