@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T15:20:36+00:00",
+ "updated": "2026-07-09T15:55:17+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -13117,6 +13117,582 @@
      "round": "Series D",
      "title": "Elevate Education Bags ₹170 Cr To Scale AI-Led Higher Education Platform",
      "link": "https://inc42.com/buzz/elevate-education-bags-%e2%82%b9170-cr-to-scale-ai-led-higher-education-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "paradigm": {
+   "name": "Paradigm",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "For Paradigm, the technical frontier will stretch beyond its cryptocurrency investment roots. This fund is expected to expand its investment focus to include robotics and AI.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$1.2B",
+     "round": "",
+     "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
+     "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "europe-posted-its-strongest-venture-funding-quarter-in-4-yea": {
+   "name": "Europe Posted Its Strongest Venture Funding Quarter In 4 Yea",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "In Q2, Europe posted its strongest quarter in four years for venture funding, Crunchbase data shows. All told, Europe-based startups raised $24 billion in the just-ended quarter, up around a third quarter over quarter and two-thirds higher than the $14.4 billion raised in Q2 2025",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "$24 billion",
+     "round": "",
+     "title": "Europe Posted Its Strongest Venture Funding Quarter In 4 Years As UK Gains, M&A Holds Up",
+     "link": "https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "edvisorly": {
+   "name": "EdVisorly",
+   "country": "USA",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Los Angeles-based startup EdVisorly tells Crunchbase News exclusively that it has secured a $13.3 million Series A funding round to scale its AI-native platform, which automates the manual back-office workflows that can slow down university admissions.",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-07-08",
+   "events": [
+    {
+     "date": "2026-07-08",
+     "amount": "$13.3M",
+     "round": "Series A",
+     "title": "Exclusive: EdVisorly Raises $13.3M Series A To Fix The Messy College Transfer Process With AI",
+     "link": "https://news.crunchbase.com/venture/edtech-university-ai-platform-funding-edvisorly/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "velocity": {
+   "name": "Velocity",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Velocity announced that it raised $27 million in seed funding to help AI-native software companies turn rapid user growth into sustainable revenue. The round was led by NFX and Red Dot Capital Partners. Stardom Ventures, Corner Ventures, and Transcend also participated in the rou",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "$27 Million",
+     "round": "Seed",
+     "title": "Velocity Raises $27 Million Seed To Help AI Companies Turn Growth Into Sustainable Revenue",
+     "link": "https://pulse2.com/velocity-raises-27-million-seed-to-help-ai-companies-turn-growth-into-sustainable-revenue/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "alta": {
+   "name": "Alta",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Alta announced that it raised $25 million in Series A funding. The company describes itself as an AI System of Actions for go-to-market teams. The round was led by IN Venture, with participation from Mindset Ventures, Skywell Capital, LeumiTech77, and existing investors Entrée Ca",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "$25 Million",
+     "round": "Series A",
+     "title": "Alta Raises $25 Million Series A To Redefine Go-To-Market Architecture For Revenue Teams",
+     "link": "https://pulse2.com/alta-raises-25-million-series-a-to-redefine-go-to-market-architecture-for-revenue-teams/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "venus-aerospace": {
+   "name": "Venus Aerospace",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Venus Aerospace announced the close of a $91 million Series B financing round to scale development and production of its rotating detonation rocket engine technology. The round was led by Mercury Fund, with participation from Lockheed Martin Ventures, MESH, PEAK6, Draper Associat",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "$91 Million",
+     "round": "Series B",
+     "title": "Venus Aerospace Raises $91 Million Series B To Mature Flight-Proven RDRE Propulsion Systems",
+     "link": "https://pulse2.com/venus-aerospace-raises-91-million-series-b-to-mature-flight-proven-rdre-propulsion-systems/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "rubrik": {
+   "name": "Rubrik",
+   "country": "USA",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Rubrik, the US-based cybersecurity and AI operations company, has committed more than £375 million to the UK over…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "£375M",
+     "round": "",
+     "title": "Rubrik lands £375M: Why AI cybersecurity giant picked London for EMEA HQ",
+     "link": "https://techfundingnews.com/rubrik-lands-375m-why-ai-cybersecurity-giant-picked-london-for-emea-hq/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "primo-capital-targets-120m-for-its-second-space-fund-after": {
+   "name": "Primo Capital targets €120M for its second space fund after ",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Primo Capital‘s first space-focused fund helped its 19 portfolio companies raise over €470 million, more than eight times…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "€120M",
+     "round": "",
+     "title": "Primo Capital targets €120M for its second space fund after its portfolio returned 8x",
+     "link": "https://techfundingnews.com/primo-capital-120m-space-fund-2-8x-return/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "kraken-technology-group-becomes-europe-s-newest-maritime-def": {
+   "name": "Kraken Technology Group becomes Europe’s newest maritime def",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Kraken Technology Group⁠, a British maritime defence company, closed a $175 million Series B round that values the…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "$175 million",
+     "round": "Series B",
+     "title": "Kraken Technology Group becomes Europe’s newest maritime defence unicorn",
+     "link": "https://techfundingnews.com/kraken-technology-group-175m-series-b-unicorn/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "crypto-vc-paradigm-just": {
+   "name": "Crypto VC Paradigm just",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Financial independence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Paradigm built its name backing crypto’s earliest and riskiest deal. Now, it is putting $1.2 billion behind a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "$1.2B",
+     "round": "",
+     "title": "Crypto VC Paradigm just closed $1.2B fourth fund to chase AI and robotics",
+     "link": "https://techfundingnews.com/crypto-vc-paradigm-just-closeds-1-2b-fourth-fund-to-chase-ai-and-robotics/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "sheffield-spinout-just": {
+   "name": "Sheffield spinout just",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "MicroLED technology is often seen as the future of displays, promising brighter and more efficient screens than what…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "£5.2M",
+     "round": "",
+     "title": "Sheffield spinout just raised £5.2M to solve manufacturing problem that has kept MicroLED out of your pocket for a decade",
+     "link": "https://techfundingnews.com/pixel-flo-raises-5-25m-microled-mass-transfer/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "university-of-sheffield-spin-out-pixel-flo": {
+   "name": "University of Sheffield spin-out Pixel-Flo",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Pixel-Flo, a University of Sheffield spin-out developing a process for enabling scaled-up microLED display manufacturing, has raised €6.1 million (£5.25 million) in Seed funding to support its transition from laboratory development towards industrial scale-up. The round was led b",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "€6.1 million",
+     "round": "Seed",
+     "title": "University of Sheffield spin-out Pixel-Flo raises €6.1 million to scale microLED display manufacturing",
+     "link": "https://www.eu-startups.com/2026/07/university-of-sheffield-spin-out-pixel-flo-raises-e6-1-million-to-scale-microled-display-manufacturing/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "pornography-addiction-recovery-app-unchaind-snapped-up-by-ro": {
+   "name": "Pornography addiction recovery app Unchaind snapped up by Ro",
+   "country": "France",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Following their €11.2 million Series A raise in June, Paris-based AI-native wellness app publisher Rocapine has acquired the Christian pornography recovery app Unchaind – which has reached 500k downloads since launching in 2025. Today’s acquisition comes after Rocapine and Singap",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "€875k",
+     "round": "Series A",
+     "title": "Pornography addiction recovery app Unchaind snapped up by Rocapine after reaching €875k ARR",
+     "link": "https://www.eu-startups.com/2026/07/pornography-addiction-recovery-app-unchaind-snapped-up-by-rocapine-after-reaching-e875k-arr/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "belgium-s-e-peas": {
+   "name": "Belgium’s e-peas",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "e-peas, a Belgian fabless semiconductor company specialising in ultra-low-power energy harvesting and power management solutions, has closed €19.2 million ($22 million) to scale its commercial growth, expand into new international markets, and diversify its product offering.  The",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "€19.2 million",
+     "round": "Growth",
+     "title": "Belgium’s e-peas secures €19.2 million to scale ultra-low-power energy harvesting and power management solutions",
+     "link": "https://www.eu-startups.com/2026/07/belgiums-e-peas-secures-e19-2-million-to-scale-ultra-low-power-energy-harvesting-and-power-management-solutions/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "alchemab-therapeutics": {
+   "name": "Alchemab Therapeutics",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Alchemab Therapeutics, a London-based clinical-stage BioTech startup, has extended its Series A financing with €29.3 million (£25 million/$34 million) from the British Business Bank. This marks the bank’s largest investment in a life sciences company to date.  This additional fun",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "€29.3 million",
+     "round": "Series A",
+     "title": "Alchemab Therapeutics secures €29.3 million as British Business Bank makes its largest life sciences investment yet",
+     "link": "https://www.eu-startups.com/2026/07/londons-alchemab-therapeutics-secures-e29-3-million-as-british-business-bank-makes-its-largest-life-sciences-investment-yet/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "munich-s-quantumdiamonds": {
+   "name": "Munich’s QuantumDiamonds",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Munich-based QuantumDiamonds (QD) today announced the close of a €91 million funding round to scale production of its quantum-based semiconductor inspection technology. The financing combines an €15 million equity round led by World Fund with €76 million in non-dilutive funding a",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "€91 million",
+     "round": "",
+     "title": "Munich’s QuantumDiamonds raises €91 million to scale its quantum-based semiconductor inspection technology",
+     "link": "https://www.eu-startups.com/2026/07/munichs-quantumdiamonds-raises-e91-million-to-scale-its-quantum-based-semiconductor-inspection-technology/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "co-founded-by-deepmind-creative-lead": {
+   "name": "co-founded by DeepMind creative lead",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "A London-based startup behind an AI writing product, co-founded by an ex-DeepMind creative lead, has emerged from stealth with a $13m seed funding round. Called Marker, the funding round was led by In...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "$13M",
+     "round": "Seed",
+     "title": "AI writing startup co-founded by DeepMind creative lead raises $13M seed investment",
+     "link": "https://tech.eu/2026/07/09/ai-writing-startup-co-founded-by-deepmind-creative-lead-raises-13m-seed-investment/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "catalyxx": {
+   "name": "Catalyxx",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Spain-based Catalyxx, a developer of bio-based chemicals, has secured a€20 million grant from the European Union through RenewChem, a flagship projectselected by the Circular Bio-based Europe Joint Un...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "€20M",
+     "round": "Grant",
+     "title": "Catalyxx wins €20M+ EU backing for first commer-cial chemicals plant",
+     "link": "https://tech.eu/2026/07/09/catalyxx-wins-eur20m-eu-backing-for-first-commer-cial-chemicals-plant/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "kraken-technology-hits-unicorn-status": {
+   "name": "Kraken Technology hits unicorn status",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "British-founded maritime defence startup Kraken Technology today said it had achieved unicorn status. The startup, founded in 2020 by former speedboat racer Mal Crease, said it had raised $175m in a S...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "$175m",
+     "round": "",
+     "title": "Maritime defence startup Kraken Technology hits unicorn status",
+     "link": "https://tech.eu/2026/07/09/maritime-defence-startup-kraken-technology-hits-unicorn-status/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "german-ai-workforce-management-startup-sherpa": {
+   "name": "German AI workforce management startup Sherpa",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Germany-based Sherpa, a startupdeveloping an AI operating system for external workforce management, has raised$2.2 million in a pre-seed funding round co-led by Seedcamp, DN Capital,Activant Capital a...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "$2.2M",
+     "round": "Pre-Seed",
+     "title": "German AI workforce management startup Sherpa raises $2.2M pre-seed",
+     "link": "https://tech.eu/2026/07/09/german-ai-workforce-management-startup-sherpa-raises-22m-pre-seed/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "quantumdiamonds": {
+   "name": "QuantumDiamonds",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "A German startup spun out of a famed Munich research university whose tech helps semiconductor firms test out products and find defects has raised €15m in equity funding.   The new equity funding in Q...",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "€15M",
+     "round": "",
+     "title": "Chip testing startup QuantumDiamonds raises €15M in equity funding",
+     "link": "https://tech.eu/2026/07/09/semiconductor-equipment-startup-quantumdiamonds-raises-eur15m-in-equity-funding/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "pixel-flo": {
+   "name": "Pixel-Flo",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Pixel-Flo, a University of Sheffield spin-out developingmanufacturing technology for MicroLED displays, has raised £5.25 million inseed funding. The round was led by Northern Gritstone, with participa...",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "£5.25M",
+     "round": "Seed",
+     "title": "Pixel-Flo lands £5.25M seed round for MicroLED manufacturing",
+     "link": "https://tech.eu/2026/07/09/pixel-flo-lands-ps525m-seed-round-for-microled-manufacturing/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "lissi": {
+   "name": "Lissi",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Lissi GmbH, a European provider of EUDI Walletconnectivity and verifiable credential technology, has closed a €3.5 millionfunding round to accelerate the development and deployment of digital identity...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "€3.5M",
+     "round": "",
+     "title": "Lissi raises €3.5M to power Europe's sovereign digital identity future",
+     "link": "https://tech.eu/2026/07/09/lissi-raises-eur35m-to-power-europes-sovereign-digital-identity-future/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "wheelocity": {
+   "name": "Wheelocity",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Rural commerce startup Wheelocity has raised over ₹82 Cr (about $8.5 Mn) in an ongoing funding round from new investors,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "₹82",
+     "round": "",
+     "title": "Exclusive: Rural Commerce Startup Wheelocity Raises ₹82 Cr In Ongoing Funding Round",
+     "link": "https://inc42.com/buzz/exclusive-rural-commerce-startup-wheelocity-raises-%e2%82%b982-cr-in-ongoing-funding-round/",
      "source": "Inc42"
     }
    ]
