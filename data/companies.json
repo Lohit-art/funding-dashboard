@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-09T15:55:17+00:00",
+ "updated": "2026-07-10T15:31:16+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -13694,6 +13694,318 @@
      "title": "Exclusive: Rural Commerce Startup Wheelocity Raises ₹82 Cr In Ongoing Funding Round",
      "link": "https://inc42.com/buzz/exclusive-rural-commerce-startup-wheelocity-raises-%e2%82%b982-cr-in-ongoing-funding-round/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "gradium": {
+   "name": "Gradium",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "$100M",
+     "round": "Seed",
+     "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+     "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "14-employees-8-9m-developers-ollama": {
+   "name": "14 employees, 8.9M developers: Ollama",
+   "country": "USA",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Ollama, the Palo Alto-based developer platform for open-weight AI models, has raised a $65 million Series B led…",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "$65M",
+     "round": "Series B",
+     "title": "14 employees, 8.9M developers: Ollama raises $65M to become AI’s platform layer",
+     "link": "https://techfundingnews.com/14-employees-8-9m-developers-ollama-raises-65m-to-become-ais-platform-layer/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "nvidia-backs-the-french-researchers-who-built-voice-ai-s-fou": {
+   "name": "NVIDIA backs the French researchers who built voice AI’s fou",
+   "country": "France",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "The people who invented the plumbing that powers your AI voice assistant just raised $100 million to compete…",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "$100M",
+     "round": "",
+     "title": "NVIDIA backs the French researchers who built voice AI’s foundations at $100M, 7 months after launch",
+     "link": "https://techfundingnews.com/gradium-100m-seed-nvidia-voice-ai-kyutai/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "en-carta-diagnostics": {
+   "name": "En Carta Diagnostics",
+   "country": "France",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "En Carta Diagnostics, a Paris-based DeepTech startup developing a new generation of molecular diagnostics for use at home, has announced the first closing of €5 million in financing. This closing includes €3 million in equity led by Blue Forest Ventures with participation from Ri",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "€5 million",
+     "round": "",
+     "title": "En Carta Diagnostics raises €5 million to bring at-home molecular tests for Lyme disease and STIs to market",
+     "link": "https://www.eu-startups.com/2026/07/en-carta-diagnostics-raises-e5-million-to-bring-at-home-molecular-tests-for-lyme-disease-and-stis-to-market/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "aria": {
+   "name": "Aria",
+   "country": "France",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Aria, a Paris-based FinTech scale-up offering an embedded invoice financing platform that helps businesses get paid on time, has raised a €7 million Series A extension round and launched a €240 million debt facility to scale its financing capacity to tackle Europe’s late payments",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "€7 million",
+     "round": "Debt",
+     "title": "Paris-based Aria raises €7 million and launches €240 million debt facility to tackle Europe’s late-payment crisis",
+     "link": "https://www.eu-startups.com/2026/07/paris-based-aria-raises-e7-million-and-launches-e240-million-debt-facility-to-tackle-europes-late-payment-crisis/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "kraken-technology-group-makes-waves-as-europe-s-newest-marit": {
+   "name": "Kraken Technology Group makes waves as Europe’s newest marit",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Kraken Technology Group, a London-based maritime defence company, has raised €152.9 million ($175 million) in a Series B funding round at a valuation of nearly €874.1 million ($1 billion).  The round was led by Digital Transformation Capital Partners (DTCP) and supported by other",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "€152.9 million",
+     "round": "Series B",
+     "title": "Kraken Technology Group makes waves as Europe’s newest maritime defence unicorn with €152.9 million Series B",
+     "link": "https://www.eu-startups.com/2026/07/kraken-technology-group-makes-waves-as-europes-newest-maritime-defence-unicorn-with-e152-9-million-series-b/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "new-lithuanian-unicorn-oxylabs-ends-bootstrapped-streak-aft": {
+   "name": "New Lithuanian unicorn: Oxylabs ends bootstrapped streak aft",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Oxylabs, a Vilnius-based data infrastructure platform, has secured €113.6 million ($130 million) in funding from Warburg Pincus, valuing the company at €3.1 billion ($3.6 billion). This marks Oxylabs’ first external investment since its founding in 2015 and makes it the second bo",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "€113.6 million",
+     "round": "",
+     "title": "New Lithuanian unicorn: Oxylabs ends bootstrapped streak after securing €113.6 million at €3.1 billion valuation",
+     "link": "https://www.eu-startups.com/2026/07/new-lithuanian-unicorn-oxylabs-ends-bootstrapped-streak-after-securing-e113-6-million-at-e3-1-billion-valuation/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "nscale": {
+   "name": "Nscale",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "This week, we tracked more than 70 tech funding deals worth over €2.8 billion and over 5 exits, M&A transactions, rumours, and related news stories across Europe. Alongside the week’s top funding ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "$1.4B",
+     "round": "",
+     "title": "Nscale secures $1.4B, Proxima Fusion lands €411M, and Invest Europe sees VC rebound",
+     "link": "https://tech.eu/2026/07/10/nscale-secures-14b-proxima-fusion-lands-eur411m-and-invest-europe-sees-vc-rebound/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "jewelbox-in-talks-to": {
+   "name": "Jewelbox In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C lab-grown diamond jewellery brand Jewelbox is in talks to raise ₹50 Cr (about $5.2 Mn) in a new funding…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "₹50",
+     "round": "",
+     "title": "Exclusive: Lab-Grown Diamond Brand Jewelbox In Talks To Raise ₹50 Cr",
+     "link": "https://inc42.com/buzz/lab-grown-diamond-brand-jewelbox-in-talks-to-raise-%e2%82%b950-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ex-livspace-duo-saurabh-jain-lalit-mittal-in-talks-to": {
+   "name": "Ex-Livspace Duo Saurabh Jain, Lalit Mittal In Talks To",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Former Livspace cofounder and India CEO Saurabh Jain has teamed up with former Livspace CBO Lalit Mittal to launch a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "$15 Mn",
+     "round": "",
+     "title": "Exclusive: Ex-Livspace Duo Saurabh Jain, Lalit Mittal In Talks To Raise $15 Mn For New Startup",
+     "link": "https://inc42.com/buzz/ex-livspace-cofounder-cbo-launch-home-interior-materials-venture-gravity/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "aukera": {
+   "name": "Aukera",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "A year after raising $15 Mn in its Series B funding round, D2C lab-grown diamond startup Aukera has raised ₹90…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "₹90",
+     "round": "Debt",
+     "title": "Lab-Grown Diamond Brand Aukera Raises ₹90 Cr Debt To Expand Store Network",
+     "link": "https://inc42.com/buzz/lab-grown-diamond-brand-aukera-raises-%e2%82%b990-cr-debt-to-expand-store-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "pernia-s-pop-up-shop": {
+   "name": "Pernia’s Pop Up Shop",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Purple Style Labs (PSL), the parent of luxury house of brands Pernia’s Pop Up Shop, has raised around ₹162.5 Cr…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "₹162",
+     "round": "Debt",
+     "title": "Exclusive: Pernia’s Pop Up Shop Raises ₹162 Cr Debt Following SEBI IPO Nod",
+     "link": "https://inc42.com/buzz/exclusive-pernias-pop-up-shop-raises-%e2%82%b9162-cr-debt-following-sebi-ipo-nod/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "q-a-hussein-fazal-on-super-com-s-10-year-journey-to-becomin": {
+   "name": "Q&A: Hussein Fazal on Super.com’s 10-year journey to becomin",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "CEO reflects on evolution from online travel agency to “savings super app” post-Series D. \n The post  Q&A: Hussein Fazal on Super.com’s 10-year journey to becoming a unicorn  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "events": [
+    {
+     "date": "2026-07-09",
+     "amount": "",
+     "round": "Series D",
+     "title": "Q&A: Hussein Fazal on Super.com’s 10-year journey to becoming a unicorn",
+     "link": "https://betakit.com/qa-hussein-fazal-on-super-coms-10-year-journey-to-becoming-a-unicorn/",
+     "source": "BetaKit"
     }
    ]
   }
