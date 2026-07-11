@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T15:31:16+00:00",
+ "updated": "2026-07-11T14:21:13+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -12050,10 +12050,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Luffy AI, an Oxfordshire-based startup using neuroplastic AI for real-time adaptive control, has raised €9.4 million (£8.1 million) in a Series A funding round to drive the startup’s commercialisation pipeline.  The round was led by BGF and joined by MIG Capital AG through its MI",
+   "summary": "Luffy AI, a UK-based startup developing “neuroplastic” AI for real-time adaptive control, has raised £8.1 million in a Series A funding round to accelerate deployment of its technology in industrial electric motors and other physical systems. The company argues that while AI has ",
    "audience": "General / mixed",
    "first_seen": "2026-07-07",
-   "last_seen": "2026-07-07",
+   "last_seen": "2026-07-10",
    "events": [
     {
      "date": "2026-07-07",
@@ -12062,6 +12062,14 @@
      "title": "Oxfordshire-based Luffy AI raises €9.4 million Series A to scale neuroplastic AI for real-time adaptive control",
      "link": "https://www.eu-startups.com/2026/07/oxfordshire-based-luffy-ai-raises-e9-4-million-series-a-to-scale-neuroplastic-ai-for-real-time-adaptive-control/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-10",
+     "amount": "£8.1 Million",
+     "round": "Series A",
+     "title": "Luffy AI Raises £8.1 Million Series A To Bring Neuroplastic AI Into Industrial Electric Motors",
+     "link": "https://pulse2.com/luffy-ai-raises-8-1-million-series-a-to-bring-neuroplastic-ai-into-industrial-electric-motors/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -13801,8 +13809,8 @@
    "sector": "Fintech",
    "is_ai": false,
    "research_based": false,
-   "stage": "established",
-   "summary": "Aria, a Paris-based FinTech scale-up offering an embedded invoice financing platform that helps businesses get paid on time, has raised a €7 million Series A extension round and launched a €240 million debt facility to scale its financing capacity to tackle Europe’s late payments",
+   "stage": "emerging",
+   "summary": "Aria, a Paris-based embedded invoice financing platform, has closed a new €7 million equity round, extending its Series A, and, in a separate transaction, opened a new financing facility providing close to €240 million in invoice financing capacity. The equity raise is led by 115",
    "audience": "General / mixed",
    "first_seen": "2026-07-10",
    "last_seen": "2026-07-10",
@@ -13814,6 +13822,14 @@
      "title": "Paris-based Aria raises €7 million and launches €240 million debt facility to tackle Europe’s late-payment crisis",
      "link": "https://www.eu-startups.com/2026/07/paris-based-aria-raises-e7-million-and-launches-e240-million-debt-facility-to-tackle-europes-late-payment-crisis/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-10",
+     "amount": "€7 Million",
+     "round": "Series A",
+     "title": "Aria Raises €7 Million Series A Extension And Secures €240M Invoice Financing Facility",
+     "link": "https://pulse2.com/aria-raises-e7-million-series-a-extension-and-secures-e240m-invoice-financing-facility/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -14006,6 +14022,318 @@
      "title": "Q&A: Hussein Fazal on Super.com’s 10-year journey to becoming a unicorn",
      "link": "https://betakit.com/qa-hussein-fazal-on-super-coms-10-year-journey-to-becoming-a-unicorn/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "edx-markets": {
+   "name": "EDX Markets",
+   "country": "Japan",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "EDX Markets, a digital asset technology firm that operates an institutional‑only trading venue paired with a central clearinghouse, has closed a $76 million Series C funding round led by Japanese financial conglomerate SBI Holdings. The capital will be used to expand EDX’s tradin",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "events": [
+    {
+     "date": "2026-07-11",
+     "amount": "$76 Million",
+     "round": "Series C",
+     "title": "EDX Markets Raises $76 Million Series C To Scale Institutional Digital Asset Infrastructure",
+     "link": "https://pulse2.com/edx-markets-raises-76-million-series-c-to-scale-institutional-digital-asset-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "m1x-global": {
+   "name": "M1X Global",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "M1X Global, a sovereign financial infrastructure and technology company building blockchain‑based public‑sector instruments, has closed an oversubscribed Seed round led by Paradigm, bringing its total funding to $8.5 million just 14 weeks after its public launch and angel raise. ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "events": [
+    {
+     "date": "2026-07-11",
+     "amount": "$8.5 Million",
+     "round": "Seed",
+     "title": "M1X Global Raises Seed Funding Led By Paradigm, Bringing Total To $8.5 Million To Scale On‑Chain Sovereign Debt Platform",
+     "link": "https://pulse2.com/m1x-global-raises-seed-funding-led-by-paradigm-bringing-total-to-8-5-million-to-scale-on-chain-sovereign-debt-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "adaptive-insurance": {
+   "name": "Adaptive Insurance",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Adaptive Insurance, a specialty managing general agent (MGA) and insurtech focused on climate resilience, has closed an additional $5 million financing round from new and existing investors to accelerate development and distribution of its AI‑driven specialty insurance products. ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "events": [
+    {
+     "date": "2026-07-11",
+     "amount": "$5 Million",
+     "round": "",
+     "title": "Adaptive Insurance Raises Additional $5 Million To Scale AI‑Driven Specialty Climate Products And Invoice Financing Capacity",
+     "link": "https://pulse2.com/adaptive-insurance-raises-additional-5-million-to-scale-ai-driven-specialty-climate-products-and-invoice-financing-capacity/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "kor-protocol": {
+   "name": "KOR Protocol",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "KOR Protocol, a London‑based platform building what it describes as a “creative asset clearinghouse,” has raised $7.5 million in a Series A round at a $100 million valuation. The funding is led by crypto‑native fund 1kx and Blockchain Capital, with participation from existing bac",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "events": [
+    {
+     "date": "2026-07-11",
+     "amount": "$7.5 Million",
+     "round": "Series A",
+     "title": "KOR Protocol Raises $7.5 Million Series A To Build AI‑Era Clearinghouse For Creative Assets",
+     "link": "https://pulse2.com/kor-protocol-raises-7-5-million-series-a-to-build-ai-era-clearinghouse-for-creative-assets/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "savi-security": {
+   "name": "Savi Security",
+   "country": "USA",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Savi Security, a Los Angeles‑based consumer technology company focused on AI‑powered scam protection, has launched Savi, an iOS and Android app designed to screen calls, messages and digital communications before users engage, and has raised 7 million dollars in seed funding to a",
+   "audience": "Consumers",
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "events": [
+    {
+     "date": "2026-07-11",
+     "amount": "$7 Million",
+     "round": "Seed",
+     "title": "Savi Security Raises $7 Million Seed And Launches AI‑Native App To Protect Families From Digital Scams",
+     "link": "https://pulse2.com/savi-security-raises-7-million-seed-and-launches-ai-native-app-to-protect-families-from-digital-scams/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "octozi": {
+   "name": "Octozi",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Octozi, a New York City-based artificial intelligence company that automates clinical development workflows for pharmaceutical sponsors, has raised 3 million dollars in seed funding. Surface Ventures led the round, with participation from Remarkable Ventures, building on a prior ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "events": [
+    {
+     "date": "2026-07-11",
+     "amount": "$3 Million",
+     "round": "Seed",
+     "title": "Octozi Raises $3 Million Seed To Bring Agentic AI Into Clinical Trial Data Operations",
+     "link": "https://pulse2.com/octozi-raises-3-million-seed-to-bring-agentic-ai-into-clinical-trial-data-operations/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "handspring": {
+   "name": "Handspring",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Handspring Health, a virtual mental health clinic providing evidence‑based care to children, adolescents, young adults and their families, has raised $19 million in Series B financing to support national expansion of its care model. RPS Ventures led the round, with participation ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "events": [
+    {
+     "date": "2026-07-11",
+     "amount": "$19 Million",
+     "round": "Series B",
+     "title": "Handspring Raises $19 Million Series B To Scale Evidence‑Based Youth Mental Health Care Nationwide",
+     "link": "https://pulse2.com/handspring-raises-19-million-series-b-to-scale-evidence-based-youth-mental-health-care-nationwide/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bidbus": {
+   "name": "Bidbus",
+   "country": "USA",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Bidbus, a Los Angeles–based marketplace that lets verified car dealers bid against each other for consumer‑owned vehicles, has raised a $15 million Series A round to scale its model beyond its initial markets. The funding is led by Ibex Investors, an early‑stage mobility‑focused ",
+   "audience": "Consumers",
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "events": [
+    {
+     "date": "2026-07-11",
+     "amount": "$15 Million",
+     "round": "Series A",
+     "title": "Bidbus Raises $15 Million Series A To Make Used‑Car Selling A Real‑Time Dealer Auction",
+     "link": "https://pulse2.com/bidbus-raises-15-million-series-a-to-make-used-car-selling-a-real-time-dealer-auction/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "hippo-harvest": {
+   "name": "Hippo Harvest",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Food & agriculture",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Hippo Harvest, a Pescadero, California–based leafy greens grower using robotics and machine learning–powered greenhouses to produce USDA‑certified organic greens, has closed a $30 million Series C round led by Cox Farms, North America’s largest greenhouse operator. The funding wi",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "$30 Million",
+     "round": "Series C",
+     "title": "Hippo Harvest Raises $30 Million Series C To Scale Robotic Organic Greenhouses And Launch Indoor‑Grown Spinach",
+     "link": "https://pulse2.com/hippo-harvest-raises-30-million-series-c-to-scale-robotic-organic-greenhouses-and-launch-indoor-grown-spinach/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "marker": {
+   "name": "Marker",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Index Ventures has led a $13 million seed round for Marker, a London‑based startup developing an AI‑native word processor designed to support, rather than replace, the writing process. The funding round includes participation from LocalGlobe, Betaworks, Radical Ventures, Tiny VC ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "$13 Million",
+     "round": "Seed",
+     "title": "Marker Raises $13 Million Seed Funding To Build An AI‑Native Word Processor",
+     "link": "https://pulse2.com/marker-raises-13-million-seed-funding-to-build-an-ai-native-word-processor/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "energyx": {
+   "name": "EnergyX",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Energy Exploration Technologies, Inc. (EnergyX) has announced a $225 million strategic equity investment from Italian energy company Eni to support the development of Project Black Giant, a large-scale lithium brine and refining project in Chile’s Antofagasta Region. The transact",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-10",
+   "last_seen": "2026-07-10",
+   "events": [
+    {
+     "date": "2026-07-10",
+     "amount": "$225 Million",
+     "round": "",
+     "title": "EnergyX Secures $225 Million Strategic Investment From Eni To Advance Black Giant Lithium Project In Chile",
+     "link": "https://pulse2.com/energyx-secures-225-million-strategic-investment-from-eni-to-advance-black-giant-lithium-project-in-chile/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ideaforge": {
+   "name": "ideaForge",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Listed dronetech company ideaForge closed its qualified institutional placement (QIP) on Friday (July 10), raising ₹500 Cr from a clutch…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "events": [
+    {
+     "date": "2026-07-11",
+     "amount": "₹500",
+     "round": "",
+     "title": "ideaForge Raises ₹500 Cr Via QIP; Allots 62.9 Lakh Shares",
+     "link": "https://inc42.com/buzz/ideaforge-raises-%e2%82%b9500-cr-via-qip-allots-62-9-lakh-shares/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "zoho-backed-genrobotics-revenue-jumps-35-yoy-in-fy26-eyes": {
+   "name": "Zoho-Backed Genrobotics’ Revenue Jumps 35% YoY In FY26, Eyes",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Robotics startup Genrobotics saw its operating revenue rise 35% to ₹43.7 Cr in FY26 from ₹32.5 Cr in the previous…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-07-11",
+   "events": [
+    {
+     "date": "2026-07-11",
+     "amount": "₹150",
+     "round": "Series B",
+     "title": "Zoho-Backed Genrobotics’ Revenue Jumps 35% YoY In FY26, Eyes ₹150 Cr Series B Round",
+     "link": "https://inc42.com/buzz/zoho-backed-genrobotics-posts-%e2%82%b92-6-cr-profit-in-fy26-eyes-%e2%82%b9150-cr-series-b-round/",
+     "source": "Inc42"
     }
    ]
   }
