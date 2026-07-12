@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T14:21:13+00:00",
+ "updated": "2026-07-12T14:27:03+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -10467,17 +10467,17 @@
   },
   "emesent": {
    "name": "Emesent",
-   "country": "Unknown",
+   "country": "Australia",
    "region": "Oceania",
    "category": "Professional excellence",
    "sector": "Other",
-   "is_ai": false,
+   "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "Emesent grabs $15m to scale mine-mapping drones, along with $10m from the NRF’s first venture debt bet.",
-   "audience": "General / mixed",
+   "summary": "Emesent, a Brisbane-based autonomous mapping and robotics company, has raised A$25 million in new funding to accelerate development of its AI autonomy platform and cloud software offering, and to scale manufacturing at its Wacol, Queensland, production facility. The raise compris",
+   "audience": "Government & public sector",
    "first_seen": "2026-07-01",
-   "last_seen": "2026-07-01",
+   "last_seen": "2026-07-12",
    "events": [
     {
      "date": "2026-07-01",
@@ -10486,6 +10486,14 @@
      "title": "Mine drone mapping scaleup Emesent raises $15 million",
      "link": "https://www.startupdaily.net/topic/funding/mine-drone-mapping-scaleup-emesent-raises-15-million/",
      "source": "Startup Daily"
+    },
+    {
+     "date": "2026-07-12",
+     "amount": "A$25 Million",
+     "round": "Debt",
+     "title": "Emesent Raises A$25 Million To Scale Cortex AI Autonomy Platform And Aura Cloud Software Across Mining, Defense And Construction",
+     "link": "https://pulse2.com/emesent-raises-a25-million-to-scale-cortex-ai-autonomy-platform-and-aura-cloud-software-across-mining-defense-and-construction/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -14334,6 +14342,102 @@
      "title": "Zoho-Backed Genrobotics’ Revenue Jumps 35% YoY In FY26, Eyes ₹150 Cr Series B Round",
      "link": "https://inc42.com/buzz/zoho-backed-genrobotics-posts-%e2%82%b92-6-cr-profit-in-fy26-eyes-%e2%82%b9150-cr-series-b-round/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "harbourvest-partners": {
+   "name": "HarbourVest Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "HarbourVest Partners announced the final close of the HarbourVest Partners Co-Investment Fund VII Program with approximately $4.75 billion in total commitments. The program exceeded its $4 billion target, reflecting demand from a global group of new and existing limited partners.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-12",
+   "last_seen": "2026-07-12",
+   "events": [
+    {
+     "date": "2026-07-12",
+     "amount": "$4.75 Billion",
+     "round": "",
+     "title": "HarbourVest Partners Raises $4.75 Billion For Seventh Direct Co-Investment Program",
+     "link": "https://pulse2.com/harbourvest-partners-raises-4-75-billion-for-seventh-direct-co-investment-program/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "hakimo": {
+   "name": "Hakimo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Hakimo, a Menlo Park, California–based AI physical security monitoring company, has closed a $12 million growth round led by existing investor Zigg Capital, with participation from Neotribe Ventures, Vertex Ventures, Defy.vc and Rocketship.vc. The financing brings Hakimo's total ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-12",
+   "last_seen": "2026-07-12",
+   "events": [
+    {
+     "date": "2026-07-12",
+     "amount": "$12 Million",
+     "round": "Growth",
+     "title": "Hakimo Raises $12 Million Growth Round To Scale AI Physical Security Platform",
+     "link": "https://pulse2.com/hakimo-raises-12-million-growth-round-to-scale-ai-physical-security-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "forge-industries": {
+   "name": "Forge Industries",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Forge Industries, a climate-tech company that converts hard-to-recycle waste into high-performance engineered fuels, has raised $3.85 million in a funding round co-led by Next Phase Capital and 8090 Industries, with the two firms contributing the majority of the new capital. The ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-12",
+   "last_seen": "2026-07-12",
+   "events": [
+    {
+     "date": "2026-07-12",
+     "amount": "$3.85 Million",
+     "round": "",
+     "title": "Forge Industries Raises $3.85 Million To Build First US Waste-To-Fuel Facility Outside Las Vegas",
+     "link": "https://pulse2.com/forge-industries-raises-3-85-million-to-build-first-us-waste-to-fuel-facility-outside-las-vegas/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aisa": {
+   "name": "AIsa",
+   "country": "USA",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AIsa, a San Francisco–based company building what it describes as the transaction network for the AI agent economy, has raised $6.5 million in total funding to date, including a new seed round co-led by Alibaba and Tribe Capital, with participation from Draper Associates, Sumitom",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-12",
+   "last_seen": "2026-07-12",
+   "events": [
+    {
+     "date": "2026-07-12",
+     "amount": "$6.5 Million",
+     "round": "Seed",
+     "title": "AIsa Raises $6.5 Million To Build The Transaction Network For AI Agents",
+     "link": "https://pulse2.com/aisa-raises-6-5-million-to-build-the-transaction-network-for-ai-agents/",
+     "source": "Pulse 2.0"
     }
    ]
   }
