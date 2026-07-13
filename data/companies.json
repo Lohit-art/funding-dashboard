@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T14:27:03+00:00",
+ "updated": "2026-07-13T15:40:49+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -14438,6 +14438,382 @@
      "title": "AIsa Raises $6.5 Million To Build The Transaction Network For AI Agents",
      "link": "https://pulse2.com/aisa-raises-6-5-million-to-build-the-transaction-network-for-ai-agents/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "visibuilt": {
+   "name": "Visibuilt",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Line Kloster Pedersen was running around Copenhagen’s lakes when she looked down at the soil and wondered why…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "€3.34 Million",
+     "round": "Seed",
+     "title": "Visibuilt Raises €3.34 Million To Advance Mycelium-Based Construction Binders",
+     "link": "https://pulse2.com/visibuilt-raises-e3-34-million-to-advance-mycelium-based-construction-binders/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-13",
+     "amount": "€3.3M",
+     "round": "",
+     "title": "Visibuilt raises €3.3M from EIFO and Unconventional Ventures to grow roads from fungi instead of paving them with oil",
+     "link": "https://techfundingnews.com/visibuilt-raises-e3-3m-from-eifo-and-unconventional-ventures-to-grow-roads-from-fungi-instead-of-paving-them-with-oil/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "raxio": {
+   "name": "Raxio",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Raxio Group announced that its committed capital has surpassed $380 million after shareholders Roha and Meridiam increased their investments in the African data center platform. The additional equity expands Raxio’s capital base from its previous level of $350 million and will su",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "$380 Million",
+     "round": "Growth",
+     "title": "Raxio Secures Additional Equity, Bringing Committed Capital Above $380 Million",
+     "link": "https://pulse2.com/raxio-secures-additional-equity-bringing-committed-capital-above-380-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "reformed": {
+   "name": "Reformed",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Reformed, a functional beverage company combining premium coffee and ceremonial matcha with wellness-focused ingredients, has raised $22 million in Series A funding led by IRIS Ventures. Founded by Neil Saada and Neil Marrakchi, Reformed is developing products designed to incorpo",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "$22 Million",
+     "round": "Series A",
+     "title": "Reformed Raises $22 Million Series A To Expand Functional Coffee And Matcha Brand",
+     "link": "https://pulse2.com/reformed-raises-22-million-series-a-to-expand-functional-coffee-and-matcha-brand/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "acurio-ventures": {
+   "name": "Acurio Ventures",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Acurio Ventures announced the closing of Acurio Secondaries I FCR at €115 million, surpassing the European venture capital firm’s original fundraising target. The new vehicle was established to address the growing demand for liquidity across Europe’s venture capital ecosystem. As",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "€115 Million",
+     "round": "",
+     "title": "Acurio Ventures Closes €115 Million Secondaries Fund",
+     "link": "https://pulse2.com/acurio-ventures-closes-e115-million-secondaries-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "helsing": {
+   "name": "Helsing",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Helsing’s Series E leaked in May at $1.2bn, as Tech Funding News reported at the time. By the…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "$1.8 Billion",
+     "round": "Series E",
+     "title": "Helsing Raises $1.8 Billion In Series E At $18 Billion Valuation For Defense Technology",
+     "link": "https://pulse2.com/helsing-raises-1-8-billion-in-series-e-at-18-billion-valuation-for-defense-technology/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-13",
+     "amount": "$1.8B",
+     "round": "Series E",
+     "title": "Helsing raises $1.8B from Dragoneer and Lightspeed to scale its AI defence platform",
+     "link": "https://techfundingnews.com/helsing-1-8b-series-e-18b-valuation/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "churchill-and-seviora": {
+   "name": "Churchill And Seviora",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Churchill Asset Management and Seviora Holdings announced the closing of an approximately $400 million collateralized fund obligation. The CFO combines U.S. and Asian private capital strategies, giving institutional investors diversified exposure across sponsors, investment strat",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "$400 Million",
+     "round": "",
+     "title": "Churchill And Seviora Close Approximately $400 Million Collateralized Fund Obligation",
+     "link": "https://pulse2.com/churchill-and-seviora-close-approximately-400-million-collateralized-fund-obligation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "acurio-europe-s-vc-fund-focused-on-secondaries": {
+   "name": "Acurio, Europe’s VC fund focused on secondaries",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ander Michelena‘s venture firm raised money for a fund built entirely around other funds’ inability to exit. Acurio…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "€115M",
+     "round": "",
+     "title": "Acurio, Europe’s VC fund focused on secondaries, closed a €115M fund, surpassing its target",
+     "link": "https://techfundingnews.com/acurio-115m-europe-vc-secondaries-fund/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "paving-material-developer-visibuilt": {
+   "name": "paving material developer Visibuilt",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Visibuilt, a Danish BioTech company developing biobased alternatives to conventional carbon-intensive construction binders, has secured €3.34 million in Seed funding to move from lab pilots towards market validation and industry tests. The round was co-led by EIFO and Unconventio",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "€3.34 million",
+     "round": "Seed",
+     "title": "Mycelium-based paving material developer Visibuilt raises €3.34 million out of Denmark",
+     "link": "https://www.eu-startups.com/2026/07/mycelium-based-paving-material-developer-visibuilt-raises-e3-34-million-out-denmark/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "austria-s-sodex-innovations": {
+   "name": "Austria’s Sodex Innovations",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "ConTech startup Sodex Innovations, a Vorarlberg-based innovator of automated surveying and documentation of construction sites, infrastructure projects, and mines, has successfully closed a funding round of €4 million to accelerate the company’s next stage of development. The rou",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "€4 million",
+     "round": "Angel",
+     "title": "Austria’s Sodex Innovations secures €4 million to scale automated construction-site surveying",
+     "link": "https://www.eu-startups.com/2026/07/austrias-sodex-innovations-secures-e4-million-to-scale-automated-construction-site-surveying/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "sodex-innovations": {
+   "name": "Sodex Innovations",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Constructiontech startup Sodex Innovations has raised €4 million in a funding round led by Capmont Technology. The round also welcomed new investors Bloomhaus, Look AI Ventures and the German business...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "€4M",
+     "round": "",
+     "title": "Sodex Innovations secures €4M to bring real-time intelligence to construction sites",
+     "link": "https://tech.eu/2026/07/13/sodex-innovations-secures-4m-to-bring-real-time-intelligence-to-construction-sites/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "european-defencetech-leader-helsing": {
+   "name": "European defencetech leader Helsing",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Helsing, Europe's leading defence AI company, today announces it has raised $1.8 billion in a Series E, valuing the company at US$18 billion.New and existing investors participated in the round, inclu...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "$1.8B",
+     "round": "Series E",
+     "title": "European defencetech leader Helsing secures $1.8B Series E at $18B valuation",
+     "link": "https://tech.eu/2026/07/13/european-defence-ai-leader-helsing-secures-18b-series-e-at-18b-valuation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "doctorsa": {
+   "name": "Doctorsa",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Doctorsa, a platform connecting travellers with doctors across 40 countries worldwide, has raised €1 million in funding. PranaVentures led the investment, which also saw participation from Vento and 4...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "€1M",
+     "round": "",
+     "title": "Doctorsa raises €1M to expand global telemedicine platform for travellers",
+     "link": "https://tech.eu/2026/07/13/doctorsa-raises-eur1m-to-expand-global-telemedicine-platform-for-travellers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "built": {
+   "name": "BUILT",
+   "country": "Singapore",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "D2C footwear startup BUILT has raised $2 Mn (about ₹17 Cr) in a pre-seed funding round from Singapore-based VC firm…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "$2 Mn",
+     "round": "Pre-Seed",
+     "title": "Exclusive: BUILT Bags $2 Mn To Bring ‘Natural Movement’ Footwear To India",
+     "link": "https://inc42.com/buzz/exclusive-built-bags-2-mn-to-bring-natural-movement-footwear-to-india/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "brisbane-esg-software-startup-plants-450-000-seed": {
+   "name": "Brisbane ESG software startup plants $450,000 Seed",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "ESGAgent.ai grabs $450k to torch spreadsheet ESG compliance with AI for heavy industry, turning months of reporting into hours.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "$450,000",
+     "round": "Seed",
+     "title": "Brisbane ESG software startup plants $450,000 Seed raise",
+     "link": "https://www.startupdaily.net/topic/funding/brisbane-esg-software-startup-plants-450000-seed-raise/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "kiwi-ai-mapping-data-startup-hyades-plants-910-000-pre-seed": {
+   "name": "Kiwi AI mapping data startup Hyades plants $910,000 pre-Seed",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Hyades turns messy satellite, drone and radar data into AI-ready risk models after a $910k pre-seed—watch this Kiwi geospatial bet.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-13",
+   "last_seen": "2026-07-13",
+   "events": [
+    {
+     "date": "2026-07-13",
+     "amount": "$910,000",
+     "round": "Pre-Seed",
+     "title": "Kiwi AI mapping data startup Hyades plants $910,000 pre-Seed",
+     "link": "https://www.startupdaily.net/topic/funding/kiwi-ai-mapping-data-startup-hyades-plants-910000-pre-seed/",
+     "source": "Startup Daily"
     }
    ]
   }
