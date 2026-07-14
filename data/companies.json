@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T15:40:49+00:00",
+ "updated": "2026-07-14T14:48:57+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -14814,6 +14814,694 @@
      "title": "Kiwi AI mapping data startup Hyades plants $910,000 pre-Seed",
      "link": "https://www.startupdaily.net/topic/funding/kiwi-ai-mapping-data-startup-hyades-plants-910000-pre-seed/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "tylsemi": {
+   "name": "TYLsemi",
+   "country": "USA",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "TYLsemi, a San Jose-based chiplet platform company, has emerged from stealth and closed an oversubscribed $43 million early-stage funding round to accelerate development of AI infrastructure silicon. The round was led by Matter Venture Partners with participation from Viola Ventu",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$43 Million",
+     "round": "",
+     "title": "TYLsemi Raises $43 Million To Launch First Full-Stack Chiplet Platform For Custom AI Silicon",
+     "link": "https://pulse2.com/tylsemi-raises-43-million-to-launch-first-full-stack-chiplet-platform-for-custom-ai-silicon/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cognify-health": {
+   "name": "Cognify Health",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Cognify Health announced a seed funding round led by Game Changers Ventures. The company is building a healthcare platform for youth athletics, starting with concussion care. \n The post  Cognify Health Raises Seed Funding To Build Healthcare Platform For Youth Sports  appeared fi",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "",
+     "round": "Seed",
+     "title": "Cognify Health Raises Seed Funding To Build Healthcare Platform For Youth Sports",
+     "link": "https://pulse2.com/cognify-health-raises-seed-funding-to-build-healthcare-platform-for-youth-sports/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "prolo": {
+   "name": "Prolo",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Prolo, an AI-powered procurement platform helpingsmall and medium-sized construction firms source materials, equipment andlabour at competitive market rates, has secured £4.2 million in seed funding. ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "£4.2 Million",
+     "round": "Seed",
+     "title": "Prolo Raises £4.2 Million Seed To Bring AI-Powered Procurement To SME Construction Contractors",
+     "link": "https://pulse2.com/prolo-raises-4-2-million-seed-to-bring-ai-powered-procurement-to-sme-construction-contractors/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-14",
+     "amount": "€4.9 million",
+     "round": "Seed",
+     "title": "London-based Prolo secures €4.9 million to bring AI-powered procurement to SME construction firms",
+     "link": "https://www.eu-startups.com/2026/07/london-based-prolo-secures-e4-9-million-to-bring-ai-powered-procurement-to-sme-construction-firms/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-14",
+     "amount": "£4.2M",
+     "round": "Seed",
+     "title": "Prolo raises £4.2M to modernise construction procurement",
+     "link": "https://tech.eu/2026/07/14/prolo-raises-ps42m-to-modernise-construction-procurement/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "instalily": {
+   "name": "InstaLILY",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Creative expression",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "InstaLILY AI, creator of the world's first AI Forward Deployed Engineer, announced a $60 million Series B round led by Energize Capital, with participation from Insight Partners, which increased its investment, and new strategic investors including Home Depot Ventures and United ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$60 Million",
+     "round": "Series B",
+     "title": "InstaLILY Raises $60 Million Series B And Launches Lily As An AI Forward Deployed Engineer",
+     "link": "https://pulse2.com/instalily-raises-60-million-series-b-and-launches-lily-as-an-ai-forward-deployed-engineer/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "feenko": {
+   "name": "Feenko",
+   "country": "Ukraine",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Feenko, a Kyiv-based smart subscription tracking and management app, has secured $30 million in user acquisition financing from PvX Partners, a financial services firm specializing in non-dilutive revolving credit facilities for consumer applications. The capital will be used to ",
+   "audience": "Consumers",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$30 Million",
+     "round": "Growth",
+     "title": "Feenko Secures $30 Million In User Acquisition Financing From PvX Partners To Scale Subscription Management App",
+     "link": "https://pulse2.com/feenko-secures-30-million-in-user-acquisition-financing-from-pvx-partners-to-scale-subscription-management-app/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "hadrius": {
+   "name": "Hadrius",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Hadrius announced that it raised $27 million in seed and Series A funding led by CRV, with participation from Y Combinator, Pathlight Ventures, and the founders of Altruist, Jump AI, and FINNY. \n The post  Hadrius Raises $27 Million To Build Agentic Compliance Infrastructure For ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$27 Million",
+     "round": "Seed",
+     "title": "Hadrius Raises $27 Million To Build Agentic Compliance Infrastructure For Financial Services",
+     "link": "https://pulse2.com/hadrius-raises-27-million-to-build-agentic-compliance-infrastructure-for-financial-services/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "guthrie-ai": {
+   "name": "Guthrie AI",
+   "country": "USA",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Guthrie AI, a Philadelphia-based construction technology company that recruits, trains, and places Virtual Bid Assistants for glazing contractors, has raised a $4 million seed round led by Chicago Ventures. The funding will expand Guthrie AI's engineering team, deepen integration",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$4 Million",
+     "round": "Seed",
+     "title": "Guthrie AI Raises $4 Million Seed Funding To Scale Virtual Bid Assistant Platform For Glazing Contractors",
+     "link": "https://pulse2.com/guthrie-ai-raises-4-million-seed-funding-to-scale-virtual-bid-assistant-platform-for-glazing-contractors/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "williams": {
+   "name": "Williams",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Williams, the Tulsa-based natural gas infrastructure company that delivers roughly one-third of the nation's natural gas, has signed an agreement with funds managed by Blackstone Credit & Insurance, in partnership with Apollo and KKR, to provide $5.34 billion in committed capital",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$5.34 Billion",
+     "round": "",
+     "title": "Williams Secures $5.34 Billion From Blackstone, Apollo And KKR For Five Behind-The-Meter Power Innovation Projects Serving AI Infrastructure Demand",
+     "link": "https://pulse2.com/williams-secures-5-34-billion-from-blackstone-apollo-and-kkr-for-five-behind-the-meter-power-innovation-projects-serving-ai-infrastructure-demand/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "corner-health": {
+   "name": "Corner Health",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Corner Health, a company designed to rebuild the healthcare system by empowering Nurse Practitioners to start and scale their own local primary care practices, announced it has raised $32.5 million in Seed and Series A financing. The Series A was led by Oak HC/FT, with participat",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$32.5 Million",
+     "round": "Seed",
+     "title": "Corner Health Raises $32.5 Million in Seed and Series A Financing to Rebuild Primary Care",
+     "link": "https://pulse2.com/corner-health-raises-32-5-million-in-seed-and-series-a-financing-to-rebuild-primary-care/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "warren-equity-partners": {
+   "name": "Warren Equity Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Warren Equity Partners Manager (WEP), a leading investor in infrastructure solutions with $9.6 billion in assets under management, announced the closing of Warren Equity Partners Fund V, L.P. and Warren Equity Partners Fund V-A, L.P., with approximately $2.8 billion in total capi",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$2.8 Billion",
+     "round": "",
+     "title": "Warren Equity Partners Closes Fund V At Hard Cap With About $2.8 Billion in Commitments",
+     "link": "https://pulse2.com/warren-equity-partners-closes-fund-v-at-hard-cap-with-about-2-8-billion-in-commitments/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "abb-axpo-dnv-and-verbund-back-gridcog-in-a-10m-round-to": {
+   "name": "ABB, Axpo, DNV, and VERBUND back Gridcog in a $10M round to ",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Gridcog, a London-based platform focused on energy flexibility modelling, has closed a $10 million Series A round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$10M",
+     "round": "Series A",
+     "title": "ABB, Axpo, DNV, and VERBUND back Gridcog in a $10M round to enhance modelling of critical energy projects",
+     "link": "https://techfundingnews.com/gridcog-raises-10m-series-a-abb-energy-modelling/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "flex-doubles-valuation-to-1-2b-in-6-months-as-70m-series-b": {
+   "name": "Flex doubles valuation to $1.2B in 6 months as $70M Series B",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Flex, an AI-driven private bank for high-net-worth business owners, has raised $70 million in a Series B1 round…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$1.2B",
+     "round": "Series B1",
+     "title": "Flex doubles valuation to $1.2B in 6 months as $70M Series B1 backs global private banking push for middle-market owners",
+     "link": "https://techfundingnews.com/flex-raises-70m-series-b1-1-2b-valuation/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "pixverse": {
+   "name": "PixVerse",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The first generation of generative AI created images. The second created videos. The next generation may create entire…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$439M",
+     "round": "",
+     "title": "Video generation startup PixVerse lands $439M from Alibaba and others to reshape entertainment",
+     "link": "https://techfundingnews.com/video-generation-startup-pixverse-lands-439m-from-alibaba-and-others-to-reshape-entertainment/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "british-founder-max-buchan": {
+   "name": "British founder Max Buchan",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Connection & community",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "When senior US government officials discussed plans to strike Yemen on Signal — a consumer messaging app —…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$50M",
+     "round": "",
+     "title": "British founder Max Buchan raises $50M from US giant NEA to build the sovereign infrastructure layer AI-era governments can’t ignore",
+     "link": "https://techfundingnews.com/every-ai-startup-in-europe-is-selling-sovereignty-valarian-just-raised-50m-to-prove-infrastructure-governance-is-different/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "she-backed-quantum-s-largest-series-c-ever-now-zeynep-korut": {
+   "name": "She backed quantum’s largest Series C ever. Now Zeynep Korut",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "When Firgun Ventures backed Oxford Quantum Circuits' record-breaking Series C last month, it was the latest move from…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "",
+     "round": "Series C",
+     "title": "She backed quantum’s largest Series C ever. Now Zeynep Koruturk reveals where she is putting her money next",
+     "link": "https://techfundingnews.com/zeynep-koruturk-firgun-ventures-quantum-investing/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "contractors-wait-months-to": {
+   "name": "Contractors wait months to",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "James Morris-Manuel initially aimed to improve procurement, not create a lending platform. However, Prolo introduced a key feature:…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "£4.2M",
+     "round": "",
+     "title": "Contractors wait months to get paid: Prolo raises £4.2M to fix that with AI and credit",
+     "link": "https://techfundingnews.com/prolo-secures-4-2m-triple-point-ventures-construction-procurement/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "google-built-the-seo-industry-ai-is-dismantling-it-and-pro": {
+   "name": "Google built the SEO industry, AI is dismantling it, and Pro",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Marketers have spent the last 20 years optimising for Google’s algorithm. Now, Gartner predicts organic search traffic could…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "€6M",
+     "round": "",
+     "title": "Google built the SEO industry, AI is dismantling it, and Promptwatch just landed €6M to help brands survive the shift",
+     "link": "https://techfundingnews.com/amsterdam-promptwatch-seed-funding-ai-search/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "nopan": {
+   "name": "Nopan",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "When working on Netflix’s Amsterdam payments team, Konstantin Surkov and Nick Ryabov noticed that account and wallet payment…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "€7.2M",
+     "round": "",
+     "title": "Nopan bags €7.2M: The ex-Netflix duo on a mission to close the reliability gap in Europe’s bank and wallet payments",
+     "link": "https://techfundingnews.com/nopan-raises-7-2m-ex-netflix-open-banking-payments/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "dutch-clean-tech": {
+   "name": "Dutch Clean Tech",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Dutch Clean Tech, a Heerhugowaard-based company that develops, finances, builds, and operates water treatment and drinking water projects around the world, has raised €15 million, which has enabled it to acquire a 25% stake in Agua del Mariscal, one of Central America’s oldest pr",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "€15 million",
+     "round": "",
+     "title": "Dutch Clean Tech raises €15 million after acquiring 25% stake in Guatemalan drinking water firm Agua del Mariscal",
+     "link": "https://www.eu-startups.com/2026/07/dutch-clean-tech-raises-e15-million-to-acquire-25-stake-in-guatemalas-drinking-water-firm-agua-del-mariscal/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "europe-s-only-gallium-oxide-epiwafer-producer-nextgo-epi": {
+   "name": "Europe’s only Gallium Oxide epiwafer producer NextGO Epi",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "NextGO Epi, a Berlin-based DeepTech startup developing Gallium Oxide epitaxial wafers for next-generation power semiconductor devices, has secured a €2 million pre-Seed funding round. The round was led by Vireo Ventures, with participation from Ultratech Capital Partners, IBB Ven",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "€2 million",
+     "round": "Pre-Seed",
+     "title": "Europe’s only Gallium Oxide epiwafer producer NextGO Epi raises €2 million pre-Seed funding",
+     "link": "https://www.eu-startups.com/2026/07/europes-only-gallium-oxide-epiwafer-producer-nextgo-epi-raises-e2-million-pre-seed-funding/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "netflix-alumni-founded-nopan-reaches-7-2-million-in-funding": {
+   "name": "Netflix alumni-founded Nopan reaches €7.2 million in funding",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Nopan, an Amsterdam-based performance platform for account and wallet payments, has raised a new funding round led by Newion, with follow-on investment from Crane and Seedcamp and supported by a group of angel investors with experience in merchant payments and FinTech. The Dutch ",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "€7.2 million",
+     "round": "Angel",
+     "title": "Netflix alumni-founded Nopan reaches €7.2 million in funding to scale account and wallet payments across Europe",
+     "link": "https://www.eu-startups.com/2026/07/netflix-alumni-founded-nopan-reaches-e7-2-million-in-funding-to-scale-account-and-wallet-payments-across-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "stratx": {
+   "name": "StratX",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "StratX, a climatetech company specialising in greenhouse gas reductions from landfills, has raised $1.19 million in a funding round led by Neglected Climate Opportunities (NCO) with participation from...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$1.19M",
+     "round": "",
+     "title": "StratX raises $1.19M to tackle landfill methane with living biocovers",
+     "link": "https://tech.eu/2026/07/14/stratx-raises-119m-to-tackle-landfill-methane-with-living-biocovers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "htg-medical": {
+   "name": "HTG Medical",
+   "country": "Czechia",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Czech medtech startup HTG Medical has raised €450,000 from angel and VC backers, and its proprietary device, the HTG Urogram, has successfully cleared the EU's Medical Device Regulation (MDR) certific...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "€450k",
+     "round": "Angel",
+     "title": "HTG Medical raises €450k and secures MDR certification to automate ICU urine monitoring",
+     "link": "https://tech.eu/2026/07/14/htg-medical-raises-eur450k-and-secures-mdr-certification-to-automate-icu-urine-monitoring/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "rarog": {
+   "name": "RAROG",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swiss engineering startup RAROG has obtained €162,000 (CHF 150,000) from Venture Kick to develop a portable search-and-rescue system that detects the radio signals emitted by everyday electronic devic...",
+   "audience": "Consumers",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "€162K",
+     "round": "",
+     "title": "RAROG secures €162K to turn everyday devices into life-saving rescue beacons",
+     "link": "https://tech.eu/2026/07/14/rarog-secures-eur162k-to-turn-everyday-devices-into-life-saving-rescue-beacons/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "former-netflix-payments-team": {
+   "name": "Former Netflix payments team",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Nopan, the performance platform for account and wallet payments, today announced that it has raised €7.2 million to date, including a new funding round led by Newion, with follow-on investment from Cr...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "€7.2M",
+     "round": "",
+     "title": "Former Netflix payments team raises €7.2M to date for payment performance platform Nopan",
+     "link": "https://tech.eu/2026/07/14/former-netflix-payments-leaders-raise-eur72m-to-make-account-to-account-payments-perform-at-scale/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "promptwatch": {
+   "name": "Promptwatch",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Amsterdam-basedPromptwatch, an AI Search Optimisation (GEO) platform, has raised €6 million inseed funding. The round was led by seed + speed Ventures, with participationfrom Blum Ventures, while Arch...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "€6M",
+     "round": "Seed",
+     "title": "Promptwatch raises €6M to expand its end-to-end AI search optimisation platform",
+     "link": "https://tech.eu/2026/07/14/promptwatch-raises-eur6m-to-expand-its-end-to-end-ai-search-optimisation-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "avendus-eyes-final": {
+   "name": "Avendus Eyes Final",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Avendus said it is set to mark the final close of its Future Leaders Fund III at around ₹1,800 Cr…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "₹1,800",
+     "round": "",
+     "title": "Avendus Eyes Final Close Of Future Leaders Fund III At ₹1,800 Cr By July-End",
+     "link": "https://inc42.com/buzz/avendus-eyes-final-close-of-future-leaders-fund-iii-at-%e2%82%b91800-cr-by-july-end/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "yotta-s-ai-infra-play-built": {
+   "name": "Yotta’s AI Infra Play, BUILT",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Yotta’s Billion-Dollar Silicon Safari Yotta Data Services is building one of India’s biggest AI compute reserves. The neocloud giant is…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "$2 Mn",
+     "round": "",
+     "title": "Yotta’s AI Infra Play, BUILT Bags $2 Mn & More",
+     "link": "https://inc42.com/buzz/yottas-ai-infra-play-built-bags-2-mn-more/",
+     "source": "Inc42"
     }
    ]
   }
