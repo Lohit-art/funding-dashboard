@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T14:48:57+00:00",
+ "updated": "2026-07-15T14:49:07+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -15501,6 +15501,638 @@
      "round": "",
      "title": "Yotta’s AI Infra Play, BUILT Bags $2 Mn & More",
      "link": "https://inc42.com/buzz/yottas-ai-infra-play-built-bags-2-mn-more/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "advancell": {
+   "name": "AdvanCell",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "AdvanCell, a clinical-stage radiopharmaceutical company developing targeted alpha therapies for cancer, announced the closing of an oversubscribed and upsized $315 million Series D financing. The round was led by Ally Bridge Group and co-led by Alpha Wave, alongside new investors",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$315 Million",
+     "round": "Series D",
+     "title": "AdvanCell Closes $315 Million Series D Financing To Advance Targeted Alpha Therapies",
+     "link": "https://pulse2.com/advancell-closes-315-million-series-d-financing-to-advance-targeted-alpha-therapies/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "lionlight-capital": {
+   "name": "LionLight Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "LionLight Capital, a Chapel Hill, North Carolina-based growth-oriented private equity firm, has closed its inaugural fund, LionLight Capital Fund I, at its hard cap of $215 million in capital commitments. The fund was oversubscribed and reached the hard cap in ten weeks. Pacenote",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$215 Million",
+     "round": "Growth",
+     "title": "LionLight Capital Closes Inaugural Fund At $215 Million Hard Cap In Ten Weeks",
+     "link": "https://pulse2.com/lionlight-capital-closes-inaugural-fund-at-215-million-hard-cap-in-ten-weeks/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "monumental-founded-by-ex-palantir-duo": {
+   "name": "Monumental, founded by ex-Palantir duo",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Britain is short about 20,000 bricklayers, with only 1,990 finishing apprenticeships in 2024. This ongoing shortage slows down…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$32M",
+     "round": "",
+     "title": "Monumental, founded by ex-Palantir duo, raises $32M to scale its fleet of 150 bricklaying robots across Europe and into the US",
+     "link": "https://techfundingnews.com/monumental-raises-32m-khosla-ventures-bricklaying-robots/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "uk-s-invest-in-women-taskforce": {
+   "name": "UK’s Invest in Women Taskforce",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The Invest in Women Taskforce has now deployed more than £115 million into women-led and mixed-led fund managers…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "£250M",
+     "round": "",
+     "title": "UK’s Invest in Women Taskforce secured 2.5× its £250M target. Why has only 18% been deployed after two years?",
+     "link": "https://techfundingnews.com/uks-invest-in-women-taskforce-secured-2-5x-its-250m-target-why-has-only-18-been-deployed-after-two-years/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "after-130m-series-c-following-uk-expansion-plans": {
+   "name": "after $130M Series C, following UK expansion plans",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "A jewellery store owner in Michigan used Emergent to set repair prices across 50 locations, while a car…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$130M",
+     "round": "Series C",
+     "title": "Emergent becomes a unicorn after $130M Series C, following UK expansion plans",
+     "link": "https://techfundingnews.com/emergent-130m-series-c-unicorn-vibe-coding/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "deepseek-reportedly-seeks-1-5b-ahead-of-ipo-at-71b-valuati": {
+   "name": "DeepSeek reportedly seeks $1.5B ahead of IPO at $71B valuati",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "DeepSeek is in talks to raise $1.5 billion in fresh capital, according toBloomberg. The new money would come…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$1.5B",
+     "round": "",
+     "title": "DeepSeek reportedly seeks $1.5B ahead of IPO at $71B valuation",
+     "link": "https://techfundingnews.com/deepseek-reportedly-seeks-1-5b-ahead-of-ipo-at-71b-valuation/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "mark-zuckerberg-backs-daniel-ek-s-health-tech-startup-in-70": {
+   "name": "Mark Zuckerberg backs Daniel Ek’s health tech startup in $70",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Mark Zuckerberg has personally invested in Daniel Ek‘s effort to promote proactive health management, similar to how people…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$700M",
+     "round": "",
+     "title": "Mark Zuckerberg backs Daniel Ek’s health tech startup in $700M funding round ahead of US launch",
+     "link": "https://techfundingnews.com/neko-health-700m-series-c-daniel-ek-body-scans/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "the-uk-s-11b-payment-crisis-is-creating-fintech-winners-bi": {
+   "name": "The UK’s £11B payment crisis is creating fintech winners. Bi",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Birmingham-based fintech Saible has raised £2.9 million, £2.1 million already secured, plus a further £800,000 extension, to expand…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "£11B",
+     "round": "Extension",
+     "title": "The UK’s £11B payment crisis is creating fintech winners. Birmingham’s fintech Saible just raised £2.9M",
+     "link": "https://techfundingnews.com/the-uks-11b-construction-payment-crisis-is-creating-fintech-winners-birminghams-fintech-saible-just-raised-2-9m/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "chai-discovery-triples-to-3-8b-in-7-months-as-openai-backed": {
+   "name": "Chai Discovery triples to $3.8B in 7 months as OpenAI-backed",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Chai Discovery has raised $400 million in a Series C round that values the AI drug discovery company…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$3.8B",
+     "round": "Series C",
+     "title": "Chai Discovery triples to $3.8B in 7 months as OpenAI-backed drug designer lands $400M after Novartis deal",
+     "link": "https://techfundingnews.com/chai-discovery-triples-to-3-8b-in-7-months-as-openai-backed-drug-designer-lands-400m-after-novartis-deal/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "buenavista-equity-partners": {
+   "name": "Buenavista Equity Partners",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Buenavista Equity Partners, a Madrid-based independent management firm, announced today that its fund, Buenavista Buyout Innvierte III, has secured new institutional commitments from Fond-ICO Global totalling €75 million.  Fond-ICO Global is the first public venture capital/priva",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "€75 million",
+     "round": "",
+     "title": "Madrid-based Buenavista Equity Partners secures €75 million in commitments for its third buyout fund",
+     "link": "https://www.eu-startups.com/2026/07/madrid-based-buenavista-equity-partners-secures-e75-million-in-commitments-for-its-third-buyout-fund/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "norrsken-evolve-formalises-dutch-presence-following-62-mill": {
+   "name": "Norrsken Evolve formalises Dutch presence following €62 mill",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Norrsken Evolve, the Swedish pre-Seed fund investing in founders tackling climate, health and resilience challenges, has closed at €62 million after oversubscribing its initial €40 million target. The fund also announced it will formalise its amsterdam presence by taking up base ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "€62 million",
+     "round": "Pre-Seed",
+     "title": "Norrsken Evolve formalises Dutch presence following €62 million fund close",
+     "link": "https://www.eu-startups.com/2026/07/norrsken-evolve-formalises-dutch-presence-following-e62-million-fund-close/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "daniel-ek-s-neko-health": {
+   "name": "Daniel Ek’s Neko Health",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Neko Health, the Stockholm-based HealthTech company, has today announced the completion of its €612.7 million ($700 million) Series C funding round, with the company preparing to launch its first US clinics opening in New York and other cities this year.  The round was led by Lig",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "€612.7 million",
+     "round": "Series C",
+     "title": "Daniel Ek’s Neko Health raises €612.7 million Series C as it prepares for US expansion",
+     "link": "https://www.eu-startups.com/2026/07/daniel-eks-neko-health-raises-e612-7-million-series-c-as-it-prepares-for-us-expansion/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "mio-emerges-from-stealth-with-1-9-million-to-build-an-ai-co": {
+   "name": "Mio emerges from stealth with €1.9 million to build an AI co",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Mio, a Paris-based startup building an AI colleague that lives inside Slack, today announced a €1.9 million ($2.2 million) pre-Seed round as the company emerges from stealth. The round was co-led by Fabric.vc and Topology.vc. The company plans to use this funding to expand Mio’s ",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "€1.9 million",
+     "round": "Pre-Seed",
+     "title": "Paris-based Mio emerges from stealth with €1.9 million to build an AI colleague that lives inside Slack",
+     "link": "https://www.eu-startups.com/2026/07/paris-based-mio-emerges-from-stealth-with-e1-9-million-in-funding-to-build-an-ai-colleague-that-lives-inside-slack/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "float": {
+   "name": "Float",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Float, the Stockholm-founded revenue-basedfinancing platform for tech SMEs, has secured a €4.5 million Series A fundinground led by Hamburg-based CHAPTERS Group AG. As part of the investment,CHAPTERS ...",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "€4.5 million",
+     "round": "Series A",
+     "title": "Float raises €4.5 million to help European tech founders scale without equity dilution or needless bureaucracy",
+     "link": "https://www.eu-startups.com/2026/07/float-raises-e4-5-million-to-help-european-tech-founders-scale-without-sacrificing-equity-and-tackle-unnecessary-bureaucracy/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-15",
+     "amount": "€4.5M",
+     "round": "Series A",
+     "title": "Float raises €4.5M Series A to bridge Europe's funding gap",
+     "link": "https://tech.eu/2026/07/15/float-raises-eur45m-series-a-to-bridge-europes-funding-gap/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "norrsken-evolve-plants-roots-in-amsterdam-after-62m-fund": {
+   "name": "Norrsken Evolve plants roots in Amsterdam after €62M fund",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Norrsken Evolve, the European pre-seed fund investing in founders tackling climate, health and resilience challenges, is formalising its Amsterdam presence by taking up base at Norrsken House Amsterda...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "€62M",
+     "round": "Pre-Seed",
+     "title": "Norrsken Evolve plants roots in Amsterdam after €62M fund close",
+     "link": "https://tech.eu/2026/07/15/norrsken-evolve-plants-roots-in-amsterdam-after-eur62m-fund-close/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "saible": {
+   "name": "Saible",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Saible, a UK construction fintech building software to stop project money from being delayed, withheld or trapped before it reaches suppliers, has raised £2.9 million from angel investors. The funding...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "£2.9M",
+     "round": "Angel",
+     "title": "Saible raises £2.9M to tackle construction's chronic late-payment crisis",
+     "link": "https://tech.eu/2026/07/15/saible-raises-ps29m-to-tackle-constructions-chronic-late-payment-crisis/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "monumental": {
+   "name": "Monumental",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Monumental,the Amsterdam-based construction technology company developing autonomousrobotics and software for the building industry, has raised $32 million in aSeries B funding round led by Khosla Ven...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$32M",
+     "round": "Series B",
+     "title": "Monumental secures $32M Series B to accelerate construction automation",
+     "link": "https://tech.eu/2026/07/15/monumental-secures-32m-series-b-to-accelerate-construction-automation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "nous": {
+   "name": "Nous",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Nous, an Italianingredient company developing functional ingredients for the food, beverage andnutraceutical industries, has raised €2.315 million in a seed funding round toaccelerate the commercialis...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "€2.3M",
+     "round": "Seed",
+     "title": "Nous secures €2.3M+ seed funding to scale Koncentra",
+     "link": "https://tech.eu/2026/07/15/nous-secures-eur23m-seed-funding-to-scale-koncentra/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "supercharger-ventures-launches-fund-i-to-back-global-edtech": {
+   "name": "SuperCharger Ventures launches Fund I to back global edtech ",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Maltese investor SuperCharger Ventures today announced the launch of Fund I with a plan to invest in edtech and Future-of-Work companies worldwide, with a focus on pre-seed and seed-stage startups. In...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "SuperCharger Ventures launches Fund I to back global edtech and future-of-work startups",
+     "link": "https://tech.eu/2026/07/15/supercharger-ventures-launches-fund-i-to-back-global-edtech-and-future-of-work-startups/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "neko-health": {
+   "name": "Neko Health",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Neko Health today announced the completion of its $700 million  Series C funding round.  The round was led by Lightspeed Venture Partners and co-led by O.G. Venture Partners, with participation from e...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$700M",
+     "round": "Series C",
+     "title": "Neko Health raises $700M as demand grows for preventive health scans",
+     "link": "https://tech.eu/2026/07/15/neko-health-raises-700m-as-demand-grows-for-preventive-health-scans/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "promom": {
+   "name": "Promom",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Maternal and baby care startup Promom has raised ₹30 Cr ($3.1 Mn) in a funding round led by Fireside Ventures.…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "₹30",
+     "round": "",
+     "title": "Promom Bags ₹30 Cr From Fireside Ventures To Expand Mom & Baby Care Portfolio",
+     "link": "https://inc42.com/buzz/promom-bags-%e2%82%b930-cr-from-fireside-ventures-to-expand-mom-baby-care-portfolio/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ather-energy-to": {
+   "name": "Ather Energy To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Electric two-wheeler (E2W) maker Ather Energy’s board has approved a fundraise of up to ₹1,200 Cr via a preferential issue…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "₹1,200",
+     "round": "Growth",
+     "title": "Ather Energy To Raise ₹1,200 Cr To Fuel Next Phase Of Growth",
+     "link": "https://inc42.com/buzz/ather-energy-to-raise-%e2%82%b91200-cr-to-fuel-next-phase-of-growth/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "open-secret": {
+   "name": "Open Secret",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C healthy snacking brand Open Secret has raised over ₹50 Cr  ($5.2 Mn) in a funding round led by Desai…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "₹50",
+     "round": "",
+     "title": "Healthy Snacking Brand Open Secret Raises ₹50 Cr To Scale Offline Presence",
+     "link": "https://inc42.com/buzz/healthy-snacking-brand-open-secret-raises-%e2%82%b950-cr-to-scale-offline-presence/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "anmasa": {
+   "name": "Anmasa",
+   "country": "India",
+   "region": "Asia",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "D2C grocery startup Anmasa has raised ₹30 Cr ($3.1 Mn) in its seed funding round. The round was led by…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "₹30",
+     "round": "Seed",
+     "title": "Exclusive: D2C Grocery Startup Anmasa Bags ₹30 Cr To Expand Into New Markets",
+     "link": "https://inc42.com/buzz/exclusive-d2c-grocery-startup-anmasa-bags-%e2%82%b930-cr-to-expand-into-new-markets/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "e3-electric-ai": {
+   "name": "E3 Electric.Ai",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Electric mobility startup E3 Electric.Ai has raised ₹100 Cr (about $10.4 Mn) in a mix of equity and debt as…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "₹100",
+     "round": "Debt",
+     "title": "E3 Electric.Ai Nets ₹100 Cr To Launch Electric Scooter Range",
+     "link": "https://inc42.com/buzz/e3-electric-ai-nets-%e2%82%b9100-cr-to-launch-electric-scooter-range/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "biofuelcircle": {
+   "name": "BiofuelCircle",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bioenergy supply chain startup BiofuelCircle has raised ₹35 Cr ($3.6 Mn) in a bridge funding round led by existing investor…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "events": [
+    {
+     "date": "2026-07-14",
+     "amount": "₹35",
+     "round": "Bridge",
+     "title": "BiofuelCircle Raises ₹35 Cr To Expand Its Biomass Supply Chain Ecosystem",
+     "link": "https://inc42.com/buzz/biofuelcircle-raises-%e2%82%b935-cr-to-expand-its-biomass-supply-chain-ecosystem/",
      "source": "Inc42"
     }
    ]
