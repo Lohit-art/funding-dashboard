@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T14:49:07+00:00",
+ "updated": "2026-07-16T15:00:16+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -16134,6 +16134,798 @@
      "title": "BiofuelCircle Raises ₹35 Cr To Expand Its Biomass Supply Chain Ecosystem",
      "link": "https://inc42.com/buzz/biofuelcircle-raises-%e2%82%b935-cr-to-expand-its-biomass-supply-chain-ecosystem/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "stripe-s-acquisition-pace-has-accelerated-in-the-past-five-y": {
+   "name": "Stripe’s Acquisition Pace Has Accelerated In The Past Five Y",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Payments giant Stripe and private equity firm Advent International have teamed up to make an offer to buy troubled PayPal in a deal valued at more than $53 billion, Reuters reported Wednesday.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$53B",
+     "round": "",
+     "title": "Stripe’s Acquisition Pace Has Accelerated In The Past Five Years, But Nothing Comes Close To Its Reported $53B PayPal Bet",
+     "link": "https://news.crunchbase.com/ma/stripe-acquisition-pace-accelerates-paypal/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "deweylearn": {
+   "name": "DeweyLearn",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "DeweyLearn has raised $5 million in an oversubscribed Series A funding round to expand its multimodal artificial intelligence platform for evaluating real-world skills and delivering expert-level feedback at scale. SJF Ventures led the round, with participation from Catalysis Cap",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$5 Million",
+     "round": "Series A",
+     "title": "DeweyLearn Raises $5 Million Series A To Scale AI-Powered Skills Assessment",
+     "link": "https://pulse2.com/deweylearn-raises-5-million-series-a-to-scale-ai-powered-skills-assessment/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "uplift-investors": {
+   "name": "Uplift Investors",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Uplift Investors, a Darien, Connecticut-based private equity firm focused on services investing, has closed its inaugural fund with $670 million in capital commitments at its hard cap. The firm was founded in March 2025 by Will Hausberg, Doug Rosenstein, and Brad Skaf, three part",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$670 Million",
+     "round": "",
+     "title": "Uplift Investors Closes Debut Fund At $670 Million Hard Cap",
+     "link": "https://pulse2.com/uplift-investors-closes-debut-fund-at-670-million-hard-cap/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "mauna-kea-technologies": {
+   "name": "Mauna Kea Technologies",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Mauna Kea Technologies, a Paris and Boston-based medical device company and inventor of the Cellvizio confocal laser endomicroscopy platform, has established a shareholder loan agreement with long-standing investor Vester Finance for up to €4 million in optional financing over 24",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "€4 Million",
+     "round": "",
+     "title": "Mauna Kea Technologies Secures €4 Million Optional Shareholder Loan To Support Commercial Expansion",
+     "link": "https://pulse2.com/mauna-kea-technologies-secures-e4-million-optional-shareholder-loan-to-support-commercial-expansion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "kind-designs": {
+   "name": "Kind Designs",
+   "country": "USA",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Kind Designs, a Miami-based climate resilience company, announced the close of a $10 million Pre-Series A round at a $70 million valuation, bringing the company's total funding to date to $21.5 million. The company had set out to raise $5 million but drew nearly $20 million in in",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$10 Million",
+     "round": "Pre-Series A",
+     "title": "Kind Designs Closes $10 Million Round to Scale 3D-Printed Living Seawalls",
+     "link": "https://pulse2.com/kind-designs-closes-10-million-round-to-scale-3d-printed-living-seawalls/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "beacon-security": {
+   "name": "Beacon Security",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Beacon Security has raised $13 million in seed funding to expand its agentic cybersecurity platform and provide enterprises with a trusted data foundation for human analysts and autonomous security agents. Notable Capital led the round, with participation from Holly Ventures, Alp",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$13 Million",
+     "round": "Seed",
+     "title": "Beacon Security Raises $13 Million Seed Funding To Build AI-Native Cyber Defense Platform",
+     "link": "https://pulse2.com/beacon-security-raises-13-million-seed-funding-to-build-ai-native-cyber-defense-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "xenter": {
+   "name": "Xenter",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Xenter has raised $58.25 million in Series B funding to support the commercial launch of its diagnostics business, expand manufacturing capacity and advance its wireless medical devices and AI-enabled healthcare intelligence platform. \n The post  Xenter Raises $58.25 Million Seri",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$58.25 Million",
+     "round": "Series B",
+     "title": "Xenter Raises $58.25 Million Series B To Accelerate TechMed Platform Commercialization",
+     "link": "https://pulse2.com/xenter-raises-58-25-million-series-b-to-accelerate-techmed-platform-commercialization/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nxlite-completes-13-1-million-series-a-and-3-5-million-deb": {
+   "name": "NxLite Completes $13.1 Million Series A And $3.5 Million Deb",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "NxLite, the manufacturer of air-stable, energy-efficient coatings for glass and polymeric substrates, announced the final close of its Series A financing, a $3.5 million debt facility from RSF Social Finance, and the appointment of technology supply chain leader Erin Sawyer to it",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$13.1 Million",
+     "round": "Series A",
+     "title": "NxLite Completes $13.1 Million Series A And $3.5 Million Debt Facility And Adds Erin Sawyer to Board",
+     "link": "https://pulse2.com/nxlite-completes-13-1-million-series-a-and-3-5-million-debt-facility-adds-erin-sawyer-to-board/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "this-female-founder-nearly-lost-her-family-home-to-probate": {
+   "name": "This female founder nearly lost her family home to probate. ",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "When her father died suddenly, Arum Kempster spent 18 months and nearly 900 hours settling his estate, almost…",
+   "audience": "Consumers",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$5M",
+     "round": "",
+     "title": "This female founder nearly lost her family home to probate. She just raised $5M from Emergence to fix it",
+     "link": "https://techfundingnews.com/eversettled-5m-funding-emergence-capital-probate-ai/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "tyred": {
+   "name": "Tyred",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Most cyclists find out their brakes are worn when they hear the screech. Tyred wants riders to know…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "£2.5M",
+     "round": "",
+     "title": "Tyred bags £2.5M to build the AI platform that predicts your bike will break down before it actually does",
+     "link": "https://techfundingnews.com/tyred-bags-2-5m-to-build-the-ai-platform-that-predicts-your-bike-will-break-down-before-it-actually-does/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "swissto12": {
+   "name": "SWISSto12",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "SWISSto12, aSwiss aerospace company developing satellite payloads and platforms for thespace and telecommunications industries, has raised $70 million in a Series Cfunding round to expand its manufact...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$70M",
+     "round": "Series C",
+     "title": "Swiss satellite maker SWISSto12 secures $70M Series C for multiorbit push",
+     "link": "https://techfundingnews.com/swissto12-raises-70m-series-c-profitable-satellite-startup/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-16",
+     "amount": "€61 million",
+     "round": "Series C",
+     "title": "SWISSto12 secures €61 million Series C amid rising demand for sovereign space infrastructure",
+     "link": "https://www.eu-startups.com/2026/07/swissto12-secures-e61-million-series-c-amid-rising-demand-for-sovereign-space-infrastructure/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-16",
+     "amount": "$70M",
+     "round": "Series C",
+     "title": "SWISSto12 raises $70M Series C to scale multi-orbit business",
+     "link": "https://tech.eu/2026/07/16/swissto12-raises-70m-series-c-to-scale-multi-orbit-business/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "this-imperial-college-spinout-using-physics-ai-to-run-the-wo": {
+   "name": "This Imperial College spinout using physics AI to run the wo",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "One of the world’s largest oil refineries is already using AI from Applied Computing, a London startup founded…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$20M",
+     "round": "",
+     "title": "This Imperial College spinout using physics AI to run the world’s refineries just raised $20M from KBR and Databricks",
+     "link": "https://techfundingnews.com/pplied-computing-20m-series-a-kbr-databricks/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "hyperion-robotics": {
+   "name": "Hyperion Robotics",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Hyperion Robotics, a Finnish physical AI company developing robotic manufacturingtechnology for infrastructure construction, has raised $7.4 million in a growthfunding round to scale its robotic micro...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$7.4M",
+     "round": "",
+     "title": "Hyperion Robotics raises $7.4M to build Europe’s bridges, substations and water systems in robotic microfactories",
+     "link": "https://techfundingnews.com/hyperion-robotics-7-4m-funding-construction-microfactories/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-16",
+     "amount": "€6.4 million",
+     "round": "Growth",
+     "title": "Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to European infrastructure",
+     "link": "https://www.eu-startups.com/2026/07/espoo-based-hyperion-robotics-raises-e6-4-million-to-bring-physical-ai-to-european-infrastructure/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-16",
+     "amount": "$7.4M",
+     "round": "",
+     "title": "Hyperion Robotics secures $7.4M to expand robotic construction",
+     "link": "https://tech.eu/2026/07/16/hyperion-robotics-secures-74m-to-expand-robotic-construction/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "from-toyota-lab-to-1-1b-unicorn-in-6-months-walden-robotic": {
+   "name": "From Toyota lab to $1.1B unicorn in 6 months: Walden Robotic",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Walden Robotics has emerged from stealth with $300 million in seed funding, valuing the Cambridge, Massachusetts startup at…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$1.1B",
+     "round": "Seed",
+     "title": "From Toyota lab to $1.1B unicorn in 6 months: Walden Robotics raises $300M seed",
+     "link": "https://techfundingnews.com/from-toyota-lab-to-1-1b-unicorn-in-6-months-walden-robotics-raises-300m-seed/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ai-writes-code-faster-than-developers-can-review-it-these-e": {
+   "name": "AI writes code faster than developers can review it. These e",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "London-based Meticulous has raised $15 million in a Series A led by Chemistry, with Menlo Ventures and a…",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$15M",
+     "round": "Series A",
+     "title": "AI writes code faster than developers can review it. These ex-Dropbox and Palantir brothers raised $15M to fix that",
+     "link": "https://techfundingnews.com/ai-writes-code-faster-than-developers-can-review-it-these-ex-dropbox-and-palantir-brothers-raised-15m-to-fix-that/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "syntetica": {
+   "name": "Syntetica",
+   "country": "France",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Syntetica, a deeptech company developing recyclingtechnology for complex textile waste, has raised $30 million in a Series Afunding round to scale its nylon recycling platform and bring its technology...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "€26.1 million",
+     "round": "Series A",
+     "title": "Paris-based Syntetica raises €26.1 million to industrialise process that cracks a major nylon recycling barrier",
+     "link": "https://www.eu-startups.com/2026/07/paris-based-syntetica-raises-e26-1-million-to-industrialise-process-that-cracks-a-major-nylon-recycling-barrier/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-16",
+     "amount": "$30M",
+     "round": "Series A",
+     "title": "Syntetica raises $30M Series A for circular nylon recycling",
+     "link": "https://tech.eu/2026/07/16/syntetica-raises-30m-series-a-for-circular-nylon-recycling/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cambridge-s-silicon-microgravity": {
+   "name": "Cambridge’s Silicon Microgravity",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Silicon Microgravity Limited (SMG), a Cambridge-based startup specialising in MEMS (microelectromechanical systems) semiconductor technologies, has secured €7.08 million (£6 million) in funding to accelerate commercial growth across the defence, space and semiconductor sectors. T",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "€7.08 million",
+     "round": "Growth",
+     "title": "Cambridge’s Silicon Microgravity secures €7.08 million to scale its GPS-free sensing and navigation tech",
+     "link": "https://www.eu-startups.com/2026/07/cambridges-silicon-microgravitsecures-e7-08-million-to-scale-its-gps-free-sensing-and-navigation-tech/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "applied-computing": {
+   "name": "Applied Computing",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Applied Computing, a British artificial intelligencecompany developing foundation models for energy operations, has raised $20million in a funding round led by KBR, with participation from Databricks ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "€17.4 million",
+     "round": "",
+     "title": "London-based Applied Computing raises €17.4 million to scale AI that works for the energy industry",
+     "link": "https://www.eu-startups.com/2026/07/london-based-applied-computing-raises-e17-4-million-to-scale-ai-that-works-for-the-energy-industry/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-16",
+     "amount": "$20M",
+     "round": "",
+     "title": "Applied Computing lands $20M to expand foundation AI for energy",
+     "link": "https://tech.eu/2026/07/16/applied-computing-lands-20m-to-expand-foundation-ai-for-energy/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "palantir-alumni": {
+   "name": "Palantir alumni",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Monumental, an Amsterdam-based company automating construction with robotics and software, today announced a €27 million ($32 million) Series B to grow their engineering team, scale the number of robots deployed, expand the range of construction tasks the robots can handle, and f",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "€27 million",
+     "round": "Series B",
+     "title": "Palantir alumni raise €27 million for construction robotics startup Monumental",
+     "link": "https://www.eu-startups.com/2026/07/palantir-alumni-raise-e27-million-for-construction-robotics-startup-monumental/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "juno-bio": {
+   "name": "Juno Bio",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Juno Bio, a UK-founded women’s health company dedicated to closing the gender health gap through precision vaginal microbiome testing and multi-omics, today announced the opening of its first sequenci...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$3.8M",
+     "round": "",
+     "title": "Juno Bio secures $3.8M and opens first sequencing lab dedicated to women's health",
+     "link": "https://tech.eu/2026/07/16/juno-bio-secures-38m-and-opens-first-sequencing-lab-dedicated-to-womens-health/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "arq": {
+   "name": "Arq",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Arq, a Spanish quantum technology startup developing networkinghardware for the quantum internet, has raised $1.4 million in a pre-seedfunding round to accelerate the development of its quantum commun...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$1.4M",
+     "round": "Pre-Seed",
+     "title": "Arq secures $1.4M pre-seed for quantum internet technology",
+     "link": "https://tech.eu/2026/07/16/arq-secures-14m-pre-seed-for-quantum-internet-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "b2b-garment-manufacturing-platform-groyyo": {
+   "name": "B2B Garment Manufacturing Platform Groyyo",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "B2B manufacturing and supply chain startup Groyyo has secured ₹90 Cr (about $9.3 Mn) as part of its ongoing ₹200…",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "₹90",
+     "round": "",
+     "title": "B2B Garment Manufacturing Platform Groyyo Raises ₹90 Cr To Expand Supplier Network",
+     "link": "https://inc42.com/buzz/b2b-garment-manufacturing-platform-groyyo-raises-%e2%82%b990-cr-to-expand-supplier-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "logcat-ai": {
+   "name": "logcat.ai",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Enterprise AI startup logcat.ai has raised $2.5 Mn (about ₹24 Cr) in a pre-seed funding round led by US-based seed…",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$2.5 Mn",
+     "round": "Pre-Seed",
+     "title": "logcat.ai Bags $2.5 Mn To Build AI Platform For Android, Linux Engineering",
+     "link": "https://inc42.com/buzz/logcat-ai-bags-2-5-mn-to-build-ai-platform-for-android-linux-engineering/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "aina": {
+   "name": "Aina",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI hardware interface startup Aina has emerged from stealth with a $5.5 Mn (about ₹53 Cr) seed funding round co-led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$5.5 Mn",
+     "round": "Seed",
+     "title": "Aina Raises $5.5 Mn From Info Edge, Others To Build AI Hardware Interface",
+     "link": "https://inc42.com/buzz/aina-raises-5-5-mn-from-info-edge-ventures-360-one-asset-to-build-ai-native-interfaces/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "former-rippling-cofounder-prasanna-sankar": {
+   "name": "Former Rippling Cofounder Prasanna Sankar",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Former Rippling cofounder Prasanna Sankar has launched enterprise AI software engineering startup Vorflux, raising $15 Mn (about ₹144 Cr) in…",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$15 Mn",
+     "round": "",
+     "title": "Former Rippling Cofounder Prasanna Sankar Raises $15 Mn For Vorflux After 0xPPL Shutdown",
+     "link": "https://inc42.com/buzz/former-rippling-cofounder-prasanna-sankar-raises-15-mn-for-vorflux-after-0xppl-shutdown/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "beauty-products-manufacturer-naturis-cosmetics": {
+   "name": "Beauty Products Manufacturer Naturis Cosmetics",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Beauty and personal care (BPC) manufacturer Naturis Cosmetics has raised ₹100 Cr (around $11.8 Mn) in its Series A funding…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "₹100",
+     "round": "Series A",
+     "title": "Beauty Products Manufacturer Naturis Cosmetics Nets ₹100 Cr To Expand Capacity",
+     "link": "https://inc42.com/buzz/beauty-products-manufacturer-naturis-cosmetics-nets-%e2%82%b9100-cr-to-expand-capacity/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "switchon": {
+   "name": "SwitchOn",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Physical AI startup SwitchOn has raised $8 Mn (about ₹ 77 Cr) in a pre-Series B funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$8 Mn",
+     "round": "Pre-Series B",
+     "title": "Physical AI Startup SwitchOn Raises $8 Mn To Scale Manufacturing Inspection",
+     "link": "https://inc42.com/buzz/physical-ai-startup-switchon-raises-8-mn-to-scale-manufacturing-inspection/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "quick-clean": {
+   "name": "Quick Clean",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Institutional laundry startup Quick Clean has raised ₹133 Cr (about $14 Mn) in a Series B funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "₹133",
+     "round": "Series B",
+     "title": "Laundry Startup Quick Clean Raises ₹133 Cr To Expand Its Footprint",
+     "link": "https://inc42.com/buzz/laundry-startup-quick-clean-raises-%e2%82%b9133-cr-to-expand-its-footprint/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ai-sales-intelligence-startup-reo-dev": {
+   "name": "AI Sales Intelligence Startup Reo.Dev",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI-powered sales intelligence startup Reo.Dev has raised $11.3 Mn (about ₹109 Cr) in a Series A funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$11.3 Mn",
+     "round": "Series A",
+     "title": "Exclusive: AI Sales Intelligence Startup Reo.Dev Raises $11.3 Mn To Expand In US",
+     "link": "https://inc42.com/buzz/exclusive-ai-sales-intelligence-startup-reo-dev-raises-11-3-mn-to-expand-in-us/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "groundedai": {
+   "name": "GroundedAI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "BC startup sees room to facilitate Canada’s major infrastructure projects push. \n The post  GroundedAI secures $2 million to help modernize tunnel building  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$2 million",
+     "round": "",
+     "title": "GroundedAI secures $2 million to help modernize tunnel building",
+     "link": "https://betakit.com/groundedai-secures-2-million-to-help-modernize-tunnel-building/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "insidedesk": {
+   "name": "InsideDesk",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Toronto startup's backers include Pender, Round13, and Graphite. \n The post  InsideDesk closes $12.6 million USD to grow its dental payment management platform  first appeared on  BetaKit .",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-07-15",
+   "events": [
+    {
+     "date": "2026-07-15",
+     "amount": "$12.6 million",
+     "round": "",
+     "title": "InsideDesk closes $12.6 million USD to grow its dental payment management platform",
+     "link": "https://betakit.com/insidedesk-closes-12-6-million-usd-to-grow-its-dental-payments-platform/",
+     "source": "BetaKit"
     }
    ]
   }
