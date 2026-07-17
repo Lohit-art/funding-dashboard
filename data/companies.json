@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T15:00:16+00:00",
+ "updated": "2026-07-17T14:42:42+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -14554,10 +14554,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "Helsing’s Series E leaked in May at $1.2bn, as Tech Funding News reported at the time. By the…",
+   "summary": "This week, we tracked more than 55 tech funding deals worth over €2.7 billion and over 10 exits, M&A transactions, rumours, and related news stories across Europe.Alongside the week’s top funding ...",
    "audience": "Government & public sector",
    "first_seen": "2026-07-13",
-   "last_seen": "2026-07-13",
+   "last_seen": "2026-07-17",
    "events": [
     {
      "date": "2026-07-13",
@@ -14574,6 +14574,14 @@
      "title": "Helsing raises $1.8B from Dragoneer and Lightspeed to scale its AI defence platform",
      "link": "https://techfundingnews.com/helsing-1-8b-series-e-18b-valuation/",
      "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-17",
+     "amount": "$1.8B",
+     "round": "Series E",
+     "title": "Helsing secures $1.8B Series E,  Uber acquiring Delivery Hero in €13B deal, and Revolut to launch US bank in 2027",
+     "link": "https://tech.eu/2026/07/17/helsing-secures-1-8b-series-e-uber-acquiring-delivery-hero-in-13b-deal-and-revolut-to-launch-us-bank-in-2027/",
+     "source": "Tech.eu"
     }
    ]
   },
@@ -16925,6 +16933,470 @@
      "round": "",
      "title": "InsideDesk closes $12.6 million USD to grow its dental payment management platform",
      "link": "https://betakit.com/insidedesk-closes-12-6-million-usd-to-grow-its-dental-payments-platform/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "ai-powered-travel-agency-fora-hits-unicorn-status": {
+   "name": "AI-powered travel agency Fora hits unicorn status",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "$60M",
+     "round": "Series D",
+     "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
+     "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "cytronic": {
+   "name": "Cytronic",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Cytronic has raised $13.5 million in seed funding to develop robotic fulfillment facilities that help direct-to-consumer brands reduce shipping costs, deliver orders faster and scale without building their own warehouse infrastructure. Slow Ventures led the round through partner ",
+   "audience": "Consumers",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "$13.5 Million",
+     "round": "Seed",
+     "title": "Cytronic Raises $13.5 Million Seed Funding To Automate E-Commerce Fulfillment",
+     "link": "https://pulse2.com/cytronic-raises-13-5-million-seed-funding-to-automate-e-commerce-fulfillment/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "meticulous": {
+   "name": "Meticulous",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Meticulous has raised $15 million in Series A funding to expand its automated software testing platform and help engineering teams release AI-generated code more quickly without compromising product quality. \n The post  Meticulous Raises $15 Million Series A To Accelerate AI-Powe",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "$15 Million",
+     "round": "Series A",
+     "title": "Meticulous Raises $15 Million Series A To Accelerate AI-Powered Software Development",
+     "link": "https://pulse2.com/meticulous-raises-15-million-series-a-to-accelerate-ai-powered-software-development/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "from-virginia-farm-to-1b-unicorn-how-henley-vazquez": {
+   "name": "From Virginia farm to $1B unicorn: How Henley Vazquez",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Henley Vazquez grew up on a 550-acre farm in the Blue Ridge Mountains of Virginia. Her family didn’t…",
+   "audience": "Consumers",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "$1B",
+     "round": "",
+     "title": "From Virginia farm to $1B unicorn: How Henley Vazquez raised $60M by rebuilding travel for everyone the industry wouldn’t let in",
+     "link": "https://techfundingnews.com/from-virginia-farm-to-1b-unicorn-how-henley-vazquez-raised-60m-by-rebuilding-travel-for-everyone-the-industry-wouldnt-let-in/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "the-woman-who-built-pytorch-at-meta-just": {
+   "name": "The woman who built PyTorch at Meta just",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "When Lin Qiao left Meta in 2022, she walked away from one of the most senior AI engineering…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "$1.5B",
+     "round": "",
+     "title": "The woman who built PyTorch at Meta just raised $1.5B on a bet that Big Tech shouldn’t own AI",
+     "link": "https://techfundingnews.com/the-woman-who-built-pytorch-at-meta-just-raised-1-5b-on-a-bet-that-big-tech-shouldnt-own-ai/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "scooped-5-1m-to-challenge-meta-in-the-race-to-create-lighte": {
+   "name": "scooped €5.1M to challenge Meta in the race to create lighte",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "ENGO, based in Grenoble, makes augmented reality glasses for runners and cyclists. The company has raised €5.1 million…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "€5.1M",
+     "round": "",
+     "title": "This French startup scooped €5.1M to challenge Meta in the race to create lighter AR glasses",
+     "link": "https://techfundingnews.com/engo-5-1m-funding-ultra-light-ar-sports-glasses/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "founded-by-two-f1-engineers-a-whatsapp-entrepreneur-and-an": {
+   "name": "founded by two F1 engineers, a WhatsApp entrepreneur, and an",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Munich-based robotics startup microagi has raised $55 million in what it says is the largest seed round in…",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "$55M",
+     "round": "Seed",
+     "title": "This Munich startup founded by two F1 engineers, a WhatsApp entrepreneur, and an Alan Turing researcher just raised $55M in Germany’s largest-ever seed round",
+     "link": "https://techfundingnews.com/this-munich-startup-founded-by-two-f1-engineers-a-whatsapp-entrepreneur-and-an-alan-turing-researcher-just-raised-55m-in-germanys-largest-ever-seed-round/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "reversing-ai-drug-discovery-belgian-biotech-sightera": {
+   "name": "Reversing AI drug discovery: Belgian biotech Sightera",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Most AI drug discovery companies start by selecting a target and designing a molecule, then seeking biological validation.…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "€3M",
+     "round": "",
+     "title": "Reversing AI drug discovery: Belgian biotech Sightera raises €3M to learn from ‘extreme’ patient biology first",
+     "link": "https://techfundingnews.com/sightera-raises-3m-extreme-biology-ai-drug-discovery/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "rime": {
+   "name": "Rime",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "San Francisco-based Rime has raised $24 million in a Series A led by M13, with participation from Twilio…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "$24M",
+     "round": "Series A",
+     "title": "Rime lands $24M to build the ChatGPT of voice",
+     "link": "https://techfundingnews.com/rime-lands-24m-to-build-the-chatgpt-of-voice/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "british-aerospace-technology-company-greenjets": {
+   "name": "British aerospace technology company Greenjets",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Greenjets, a London-based aerospace technology company developing propulsion systems, aircraft platforms and launch technologies for the next generation of aviation, today announced a €35 million ($40 million) Series A funding round.  The round was led by Blossom Capital, with pa",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "€35 million",
+     "round": "Series A",
+     "title": "British aerospace technology company Greenjets raises €35 million Series A with NATO backing",
+     "link": "https://www.eu-startups.com/2026/07/british-aerospace-technology-company-greenjets-raises-e35-million-series-a-with-nato-backing/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "germany-s-prior-labs": {
+   "name": "Germany’s Prior Labs",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Berlin-based frontier AI lab Prior Labs today announced that the multinational software company SAP has completed its acquisition of the company, supported by more than €1 billion in investment from SAP in order to fund infrastructure, hiring, and long-term frontier research. Pri",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "€1 billion",
+     "round": "",
+     "title": "Germany’s Prior Labs raises €1 billion and exits to SAP 18 months after being founded",
+     "link": "https://www.eu-startups.com/2026/07/germanys-prior-labs-raises-e1-billion-and-exits-to-sap-18-months-after-being-founded/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "lakestar": {
+   "name": "Lakestar",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "European venture capital firm Lakestar announced the closing of its Lakestar Resilience I fund at €262.2 million ($300 million). The fund was oversubscribed, with investor interest significantly exceeding its targeted size. The firm describes it as Europe’s largest institutional ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "€262.2 million",
+     "round": "",
+     "title": "Lakestar closes €262.2 million Resilience I Fund to back European defence and dual-use companies",
+     "link": "https://www.eu-startups.com/2026/07/lakestar-closes-e262-2-million-resilience-i-fund-to-back-european-defence-and-dual-use-companies/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "antwerp-s-sightera-biosciences": {
+   "name": "Antwerp’s Sightera Biosciences",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Sightera Biosciences, an Antwerp-based AI drug discovery startup and spin-off from the University of Antwerp (UA) and Antwerp University Hospital (UZA), today announced the closing of a €3 million pre-Seed financing led by Entourage, Anacura and QBIC.  The company plans to use th",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "€3 million",
+     "round": "Pre-Seed",
+     "title": "Antwerp’s Sightera Biosciences raises €3 million to scale its patient-derived AI drug discovery platform",
+     "link": "https://www.eu-startups.com/2026/07/antwerps-sightera-biosciences-raises-e3-million-to-scale-its-patient-derived-ai-drug-discovery-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "engo": {
+   "name": "ENGO",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "ENGO, a French company developingsmart eyewear for athletes, has raised €5.1 million in a funding round toexpand its international presence and accelerate the development ofnext-generation heads-up di...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "€5.1 million",
+     "round": "",
+     "title": "Grenoble-based ENGO raises €5.1 million to scale its lightweight AR glasses for athletes",
+     "link": "https://www.eu-startups.com/2026/07/grenoble-based-engo-raises-e5-1-million-to-scale-its-lightweight-ar-glasses-for-athletes/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-17",
+     "amount": "€5.1M",
+     "round": "",
+     "title": "ENGO raises €5.1M to advance lightweight smart sports eyewear",
+     "link": "https://tech.eu/2026/07/17/engo-raises-eur51m-to-advance-lightweight-smart-sports-eyewear/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sightera-biosciences": {
+   "name": "Sightera Biosciences",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Sightera Biosciences, a Belgiantechbio company using generative AI to develop novel small-molecule therapies,has raised €3 million in a pre-seed funding round led by Entourage, Anacura andQBIC.A spin-...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "€3M",
+     "round": "Pre-Seed",
+     "title": "Sightera Biosciences closes €3M pre-seed to expand its patient-derived AI drug discovery platform",
+     "link": "https://tech.eu/2026/07/17/sightera-biosciences-closes-eur3m-pre-seed-to-expand-its-patient-derived-ai-drug-discovery-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "climentum-capital-launches-60m-first": {
+   "name": "Climentum Capital launches €60M first",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Copenhagen-based venture capital firm Climentum Capital has launched the first €60 million close of its second fund, matching the size of its inaugural vehicle as it continues to invest in European climate hard tech startups. Targeting a final size of up to €100 million, Fund II ",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "€60M",
+     "round": "Seed",
+     "title": "Climentum Capital launches €60M first close of Fund II to back European climate hard tech",
+     "link": "https://arcticstartup.com/climentum-capital-launches-e60m-first-close-of-fund-ii/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "jfs-profitability-flex-reo-dev": {
+   "name": "JFS’ Profitability Flex, Reo.Dev",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Jio Financial Services’ Bumper Q1 It was a profitable Q1 for Jio Financial Services. Buoyed by a humming lending engine…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "$11 Mn",
+     "round": "",
+     "title": "JFS’ Profitability Flex, Reo.Dev Bags $11 Mn & More",
+     "link": "https://inc42.com/buzz/jfs-profitability-flex-reo-dev-bags-11-mn-more/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "neo-group": {
+   "name": "Neo Group",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Wealth and asset management startup Neo Group has raised about ₹350 Cr ($36.3 Mn) in a funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-07-16",
+   "events": [
+    {
+     "date": "2026-07-16",
+     "amount": "₹350",
+     "round": "",
+     "title": "Neo Group Nets ₹350 Cr From Peak XV Partners To Strengthen Wealthtech Play",
+     "link": "https://inc42.com/buzz/neo-group-nets-%e2%82%b9350-cr-from-peak-xv-partners-to-strengthen-wealthtech-play/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "siftmed": {
+   "name": "SiftMed",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "St. John’s software startup backed by Staircase Ventures, founders of Verafin. \n The post  SiftMed lands $5 million to find the facts humans can miss in mountains of medical records  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "$5 million",
+     "round": "",
+     "title": "SiftMed lands $5 million to find the facts humans can miss in mountains of medical records",
+     "link": "https://betakit.com/siftmed-lands-5-million-to-find-the-facts-humans-can-miss-in-mountains-of-medical-records/",
      "source": "BetaKit"
     }
    ]
