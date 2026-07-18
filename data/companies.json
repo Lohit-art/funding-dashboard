@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T14:42:42+00:00",
+ "updated": "2026-07-18T14:19:18+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -16754,10 +16754,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "AI hardware interface startup Aina has emerged from stealth with a $5.5 Mn (about ₹53 Cr) seed funding round co-led…",
+   "summary": "Aina has raised $5.5 million in seed funding to bring its first general-purpose artificial intelligence hardware interface to market and expand its teams in San Francisco and Bangalore. Redstart Labs and 360 ONE Asset led the round. MIXI Global Investments, Antler and Blume Found",
    "audience": "General / mixed",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-07-16",
+   "last_seen": "2026-07-18",
    "events": [
     {
      "date": "2026-07-16",
@@ -16766,6 +16766,14 @@
      "title": "Aina Raises $5.5 Mn From Info Edge, Others To Build AI Hardware Interface",
      "link": "https://inc42.com/buzz/aina-raises-5-5-mn-from-info-edge-ventures-360-one-asset-to-build-ai-native-interfaces/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-07-18",
+     "amount": "$5.5 Million",
+     "round": "Seed",
+     "title": "Aina Raises $5.5 Million To Develop AI Hardware Interface Beyond Touchscreens And Keyboards",
+     "link": "https://pulse2.com/aina-raises-5-5-million-to-develop-ai-hardware-interface-beyond-touchscreens-and-keyboards/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -17290,10 +17298,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Sightera Biosciences, a Belgiantechbio company using generative AI to develop novel small-molecule therapies,has raised €3 million in a pre-seed funding round led by Entourage, Anacura andQBIC.A spin-...",
+   "summary": "Sightera Biosciences has raised €3 million in pre-seed funding to expand its artificial intelligence-powered drug discovery platform and advance programs targeting cancer and fibrosis. The round was backed by Entourage Ventures, Anacura and Qbic Fund, bringing together investors ",
    "audience": "Healthcare providers & patients",
    "first_seen": "2026-07-17",
-   "last_seen": "2026-07-17",
+   "last_seen": "2026-07-18",
    "events": [
     {
      "date": "2026-07-17",
@@ -17302,6 +17310,14 @@
      "title": "Sightera Biosciences closes €3M pre-seed to expand its patient-derived AI drug discovery platform",
      "link": "https://tech.eu/2026/07/17/sightera-biosciences-closes-eur3m-pre-seed-to-expand-its-patient-derived-ai-drug-discovery-platform/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-07-18",
+     "amount": "€3 Million",
+     "round": "Pre-Seed",
+     "title": "Sightera Biosciences Raises €3 Million In Pre-Seed Funding For AI-Driven Drug Discovery",
+     "link": "https://pulse2.com/sightera-biosciences-raises-e3-million-in-pre-seed-funding-for-ai-driven-drug-discovery/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -17398,6 +17414,174 @@
      "title": "SiftMed lands $5 million to find the facts humans can miss in mountains of medical records",
      "link": "https://betakit.com/siftmed-lands-5-million-to-find-the-facts-humans-can-miss-in-mountains-of-medical-records/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "valar-atomics-in-talks-to": {
+   "name": "Valar Atomics in talks to",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-07-17",
+   "events": [
+    {
+     "date": "2026-07-17",
+     "amount": "$6B",
+     "round": "",
+     "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+     "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "databricks-to": {
+   "name": "Databricks To",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Databricks has signed a term sheet for a new strategic funding round that values the data and artificial intelligence company at $188 billion. Existing investor Coatue is leading the financing, which is expected to include additional new and existing investors. \n The post  Databr",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-18",
+   "last_seen": "2026-07-18",
+   "events": [
+    {
+     "date": "2026-07-18",
+     "amount": "$188 Billion",
+     "round": "",
+     "title": "Databricks To Raise Strategic Funding At $188 Billion Valuation",
+     "link": "https://pulse2.com/databricks-to-raise-strategic-funding-at-188-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sable": {
+   "name": "Sable",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Sable has raised $45 million to expand Aidan, an artificial intelligence employee designed to conduct customer interactions by navigating software, responding to questions and demonstrating products in real time. \n The post  Sable Raises $45 Million To Build AI Employee For Custo",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-18",
+   "last_seen": "2026-07-18",
+   "events": [
+    {
+     "date": "2026-07-18",
+     "amount": "$45 Million",
+     "round": "",
+     "title": "Sable Raises $45 Million To Build AI Employee For Customer Interactions",
+     "link": "https://pulse2.com/sable-raises-45-million-to-build-ai-employee-for-customer-interactions/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "self-inspection": {
+   "name": "Self Inspection",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Self Inspection has raised $10 million to expand its artificial intelligence-powered platform for capturing, analyzing and sharing standardized information about a vehicle’s physical condition. Sandberg Bernthal Venture Partners, the investment firm co-founded by Sheryl Sandberg ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-18",
+   "last_seen": "2026-07-18",
+   "events": [
+    {
+     "date": "2026-07-18",
+     "amount": "$10 Million",
+     "round": "",
+     "title": "Self Inspection Raises $10 Million To Expand Vehicle Condition Intelligence Platform",
+     "link": "https://pulse2.com/self-inspection-raises-10-million-to-expand-vehicle-condition-intelligence-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "microagi": {
+   "name": "microagi",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "microagi has raised $55 million in seed funding to expand Atlas, its data and deployment platform designed to help industrial companies put robots into production more quickly, safely and accurately. Hummingbird led the round, with participation from Northzone, LocalGlobe, Villag",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-18",
+   "last_seen": "2026-07-18",
+   "events": [
+    {
+     "date": "2026-07-18",
+     "amount": "$55 Million",
+     "round": "Seed",
+     "title": "microagi Raises $55 Million Seed Funding To Scale Atlas Robotics Deployment Platform",
+     "link": "https://pulse2.com/microagi-raises-55-million-seed-funding-to-scale-atlas-robotics-deployment-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "engo-eyewear": {
+   "name": "ENGO Eyewear",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "ENGO Eyewear has raised €5 million in equity financing to accelerate the international expansion and continued development of its augmented reality glasses for endurance athletes. Odyssée Venture participated in the round alongside Ventech and Bpifrance Amorçage Industriel. \n The",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-18",
+   "last_seen": "2026-07-18",
+   "events": [
+    {
+     "date": "2026-07-18",
+     "amount": "€5 Million",
+     "round": "",
+     "title": "ENGO Eyewear Raises €5 Million To Expand Augmented Reality Sports Glasses",
+     "link": "https://pulse2.com/engo-eyewear-raises-e5-million-to-expand-augmented-reality-sports-glasses/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "final-boss-sour": {
+   "name": "Final Boss Sour",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Final Boss Sour has raised $4 million in strategic funding to expand its national retail footprint and support the development of new products, flavors and brand collaborations. The round included new investments from Evolution VC Partners, The Angel Group, Mondelez International",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-07-18",
+   "last_seen": "2026-07-18",
+   "events": [
+    {
+     "date": "2026-07-18",
+     "amount": "$4 Million",
+     "round": "Angel",
+     "title": "Final Boss Sour Raises $4 Million To Expand Into Walmart, Kroger, Target And Other Major Retailers",
+     "link": "https://pulse2.com/final-boss-sour-raises-4-million-to-expand-into-walmart-kroger-target-and-other-major-retailers/",
+     "source": "Pulse 2.0"
     }
    ]
   }
