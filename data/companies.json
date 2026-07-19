@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T14:19:18+00:00",
+ "updated": "2026-07-19T14:23:11+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -16274,10 +16274,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Beacon Security has raised $13 million in seed funding to expand its agentic cybersecurity platform and provide enterprises with a trusted data foundation for human analysts and autonomous security agents. Notable Capital led the round, with participation from Holly Ventures, Alp",
+   "summary": "Beacon Security has raised $13 million in seed funding to expand its agentic cybersecurity platform and provide human analysts and AI agents with trusted, contextualized security data. Notable Capital led the round, with participation from Holly Ventures, AlphaDrive Ventures, SVC",
    "audience": "Government & public sector",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-07-16",
+   "last_seen": "2026-07-19",
    "events": [
     {
      "date": "2026-07-16",
@@ -16285,6 +16285,14 @@
      "round": "Seed",
      "title": "Beacon Security Raises $13 Million Seed Funding To Build AI-Native Cyber Defense Platform",
      "link": "https://pulse2.com/beacon-security-raises-13-million-seed-funding-to-build-ai-native-cyber-defense-platform/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-19",
+     "amount": "$13 Million",
+     "round": "Seed",
+     "title": "Beacon Security Raises $13 Million In Seed Funding As ARR Grows More Than 300%",
+     "link": "https://pulse2.com/beacon-security-raises-13-million-in-seed-funding-as-arr-grows-more-than-300/",
      "source": "Pulse 2.0"
     }
    ]
@@ -17581,6 +17589,54 @@
      "round": "Angel",
      "title": "Final Boss Sour Raises $4 Million To Expand Into Walmart, Kroger, Target And Other Major Retailers",
      "link": "https://pulse2.com/final-boss-sour-raises-4-million-to-expand-into-walmart-kroger-target-and-other-major-retailers/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "limx-dynamics": {
+   "name": "LimX Dynamics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "LimX Dynamics has raised nearly $200 million in a pre-IPO financing round to accelerate the development, manufacturing and global deployment of its general-purpose humanoid robots. \n The post  LimX Dynamics Raises Nearly $200 Million In Pre-IPO Funding To Scale Humanoid Robots  a",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-19",
+   "last_seen": "2026-07-19",
+   "events": [
+    {
+     "date": "2026-07-19",
+     "amount": "$200 Million",
+     "round": "",
+     "title": "LimX Dynamics Raises Nearly $200 Million In Pre-IPO Funding To Scale Humanoid Robots",
+     "link": "https://pulse2.com/limx-dynamics-raises-nearly-200-million-in-pre-ipo-funding-to-scale-humanoid-robots/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nxlite": {
+   "name": "NxLite",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "NxLite has completed a $13.1 million Series A financing and secured a $3.5 million debt facility to expand manufacturing of its energy-efficient coatings for glass and polymer substrates. The Series A exceeded the company’s original $10 million target. \n The post  NxLite Raises $",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-19",
+   "last_seen": "2026-07-19",
+   "events": [
+    {
+     "date": "2026-07-19",
+     "amount": "$13.1 Million",
+     "round": "Series A",
+     "title": "NxLite Raises $13.1 Million Series A And Secures $3.5 Million Debt Facility",
+     "link": "https://pulse2.com/nxlite-raises-13-1-million-series-a-and-secures-3-5-million-debt-facility/",
      "source": "Pulse 2.0"
     }
    ]
