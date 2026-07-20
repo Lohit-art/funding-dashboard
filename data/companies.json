@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T14:23:11+00:00",
+ "updated": "2026-07-20T15:10:43+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -16466,10 +16466,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "Hyperion Robotics, a Finnish physical AI company developing robotic manufacturingtechnology for infrastructure construction, has raised $7.4 million in a growthfunding round to scale its robotic micro...",
+   "summary": "Espoo-based Hyperion Robotics has raised €6.4 million in growth funding to scale its AI-driven robotic manufacturing model for infrastructure construction across Europe. The round was co-led by Course Corrected and the European Innovation Council (EIC) Fund, with participation fr",
    "audience": "General / mixed",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-07-16",
+   "last_seen": "2026-07-20",
    "events": [
     {
      "date": "2026-07-16",
@@ -16494,6 +16494,14 @@
      "title": "Hyperion Robotics secures $7.4M to expand robotic construction",
      "link": "https://tech.eu/2026/07/16/hyperion-robotics-secures-74m-to-expand-robotic-construction/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-07-20",
+     "amount": "€6.4 million",
+     "round": "Growth",
+     "title": "Finnish startup Hyperion Robotics raises €6.4 million for low-carbon infrastructure technology",
+     "link": "https://arcticstartup.com/hyperion-robotics-raises-e6-4-million/",
+     "source": "ArcticStartup"
     }
    ]
   },
@@ -17225,11 +17233,11 @@
    "sector": "Other",
    "is_ai": false,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "European venture capital firm Lakestar announced the closing of its Lakestar Resilience I fund at €262.2 million ($300 million). The fund was oversubscribed, with investor interest significantly exceeding its targeted size. The firm describes it as Europe’s largest institutional ",
+   "stage": "established",
+   "summary": "Lakestar has closed its first dedicated resilience fund with $300 million in commitments to invest in defense and dual-use technology companies across Europe and NATO-allied markets. The oversubscribed fund attracted demand exceeding its original target. \n The post  Lakestar Clos",
    "audience": "Government & public sector",
    "first_seen": "2026-07-17",
-   "last_seen": "2026-07-17",
+   "last_seen": "2026-07-20",
    "events": [
     {
      "date": "2026-07-17",
@@ -17238,6 +17246,14 @@
      "title": "Lakestar closes €262.2 million Resilience I Fund to back European defence and dual-use companies",
      "link": "https://www.eu-startups.com/2026/07/lakestar-closes-e262-2-million-resilience-i-fund-to-back-european-defence-and-dual-use-companies/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-20",
+     "amount": "$300 Million",
+     "round": "",
+     "title": "Lakestar Closes $300 Million Resilience I Fund For European Defence And Dual-Use Technology",
+     "link": "https://pulse2.com/lakestar-closes-300-million-resilience-i-fund-for-european-defence-and-dual-use-technology/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -17638,6 +17654,398 @@
      "title": "NxLite Raises $13.1 Million Series A And Secures $3.5 Million Debt Facility",
      "link": "https://pulse2.com/nxlite-raises-13-1-million-series-a-and-secures-3-5-million-debt-facility/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "mexico-extends-its-venture-lead-over-brazil-as-more-global-v": {
+   "name": "Mexico Extends Its Venture Lead Over Brazil As More Global V",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Mexico’s startups led the LatAm pack in Q2 — by a wide margin. The country’s startups raised $944 million in the second quarter, up 131% compared to $409 million in last year’s Q2, and up 136% from the $401 million raised in this year’s first quarter, per Crunchbase data. For com",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$944 million",
+     "round": "",
+     "title": "Mexico Extends Its Venture Lead Over Brazil As More Global VCs Enter Latin America",
+     "link": "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "cuspai": {
+   "name": "CuspAI",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "CuspAI, a Cambridge-based company building an AI system for materials discovery, today announced its €393.2 million ($450 million) Series B funding round at a €2.2 billion ($2.6 billion) valuation and the launch of “AI Materials Foundry”, a global network to accelerate the design",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$450 Million",
+     "round": "Series B",
+     "title": "CuspAI Raises $450 Million Series B At $2.6 Billion Valuation To Discover New Materials",
+     "link": "https://pulse2.com/cuspai-raises-450-million-series-b-at-2-6-billion-valuation-to-discover-new-materials/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-20",
+     "amount": "€393.2 million",
+     "round": "Series B",
+     "title": "CuspAI raises €393.2 million at €2.2 billion valuation; launches AI Materials Foundry to accelerate materials discovery",
+     "link": "https://www.eu-startups.com/2026/07/cuspai-raises-e393-2-million-at-e2-2-billion-valuation-launches-ai-materials-foundry-to-accelerate-materials-discovery/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "trellis-bioscience": {
+   "name": "Trellis Bioscience",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Trellis Bioscience has raised $9 million in Series C funding to support the clinical development of calpurbatug, also known as TRL1068. The investigational monoclonal antibody is being evaluated as a treatment for chronic prosthetic joint infections. \n The post  Trellis Bioscienc",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$9 Million",
+     "round": "Series C",
+     "title": "Trellis Bioscience Raises $9 Million Series C To Advance Calpurbatug For Prosthetic Joint Infections",
+     "link": "https://pulse2.com/trellis-bioscience-raises-9-million-series-c-to-advance-calpurbatug-for-prosthetic-joint-infections/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tailwater-capital": {
+   "name": "Tailwater Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Tailwater Capital and its affiliate Tailwater E&P have closed Tailwater Royalties Fund II with approximately $170 million in total commitments. The fund is about 60% larger than Tailwater’s inaugural royalties vehicle. \n The post  Tailwater Capital Closes $170 Million Royalties F",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$170 Million",
+     "round": "",
+     "title": "Tailwater Capital Closes $170 Million Royalties Fund II",
+     "link": "https://pulse2.com/tailwater-capital-closes-170-million-royalties-fund-ii/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "partners-group-15-billion-fourth-direct-infrastructure-pr": {
+   "name": "Partners Group: $15+ Billion Fourth Direct Infrastructure Pr",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Partners Group has closed its fourth direct infrastructure program at more than $15 billion. The program is over 50% larger than the firm’s previous infrastructure vintage. \n The post  Partners Group: $15+ Billion Fourth Direct Infrastructure Program Closed  appeared first on  Pu",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$15",
+     "round": "",
+     "title": "Partners Group: $15+ Billion Fourth Direct Infrastructure Program Closed",
+     "link": "https://pulse2.com/partners-group-15-billion-fourth-direct-infrastructure-program-closed/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "wonder": {
+   "name": "Wonder",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Marc Lore has spent his career knowing exactly when to sell. He sold Quidsi, the parent of Diapers.com,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$650M",
+     "round": "",
+     "title": "Wonder raises $650M at $9B and Marc Lore, who oversaw $3.85B in exits at Amazon and Walmart, says an IPO is next",
+     "link": "https://techfundingnews.com/wonder-raises-650m-at-9b-and-marc-lore-who-oversaw-3-85b-in-exits-at-amazon-and-walmart-says-an-ipo-is-next/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "the-vc-who-backed-spotify-revolut-and-airbnb-just": {
+   "name": "The VC who backed Spotify, Revolut and Airbnb just",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "For most of the last two decades, Lakestar earned its reputation by spotting consumer technology winners before almost…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$300M",
+     "round": "",
+     "title": "The VC who backed Spotify, Revolut and Airbnb just closed a $300M defence fund",
+     "link": "https://techfundingnews.com/the-vc-who-backed-spotify-revolut-and-airbnb-just-closed-a-300m-defence-fund/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "databricks": {
+   "name": "Databricks",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Seven academics from UC Berkeley founded Databricks in 2013 to commercialise Apache Spark, a data processing engine they…",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$188B",
+     "round": "",
+     "title": "Databricks raises at $188B as Coatue’s enterprise AI governance play outpaces the models underneath it",
+     "link": "https://techfundingnews.com/databricks-raises-at-188b-as-coatues-enterprise-ai-governance-play-outpaces-the-models-underneath-it/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "from-520m-to-2-6b-in-9-months-bezos-expeditions-co-leads": {
+   "name": "From $520M to $2.6B in 9 months: Bezos Expeditions co-leads ",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Deep Tech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "CuspAI, a Cambridge, UK-based startup, has closed a $450 million Series B at a $2.6 billion valuation, led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$520M",
+     "round": "Series B",
+     "title": "From $520M to $2.6B in 9 months: Bezos Expeditions co-leads CuspAI’s $450M Series B to scale AI materials discovery",
+     "link": "https://techfundingnews.com/cuspai-400m-series-b-2-6b-valuation-bezos-materials-search/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "spain-s-female-led-foodtech-startup-sensesbit": {
+   "name": "Spain’s female-led FoodTech startup Sensesbit",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Sensesbit, a Lugo-based FoodTech startup specialising in advanced sensory analysis, has closed a €1 million funding round to accelerate its international expansion. The round included participation from Clave Capital, Eoniq Fund, WindOne Consultores, and Paraíso Natural Ventures,",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "€1 million",
+     "round": "",
+     "title": "Spain’s female-led FoodTech startup Sensesbit raises €1 million to scale its AI-powered sensory intelligence platform",
+     "link": "https://www.eu-startups.com/2026/07/spains-female-led-foodtech-startup-sensesbit-raises-e1-million-to-scale-its-ai-powered-sensory-intelligence-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "xentra": {
+   "name": "Xentra",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Xentra, a Leeds-based digital security startup providing cybersecurity, safeguarding and compliance solutions to SMEs, has secured a €3.18 million (£2.7 million) investment from the Maven VCTs and NPIF II – Maven Equity Finance to support its next phase of growth. This investment",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "€3.18 million",
+     "round": "Growth",
+     "title": "Leeds-based Xentra secures €3.18 million to scale cybersecurity services for SMEs",
+     "link": "https://www.eu-startups.com/2026/07/leeds-based-xentra-secures-e3-18-million-to-scale-cybersecurity-services-for-smes/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "zalando-joins-sereact-s-116m-series-b-to-accelerate-ai-powe": {
+   "name": "Zalando joins Sereact's $116M Series B to accelerate AI-powe",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Sereact, a provider of physical AI for warehouse robotics, today announced that Zalando, Europe’s leading technology platform for fashion and lifestyle, has joined its ongoing Series B round as a stra...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$116M",
+     "round": "Series B",
+     "title": "Zalando joins Sereact's $116M Series B to accelerate AI-powered warehouse automation",
+     "link": "https://tech.eu/2026/07/20/zalando-joins-sereacts-116m-series-b-to-accelerate-ai-powered-warehouse-automation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "goneon-agentic-systems": {
+   "name": "goNEON Agentic Systems",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "ETH spin-off goNEON Agentic Systems has secured €160,000 (CHF150,000) in funding from Venture Kick to accelerate the development of its agentic AI platform for infrastructure planning. The funding com...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "€160K",
+     "round": "",
+     "title": "goNEON Agentic Systems secures €160K to accelerate AI-powered infrastructure planning",
+     "link": "https://tech.eu/2026/07/20/goneon-agentic-systems-secures-eur160k-to-accelerate-ai-powered-infrastructure-planning/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "norwest-capital-co-leads-40-mn-round-in-raghu-vamsi-aerospa": {
+   "name": "Norwest Capital Co-Leads $40 Mn Round In Raghu Vamsi Aerospa",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hyderabad-based aerospace and defence manufacturing company Raghu Vamsi Aerospace Group (RVAG) has raised $40 Mn (about ₹385 Cr) in a…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$40 Mn",
+     "round": "",
+     "title": "Norwest Capital Co-Leads $40 Mn Round In Raghu Vamsi Aerospace",
+     "link": "https://inc42.com/buzz/norwest-capital-co-leads-40-mn-round-in-raghu-vamsi-aerospace/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "plazza": {
+   "name": "Plazza",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Quick medicine delivery startup Plazza has raised $15 Mn (about ₹145 Cr) in a Series A funding round co-led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$15 Mn",
+     "round": "Series A",
+     "title": "Plazza Bags $15 Mn To Expand Quick Medicine Delivery Business",
+     "link": "https://inc42.com/buzz/plazza-bags-15-mn-to-expand-quick-medicine-delivery-business/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "kitematic-founders": {
+   "name": "Kitematic founders",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The open-source AI developer tool has grown to nearly nine million users. \n The post  Kitematic founders nab $65 million USD to help devs run AI models locally with Ollama  first appeared on  BetaKit .",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$65 million",
+     "round": "",
+     "title": "Kitematic founders nab $65 million USD to help devs run AI models locally with Ollama",
+     "link": "https://betakit.com/kitematic-founders-nab-65-million-usd-to-help-devs-run-ai-models-locally-with-ollama/",
+     "source": "BetaKit"
     }
    ]
   }
