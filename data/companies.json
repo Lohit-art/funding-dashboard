@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T15:10:43+00:00",
+ "updated": "2026-07-21T15:03:03+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -3810,10 +3810,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Twenty announced that it has raised a $100 million Series B funding round at a $1 billion valuation. The round was led by Accel, with participation from Friends & Family Capital, Point72 Ventures, and Caffeinated Capital. The new funding brings Twenty’s total funding to $138 mill",
+   "summary": "Twenty has raised an additional $30 million from Khosla Ventures at a $1.2 billion valuation. The investment follows the cyber defense company’s recently announced $100 million Series B, which was led by Accel at a $1 billion valuation. \n The post  Twenty Raises Additional $30 Mi",
    "audience": "Consumers",
    "first_seen": "2026-06-18",
-   "last_seen": "2026-06-18",
+   "last_seen": "2026-07-21",
    "events": [
     {
      "date": "2026-06-18",
@@ -3821,6 +3821,14 @@
      "round": "Series B",
      "title": "Twenty Raises $100 Million Series B At $1 Billion Valuation To Build Offensive Cyber Capabilities",
      "link": "https://pulse2.com/twenty-raises-100-million-series-b-at-1-billion-valuation-to-build-offensive-cyber-capabilities/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-21",
+     "amount": "$30 Million",
+     "round": "Series B",
+     "title": "Twenty Raises Additional $30 Million From Khosla Ventures At $1.2 Billion Valuation",
+     "link": "https://pulse2.com/twenty-raises-additional-30-million-from-khosla-ventures-at-1-2-billion-valuation/",
      "source": "Pulse 2.0"
     }
    ]
@@ -18046,6 +18054,726 @@
      "title": "Kitematic founders nab $65 million USD to help devs run AI models locally with Ollama",
      "link": "https://betakit.com/kitematic-founders-nab-65-million-usd-to-help-devs-run-ai-models-locally-with-ollama/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "bluecore-energy": {
+   "name": "Bluecore Energy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson & Co.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$10M",
+     "round": "Pre-Seed",
+     "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
+     "link": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "natural": {
+   "name": "Natural",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$30M",
+     "round": "",
+     "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+     "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "infinity": {
+   "name": "Infinity",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "$15M",
+     "round": "",
+     "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+     "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "closing-the-series-a-gap-is-the-next-great-opportunity-for-b": {
+   "name": "Closing The Series A Gap Is The Next Great Opportunity For B",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "While 2026 has shown encouraging signs, with Black-founded startups raising approximately $643 million by late May, the strongest quarter since mid-2022, the improvement was driven largely by a handful of unusually large financings. James Norman and Sean Green, co-founders of Bla",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$643 million",
+     "round": "Series A",
+     "title": "Closing The Series A Gap Is The Next Great Opportunity For Black Founders In The AI Era",
+     "link": "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "rege-nephro": {
+   "name": "Rege Nephro",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Rege Nephro has raised approximately $10.6 million to advance its kidney disease programs, including lead candidate RN-014 and regenerative medicine program RN-032. The clinical-stage biotechnology company completed the financing through the issuance of Japan-Keep It Simple Secur",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$10.6 Million",
+     "round": "",
+     "title": "Rege Nephro Raises $10.6 Million To Advance RN-014 And Kidney Regeneration Pipeline",
+     "link": "https://pulse2.com/rege-nephro-raises-10-6-million-to-advance-rn-014-and-kidney-regeneration-pipeline/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sofab-inks": {
+   "name": "Sofab Inks",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Sofab Inks has raised $6 million in seed funding to scale production of specialty materials designed to improve the reliability of perovskite solar cells. Cloudberry Ventures led the round as a strategic investor. \n The post  Sofab Inks Raises $6 Million Seed Round To Scale Perov",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$6 Million",
+     "round": "Seed",
+     "title": "Sofab Inks Raises $6 Million Seed Round To Scale Perovskite Solar Materials",
+     "link": "https://pulse2.com/sofab-inks-raises-6-million-seed-round-to-scale-perovskite-solar-materials/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "oris": {
+   "name": "ORiS",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "ORiS, a Turin-based deeptech startupdeveloping laser-based wireless power transmission (WPT) systems for space anddual-use applications, has secured €5 million in funding to accelerate thedevelopment ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "€5 Million",
+     "round": "Pre-Seed",
+     "title": "ORiS Raises €5 Million To Build In-Orbit Energy Distribution Grid",
+     "link": "https://pulse2.com/oris-raises-e5-million-to-build-in-orbit-energy-distribution-grid/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-21",
+     "amount": "€5 million",
+     "round": "Pre-Seed",
+     "title": "ORiS secures €5 million to develop wireless power transmission systems for space and dual-use applications",
+     "link": "https://www.eu-startups.com/2026/07/turin-based-oris-secures-e5-million-to-develop-wireless-power-transmission-systems-for-space-and-dual-use-applications/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-21",
+     "amount": "€5M",
+     "round": "",
+     "title": "ORiS raises €5M to build laser-powered energy infrastructure for space",
+     "link": "https://tech.eu/2026/07/21/oris-raises-eur5m-to-build-laser-powered-energy-infrastructure-for-space/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "deltavision": {
+   "name": "deltaVision",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Munich-baseddeltaVision, a manufacturer of fluidic systems for launch vehicles, satellites,lunar landers and orbital servicing spacecraft, has raised €10.2 million in itsfirst funding round to expand ...",
+   "audience": "Consumers",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "€10.2 Million",
+     "round": "Seed",
+     "title": "deltaVision Raises €10.2 Million Seed Round To Scale Spacecraft Fluid-Control Systems",
+     "link": "https://pulse2.com/deltavision-raises-e10-2-million-seed-round-to-scale-spacecraft-fluid-control-systems/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-21",
+     "amount": "€10.2M",
+     "round": "",
+     "title": "deltaVision raises €10.2M from KT Ventures and Valemount Capital to scale space fluidic systems",
+     "link": "https://techfundingnews.com/deltavision-10-2m-funding-orbital-refuelling-fluidics/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-21",
+     "amount": "€10.2 million",
+     "round": "",
+     "title": "Profitable space startup deltaVision secures €10.2 million to provide the “cardiovascular system for spacecraft”",
+     "link": "https://www.eu-startups.com/2026/07/profitable-space-startup-deltavision-secures-e10-2-million-to-provide-the-cardiovascular-system-for-spacecraft/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-21",
+     "amount": "€10.2M",
+     "round": "",
+     "title": "deltaVision raises €10.2M to accelerate orbital refuelling technology",
+     "link": "https://tech.eu/2026/07/21/deltavision-raises-eur102m-to-accelerate-orbital-refuelling-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "gritt": {
+   "name": "Gritt",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Gritt has launched with $32.4 million in pre-seed and Series A funding to develop AI-powered robotic systems for large-scale construction sites. The financing includes a $26 million Series A led by Obvious Ventures. Union Square Ventures and Active Impact Investments participated",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$32.4 Million",
+     "round": "Pre-Seed",
+     "title": "Gritt Raises $32.4 Million To Build Physical AI Systems For Construction",
+     "link": "https://pulse2.com/gritt-raises-32-4-million-to-build-physical-ai-systems-for-construction/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "organic-traditions": {
+   "name": "Organic Traditions",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Organic Traditions has raised $10.5 million in Series A funding, equivalent to approximately C$15 million, to accelerate its expansion across the United States. The round was backed by strategic angel investors with experience in consumer packaged goods, retail, technology and op",
+   "audience": "Consumers",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$10.5 Million",
+     "round": "Series A",
+     "title": "Organic Traditions Raises $10.5 Million Series A To Expand U.S. Retail And Functional Wellness Portfolio",
+     "link": "https://pulse2.com/organic-traditions-raises-10-5-million-series-a-to-expand-u-s-retail-and-functional-wellness-portfolio/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aligned-data-centers-aip-mgx-and-blackrock-s-gip": {
+   "name": "Aligned Data Centers: AIP, MGX And BlackRock’s GIP",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The Artificial Intelligence Infrastructure Partnership, MGX and BlackRock’s Global Infrastructure Partners have completed their acquisition of Aligned Data Centers. The transaction values Aligned at approximately $40 billion on an enterprise-value basis and represents one of the ",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$40 Billion",
+     "round": "",
+     "title": "Aligned Data Centers: AIP, MGX And BlackRock’s GIP Close $40 Billion Acquisition",
+     "link": "https://pulse2.com/aligned-data-centers-aip-mgx-and-blackrocks-gip-close-40-billion-acquisition/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "humanoid": {
+   "name": "Humanoid",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Humanoid secured 34,000 robot pre-orders worth $2.4 billion before shipping any commercial units. With the new $152 million…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$152M",
+     "round": "",
+     "title": "Humanoid raises $152M at $1.35B, becoming the UK’s newest robotics unicorn",
+     "link": "https://techfundingnews.com/humanoid-152m-europe-first-humanoid-robotics-unicorn/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ex-google-amazon-duo": {
+   "name": "Ex-Google, Amazon duo",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hannia Zia and Joana Ferreira understood construction from opposite ends of the industry long before founding Cascade. Ferreira…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$3.5M",
+     "round": "",
+     "title": "Ex-Google, Amazon duo land $3.5M to help construction firms spot deals before they hit the market",
+     "link": "https://techfundingnews.com/ex-google-amazon-duo-land-3-5m-to-help-construction-firms-spot-deals-before-they-hit-the-market/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "hilo": {
+   "name": "Hilo",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Swiss healthtech Hilo, developed by Aktiia, has secured more than $119 million in funding after closing a $19…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$19M",
+     "round": "Series B",
+     "title": "Hilo raises $19M Series B extension for Fitbit-style blood pressure health system: Can it replace 145-year-old cuff technology?",
+     "link": "https://techfundingnews.com/hilo-raises-19m-series-b-extension-for-fitbit-style-blood-pressure-health-system-can-it-replace-145-year-old-cuff-technology/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "stripe-rival-natural": {
+   "name": "Stripe rival Natural",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "At 13, Kahlil Lalji edited esports videos professionally. At 18, he ran brand strategy for the internet’s biggest…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$30M",
+     "round": "",
+     "title": "Stripe rival Natural raises $30M just 193 days after launch to build the payments stack for AI agents",
+     "link": "https://techfundingnews.com/stripe-rival-natural-raises-30m-just-193-days-after-launch-to-build-the-payments-stack-for-ai-agents/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "new-unicorn-humanoid": {
+   "name": "New Unicorn! Humanoid",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Humanoid, an AI and robotics company building industrial humanoid robots, today announced a €133 million ($152 million) Series A financing at a €1.1 billion ($1.35 billion) post-money valuation – cementing its position as Europe’s newest unicorn. This funding brings the total amo",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "€133 million",
+     "round": "Series A",
+     "title": "New Unicorn! Humanoid secures €133 million at €1.1 billion valuation to scale industrial robotics and physical AI",
+     "link": "https://www.eu-startups.com/2026/07/new-unicorn-humanoid-secures-e133-million-at-e1-1-billion-valuation-to-scale-industrial-robotics-and-physical-ai/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "omio": {
+   "name": "Omio",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Omio, Berlin’s multimodal travel booking platform, has announced a €8.7 million ($10 million) strategic investment in order to accelerate its expansion in Japan and strengthen its presence across Southeast Asia – a growing travel destination. The investment came from Granite-Inte",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "€8.7 million",
+     "round": "",
+     "title": "Omio raises €8.7 million strategic investment for Asian expansion",
+     "link": "https://www.eu-startups.com/2026/07/omio-raises-e8-7-million-strategic-investment-for-asian-expansion/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "italy-s-circular-materials": {
+   "name": "Italy’s Circular Materials",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Circular Materials, a Cadoneghe-based scale-up focused on recovering critical and strategic raw materials from industrial wastewater, has secured €11.8 million in Simple Agreement for Future Equity (SAFE) financing from a group of European institutional and strategic investors. T",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "€11.8 million",
+     "round": "",
+     "title": "Italy’s Circular Materials secures €11.8 million to recover critical raw materials from industrial wastewater",
+     "link": "https://www.eu-startups.com/2026/07/italys-circular-materials-secures-e11-8-million-to-recover-critical-raw-materials-from-industrial-wastewater/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ponda-leads-2-76-million-initiative-to-build-a-uk-wetland-b": {
+   "name": "Ponda leads €2.76 million initiative to build a UK wetland b",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bristol’s Ponda, the biomaterials company behind the plant-based insulation material BioPuff, has secured a €2.76 million (£2.35 million) grant to lead what the company is calling one of the world’s largest wetland farming demonstrations supporting peatland regeneration. The gran",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "€2.76 million",
+     "round": "Grant",
+     "title": "Bristol startup Ponda leads €2.76 million initiative to build a UK wetland biomaterials supply chain",
+     "link": "https://www.eu-startups.com/2026/07/bristol-startup-ponda-leads-e2-76-million-initiative-to-build-a-uk-wetland-biomaterials-supply-chain/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "berlin-s-deutsche-sanierungsberatung": {
+   "name": "Berlin’s Deutsche Sanierungsberatung",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Deutsche Sanierungsberatung (dsb), a Berlin-based ClimateTech startup helping to make residential homes climate-neutral, has closed a Series A round of over €10 million to fund a proprietary electricity tariff, entry into the B2B market, and further growth. The round was led by S",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "€10 million",
+     "round": "Series A",
+     "title": "Berlin’s Deutsche Sanierungsberatung raises over €10 million to accelerate climate-neutral home renovations",
+     "link": "https://www.eu-startups.com/2026/07/berlin-based-deutsche-sanierungsberatung-raises-over-e10-million-to-accelerate-climate-neutral-home-renovations/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "iceland-s-sowilo": {
+   "name": "Iceland’s Sowilo",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Reykjavik-based fashion technology startup Sowilo has raised a pre-seed funding round to support the global rollout of its AI-powered product intelligence platform, Catecut, alongside the launch of its Shopify app. The round attracted backing from Iceland’s Kría fund, Netherlands",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Iceland’s Sowilo raises pre-seed to expand AI-powered fashion product intelligence platform",
+     "link": "https://tech.eu/2026/07/21/icelands-sowilo-raises-pre-seed-to-expand-ai-powered-fashion-product-intelligence-platform/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-07-21",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Iceland’s Sowilo secures pre-seed backing to expand AI fashion product platform Catecut",
+     "link": "https://arcticstartup.com/sowilo-catecut-raises-pre-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "humanoid-hits-1-35b-valuation-with-152m-series-a": {
+   "name": "Humanoid hits $1.35B valuation with $152M Series A",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Humanoid, a UK-based AI and robotics company building industrial humanoid robots, today announced a $152 million Series A financing at a $1.35 billion post-money valuation.  This funding brings the to...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$1.35B",
+     "round": "Series A",
+     "title": "UK robotics startup Humanoid hits $1.35B valuation with $152M Series A",
+     "link": "https://tech.eu/2026/07/21/uk-robotics-startup-humanoid-hits-135b-valuation-with-152m-series-a/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ai-engineering-project-predictor-startup-cascade": {
+   "name": "AI engineering project predictor startup Cascade",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "A London-based startup which is using AI to predict engineering and construction projects before they become live has raised a $3.5 million seed round led by Andreessen Horowitz Speedrun. Called Casca...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "$3.5 million",
+     "round": "Seed",
+     "title": "AI engineering project predictor startup Cascade wins backing from a16z accelerator",
+     "link": "https://tech.eu/2026/07/21/ai-engineering-project-predictor-startup-cascade-wins-35m-seed-investment/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "circular-materials": {
+   "name": "Circular Materials",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Italian cleantech company Circular Materials, which developstechnology to recover critical and strategic raw materials from industrialwastewater, has secured €11.8 million in Simple Agreement for Futu...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "€11.8M",
+     "round": "",
+     "title": "Circular Materials secures €11.8M to scale critical raw material recovery technology",
+     "link": "https://tech.eu/2026/07/21/circular-materials-secures-eur118m-to-scale-critical-raw-material-recovery-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "voodin-consortium": {
+   "name": "Voodin consortium",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Wind energy is an important part of Europe’s shift to clean power, with €45 billion raised for new wind projects across the region in 2025. But that investment comes with a sustainability challenge: t...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "€48M",
+     "round": "Grant",
+     "title": "Voodin consortium secures €48M EU grant to build Spain’s first automated wooden blade factory",
+     "link": "https://tech.eu/2026/07/21/voodin-consortium-secures-48m-eu-grant-to-build-spain-s-first-automated-wooden-blade-factory/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "30-sundays": {
+   "name": "30 Sundays",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Traveltech startup 30 Sundays has raised ₹61 Cr (about $6.7 Mn) in a Series A round led by Bessemer Venture…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "₹61",
+     "round": "Series A",
+     "title": "Traveltech Startup 30 Sundays Raises ₹61 Cr To Expand AI-Powered Holiday Planning",
+     "link": "https://inc42.com/buzz/traveltech-startup-30-sundays-raises-%e2%82%b961-cr-to-expand-ai-powered-holiday-planning/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ather-energy": {
+   "name": "Ather Energy",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Electric two-wheeler maker Ather Energy has raised about ₹1,300 Cr through a qualified institutional placement (QIP), allotting 1.08 Cr equity…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-07-21",
+   "events": [
+    {
+     "date": "2026-07-21",
+     "amount": "₹1,300",
+     "round": "",
+     "title": "Ather Energy Raises ₹1,300 Cr Via QIP At ₹1,202 Per Share",
+     "link": "https://inc42.com/buzz/ather-energy-raises-%e2%82%b91300-cr-via-qip-at-%e2%82%b91202-per-share/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "veriqus": {
+   "name": "Veriqus",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Wealthtech startup Veriqus Group has raised ₹387 Cr (about $40.1 Mn) in a funding round led by global VC firm…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
+   "events": [
+    {
+     "date": "2026-07-20",
+     "amount": "₹387",
+     "round": "",
+     "title": "Wealthtech Startup Veriqus Raises ₹387 Cr To Build AI-Led Investment Platform",
+     "link": "https://inc42.com/buzz/wealthtech-startup-veriqus-raises-%e2%82%b9387-cr-to-build-ai-led-investment-platform/",
+     "source": "Inc42"
     }
    ]
   }
