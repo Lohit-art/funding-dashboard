@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T15:02:49+00:00",
+ "updated": "2026-07-23T15:07:32+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -19325,6 +19325,566 @@
      "round": "",
      "title": "The social network that wants to help athletes succeed after sport",
      "link": "https://betakit.com/the-social-network-that-wants-to-help-athletes-succeed-after-sport/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "travis-kalanick-s-robotics-company": {
+   "name": "Travis Kalanick’s robotics company",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-22",
+   "last_seen": "2026-07-22",
+   "events": [
+    {
+     "date": "2026-07-22",
+     "amount": "$1.7B",
+     "round": "",
+     "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+     "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "menlo-ventures-matt-murphy-explains-what-ai-startups-founde": {
+   "name": "Menlo Ventures’ Matt Murphy explains what AI startups founde",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthr",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-22",
+   "last_seen": "2026-07-22",
+   "events": [
+    {
+     "date": "2026-07-22",
+     "amount": "$47 billion",
+     "round": "Growth",
+     "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+     "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "ropedia": {
+   "name": "Ropedia",
+   "country": "Singapore",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ropedia has raised $30 million across two pre-A funding rounds to expand its data infrastructure platform for robotics and embodied artificial intelligence systems. The Singapore-based company raised $22 million in its latest round after previously securing $8 million in March 20",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$30 Million",
+     "round": "Angel",
+     "title": "Ropedia Raises $30 Million In Pre-A Funding To Scale Physical AI Data Infrastructure",
+     "link": "https://pulse2.com/ropedia-raises-30-million-in-pre-a-funding/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "travis-kalanick-s-atoms": {
+   "name": "Travis Kalanick’s Atoms",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Atoms, the industrial AI and robotics company founded by Uber co-founder and former CEO Travis Kalanick, has secured a $1.7 billion equity investment led by Andreessen Horowitz. The round also included Bain Capital Ventures, Uber, Fifth Wall, A*, Chemistry, K5 Global, Abstract, S",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$1.7 Billion",
+     "round": "Angel",
+     "title": "Travis Kalanick’s Atoms Raises $1.7 Billion In Equity Funding Led By Andreessen Horowitz",
+     "link": "https://pulse2.com/travis-kalanicks-atoms-raises-1-7-billion-in-equity-funding-led-by-andreessen-horowitz/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "level99": {
+   "name": "Level99",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Level99 has secured an additional $50 million growth equity commitment from Act III Holdings to accelerate its expansion across the United States. The new investment brings Act III’s total follow-on commitment to Level99 to $100 million, including the $50 million committed at the",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$50 Million",
+     "round": "Growth",
+     "title": "Level99 Secures Additional $50 Million From Act III Holdings, Bringing Growth Equity Commitment To $100 Million",
+     "link": "https://pulse2.com/level99-secures-additional-50-million-from-act-iii-holdings-bringing-growth-equity-commitment-to-100-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "dwight-capital-and-affiliates": {
+   "name": "Dwight Capital And Affiliates",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Dwight Capital, Dwight Mortgage Trust and Dwight Healthcare Funding completed more than $735 million in senior housing financings during the second quarter of 2026. \n The post  Dwight Capital And Affiliates Close $735 Million In Senior Housing Financings During Q2 2026  appeared ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$735 Million",
+     "round": "",
+     "title": "Dwight Capital And Affiliates Close $735 Million In Senior Housing Financings During Q2 2026",
+     "link": "https://pulse2.com/dwight-capital-and-affiliates-close-735-million-in-senior-housing-financings-during-q2-2026/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "spotify-s-initial-backer-leads-12-3m-round-for-yope-to-buil": {
+   "name": "Spotify’s initial backer leads $12.3M round for Yope to buil",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Yope, a private photo and video sharing app from London, raised $12.3 million in a pre-Series A round…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$12.3M",
+     "round": "Pre-Series A",
+     "title": "Spotify’s initial backer leads $12.3M round for Yope to build a private alternative to Snapchat",
+     "link": "https://techfundingnews.com/yope-raises-12-3m-northzone-private-photo-app/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "building-the-auto1-for-used-evs-4-2m": {
+   "name": "building the ‘Auto1 for used EVs’: €4.2M",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Aampere has raised €4.2 million to grow its digital platform for selling used electric vehicles across Europe. This…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "€4.2M",
+     "round": "",
+     "title": "Meet the German startup building the ‘Auto1 for used EVs’: €4.2M raised in its second round in 9 months",
+     "link": "https://techfundingnews.com/aampere-raises-4-2m-trind-ventures-used-ev-platform/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "clipway-the-london-private-equity-firm-founded-by-3-ex-ardi": {
+   "name": "Clipway, the London private equity firm founded by 3 ex-Ardi",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "When three of the most senior executives at one of Europe’s largest private equity firms walk out and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$6.4B",
+     "round": "",
+     "title": "Clipway, the London private equity firm founded by 3 ex-Ardian executives, just closed a record $6.4B debut fund",
+     "link": "https://techfundingnews.com/clipway-the-london-private-equity-firm-founded-by-3-ex-ardian-executives-just-closed-a-record-6-4b-debut-fund/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ex-vc-jen-phan": {
+   "name": "Ex-VC Jen Phan",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Before starting Passionfroot, Jen Phan worked for years as an early-stage investor at btov Partners, a European VC…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$15M",
+     "round": "",
+     "title": "Ex-VC Jen Phan lands $15M for Passionfroot: Is Anthropic’s backer funding AI’s distribution layer?",
+     "link": "https://techfundingnews.com/passionfroot-raises-15m-jen-phan-new-york-us-expansion/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "berlin-s-telli": {
+   "name": "Berlin’s telli",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "The obvious pitch was sitting right there. Finn zur Mühlen and Philipp Baumanns, who is now his co-founder,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$15M",
+     "round": "Seed",
+     "title": "Exclusive: Berlin’s telli raises $15M seed to put AI agents in charge of customer ops, backed by redalpine, Cherry, and YC",
+     "link": "https://techfundingnews.com/telli-raises-15m-redalpine-ai-voice-agents/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "kausable": {
+   "name": "kausable",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI systems need constant, costly retraining. European AI startup kausable raises €12 million in a seed funding round to solve this problem by developing reasoning-first frontier AI that adapts efficie...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "€12 million",
+     "round": "Seed",
+     "title": "German DeepTech startup kausable raises €12 million to develop reasoning-first AI that adapts without retraining",
+     "link": "https://www.eu-startups.com/2026/07/german-deeptech-startup-kausable-raises-e12-million-to-develop-reasoning-first-ai-that-adapts-without-retraining/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-23",
+     "amount": "€12M",
+     "round": "Seed",
+     "title": "kausable raises €12M to rethink how AI learns",
+     "link": "https://tech.eu/2026/07/23/kausable-raises-eur12m-to-rethink-how-ai-learns/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "munich-s-aampere-charges-up-with-4-2-million-to-expand-its": {
+   "name": "Munich’s Aampere charges up with €4.2 million to expand its ",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Aampere, a Munich-based e-mobility startup, has raised €4.2 million to expand its fully digital resale platform for used electric cars across Europe.  The round was led by Estonian VC Trind Ventures, with Vend Marketplaces ASA, the Nordic family of marketplaces behind FINN.no, Bl",
+   "audience": "Consumers",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "€4.2 million",
+     "round": "",
+     "title": "Munich’s Aampere charges up with €4.2 million to expand its used EV resale platform across Europe",
+     "link": "https://www.eu-startups.com/2026/07/munichs-aampere-charges-up-with-e4-2-million-to-expand-its-used-ev-resale-platform-across-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "nernst-electric": {
+   "name": "Nernst Electric",
+   "country": "Ireland",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Nernst Electric, an Irish startup developing on-site oxygen generation for fish farms, has raised a €1.7 million ($2 million) Seed investment from Hatch Blue’s Blue Revolution Fund. Hatch Blue is a Cork-based investment firm specialising in aquaculture. Nernst first joined the Ha",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "€1.7 million",
+     "round": "Seed",
+     "title": "Nernst Electric raises €1.7 million to scale on-site oxygen generation technology for aquaculture and heavy industry",
+     "link": "https://www.eu-startups.com/2026/07/irelands-nernst-electric-raises-e1-7-million-to-advance-on-site-oxygen-generation-technology-for-aquaculture-and-heavy-industry/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "yc-backed-telli": {
+   "name": "YC-backed telli",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "telli, a Berlin-based startup building AI that runs customer-facing operations for B2C companies, today announced a €13.1 million ($15 million) Seed round, bringing its total funding to more than €16.1 million ($18.5 million).  The round was led by redalpine, with participation f",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "€13.1 million",
+     "round": "Seed",
+     "title": "YC-backed telli raises €13.1 million to build AI for B2C customer operations",
+     "link": "https://www.eu-startups.com/2026/07/yc-backed-telli-raises-e13-1-million-to-build-ai-for-b2c-customer-operations/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "pagemind": {
+   "name": "PageMind",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Spanish AIstartup PageMind has raised €1.2 million in funding to accelerate thedevelopment of its e-commerce optimisation platform, expand its team andsupport international growth, with the United Sta...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "€1.2M",
+     "round": "Growth",
+     "title": "PageMind raises €1.2M to scale AI for e-commerce product discovery",
+     "link": "https://tech.eu/2026/07/23/pagemind-raises-eur12m-to-scale-ai-for-e-commerce-product-discovery/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "telli": {
+   "name": "telli",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Berlin-basedAI startup telli has raised $15 million in a seed funding round to expand itsAI platform for customer-facing operations. The round was led by redalpine,with participation from Mutschler, C...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$15M",
+     "round": "Seed",
+     "title": "telli secures $15M seed to automate customer-facing operations",
+     "link": "https://tech.eu/2026/07/23/telli-secures-15m-seed-to-automate-customer-facing-operations/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "norway-s-eqon": {
+   "name": "Norway’s EQON",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Norwegian climate tech startup EQON has raised a $6 million seed round led by Azolla Ventures and co-led by Wilstar Innovate, with participation from Climentum Capital and Gain Venture Capital, to accelerate the global commercialization of its industrial heating cable technology.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$6 million",
+     "round": "Seed",
+     "title": "Norway’s EQON raises $6 million seed to commercialize heating cable optimization technology",
+     "link": "https://arcticstartup.com/eqon-raises-6-million-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "finland-s-verda-doubles-down-on-global-expansion-after-reach": {
+   "name": "Finland’s Verda doubles down on global expansion after reach",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Helsinki-based AI cloud infrastructure startup Verda has reached a $100 million annualized revenue run rate just two months after raising $117 million in funding, bringing its total capital raised to around $200 million. The round was backed by existing and new investors includin",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$100M",
+     "round": "",
+     "title": "Finland’s Verda doubles down on global expansion after reaching $100M revenue run rate",
+     "link": "https://arcticstartup.com/verda-raises-100-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "carpl-ai": {
+   "name": "CARPL.ai",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI-powered healthtech startup CARPL.ai has raised $10 Mn (about ₹96 Cr) in its Series A funding round led by the…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$10 Mn",
+     "round": "Series A",
+     "title": "CARPL.ai Bags $10 Mn To Scale Its AI Medical Imaging Marketplace",
+     "link": "https://inc42.com/buzz/carpl-ai-bags-10-mn-to-scale-its-ai-medical-imaging-marketplace/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "farm-watt": {
+   "name": "Farm Watt",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Biotech startup Farm Watt has netted ₹32.5 Cr ($3.3 Mn) in a funding round co-led by India Angel Networks’ VC…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "₹32.5",
+     "round": "Angel",
+     "title": "Farm Watt Nets ₹32.5 Cr To Bolster Biomass Collection Network For CBG Production",
+     "link": "https://inc42.com/buzz/farm-watt-nets-%e2%82%b932-5-cr-to-bolster-biomass-collection-network-for-cbg-production/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "businessnext": {
+   "name": "BUSINESSNEXT",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "AI-powered enterprise SaaS company BUSINESSNEXT has raised $40 Mn (around ₹386 Cr) in its Series C round from ServiceNow Ventures…",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$40 Mn",
+     "round": "Series C",
+     "title": "SaaS Company BUSINESSNEXT Raises $40 Mn At $700 Mn Valuation",
+     "link": "https://inc42.com/buzz/saas-company-businessnext-raises-40-mn-at-700-mn-valuation/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "elle-md": {
+   "name": "Elle MD",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Nova Scotia femtech startup plans for Ottawa Hospital clinical trials in the fall.  \n The post  Elle MD raises $1.1 million to develop non-hormonal, easily removable birth control ring  first appeared on  BetaKit .",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-07-23",
+   "events": [
+    {
+     "date": "2026-07-23",
+     "amount": "$1.1 million",
+     "round": "",
+     "title": "Elle MD raises $1.1 million to develop non-hormonal, easily removable birth control ring",
+     "link": "https://betakit.com/elle-md-raises-1-1-million-to-develop-non-hormonal-easily-removable-birth-control-ring/",
      "source": "BetaKit"
     }
    ]
