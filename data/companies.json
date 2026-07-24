@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T15:07:32+00:00",
+ "updated": "2026-07-24T14:53:12+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -17697,11 +17697,11 @@
    "sector": "Enterprise SaaS",
    "is_ai": true,
    "research_based": false,
-   "stage": "emerging",
-   "summary": "CuspAI, a Cambridge-based company building an AI system for materials discovery, today announced its €393.2 million ($450 million) Series B funding round at a €2.2 billion ($2.6 billion) valuation and the launch of “AI Materials Foundry”, a global network to accelerate the design",
+   "stage": "established",
+   "summary": "This week, we tracked more than 50 tech funding deals worth over €1 billion and over 10 exits, M&A transactions, rumours, and related news stories across Europe.Alongside the week’s top funding ro...",
    "audience": "Enterprises",
    "first_seen": "2026-07-20",
-   "last_seen": "2026-07-20",
+   "last_seen": "2026-07-24",
    "events": [
     {
      "date": "2026-07-20",
@@ -17718,6 +17718,14 @@
      "title": "CuspAI raises €393.2 million at €2.2 billion valuation; launches AI Materials Foundry to accelerate materials discovery",
      "link": "https://www.eu-startups.com/2026/07/cuspai-raises-e393-2-million-at-e2-2-billion-valuation-launches-ai-materials-foundry-to-accelerate-materials-discovery/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-24",
+     "amount": "$450M",
+     "round": "",
+     "title": "CuspAI bags $450M, Resist.UA launches €50M fund, and DSIT axed",
+     "link": "https://tech.eu/2026/07/24/cuspai-bags-450m-resist-ua-launches-50m-fund-and-dsit-axed/",
+     "source": "Tech.eu"
     }
    ]
   },
@@ -19886,6 +19894,342 @@
      "title": "Elle MD raises $1.1 million to develop non-hormonal, easily removable birth control ring",
      "link": "https://betakit.com/elle-md-raises-1-1-million-to-develop-non-hormonal-easily-removable-birth-control-ring/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "passionfroot": {
+   "name": "Passionfroot",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Passionfroot, a platform for B2B creator-led growth, announced a $15 million Series A funding round led by Insight Partners, with participation from existing investors Creandum, Supernode Global, and s16vc. The company describes itself as the first AI-native platform built for B2",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$15 Million",
+     "round": "Series A",
+     "title": "Passionfroot Raises $15 Million Series A For Platform Built For B2B Creator-Led Growth",
+     "link": "https://pulse2.com/passionfroot-raises-15-million-series-a-for-platform-built-for-b2b-creator-led-growth/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "1872-launches-autonomous-steel-fabrication-factory-in-cincin": {
+   "name": "1872 Launches Autonomous Steel Fabrication Factory In Cincin",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "1872, a startup focused on AI-native manufacturing, announced the launch of an automated steel fabrication factory in Cincinnati's Camp Washington neighborhood, backed by a $15 million seed funding round described as one of the largest in Ohio history. The round was led by privat",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$15 Million",
+     "round": "Seed",
+     "title": "1872 Launches Autonomous Steel Fabrication Factory In Cincinnati, Closes $15 Million Seed Round",
+     "link": "https://pulse2.com/1872-launches-autonomous-steel-fabrication-factory-in-cincinnati-closes-15-million-seed-round/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "radnor-property-and-madrone-reach-financial": {
+   "name": "Radnor Property And Madrone Reach Financial",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Radnor Property Group, in partnership with Madrone Community Development Foundation, has reached financial close on a $147 million student housing development in the West End neighborhood of Atlanta. Financing closed on July 1, 2026, through the sale of $146,763,475 in tax-exempt",
+   "audience": "Consumers",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$147 Million",
+     "round": "",
+     "title": "Radnor Property And Madrone Reach Financial Close On $147 Million Atlanta Student Housing Development",
+     "link": "https://pulse2.com/radnor-property-and-madrone-reach-financial-close-on-147-million-atlanta-student-housing-development/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aton-announces-c-4-million-private-placement": {
+   "name": "Aton Announces C$4 Million Private Placement",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Aton Resources announced a non-brokered private placement to raise C$4 million through the issuance of 7,619,048 common shares at a price of C$0.525 per share. Proceeds from the placement will support further exploration and development activities at Aton's Hamama project as well",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "C$4 Million",
+     "round": "",
+     "title": "Aton Announces C$4 Million Private Placement",
+     "link": "https://pulse2.com/aton-announces-cad4-million-private-placement/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "etched-hits-10-3b-in-sequoia-s-largest-series-c-ever-years": {
+   "name": "Etched hits $10.3B in Sequoia’s largest Series C ever, years",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Etched raised $300 million in its Series C round at a $10.3 billion valuation, doubling its value in…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$10.3B",
+     "round": "Series C",
+     "title": "Etched hits $10.3B in Sequoia’s largest Series C ever, years after the VC rejected its three Harvard dropout founders",
+     "link": "https://techfundingnews.com/etched-10-3b-series-c-sequoia-record/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ameera-patel-couldn-t": {
+   "name": "Ameera Patel couldn’t",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The standard test for chronic obstructive pulmonary disease, or COPD, which is the third-leading cause of death worldwide,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$19M",
+     "round": "",
+     "title": "Ameera Patel couldn’t get diagnosed with her own asthma. So she built this device and raised $19M",
+     "link": "https://techfundingnews.com/ameera-patel-tidalsense-19m-copd-diagnosis-device/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "female-founded-edtech-imagi": {
+   "name": "Female-founded edtech imagi",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "imagi presents itself as a safety layer between advanced AI tools and schools. Its list of investors shows…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$4.5M",
+     "round": "Seed",
+     "title": "Female-founded edtech imagi raises $4.5M seed from OpenAI and Lovable execs to bring safe AI to classrooms",
+     "link": "https://techfundingnews.com/imagi-4-5m-seed-funding-openai-lovable-ai-education/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "from-mit-research-to-1-5b-unicorn-ethan-hu-s-meshy": {
+   "name": "From MIT research to $1.5B unicorn: Ethan Hu’s Meshy",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Building a usable 3D model has traditionally meant days of specialist software work, an experienced designer, and a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$1.5B",
+     "round": "",
+     "title": "From MIT research to $1.5B unicorn: Ethan Hu’s Meshy raises $400M for AI-powered 3D creation",
+     "link": "https://techfundingnews.com/from-mit-research-to-1-5b-unicorn-ethan-hus-meshy-raises-400m-for-ai-powered-3d-creation/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "openai-s-early-backer-khosla-ventures-targets-largest-fund-e": {
+   "name": "OpenAI’s early backer Khosla Ventures targets largest fund e",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Khosla Ventures is in discussions to raise as much as $5.5 billion across its newest set of funds,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$5.5B",
+     "round": "",
+     "title": "OpenAI’s early backer Khosla Ventures targets largest fund ever at $5.5B with most going to early-stage AI startups",
+     "link": "https://techfundingnews.com/openais-early-backer-khosla-ventures-targets-largest-fund-ever-at-5-5b-with-most-going-to-early-stage-ai-startups/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ispace-europe": {
+   "name": "ispace-EUROPE",
+   "country": "Luxembourg",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "ispace-EUROPE, a Luxembourg-based lunar exploration company focusing on the development of lunar rovers, has been awarded Phase 2 of the MAGPIE contract, the Mission for Advanced Geophysics and Polar Ice Exploration by the European Space Agency (ESA). The agreement represents ESA",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "€65 million",
+     "round": "",
+     "title": "ispace-EUROPE lands €65 million ESA contract to deliver and operate MAGPIE, Europe’s first lunar polar ice exploration rover",
+     "link": "https://www.eu-startups.com/2026/07/ispace-europe-lands-e65-million-esa-contract-to-deliver-and-operate-magpie-europes-first-lunar-polar-ice-exploration-rover/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "street-group": {
+   "name": "Street Group",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Street Group (formerly Agent Software), a Manchester-based provider of vertical software and AI for the UK residential property sector, has secured a strategic growth investment from Hg, an investor in European and transatlantic software and services businesses.  This values the ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "€233.8 million",
+     "round": "Growth",
+     "title": "Manchester-based PropTech startup Street Group secures Hg investment at a valuation of over €233.8 million",
+     "link": "https://www.eu-startups.com/2026/07/manchester-based-proptech-startup-street-group-secures-hg-investment-at-a-valuation-of-over-e233-8-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "cambridge-s-tidalsense": {
+   "name": "Cambridge’s TidalSense",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "TidalSense (formerly Cambridge Respiratory Innovations), a Cambridge-based AI-powered respiratory diagnostic, today announced a €16.6 million ($19 million) funding round to accelerate commercialisation in the UK and support globalisation of the technology, including to the USA. T",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "€16.6 million",
+     "round": "",
+     "title": "Cambridge’s TidalSense raises €16.6 million to turn the tide on respiratory diagnostics with patented AI tech",
+     "link": "https://www.eu-startups.com/2026/07/cambridge-based-tidalsense-raises-e16-6-million-to-take-its-ai-respiratory-diagnostic-technology-global/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "moa-technology": {
+   "name": "Moa Technology",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Moa Technology (Moa), an Oxford-based agricultural BioTech company tackling weed resistance to herbicides, has raised a €25.9 million (£22.2 million) Series C financing round.  The round was co-led by Oxford Science Enterprises and Supernova Invest. New investors in Moa are Agri ",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "€25.9 million",
+     "round": "Series C",
+     "title": "Oxford-based Moa Technology raises €25.9 million to tackle herbicide-resistant weeds",
+     "link": "https://www.eu-startups.com/2026/07/oxford-based-moa-technology-raises-e25-9-million-to-tackle-herbicide-resistant-weeds/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "zetwerk": {
+   "name": "Zetwerk",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "IPO-bound manufacturing startup Zetwerk has raised ₹500 Cr in a pre-IPO funding round from Bharat Value Fund, a SEBI-registered Category…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "₹500",
+     "round": "",
+     "title": "Exclusive: Zetwerk Bags ₹500 Cr Pre-IPO Funding From Bharat Value Fund",
+     "link": "https://inc42.com/buzz/exclusive-zetwerk-bags-%e2%82%b9500-cr-pre-ipo-funding-from-bharat-value-fund/",
+     "source": "Inc42"
     }
    ]
   }
