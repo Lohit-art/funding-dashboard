@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T14:53:12+00:00",
+ "updated": "2026-07-25T14:36:31+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -20229,6 +20229,174 @@
      "round": "",
      "title": "Exclusive: Zetwerk Bags ₹500 Cr Pre-IPO Funding From Bharat Value Fund",
      "link": "https://inc42.com/buzz/exclusive-zetwerk-bags-%e2%82%b9500-cr-pre-ipo-funding-from-bharat-value-fund/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "anduril-in-talks-to": {
+   "name": "Anduril In Talks To",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Defense technology firm Anduril is reportedly in discussions with investors for a new funding round that could value the company at approximately $100 billion, potentially rivaling defense giants such as Northrop Grumman and Lockheed Martin, according to Reuters. The funding roun",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$100 Billion",
+     "round": "",
+     "title": "Anduril In Talks To Raise Funding At Roughly $100 Billion Valuation, Says Report",
+     "link": "https://pulse2.com/anduril-in-talks-to-raise-funding-at-roughly-100-billion-valuation-says-report/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tidalsense": {
+   "name": "TidalSense",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "TidalSense announced it has raised £19 million to accelerate the company's team, technology, and its ability to bring N-Tidal Diagnose, its diagnostic test for chronic obstructive pulmonary disease, to more patients.  The round was backed by Cross-Border Impact Ventures, BGF, Air",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "£19 Million",
+     "round": "Growth",
+     "title": "TidalSense Raises £19 Million To Accelerate COPD Diagnostic Technology",
+     "link": "https://pulse2.com/tidalsense-raises-19-million-to-accelerate-copd-diagnostic-technology/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "world-foundation": {
+   "name": "World Foundation",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "World Foundation announced it has raised an initial $52.5 million in new funding through a one-year locked token sale to strategic investors. Pantera Capital led the first close, with participation from Bain Capital Crypto, Eightco Holdings, Selini Capital, Susquehanna Crypto, an",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$52.5 Million",
+     "round": "",
+     "title": "World Foundation Raises $52.5 Million To Expand World ID Infrastructure",
+     "link": "https://pulse2.com/world-foundation-raises-52-5-million-to-expand-world-id-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aegisai": {
+   "name": "AegisAI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AegisAI, an email security company building its own large language models to defend the inbox, announced a $36 million Series A led by Battery Ventures, with participation from existing investors Accel and Foundation Capital. The round brings the company's total funding to $49 mi",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$36 Million",
+     "round": "Series A",
+     "title": "AegisAI Raises $36 Million Series A To Fight AI Spear Phishing",
+     "link": "https://pulse2.com/aegisai-raises-36-million-series-a-led-by-battery-ventures-to-fight-ai-spear-phishing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "paper": {
+   "name": "Paper",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Paper, a design platform aimed at the agentic era of software development, announced a $34 million Series A round led by Accel and ICONIQ. Additional participants include Designer Fund, WorkOS co-founder Michael Grinich, Lovable founder Anton Osika, and individual engineers and d",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$34 Million",
+     "round": "Series A",
+     "title": "Paper Raises $34 Million Series A To Build Design Platform For The Agentic Era",
+     "link": "https://pulse2.com/paper-raises-34-million-series-a-to-build-design-platform-for-the-agentic-era/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "saudi-pif-s-55-billion-ea-deal-approved-under-eu-merger-rul": {
+   "name": "Saudi PIF’s $55 Billion EA Deal Approved Under EU Merger Rul",
+   "country": "Saudi Arabia",
+   "region": "Middle East",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "A group of investors including Saudi Arabia's Public Investment Fund has secured EU antitrust approval for its $55 billion acquisition of video game developer Electronic Arts, the European Commission announced. Saudi Arabia's $1 trillion wealth fund, alongside Jared Kushner's Aff",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "$55 Billion",
+     "round": "",
+     "title": "Saudi PIF’s $55 Billion EA Deal Approved Under EU Merger Rules",
+     "link": "https://pulse2.com/saudi-pifs-55-billion-ea-deal-approved-under-eu-merger-rules/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "veefin": {
+   "name": "Veefin",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "BSE SME-listed Veefin Solutions has received board approval to raise up to ₹35 Cr via issuance of non-convertible debentures (NCDs).…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-07-24",
+   "events": [
+    {
+     "date": "2026-07-24",
+     "amount": "₹35",
+     "round": "Debt",
+     "title": "Veefin Gets Board Nod To Raise ₹35 Cr Debt",
+     "link": "https://inc42.com/buzz/veefin-gets-board-nod-to-raise-%e2%82%b935-cr-debt/",
      "source": "Inc42"
     }
    ]
