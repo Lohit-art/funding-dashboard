@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T14:36:31+00:00",
+ "updated": "2026-07-26T14:27:48+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -20398,6 +20398,54 @@
      "title": "Veefin Gets Board Nod To Raise ₹35 Cr Debt",
      "link": "https://inc42.com/buzz/veefin-gets-board-nod-to-raise-%e2%82%b935-cr-debt/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "reportedly-raising-funding-at-a-20-billion-valuation": {
+   "name": "reportedly raising funding at a $20 billion valuation",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-25",
+   "last_seen": "2026-07-25",
+   "events": [
+    {
+     "date": "2026-07-25",
+     "amount": "$20 billion",
+     "round": "",
+     "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+     "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "llcp": {
+   "name": "LLCP",
+   "country": "USA",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "LLCP, a Los Angeles-based private equity firm, announced the final close of LLCP Lower Middle Market IV with $2.0 billion of total capital commitments, surpassing its $1.7 billion target and closing at its hard cap. The fund was significantly oversubscribed after LLCP began marke",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-25",
+   "last_seen": "2026-07-25",
+   "events": [
+    {
+     "date": "2026-07-25",
+     "amount": "$2 Billion",
+     "round": "",
+     "title": "LLCP Closes Lower Middle Market IV At $2 Billion Hard Cap",
+     "link": "https://pulse2.com/llcp-closes-lower-middle-market-iv-at-2-billion-hard-cap/",
+     "source": "Pulse 2.0"
     }
    ]
   }
