@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T14:27:48+00:00",
+ "updated": "2026-07-27T15:41:13+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -20446,6 +20446,446 @@
      "title": "LLCP Closes Lower Middle Market IV At $2 Billion Hard Cap",
      "link": "https://pulse2.com/llcp-closes-lower-middle-market-iv-at-2-billion-hard-cap/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "europe-got-its-own-tbpn-style-live-show-and-everyone-s-angl": {
+   "name": "Europe got its own TBPN-style live show, and everyone’s angl",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LADbible, and angel investors from OpenAI and DeepMind. Wit",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "$1.6 million",
+     "round": "Seed",
+     "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+     "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "way-security": {
+   "name": "Way Security",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Insight Partners and Glilot Capital announced a $20 million investment in Way Security, a company aiming to fix the operational costs of deploying and running enterprise identity and access management systems. Way Security was founded by former security leaders Yossi Barishev and",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "$20 Million",
+     "round": "",
+     "title": "Way Security Raises $20 Million In Funding Led By Insight Partners And Glilot Capital",
+     "link": "https://pulse2.com/way-security-raises-20-million-in-funding-led-by-insight-partners-and-glilot-capital/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ominimo": {
+   "name": "Ominimo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Ominimo announced the closing of its Series B round at a $1.6 billion valuation, with the European Bank for Reconstruction and Development serving as lead investor. Just over two years after launch, the company said it is approaching one million customers across four European mar",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "$1.6 Billion",
+     "round": "Series B",
+     "title": "Ominimo Closes Series B Funding Led By EBRD At A $1.6 Billion Valuation",
+     "link": "https://pulse2.com/ominimo-closes-series-b-at-1-6-billion-valuation-led-by-ebrd/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "beelzebub": {
+   "name": "Beelzebub",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Beelzebub,an Italy-based cybersecurity startup developing an AI-native platform toprotect organisations from AI-driven cyberattacks, has raised a €3 million seedfunding round led exclusively by United...",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "€3 Million",
+     "round": "Seed",
+     "title": "Beelzebub Raises €3 Million To Arm Enterprises With AI-Powered Hacker-Trapping Technology",
+     "link": "https://pulse2.com/beelzebub-raises-e3-million-seed-round-led-by-united-ventures/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-27",
+     "amount": "€3M",
+     "round": "",
+     "title": "Beelzebub raises €3M to strengthen enterprise cyber defence with AI",
+     "link": "https://tech.eu/2026/07/27/beelzebub-raises-eur3m-to-strengthen-enterprise-cyber-defence-with-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "reportedly-in-talks-to": {
+   "name": "Reportedly In Talks To",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The Exploration Company, a Munich-based startup building what it describes as Europe's first reusable space capsule, is in talks to raise at least $300 million, according to reporting from the Financial Times. The round would value the six-year-old firm at more than $2 billion, m",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "$300 Million",
+     "round": "",
+     "title": "The Exploration Company Reportedly In Talks To Raise $300 Million At A $2 Billion Valuation",
+     "link": "https://pulse2.com/the-exploration-company-reportedly-in-talks-to-raise-300-million-at-a-2-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "elon-musk-s-the-boring-company-is-in-talks-to": {
+   "name": "Elon Musk’s The Boring Company is in talks to",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Elon Musk’s tunnelling startup The Boring Company is in talks to raise $4B at a $20B valuation, according…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "$4B",
+     "round": "",
+     "title": "Elon Musk’s The Boring Company is in talks to bag $4B at $20B valuation",
+     "link": "https://techfundingnews.com/elon-musks-the-boring-company-is-in-talks-to-bag-4b-at-20b-valuation/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "github-side-project-beelzebub-converts-microsoft-aws-and-go": {
+   "name": "GitHub side project Beelzebub converts Microsoft, AWS and Go",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Beelzebub, an open-source honeypot created by a solo researcher in Milan in 2021, raised a €3 million seed…",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "€3M",
+     "round": "Seed",
+     "title": "GitHub side project Beelzebub converts Microsoft, AWS and Google adoption into €3M seed: The exclusive pitch deck it used",
+     "link": "https://techfundingnews.com/beelzebub-3m-seed-ai-honeypot-pitch-deck/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "multiverse": {
+   "name": "Multiverse",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Multiverse Computing completed a $570 million Series C round at a $2.3 billion post-money valuation, which is five…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "$570M",
+     "round": "Growth",
+     "title": "Quantum computing startup Multiverse bags $570M at $2.3B valuation: The story behind its 96x growth in 4 years",
+     "link": "https://techfundingnews.com/multiverse-computing-570m-series-c-2-3b-valuation/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "what-s-next-for-magic-ai-varun-bhanot-on-us-expansion-glp": {
+   "name": "What’s next for Magic AI? Varun Bhanot on US expansion, GLP-",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Varun Bhanot is not afraid to talk about how many burgers he ate in his 20s. In fact,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "",
+     "round": "",
+     "title": "What’s next for Magic AI? Varun Bhanot on US expansion, GLP-1s and another funding round",
+     "link": "https://techfundingnews.com/magic-ai-founder-ceo-varun-bhanot-interview/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "milan-s-beelzebub": {
+   "name": "Milan’s Beelzebub",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Beelzebub, a Milan-based AI-native cybersecurity platform that protects digital assets from AI-driven cyber attacks, today announced a €3 million Seed funding round exclusively led by the Italian DeepTech VC United Ventures. The company plans to use this capital to fund the expan",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "€3 million",
+     "round": "Seed",
+     "title": "Milan’s Beelzebub raises €3 million to fight AI-driven cyberattacks with AI-powered hacker traps",
+     "link": "https://www.eu-startups.com/2026/07/milans-beelzebub-raises-e3-million-to-fight-ai-driven-cyberattacks-with-ai-powered-hacker-traps/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "manchester-s-nuclear-turbines": {
+   "name": "Manchester’s Nuclear Turbines",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Nuclear Turbines, a Manchester-based startup developing compact, cost-effective, advanced nuclear power systems, has raised a €17.5 million (£15 million) foundational round led by IQ Capital, joined by Rhapsody Venture Partners, Zero Carbon Capital and Empirical Ventures. The com",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "€17.5 million",
+     "round": "",
+     "title": "Manchester’s Nuclear Turbines raises €17.5 million to develop compact, cost-effective nuclear power systems",
+     "link": "https://www.eu-startups.com/2026/07/manchesters-nuclear-turbines-raises-e17-5-million-to-develop-compact-cost-effective-nuclear-power-systems/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "spain-s-multiverse-computing-hits-unicorn-status-after-raisi": {
+   "name": "Spain’s Multiverse Computing hits unicorn status after raisi",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Multiverse Computing, a San Sebastian-based AI scale-up focused on sovereign and efficient AI, today announced a €500 million ($570 million) Series C at a €1.5 billion ($1.7 billion) pre-money valuation, five times its Series B valuation. The round was co-led by Forgepoint Capita",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "€500 million",
+     "round": "Series C",
+     "title": "Spain’s Multiverse Computing hits unicorn status after raising €500 million Series C at €1.5 billion valuation",
+     "link": "https://www.eu-startups.com/2026/07/spains-multiverse-computing-hits-unicorn-status-after-raising-e500-million-series-c-at-e1-5-billion-valuation/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "profitable-serbian-hungarian-insurtech-ominimo-hits-unicorn": {
+   "name": "Profitable Serbian-Hungarian InsurTech Ominimo hits unicorn ",
+   "country": "Hungary",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Ominimo, a Serbian-Hungarian InsurTech startup, has completed a Series B funding round with the venture capital arm of the European Bank for Reconstruction and Development (EBRD), at a €1.4 billion ($1.6 billion) valuation.  The profitable company plans to use the capital to acce",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "€1.4 billion",
+     "round": "Series B",
+     "title": "Profitable Serbian-Hungarian InsurTech Ominimo hits unicorn status two years after launch",
+     "link": "https://www.eu-startups.com/2026/07/profitable-serbian-hungarian-insurtech-ominimo-hits-unicorn-status-two-years-after-launch-raises-e20-1-million-at-e1-4-billion-valuation/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "multiverse-computing-targeting-up-to-570m-in-latest-round": {
+   "name": "Multiverse Computing targeting up to $570M in latest round",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "A Spanish scaleup looking to make AI cheaper and more efficient for enterprises says it is targeting up to $570m in its latest funding round, at an elevated $1.7bn valuation. Multiverse Computing is w...",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "$570M",
+     "round": "",
+     "title": "Multiverse Computing targeting up to $570M in latest round",
+     "link": "https://tech.eu/2026/07/27/multiverse-computing-says-has-funding-commitments-up-to-570m-in-latest-round/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "bae-systems-energy-spinout-nuclear-turbines-emerges-from-st": {
+   "name": "BAE Systems' energy spinout Nuclear Turbines emerges from st",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "A BAE Systems spinout whose tech could help generate electricity at one-fifth of the cost of today’s nuclear power plants has come out of stealth, securing a £15m funding round led by IQ Capital. Manc...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "£15M",
+     "round": "",
+     "title": "BAE Systems' energy spinout Nuclear Turbines emerges from stealth with £15M raise",
+     "link": "https://tech.eu/2026/07/27/bae-systems-energy-spinout-nuclear-turbines-emerges-from-stealth-with-ps15m-raise/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "indiamart-to-invest-65-cr-more-in-fleetx": {
+   "name": "IndiaMART To Invest ₹65 Cr More In Fleetx",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "B2B ecommerce platform IndiaMART InterMESH has entered into an agreement to invest about ₹65 Cr in fleet management startup Fleetx,…",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "₹65",
+     "round": "",
+     "title": "IndiaMART To Invest ₹65 Cr More In Fleetx, Raise Stake To 25.8%",
+     "link": "https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ev-manufacturer-omega-seiki": {
+   "name": "EV Manufacturer Omega Seiki",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Electric vehicle manufacturer Omega Seiki Mobility (OSM) has secured ₹50 Cr ($5.2 Mn) in a fresh funding round from Saket…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "₹50",
+     "round": "",
+     "title": "EV Manufacturer Omega Seiki Nets ₹50 Cr To Expand Capacity",
+     "link": "https://inc42.com/buzz/ev-manufacturer-omega-seiki-nets-%e2%82%b950-cr-to-expand-capacity/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "tenor": {
+   "name": "Tenor",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Québec crypto startup wants a world where more borrowing happens on-chain. \n The post  Tenor raises $2.5 million USD to build blockchain-based lending platform  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "$2.5 million",
+     "round": "",
+     "title": "Tenor raises $2.5 million USD to build blockchain-based lending platform",
+     "link": "https://betakit.com/tenor-raises-2-5-million-usd-to-build-blockchain-based-lending-platform/",
+     "source": "BetaKit"
     }
    ]
   }
