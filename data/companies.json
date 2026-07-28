@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T15:41:13+00:00",
+ "updated": "2026-07-28T15:19:18+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -17930,10 +17930,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "established",
-   "summary": "Xentra, a Leeds-based digital security startup providing cybersecurity, safeguarding and compliance solutions to SMEs, has secured a €3.18 million (£2.7 million) investment from the Maven VCTs and NPIF II – Maven Equity Finance to support its next phase of growth. This investment",
+   "summary": "Xentra, a Leeds-based digital security specialist, secured a £2.7 million growth capital investment from Maven, advised by K3 Deal Advisory. Xentra provides subscription-based cyber security, safeguarding, and compliance solutions, supporting more than 90 organizations, including",
    "audience": "General / mixed",
    "first_seen": "2026-07-20",
-   "last_seen": "2026-07-20",
+   "last_seen": "2026-07-28",
    "events": [
     {
      "date": "2026-07-20",
@@ -17942,6 +17942,14 @@
      "title": "Leeds-based Xentra secures €3.18 million to scale cybersecurity services for SMEs",
      "link": "https://www.eu-startups.com/2026/07/leeds-based-xentra-secures-e3-18-million-to-scale-cybersecurity-services-for-smes/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-28",
+     "amount": "£2.7 Million",
+     "round": "Growth",
+     "title": "Xentra Secures £2.7 Million Investment From Maven",
+     "link": "https://pulse2.com/xentra-secures-2-7-million-investment-from-maven/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -18498,10 +18506,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Omio, Berlin’s multimodal travel booking platform, has announced a €8.7 million ($10 million) strategic investment in order to accelerate its expansion in Japan and strengthen its presence across Southeast Asia – a growing travel destination. The investment came from Granite-Inte",
+   "summary": "Omio announced a $10 million strategic investment from Granite-Integral to accelerate its expansion across Japan and Southeast Asia. The investment was revealed just days after Omio announced an agreement to acquire Rail Europe, reflecting the travel platform's broader effort to ",
    "audience": "General / mixed",
    "first_seen": "2026-07-21",
-   "last_seen": "2026-07-21",
+   "last_seen": "2026-07-28",
    "events": [
     {
      "date": "2026-07-21",
@@ -18510,6 +18518,14 @@
      "title": "Omio raises €8.7 million strategic investment for Asian expansion",
      "link": "https://www.eu-startups.com/2026/07/omio-raises-e8-7-million-strategic-investment-for-asian-expansion/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-28",
+     "amount": "$10 Million",
+     "round": "",
+     "title": "Omio Raises $10 Million From Granite-Integral To Accelerate Japan And Southeast Asia Expansion",
+     "link": "https://pulse2.com/omio-raises-10-million-from-granite-integral-to-accelerate-japan-and-southeast-asia-expansion/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -20886,6 +20902,630 @@
      "title": "Tenor raises $2.5 million USD to build blockchain-based lending platform",
      "link": "https://betakit.com/tenor-raises-2-5-million-usd-to-build-blockchain-based-lending-platform/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "co-founded-by-former-whoop-cto-throne-science": {
+   "name": "Co-Founded By Former Whoop CTO, Throne Science",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Throne Science, a startup that makes an AI-powered toilet camera to track gut health and hydration, has raised $10 million in a Series A round led by Will Ventures, it told Crunchbase News exclusively. Emerson Collective, Workshop, LEAD VC, Salt VC, Accomplice, Moxxie Ventures, a",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$10M",
+     "round": "Series A",
+     "title": "Exclusive: Co-Founded By Former Whoop CTO, Throne Science Raises $10M To Track Gut Health From The Toilet",
+     "link": "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "ai-seed-investors-flock-to-cybersecurity": {
+   "name": "AI Seed Investors Flock To Cybersecurity",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Startups at the intersection of AI and security have raised $855 million across more than 150 reported seed-stage rounds this year, per Crunchbase data.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$855 million",
+     "round": "Seed",
+     "title": "AI Seed Investors Flock To Cybersecurity",
+     "link": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "zuriq": {
+   "name": "ZuriQ",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Swiss quantum computingstartup ZuriQ has raised $25.5 million in seed funding to accelerate thedevelopment of its trapped-ion quantum processors. The round was led byQuantonation, with participation f...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$25.5 Million",
+     "round": "Seed",
+     "title": "ZuriQ Raises $25.5 Million Seed Round To Scale Two-Dimensional Quantum Computing Architecture",
+     "link": "https://pulse2.com/zuriq-raises-25-5-million-seed-round-to-scale-two-dimensional-quantum-computing-architecture/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-28",
+     "amount": "€22.4 million",
+     "round": "Seed",
+     "title": "Zürich-based ZuriQ raises €22.4 million to scale its 2D trapped-ion quantum processors",
+     "link": "https://www.eu-startups.com/2026/07/zurich-based-zuriq-raises-e22-4-million-to-scale-its-2d-trapped-ion-quantum-processors/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-28",
+     "amount": "$25.5M",
+     "round": "Seed",
+     "title": "ZuriQ raises $25.5M to scale its breakthrough 2D quantum architecture",
+     "link": "https://tech.eu/2026/07/28/zuriq-raises-255m-to-scale-its-breakthrough-2d-quantum-architecture/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cheiron": {
+   "name": "Cheiron",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Cheiron has raised $8 million in seed funding to develop an artificial intelligence-native operating system for managing drug development programs. The round was led by Menlo Ventures, with backing and strategic support from investors and industry leaders including Moderna co-fou",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$8 Million",
+     "round": "Seed",
+     "title": "Cheiron Raises $8 Million Seed Round Led By Menlo Ventures For AI-Native Drug Development Platform",
+     "link": "https://pulse2.com/cheiron-raises-8-million-seed-round-led-by-menlo-ventures-for-ai-native-drug-development-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "freight-hero": {
+   "name": "Freight Hero",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Freight Hero has raised $5 million in seed funding to expand its artificial intelligence-powered service for managing freight brokers' back-office operations. The round was led by Field Ventures, with participation from Flybridge Capital, Tip Top VC and Front Porch Venture Partne",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$5 Million",
+     "round": "Seed",
+     "title": "Freight Hero Raises $5 Million Seed Round Led By Field Ventures",
+     "link": "https://pulse2.com/freight-hero-raises-5-million-seed-round-led-by-field-ventures/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cathedral-reportedly": {
+   "name": "Cathedral Reportedly",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Cathedral, a newly formed defense technology startup founded by former Department of Government Efficiency employees, has raised $160 million at a $1.4 billion valuation, according to Reuters. Andreessen Horowitz and Sequoia Capital reportedly led the round, with representatives ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$160 Million",
+     "round": "",
+     "title": "Cathedral Reportedly Raises $160 Million At $1.4 Billion Valuation For AI-Powered Military Cyber Operations",
+     "link": "https://pulse2.com/cathedral-reportedly-raises-160-million-at-1-4-billion-valuation-for-ai-powered-military-cyber-operations/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "khosla-ventures-reportedly-in-talks-to": {
+   "name": "Khosla Ventures Reportedly In Talks To",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Khosla Ventures, an early investor in OpenAI, is in discussions to raise up to $5.5 billion across a new group of venture capital funds, according to a Bloomberg report. \n The post  Khosla Ventures Reportedly In Talks To Raise $5.5 Billion In New Funds  appeared first on  Pulse 2",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$5.5 Billion",
+     "round": "",
+     "title": "Khosla Ventures Reportedly In Talks To Raise $5.5 Billion In New Funds",
+     "link": "https://pulse2.com/khosla-ventures-reportedly-in-talks-to-raise-5-5-billion-in-new-funds/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "brookfield": {
+   "name": "Brookfield",
+   "country": "Saudi Arabia",
+   "region": "Middle East",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Brookfield has raised approximately $2 billion at the first close of Brookfield Middle East Partners, a new private equity fund anchored by Saudi Arabia's Public Investment Fund. \n The post  Brookfield Raises About $2 Billion At First Close Of PIF-Anchored Middle East Fund  appea",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$2 Billion",
+     "round": "",
+     "title": "Brookfield Raises Approximately $2 Billion At First Close Of PIF-Anchored Middle East Fund",
+     "link": "https://pulse2.com/brookfield-raises-approximately-2-billion-at-first-close-of-pif-anchored-middle-east-fund/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-28",
+     "amount": "$2 Billion",
+     "round": "",
+     "title": "Brookfield Raises About $2 Billion At First Close Of PIF-Anchored Middle East Fund",
+     "link": "https://pulse2.com/brookfield-raises-about-2-billion-at-first-close-of-pif-anchored-middle-east-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "antares": {
+   "name": "Antares",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The U.S. government gave itself a deadline it did not yet have the technology to meet. Executive Order…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$470M",
+     "round": "",
+     "title": "Antares raises $470M to beat Washington’s own deadline for military nuclear power",
+     "link": "https://techfundingnews.com/antares-raises-470m-to-beat-washingtons-own-deadline-for-military-nuclear-power-can-it-make-it/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "dwelly": {
+   "name": "Dwelly",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Dwelly, a London startup that buys UK letting agencies and uses AI to run them, has raised $170…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$170M",
+     "round": "",
+     "title": "Dwelly lands $170M from EQT and General Catalyst, backed by ElevenLabs, Legora and Synthesia’s CEOs, to automate UK lettings",
+     "link": "https://techfundingnews.com/dwelly-170m-eqt-general-catalyst-ai-lettings/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "a-17-year-old-microsoft-prodigy": {
+   "name": "A 17-year-old Microsoft prodigy",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Infrastructure & tools",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Jonathan Jacobi’s journey into artificial intelligence started unusually early. He began studying computer science at just 13, completed…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$71M",
+     "round": "",
+     "title": "A 17-year-old Microsoft prodigy bags $71M to bring AI robots into the real world",
+     "link": "https://techfundingnews.com/a-17-year-old-microsoft-prodigy-bags-71m-to-bring-ai-robots-into-the-real-world/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "backed-by-ex-dhl-and-maersk-execs-5u-ai": {
+   "name": "Backed by ex-DHL and Maersk execs, 5U AI",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Shipment delays often happen because important information is buried in emails, missed in spreadsheets, or not written down…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$3.2M",
+     "round": "",
+     "title": "Backed by ex-DHL and Maersk execs, 5U AI raises $3.2M to tackle freight forwarding with AI",
+     "link": "https://techfundingnews.com/5u-ai-3-2m-pre-seed-freight-forwarding-ai-workers/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "eth-zu-rich-spin-out-zuriq": {
+   "name": "ETH Zürich spin-out ZuriQ",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Pavel Hrmo recalls the initial challenges activating ZuriQ’s prototype ion trap. Early on, the device failed silently without…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$25.5M",
+     "round": "",
+     "title": "ETH Zürich spin-out ZuriQ raises $25.5M, taking on IonQ and Quantinuum’s 1D design",
+     "link": "https://techfundingnews.com/zuriq-25-5m-seed-2d-trapped-ion-quantum-chip/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "foodlabs-and-eka-ventures-lead-6m-seed-round-for-female-led": {
+   "name": "FoodLabs and Eka Ventures lead $6M seed round for female-led",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "DITTO, a UK-based menstrual health startup led by women, has raised a $6 million seed round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$6M",
+     "round": "Seed",
+     "title": "FoodLabs and Eka Ventures lead $6M seed round for female-led menstrual health startup DITTO",
+     "link": "https://techfundingnews.com/ditto-6m-seed-foodlabs-eka-ventures-menstrual-health/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "dutch-us-medtech-xeltis": {
+   "name": "Dutch-US MedTech Xeltis",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Xeltis, a commercial-stage MedTech company based in the Netherlands and the USA, developing artificial vessels and valves that are gradually replaced by patients’ own living healthy tissue, has raised an additional €20.5 million in new funding. This funding was secured from new a",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "€20.5 million",
+     "round": "",
+     "title": "Dutch-US MedTech Xeltis raises €20.5 million to advance artificial vessels and valves replaced by patients’ own tissue",
+     "link": "https://www.eu-startups.com/2026/07/dutch-us-medtech-xeltis-raises-e20-5-million-to-advance-artificial-vessels-and-valves-replaced-by-patients-own-tissue/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "tiger-technology": {
+   "name": "Tiger Technology",
+   "country": "Bulgaria",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Tiger Technology, a Sofia-based file data services company that specialises in on-premises-first hybrid cloud workflows, today announced the initial closing of a €8.7 million ($10 million) Series A financing round.  The round was led by TCEE Fund IV, advised by 3TS Capital Partne",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "€8.7 million",
+     "round": "Series A",
+     "title": "Sofia-based Tiger Technology raises €8.7 million to advance always-on hybrid cloud data infrastructure",
+     "link": "https://www.eu-startups.com/2026/07/sofia-based-tiger-technology-raises-e8-7-million-to-advance-always-on-hybrid-cloud-data-infrastructure/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ditto": {
+   "name": "DITTO",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "DITTO, the scientist-founded menstrual health company, today announced a €5.2 million ($6 million) Seed round to accelerate its research projects, expand its science-led supplement range and increase its reach.  The round was led by FoodLabs, with support from returning investor ",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "€5.2 million",
+     "round": "Seed",
+     "title": "DITTO raises €5.2 million to tackle menstrual health gaps with research and targeted supplements",
+     "link": "https://www.eu-startups.com/2026/07/ditto-raises-e5-2-million-to-tackle-menstrual-health-gaps-with-research-and-targeted-supplements/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "greyparrot": {
+   "name": "Greyparrot",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "London-based AIwaste intelligence company Greyparrot has raised $27 million in Series Bfunding, bringing its total funding to $60 million. The round was led bytechnology investor Omar Mir and comes af...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$27M",
+     "round": "Series B",
+     "title": "Greyparrot secures $27M Series B to scale AI waste intelligence for the circular economy",
+     "link": "https://tech.eu/2026/07/28/greyparrot-secures-27m-series-b-to-scale-ai-waste-intelligence-for-the-circular-economy/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "5u-ai": {
+   "name": "5U AI",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Munich-based logisticsAI startup 5U AI has raised $3.2 million in pre-seed funding to scale itsdigital workforce platform for freight forwarding teams. The round was led byLondon-based Emerge Capital....",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$3.2M",
+     "round": "Pre-Seed",
+     "title": "5U AI lands $3.2M pre-seed for AI freight workforce platform",
+     "link": "https://tech.eu/2026/07/28/5u-ai-lands-32m-pre-seed-for-ai-freight-workforce-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "perceptual-robotics": {
+   "name": "Perceptual Robotics",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "UK wind technology company Perceptual Robotics has securedover £4 million in funding so far this year. The funding combines investmentfrom new and existing shareholders, including Investing for Purpos...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "£4M",
+     "round": "",
+     "title": "Perceptual Robotics secures £4M+ to scale AI-powered wind inspections",
+     "link": "https://tech.eu/2026/07/28/perceptual-robotics-secures-ps4m-to-scale-ai-powered-wind-inspections/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "inflexor-ventures-marks-first": {
+   "name": "Inflexor Ventures Marks First",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Tech-focused VC firm Inflexor Ventures has marked the first close of its ₹1,250 Cr Inflexor Technology Discovery Fund at ₹400…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "₹400",
+     "round": "",
+     "title": "Inflexor Ventures Marks First Close of Fund III At ₹400 Cr",
+     "link": "https://inc42.com/buzz/inflexor-ventures-marks-first-close-of-fund-iii-at-%e2%82%b9400-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "icici-prudential-mf": {
+   "name": "ICICI Prudential MF",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "ICICI Prudential Mutual Fund has increased its stake in listed logistics company Shadowfax Technologies to 8.56% after acquiring a net…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "",
+     "round": "",
+     "title": "ICICI Prudential MF Raises Shadowfax Stake To 8.56% After Buying 89 Lakh Shares",
+     "link": "https://inc42.com/buzz/icici-prudential-mf-raises-shadowfax-stake-to-8-56-after-buying-89-lakh-shares/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "paediatric-medtech-navi": {
+   "name": "Paediatric medtech Navi",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Navi lands $6.8m to push its FDA-cleared newborn catheter tech into US hospitals and save lives.",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$6.8 million",
+     "round": "",
+     "title": "Paediatric medtech Navi raises $6.8 million",
+     "link": "https://www.startupdaily.net/topic/funding/paediatric-medtech-navi-raises-6-8-million/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "using-ai-to-predict-grain-crops-plants-1-million-first": {
+   "name": "using AI to predict grain crops plants $1 million first",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Octopusbot banks $1M to weaponise AI grain forecasts 7 months early, helping farmers beat market chaos.",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "$1 million",
+     "round": "",
+     "title": "Agtech startup using AI to predict grain crops plants $1 million first raise",
+     "link": "https://www.startupdaily.net/topic/funding/agtech-startup-using-ai-to-predict-grain-crops-plants-1-million-first-raise/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "ai-amateur-sport-analysis-startup": {
+   "name": "AI amateur sport analysis startup",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Superstat bags $3.5m to drag amateur sport analysis into the AI era, then bolts for Austin.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-07-27",
+   "events": [
+    {
+     "date": "2026-07-27",
+     "amount": "$3.5 million",
+     "round": "Pre-Seed",
+     "title": "AI amateur sport analysis startup raises $3.5 million pre-Seed",
+     "link": "https://www.startupdaily.net/topic/funding/ai-amateur-sport-analysis-startup-raises-3-5-million-pre-seed/",
+     "source": "Startup Daily"
     }
    ]
   }
