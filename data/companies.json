@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T15:19:18+00:00",
+ "updated": "2026-07-29T15:30:56+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -21346,10 +21346,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "London-based AIwaste intelligence company Greyparrot has raised $27 million in Series Bfunding, bringing its total funding to $60 million. The round was led bytechnology investor Omar Mir and comes af...",
+   "summary": "Omar Mir has spent 25 years building AI infrastructure businesses and sitting on the board of one of…",
    "audience": "General / mixed",
    "first_seen": "2026-07-28",
-   "last_seen": "2026-07-28",
+   "last_seen": "2026-07-29",
    "events": [
     {
      "date": "2026-07-28",
@@ -21358,6 +21358,14 @@
      "title": "Greyparrot secures $27M Series B to scale AI waste intelligence for the circular economy",
      "link": "https://tech.eu/2026/07/28/greyparrot-secures-27m-series-b-to-scale-ai-waste-intelligence-for-the-circular-economy/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-07-29",
+     "amount": "$27M",
+     "round": "",
+     "title": "London-based Greyparrot raises $27M to prove waste data is worth more than the machines sorting it",
+     "link": "https://techfundingnews.com/london-based-greyparrot-raises-27m-to-prove-waste-data-is-worth-more-than-the-machines-sorting-it/",
+     "source": "Tech Funding News"
     }
    ]
   },
@@ -21525,6 +21533,614 @@
      "round": "Pre-Seed",
      "title": "AI amateur sport analysis startup raises $3.5 million pre-Seed",
      "link": "https://www.startupdaily.net/topic/funding/ai-amateur-sport-analysis-startup-raises-3-5-million-pre-seed/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "former-meta-and-slack-engineers": {
+   "name": "Former Meta And Slack Engineers",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Centralize, an enterprise sales platform, emerges from stealth and shares exclusive news of its $15 million Series A funding round with Crunchbase News.",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$15M",
+     "round": "Series A",
+     "title": "Exclusive: Former Meta And Slack Engineers Raise $15M For New Startup Centralize To Build A ‘Deal GPS’ For Enterprise Sales",
+     "link": "https://news.crunchbase.com/sales-marketing/centralize-enterprise-sales-gtm-startup-funding-slack-meta-alums/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "freehand": {
+   "name": "Freehand",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Freehand, an AI startup building autonomous agents for enterprise supply chain operations, has raised $75 Mn (₹718 Cr) in a…",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$75M",
+     "round": "Series B",
+     "title": "Freehand Raises $75M Series B To Automate Fortune 500 Supply Chain Spend",
+     "link": "https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/",
+     "source": "Crunchbase News"
+    },
+    {
+     "date": "2026-07-29",
+     "amount": "$75M",
+     "round": "",
+     "title": "Freehand raises $75M as Meta and Unilever hand their supply chains to AI agents",
+     "link": "https://techfundingnews.com/freehand-raises-75m-as-meta-and-unilever-hand-their-supply-chains-to-ai-agents/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-29",
+     "amount": "$75 Mn",
+     "round": "",
+     "title": "Freehand Raises $75 Mn To Expand Enterprise AI Platform",
+     "link": "https://inc42.com/buzz/freehand-raises-75-mn-to-expand-enterprise-ai-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "chipagents-expands-series-a-to-134-million-to-scale-autonom": {
+   "name": "ChipAgents Expands Series A To $134 Million To Scale Autonom",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "ChipAgents has raised an additional $60 million in Series A2 financing, expanding its Series A round to $134 million six months after the initial closing. B Capital joined the round as a new investor alongside Bessemer Venture Partners, Micron, MediaTek, Ericsson, ScOp and other ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$134 Million",
+     "round": "Series A",
+     "title": "ChipAgents Expands Series A To $134 Million To Scale Autonomous Semiconductor Design Platform",
+     "link": "https://pulse2.com/chipagents-expands-series-a-to-134-million-to-scale-autonomous-semiconductor-design-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "curant-ai": {
+   "name": "Curant.ai",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Curant.ai has raised $3.1 million in seed funding to expand its AI platform for insurance claims and support broader adoption across the industry. The round was led by Diagram, with participation from Humania Insurance, Element Ventures, Blue Plains Capital and several angel inve",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$3.1 Million",
+     "round": "Seed",
+     "title": "Curant.ai Raises $3.1 Million Seed Round Led By Diagram For AI-Powered Insurance Platform",
+     "link": "https://pulse2.com/curant-ai-raises-3-1-million-seed-round-led-by-diagram-for-ai-powered-insurance-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "olomon": {
+   "name": "Olomon",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Olomon has raised $2.6 million through an oversubscribed pre-seed financing round to expand its financial recordkeeping and collaboration platform for households and their professional advisors. \n The post  Olomon Raises $2.6 Million Pre-Seed Round To Build Financial System Of Re",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$2.6 Million",
+     "round": "Pre-Seed",
+     "title": "Olomon Raises $2.6 Million Pre-Seed Round To Build Financial System Of Record For Households",
+     "link": "https://pulse2.com/olomon-raises-2-6-million-pre-seed-round-to-build-financial-system-of-record-for-households/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "terminal": {
+   "name": "Terminal",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Terminal has raised $20 million in Series A funding to expand its unified telematics integration platform across the insurance, fleet management, logistics and financial services industries. The financing brings the Toronto-based company's total funding to $26 million since its f",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$20 Million",
+     "round": "Series A",
+     "title": "Terminal Raises $20 Million Series A To Scale Unified Telematics Data Infrastructure Platform",
+     "link": "https://pulse2.com/terminal-raises-20-million-series-a-to-scale-unified-telematics-data-infrastructure-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "revspot": {
+   "name": "Revspot",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI sales automation startup Revspot has raised $4.8 Mn (about ₹45.9 Cr) in its Series A funding round co-led by…",
+   "audience": "Consumers",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$4.8 Million",
+     "round": "Series A",
+     "title": "Revspot Raises $4.8 Million Series A To Scale AI-Native Qualified Pipeline Generation Platform",
+     "link": "https://pulse2.com/revspot-raises-4-8-million-series-a-to-scale-ai-native-qualified-pipeline-generation-platform/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-07-29",
+     "amount": "$4.8 Mn",
+     "round": "Series A",
+     "title": "Revspot Raises $4.8 Mn To Scale AI Sales Automation Platform",
+     "link": "https://inc42.com/buzz/revspot-raises-4-8-mn-to-scale-ai-sales-automation-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "mirae": {
+   "name": "Mirae",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Mirae has raised $5.4 million in funding to expand an artificial intelligence-driven continuous care platform for autoimmune diseases and other complex chronic conditions. The round was led by Oxford Science Enterprises. \n The post  Mirae Raises $5.4 Million To Expand AI-Powered ",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$5.4 Million",
+     "round": "",
+     "title": "Mirae Raises $5.4 Million To Expand AI-Powered Specialty Care For Autoimmune Disease",
+     "link": "https://pulse2.com/mirae-raises-5-4-million-to-expand-ai-powered-specialty-care-for-autoimmune-disease/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "unit-ai": {
+   "name": "UNIT AI",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Guy Glass already built one warehouse robotics company and sold it to an industrial giant. Now he has…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$12M",
+     "round": "",
+     "title": "UNIT AI raises $12M from Prologis Ventures and sennder-backer Dynamo to modularise warehouse automation",
+     "link": "https://techfundingnews.com/unit-ai-raises-12m-from-prologis-ventures-and-sennder-backer-dynamo-to-modularise-warehouse-automation/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "micron-mediatek-back-chipagents-as-ai-startup-extends-serie": {
+   "name": "Micron, MediaTek back ChipAgents as AI startup extends serie",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Tech Funding News has watched this pattern build for nine months straight: strategic semiconductor investors keep writing checks…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$134M",
+     "round": "Series A",
+     "title": "Micron, MediaTek back ChipAgents as AI startup extends series A to $134M on 6x ARR growth",
+     "link": "https://techfundingnews.com/micron-mediatek-back-chipagents-as-ai-startup-extends-series-a-to-134m-on-6x-arr-growth/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "ex-anduril-and-applied-intuition-duo": {
+   "name": "Ex-Anduril and Applied Intuition duo",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Time freedom",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Most autonomous weapons and command systems use AI, which needs high-quality training data. In defence, this data is…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$30M",
+     "round": "",
+     "title": "Ex-Anduril and Applied Intuition duo raise $30M for European defence AI infrastructure",
+     "link": "https://techfundingnews.com/agon-30m-seed-defence-ai-training-data/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "spur-intelligence-built-by-ex-pentagon-engineers": {
+   "name": "Spur Intelligence, built by ex-Pentagon engineers",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Security & trust",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Behavioural analytics has been the default fraud-detection tool for a decade. Generative AI is quietly breaking it, since…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$200M",
+     "round": "",
+     "title": "Spur Intelligence, built by ex-Pentagon engineers, lands $200M as AI makes fraud harder to trace",
+     "link": "https://techfundingnews.com/spur-intelligence-built-by-ex-pentagon-engineers-lands-200m-as-ai-makes-fraud-harder-to-trace/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "uk-energy-tech-startups": {
+   "name": "UK energy tech startups",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The UK venture market lost £10 billion between 2021 and 2025. One corner of it quadrupled. While overall…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "£260M",
+     "round": "",
+     "title": "UK energy tech startups raised a record £260M in 2025, but no unicorn in sight",
+     "link": "https://techfundingnews.com/uk-energytech-funding-260m-record-ai-deals/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "cambridge-s-qureight": {
+   "name": "Cambridge’s Qureight",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Qureight, a Cambridge company building AI imaging tools for lung and heart clinical trials, has closed a $20…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$20M",
+     "round": "",
+     "title": "Exclusive: Cambridge’s Qureight raises $20M to bring AI to lung and heart clinical trials",
+     "link": "https://techfundingnews.com/qureight-20m-series-b-ai-imaging-clinical-trials/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "drivalia": {
+   "name": "Drivalia",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Drivalia, a Rome-based rental and mobility company of the Crédit Agricole Auto Bank (CAAB) group, and the European Investment Bank (EIB) have signed a €48 million financing agreement to support the development of electric mobility in Italy and Finland.  This EIB financing will en",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "€48 million",
+     "round": "",
+     "title": "Drivalia secures €48 million EIB financing to boost electric mobility in Italy and Finland",
+     "link": "https://www.eu-startups.com/2026/07/drivalia-secures-e48-million-eib-financing-to-boost-electric-mobility-in-italy-and-finland/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "sigvi": {
+   "name": "Sigvi",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Sigvi, anAI-powered revenue platform for the car rental industry, has raised €1.2million in pre-seed funding to accelerate product development and internationalexpansion. The round was led by Superher...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "€1.2 million",
+     "round": "Pre-Seed",
+     "title": "Vilnius-based Sigvi raises €1.2 million to scale its AI-powered car rental platform across Europe",
+     "link": "https://www.eu-startups.com/2026/07/vilnius-based-sigvi-raises-e1-2-million-to-scale-its-ai-powered-car-rental-platform-across-europe/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-29",
+     "amount": "€1.2M",
+     "round": "Pre-Seed",
+     "title": "Sigvi raises €1.2M to expand automated car rental operations",
+     "link": "https://tech.eu/2026/07/29/sigvi-raises-eur12m-to-expand-automated-car-rental-operations/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "wild-bio-acquires-f1-seed-to-create-britain-s-first-independ": {
+   "name": "Wild Bio acquires F1 Seed to create Britain’s first independ",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Wild Bioscience (Wild Bio), an Oxford University AgTech spinout that designs improved crops for resilient agriculture, has acquired F1 Seed, a Suffolk-based independent wheat breeding business.  With this acquisition, Wild Bio becomes a fully integrated, end-to-end UK seed compan",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "€51 million",
+     "round": "Seed",
+     "title": "Wild Bio acquires F1 Seed to create Britain’s first independent precision-breeding wheat business",
+     "link": "https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "plend": {
+   "name": "Plend",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Plend, a London-based responsible lender dedicated to tackling financial exclusion across the UK, has secured a funding facility of up to €58.3 million (£50 million) from Triple Point, a London-based specialist investment manager.  The investment firm has originated a €23.2 milli",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "€58.3 million",
+     "round": "",
+     "title": "London-based responsible lending FinTech Plend secures funding facility of up to €58.3 million",
+     "link": "https://www.eu-startups.com/2026/07/london-based-responsible-lending-fintech-plend-secures-funding-facility-of-up-to-e58-3-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "kinematic-trees": {
+   "name": "Kinematic Trees",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK-based robotics software startupKinematic Trees has raised £585,000 in pre-seed funding to accelerate thedevelopment of its robot-agnostic software platform and expand its commercialand engineering ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "£585K",
+     "round": "Pre-Seed",
+     "title": "Kinematic Trees raises £585K to scale nature-inspired robotics software",
+     "link": "https://tech.eu/2026/07/29/kinematic-trees-raises-ps585k-to-scale-nature-inspired-robotics-software/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "qureight": {
+   "name": "Qureight",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Qureight, an end-to-end imaging company that provides enterprise-grade imaging and precision endpoints for clinical trials with a focus on lung and heart disease, today announced it has raised $20 mil...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$20M",
+     "round": "Series B",
+     "title": "Qureight secures $20M Series B to expand AI-powered imaging platform for clinical trials",
+     "link": "https://tech.eu/2026/07/29/qureight-secures-20m-series-b-to-expand-ai-powered-imaging-platform-for-clinical-trials/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "centre-invests-22-5k-cr-in-128-startups-via-electronics-dev": {
+   "name": "Centre Invests ₹22.5K Cr In 128 Startups Via Electronics Dev",
+   "country": "India",
+   "region": "Asia",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Startups and companies backed through the government’s Electronics Development Fund (EDF) have collectively raised about ₹22,553.82 Cr, union minister of…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "₹22.5K",
+     "round": "",
+     "title": "Centre Invests ₹22.5K Cr In 128 Startups Via Electronics Development Fund",
+     "link": "https://inc42.com/buzz/centre-invests-%e2%82%b922-5k-cr-in-128-startups-via-electronics-development-fund/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "building-materials-quick-commerce-startup-fixxly": {
+   "name": "Building Materials Quick Commerce Startup Fixxly",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Building materials quick commerce startup Fixxly has raised $5.5 Mn (₹52.6 Cr) in a seed funding round from Accel, Fireside…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$5.5 Mn",
+     "round": "Seed",
+     "title": "Building Materials Quick Commerce Startup Fixxly Raises $5.5 Mn",
+     "link": "https://inc42.com/buzz/building-materials-quick-commerce-startup-fixxly-raises-5-5-mn/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "y-combinator-grad-terminal": {
+   "name": "Y Combinator grad Terminal",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Toronto startup landed Fortune 500 customers with almost no sales team. Now, it’s shifting gears. \n The post  Y Combinator grad Terminal raises $20-million USD Series A round  first appeared on  BetaKit .",
+   "audience": "Enterprises",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "$20",
+     "round": "Series A",
+     "title": "Y Combinator grad Terminal raises $20-million USD Series A round",
+     "link": "https://betakit.com/y-combinator-grad-terminal-raises-20-million-usd-series-a-round/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "takes-off-with-10-5-million-pre-seed": {
+   "name": "takes off with $10.5 million pre-Seed",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Outlier Space bags $10.5m to turn orbit into an uncrewed factory for drugs and chips using reusable capsules.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-07-28",
+   "events": [
+    {
+     "date": "2026-07-28",
+     "amount": "$10.5 million",
+     "round": "Pre-Seed",
+     "title": "Kiwi space capsule startup takes off with $10.5 million pre-Seed raise",
+     "link": "https://www.startupdaily.net/topic/funding/kiwi-space-capsule-startup-takes-off-with-10-5-million-pre-seed-raise/",
      "source": "Startup Daily"
     }
    ]
