@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T15:30:56+00:00",
+ "updated": "2026-07-30T15:08:56+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -22142,6 +22142,654 @@
      "title": "Kiwi space capsule startup takes off with $10.5 million pre-Seed raise",
      "link": "https://www.startupdaily.net/topic/funding/kiwi-space-capsule-startup-takes-off-with-10-5-million-pre-seed-raise/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "inforcer": {
+   "name": "Inforcer",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "UK-basedinforcer has raised $50 million in a Series C funding round led by Insight Partners, with participation from existing investors Meritech Capital and Dawn Capital.inforcer develops a unified Mi...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$50M",
+     "round": "Series C",
+     "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+     "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+     "source": "TechCrunch Venture"
+    },
+    {
+     "date": "2026-07-30",
+     "amount": "$50M",
+     "round": "Series C",
+     "title": "inforcer raises $50M Series C to scale AI security platform for MSPs",
+     "link": "https://tech.eu/2026/07/30/inforcer-raises-50m-series-c-to-scale-ai-security-platform-for-msps/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "discern-security": {
+   "name": "Discern Security",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Discern Security announced $13 million in Series A funding led by Forgepoint Capital. The round included participation from First Rays Ventures, Growth Enjin Partners, Vela Ventures, and other angel investors. \n The post  Discern Security Raises $13 Million Series A, Launches Age",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$13 Million",
+     "round": "Series A",
+     "title": "Discern Security Raises $13 Million Series A, Launches Agentic Loops To Close Security Gaps",
+     "link": "https://pulse2.com/discern-security-raises-13-million-series-a-launches-agentic-loops-to-close-security-gaps/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "simile": {
+   "name": "Simile",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Simile, known as The Simulation Company, announced it has raised more than $200 million at a $2 billion post-money valuation. The round was led by Greenoaks. Index Ventures doubled down on its investment, alongside returning investors Hanabi, Bain Capital Ventures, A*, Factory, a",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$200 Million",
+     "round": "Series B",
+     "title": "Simile Raises Over $200 Million In Series B At A $2 Billion Valuation",
+     "link": "https://pulse2.com/simile-raises-over-200-million-in-series-b-at-a-2-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "function": {
+   "name": "Function",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Function announced the closing of $450 million in growth financing from General Catalyst's Customer Value Fund. The financing will accelerate the company's mission to help millions more people understand and take ownership of their health. \n The post  Function Secures $450 Millio",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$450 Million",
+     "round": "Growth",
+     "title": "Function Secures $450 Million Growth Financing From General Catalyst’s Customer Value Fund",
+     "link": "https://pulse2.com/function-secures-450-million-growth-financing-from-general-catalysts-customer-value-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bloom-security-launches-with-20-million-seed-funding-to": {
+   "name": "Bloom Security Launches With $20 Million Seed Funding To",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bloom Security announced its launch from stealth with a $20 million seed round led by Glilot Capital Partners. The round included participation from Ten Eleven Ventures, Okta Ventures, and Runtime Ventures, along with angel investors including founders of Dig Security, Demisto, S",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$20 Million",
+     "round": "Seed",
+     "title": "Bloom Security Launches With $20 Million Seed Funding To Secure The AI-Native Endpoint",
+     "link": "https://pulse2.com/bloom-security-launches-with-20-million-seed-to-secure-the-ai-native-endpoint/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "copysight": {
+   "name": "CopySight",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "CopySight, an AI IP governance company, announced a $3 million seed round led by Mucker Capital. The round included participation from Taisu VC, Flint Capital, and Yellow Rocks!. \n The post  CopySight Raises $3 Million To Build The Intellectual Property Clearance Layer For Genera",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$3 Million",
+     "round": "Seed",
+     "title": "CopySight Raises $3 Million To Build The Intellectual Property Clearance Layer For Generative AI",
+     "link": "https://pulse2.com/copysight-raises-3-million-to-build-the-intellectual-property-clearance-layer-for-generative-ai/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "onyx-security": {
+   "name": "Onyx Security",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Onyx Security, the AI control company, announced a $113 million Series B funding round led by Bessemer Venture Partners. The round included participation from Cyberstarts, TCV, Conviction, FirstMark, Vintage, QuantumLight, and G Squared, bringing the company's total funding to $1",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$113 Million",
+     "round": "Series B",
+     "title": "Onyx Security Raises $113 Million Series B To Control Advanced AI",
+     "link": "https://pulse2.com/onyx-security-raises-113-million-series-b-to-control-advanced-ai/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "soundhealth": {
+   "name": "SoundHealth",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "SoundHealth announced the closing of an oversubscribed Series A financing led by Shangbay Capital. The round brings the company's total funding to date to $12.25 million. \n The post  SoundHealth Raises $12.25 Million To Advance Growth Of AI-Enabled Non-Invasive Devices For Breath",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$12.25 Million",
+     "round": "Growth",
+     "title": "SoundHealth Raises $12.25 Million To Advance Growth Of AI-Enabled Non-Invasive Devices For Breathing And Sleep Disorders",
+     "link": "https://pulse2.com/soundhealth-raises-12-25-million-to-advance-growth-of-ai-enabled-non-invasive-devices-for-breathing-and-sleep-disorders/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "oxford-physicist-s-intropy": {
+   "name": "Oxford physicist’s Intropy",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "While at Oxford, Franziska Kirschner studied superconductors and magnetic monopoles, and her research was published in Nature. Now,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$11M",
+     "round": "",
+     "title": "Oxford physicist’s Intropy lands $11M to bring AI automation to the spare parts industry",
+     "link": "https://techfundingnews.com/intropy-11m-seed-felix-capital-ai-spare-parts/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "cisco-backed-silicon-valley-startup-eliyan": {
+   "name": "Cisco-backed Silicon Valley startup Eliyan",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Santa Clara-based chip interconnect startup Eliyan has raised $145 million in an oversubscribed Series C, valuing the company…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$145M",
+     "round": "Series C",
+     "title": "Cisco-backed Silicon Valley startup Eliyan raises $145M at $1B valuation to build the future of AI interconnects",
+     "link": "https://techfundingnews.com/cisco-backed-silicon-valley-startup-eliyan-raises-145m-at-1b-valuation-to-build-the-future-of-ai-interconnects/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "highland-europe": {
+   "name": "Highland Europe",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Growth-stage venture capital firm Highland Europe hasclosed a €1.1 billion sixth fund to continue investing in European technologyscaleups.Headquartered in London and Geneva, Highland Europespecialise...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$1.25B",
+     "round": "Growth",
+     "title": "Highland Europe closes $1.25B fund to back Europe’s next-gen growth-stage startups",
+     "link": "https://techfundingnews.com/highland-europe-1-25b-fund-vi-growth-startups/",
+     "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-07-30",
+     "amount": "€1.1B",
+     "round": "Growth",
+     "title": "Highland Europe closes €1.1B Fund VI to back European technology scaleups",
+     "link": "https://tech.eu/2026/07/30/highland-europe-closes-eur11b-fund-vi-to-back-european-technology-scaleups/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "swiss-preventive-health-startup-ahead-health": {
+   "name": "Swiss preventive health startup Ahead Health",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Nick Lenten discovered the cause of his long-term lower back pain through an MRI scan at his own…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$10M",
+     "round": "",
+     "title": "Swiss preventive health startup Ahead Health raises $10M for Germany and Netherlands launch",
+     "link": "https://techfundingnews.com/ahead-health-10m-funding-preventive-care-germany-netherlands/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "europe-needs-its-next-100b-company-these-12-startups-are-f": {
+   "name": "Europe needs its next $100B company. These 12 startups are f",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Revolut proved it can happen. The London fintech hit a $115 billion valuation in June 2026, becoming a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$100B",
+     "round": "",
+     "title": "Europe needs its next $100B company. These 12 startups are fighting to score the spot",
+     "link": "https://techfundingnews.com/crunchbase-data-europe-next-100b-startup-centacorns/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "german-medtech-eversion": {
+   "name": "German medtech EVERSION",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Julia Zimmermann spent years trying to find out why she had hip pain, only to learn it was…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "€2.3M",
+     "round": "",
+     "title": "German medtech EVERSION raises €2.3M to tackle the pain hiding in your shoes",
+     "link": "https://techfundingnews.com/eversion-technologies-2-3m-seed-medtech-insoles/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "taskher": {
+   "name": "TaskHer",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "A repair visit to a home riddled with distrust from an abusive partner is not routine work. TaskHer,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "£650K",
+     "round": "",
+     "title": "TaskHer bags £650K to put more women into UK homes and into the trades workforce",
+     "link": "https://techfundingnews.com/taskher-650k-seed-funding-verified-tradeswomen-uk/",
+     "source": "Tech Funding News"
+    }
+   ]
+  },
+  "intropy": {
+   "name": "Intropy",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "A London-based AI for spare parts startup has raised $11m in new funding, as it targets US expansion. Intropy has raised a seed round from lead investor Felix Capital, with participation from Quiet Ca...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "€9.5 million",
+     "round": "Seed",
+     "title": "London-based Intropy raises €9.5 million to build the AI-native operating system for the spare parts industry",
+     "link": "https://www.eu-startups.com/2026/07/london-based-intropy-raises-e9-5-million-to-build-the-ai-native-operating-system-for-the-spare-parts-industry/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-07-30",
+     "amount": "$11M",
+     "round": "Seed",
+     "title": "AI for spare parts startup Intropy raises $11M",
+     "link": "https://tech.eu/2026/07/30/ai-for-spare-parts-startup-intropy-raises-11m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ai-infrastructure-capital-ag-launches-with-16-million-to-ta": {
+   "name": "AI Infrastructure Capital AG launches with €16 million to ta",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI Infrastructure Capital AG, a newly founded Swiss company that buys servers, runs them at sites with renewable power and rents the capacity out on long-term contracts, is launching with a recently closed funding round of around €16 million. Valyou investment foundation in Rappe",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "€16 million",
+     "round": "",
+     "title": "Swiss startup AI Infrastructure Capital AG launches with €16 million to tackle AI compute bottleneck",
+     "link": "https://www.eu-startups.com/2026/07/swiss-startup-ai-infrastructure-capital-ag-launches-with-e16-million-to-tackle-ai-compute-bottleneck/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "swiss-preventive-healthtech-ahead-health": {
+   "name": "Swiss preventive HealthTech Ahead Health",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ahead Health, a Zurich-based preventive healthcare company, has secured a €8.7 million ($10 million) investment led by venture capital firms 3VC and RTP Global. It is also launching in Germany and the Netherlands, its first markets beyond Switzerland. In January 2026, the Swiss s",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "€8.7 million",
+     "round": "",
+     "title": "Swiss preventive HealthTech Ahead Health bags €8.7 million and launches in Germany and the Netherlands",
+     "link": "https://www.eu-startups.com/2026/07/swiss-preventive-healthtech-startup-ahead-health-secures-e8-7-million-and-launches-in-germany-and-the-netherlands/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "perceptron": {
+   "name": "Perceptron",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Perceptron, a decentralised AI data network, today announced the successful close of its $6.5 million strategic round, bringing together leading Web3 investors, trading firms, ecosystem partners, and ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$6.5M",
+     "round": "",
+     "title": "Perceptron raises $6.5M to build decentralised AI data network",
+     "link": "https://tech.eu/2026/07/30/perceptron-raises-65m-to-build-decentralised-ai-data-network/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "norwegian-mimir": {
+   "name": "Norwegian Mimir",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Oslo-based AI startup Mimir has raised a $600,000 pre-seed round led by Sondo Capital, with participation from Nordic angel investors including operators and founders from VILLOID, Kry, Enode and Whitson. The company develops an AI-native platform that automates customer support ",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$600K",
+     "round": "Pre-Seed",
+     "title": "Norwegian Mimir secures $600K pre-seed to expand AI automation for e-commerce brands",
+     "link": "https://arcticstartup.com/mimir-raises-600k-pre-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "lithuanian-sigvi": {
+   "name": "Lithuanian Sigvi",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Vilnius-based Sigvi has secured €1.2 million in pre-seed funding to expand its AI-powered car rental automation platform and accelerate its international growth. The round was led by Superhero Capital, with participation from Vladas Lašas and other angel investors. Sigvi operates",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "€1.2 million",
+     "round": "Pre-Seed",
+     "title": "Lithuanian Sigvi secures €1.2 million to automate operations for independent car rental fleets",
+     "link": "https://arcticstartup.com/sigvi-raises-e1-2m/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "zepto-pauses-ipo-amid-valuation-concerns-to": {
+   "name": "Zepto Pauses IPO Amid Valuation Concerns, To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "A day after reports said that Zepto’s IPO plans had hit another hurdle over valuation, the quick commerce startup has…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "₹1,000",
+     "round": "",
+     "title": "Zepto Pauses IPO Amid Valuation Concerns, To Raise ₹1,000 Cr Pre-IPO Round",
+     "link": "https://inc42.com/buzz/zepto-defers-ipo-amid-valuation-concerns-to-raise-%e2%82%b91000-cr-pre-ipo-round/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "sid-s-farm": {
+   "name": "Sid’s Farm",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Dairy startup Sid’s Farm has raised ₹81 Cr ($8.5 Mn) in a pre-Series B funding round from existing backers Omnivore,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "₹81",
+     "round": "Pre-Series B",
+     "title": "Sid’s Farm Secures ₹81 Cr To Strengthen Dairy Supply Chain",
+     "link": "https://inc42.com/buzz/sids-farm-secures-%e2%82%b981-cr-to-strengthen-dairy-supply-chain/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "suind": {
+   "name": "SUIND",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Drone tech startup SUIND has raised ₹20.5 Cr (around $2.1 Mn) in a seed funding round led by Transition VC.…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "₹20.5",
+     "round": "Seed",
+     "title": "SUIND Bags ₹20.5 Cr To Build Autonomous Surveillance Drones",
+     "link": "https://inc42.com/buzz/suind-bags-%e2%82%b920-5-cr-to-build-autonomous-surveillance-drones/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "electronics-development-fund-backed-128-startups": {
+   "name": "Electronics Development Fund-Backed 128 Startups",
+   "country": "India",
+   "region": "Asia",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Startups and companies backed through the government’s Electronics Development Fund (EDF) have collectively raised about ₹22,553.82 Cr, union minister of…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-07-29",
+   "events": [
+    {
+     "date": "2026-07-29",
+     "amount": "₹22.5K",
+     "round": "",
+     "title": "Electronics Development Fund-Backed 128 Startups Raise ₹22.5K Cr",
+     "link": "https://inc42.com/buzz/electronics-development-fund-backed-128-startups-raise-%e2%82%b922-5k-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "greentank": {
+   "name": "Greentank",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Toronto vape tech company has now raised $56 million USD through financing and strategic investment. \n The post  Greentank lands $20-million USD investment from Dubai’s AIR Global  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$20",
+     "round": "",
+     "title": "Greentank lands $20-million USD investment from Dubai’s AIR Global",
+     "link": "https://betakit.com/greentank-lands-20-million-usd-investment-from-dubais-air-global/",
+     "source": "BetaKit"
     }
    ]
   }
