@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T15:08:56+00:00",
+ "updated": "2026-07-31T15:18:07+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -20962,10 +20962,10 @@
    "is_ai": false,
    "research_based": true,
    "stage": "new",
-   "summary": "Swiss quantum computingstartup ZuriQ has raised $25.5 million in seed funding to accelerate thedevelopment of its trapped-ion quantum processors. The round was led byQuantonation, with participation f...",
+   "summary": "ZuriQ, a Swiss quantum computing company spun out of ETH Zürich, has raised $25.5 million in seed funding. The round was announced July 28, 2026. It builds on the company's $4.2 million pre-seed round in 2025 and is led by Quantonation, with participation from Forward.one, Extant",
    "audience": "General / mixed",
    "first_seen": "2026-07-28",
-   "last_seen": "2026-07-28",
+   "last_seen": "2026-07-31",
    "events": [
     {
      "date": "2026-07-28",
@@ -20990,6 +20990,14 @@
      "title": "ZuriQ raises $25.5M to scale its breakthrough 2D quantum architecture",
      "link": "https://tech.eu/2026/07/28/zuriq-raises-255m-to-scale-its-breakthrough-2d-quantum-architecture/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-07-31",
+     "amount": "$25.5 Million",
+     "round": "Seed",
+     "title": "ZuriQ Raises $25.5 Million To Scale New Groundbreaking 2D Quantum Architecture",
+     "link": "https://pulse2.com/zuriq-raises-25-5-million-to-scale-new-groundbreaking-2d-quantum-architecture/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -22790,6 +22798,342 @@
      "title": "Greentank lands $20-million USD investment from Dubai’s AIR Global",
      "link": "https://betakit.com/greentank-lands-20-million-usd-investment-from-dubais-air-global/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "smallest-ai": {
+   "name": "Smallest.ai",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "$13M",
+     "round": "",
+     "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+     "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "repeat-founder-ryan-williams": {
+   "name": "Repeat founder Ryan Williams",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "$10M",
+     "round": "Seed",
+     "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+     "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "antora": {
+   "name": "Antora",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Amid soaring energy demand from AI data centers, Antora says it will use its new capital to speed up deployment of “large-scale” projects across the country.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$550M",
+     "round": "Series C",
+     "title": "Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest Cleantech Rounds",
+     "link": "https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "banks-reportedly-in-talks-to-lend-15-billion-for-anthropic": {
+   "name": "Banks Reportedly In Talks To Lend $15 Billion For Anthropic ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Data-center developer Nexus Data Centers is in advanced talks to raise $15 billion for a Texas campus tied to Anthropic, with Alphabet's Google offering financial guarantees and supplying chips, according to the Wall Street Journal, citing people familiar with the matter. The pro",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "$15 Billion",
+     "round": "",
+     "title": "Banks Reportedly In Talks To Lend $15 Billion For Anthropic Data Center Backed By Google",
+     "link": "https://pulse2.com/banks-reportedly-in-talks-to-lend-15-billion-for-anthropic-data-center-backed-by-google/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "procode": {
+   "name": "Procode",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Procode has raised $10 million in Series A funding to expand its AI-powered medical billing and revenue cycle management platform across additional surgical specialties and ambulatory surgery centers. The round was led by Health Velocity Capital and brings Procode's total venture",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "$10 Million",
+     "round": "Series A",
+     "title": "Procode Raises $10 Million Series A To Expand AI-Powered Medical Billing Across Surgical Specialties",
+     "link": "https://pulse2.com/procode-raises-10-million-series-a-to-expand-ai-powered-medical-billing-across-surgical-specialties/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "lemonedge": {
+   "name": "LemonEdge",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "LemonEdge, a fund accounting platform built for private markets, has completed a $21 million Series A investment round. Blackstone Innovations Investments led the round. BNY joined, along with participation from existing investor Sidekick Partners, bringing LemonEdge's total fund",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "$21 Million",
+     "round": "Series A",
+     "title": "LemonEdge Raises $21 Million Series A Funding Round To Modernize Private Markets Infrastructure",
+     "link": "https://pulse2.com/lemonedge-raises-21-million-series-a-funding-round-to-modernize-private-markets-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "xsight-labs": {
+   "name": "Xsight Labs",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Xsight Labs, a fabless semiconductor company providing connectivity solutions for hyperscale, edge, and AI data center networks, has closed a $300 million-plus funding round. The round establishes a $2.8 billion post-money valuation. Fidelity Management & Research Company led the",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "$300 Million",
+     "round": "",
+     "title": "Xsight Labs Raises More Than $300 Million At $2.8 Billion Valuation To Power Next-Generation AI And Cloud Networks",
+     "link": "https://pulse2.com/xsight-labs-raises-more-than-300-million-at-2-8-billion-valuation-to-power-next-generation-ai-and-cloud-networks/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "dili": {
+   "name": "Dili",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Dili, an AI-native compliance platform for the industries powering America's infrastructure buildout, has announced $21.7 million in total funding. This includes a $15 million Series A led by Khosla Ventures. Participants included Y Combinator's Garry Tan, Allianz, Brick and Mort",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "$21.7 Million",
+     "round": "Series A",
+     "title": "Dili Raises $21.7 Million From Khosla Ventures To Bring AI-Powered Assurance To America’s Infrastructure Boom",
+     "link": "https://pulse2.com/dili-raises-21-7-million-from-khosla-ventures-to-bring-ai-powered-assurance-to-americas-infrastructure-boom/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "apolownia": {
+   "name": "Apolownia",
+   "country": "France",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Apolownia, a Paris-based company developing high-integrity coastal ecosystem restoration projects, has announced the closing of its first Seed round, totalling €1 million.  The round was completed with the support of LITA, Bpifrance and a group of business angels and individual i",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "€1 million",
+     "round": "Seed",
+     "title": "Paris-based Apolownia raises €1 million to scale coastal restoration and blue carbon projects",
+     "link": "https://www.eu-startups.com/2026/07/paris-based-apolownia-raises-e1-million-to-scale-coastal-restoration-and-blue-carbon-projects/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "eindhoven-s-keiron": {
+   "name": "Eindhoven’s Keiron",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Keiron Printing Technologies (Keiron), an Eindhoven-based DeepTech company specialising in Laser-Induced Forward Transfer (LiFT) precision solder paste printing, has closed a €20.7 million Series A round.  The round was co-led by Invest-NL, DeepTechXL and Waves Capital, alongside",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "€20.7 million",
+     "round": "Series A",
+     "title": "Eindhoven’s Keiron raises €20.7 million to tackle one of electronics manufacturing’s most expensive problems",
+     "link": "https://www.eu-startups.com/2026/07/eindhoven-based-keiron-raises-e20-7-million-to-tackle-one-of-electronics-manufacturings-most-expensive-problems/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "atomic-one": {
+   "name": "Atomic One",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Atomic One, a Málaga-based technology company behind an AI operating system for e-commerce brands, has completed a two-tranche financing round totalling €5.6 million. As part of this closing, Arcano Partners, through the Impacto Andalucía Innovación y Desarrollo SICC, S.A.U. fund",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "€5.6 million",
+     "round": "",
+     "title": "Málaga-based Atomic One raises €5.6 million to automate e-commerce operations with AI agents",
+     "link": "https://www.eu-startups.com/2026/07/malaga-based-atomic-one-raises-e5-6-million-to-automate-e-commerce-operations-with-ai-agents/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "iwoca": {
+   "name": "iwoca",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "This week, we tracked more than 50 tech funding deals worth over €878 million, and over 10 exits, M&A transactions, rumours, and related news stories across Europe. Alongside the week’s top fundin...",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "£250M",
+     "round": "Debt",
+     "title": "iwoca bags £250M debt facility, what H1 2026 tells us about European tech, and Legora acquires 5th startup this year.",
+     "link": "https://tech.eu/2026/07/31/iwoca-bags-250m-debt-facility-what-h1-2026-tells-us-about-european-tech-and-legora-acquires-5th-startup-this-year/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "arboreal-bioinnovations": {
+   "name": "Arboreal Bioinnovations",
+   "country": "India",
+   "region": "Asia",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Specialty food and nutraceutical ingredients startup Arboreal Bioinnovations has raised ₹230 Cr (about $24 Mn) in a Series A round…",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "₹230",
+     "round": "Series A",
+     "title": "Arboreal Bioinnovations Raises ₹230 Cr To Supply Nutrition Ingredients To Brands",
+     "link": "https://inc42.com/buzz/arboreal-bioinnovations-raises-%e2%82%b9230-cr-to-supply-nutrition-ingredients-to-brands/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "google-fined-1-4bn-as-eu-tightens-grip-on-big-tech": {
+   "name": "Google fined $1.4bn as EU tightens grip on Big Tech",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Google gets slapped with a $1.4bn EU antitrust fine over Play and search self-dealing as Brussels boxes with Big Tech.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-30",
+   "last_seen": "2026-07-30",
+   "events": [
+    {
+     "date": "2026-07-30",
+     "amount": "$1.4bn",
+     "round": "",
+     "title": "Google fined $1.4bn as EU tightens grip on Big Tech",
+     "link": "https://www.startupdaily.net/topic/global-tech/google-fined-1-4bn-by-eu/",
+     "source": "Startup Daily"
     }
    ]
   }
