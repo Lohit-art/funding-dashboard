@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T15:18:07+00:00",
+ "updated": "2026-08-01T14:24:56+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -22803,14 +22803,14 @@
   },
   "smallest-ai": {
    "name": "Smallest.ai",
-   "country": "Unknown",
-   "region": "North America",
+   "country": "India",
+   "region": "Asia",
    "category": "Professional excellence",
    "sector": "Other",
    "is_ai": true,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+   "stage": "emerging",
+   "summary": "Voice AI startup Smallest.ai has raised $13 Mn (around ₹108 Cr) in its Series A funding round led by Seligman…",
    "audience": "General / mixed",
    "first_seen": "2026-07-31",
    "last_seen": "2026-07-31",
@@ -22822,6 +22822,14 @@
      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
      "source": "TechCrunch Venture"
+    },
+    {
+     "date": "2026-07-31",
+     "amount": "$13 Mn",
+     "round": "Series A",
+     "title": "Smallest.ai Bags $13 Mn To Build Next-Gen Voice AI Models",
+     "link": "https://inc42.com/buzz/smallest-ai-bags-13-mn-to-build-next-gen-voice-ai-models/",
+     "source": "Inc42"
     }
    ]
   },
@@ -23134,6 +23142,102 @@
      "title": "Google fined $1.4bn as EU tightens grip on Big Tech",
      "link": "https://www.startupdaily.net/topic/global-tech/google-fined-1-4bn-by-eu/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "fresh-off-its-wiz-payout-index-ventures": {
+   "name": "Fresh off its Wiz payout, Index Ventures",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
+   "audience": "General / mixed",
+   "first_seen": "2026-07-31",
+   "last_seen": "2026-07-31",
+   "events": [
+    {
+     "date": "2026-07-31",
+     "amount": "$2B",
+     "round": "",
+     "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+     "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "polar-5-7-million-seed-funding": {
+   "name": "Polar: $5.7 Million Seed Funding",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Polar, the AI browser that automates the tedious parts of knowledge work, has raised $5.7 million in seed funding led by Madrona, with participation from angel investors including former GitHub CEO Thomas Dohmke and Modal founder Erik Bernhardsson. \n The post  Polar: $5.7 Million",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-01",
+   "last_seen": "2026-08-01",
+   "events": [
+    {
+     "date": "2026-08-01",
+     "amount": "$5.7 Million",
+     "round": "Seed",
+     "title": "Polar: $5.7 Million Seed Funding Raised To Build AI Browser That Does Real Work",
+     "link": "https://pulse2.com/polar-the-ai-browser-that-does-real-work-raises-5-7-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "buildforce-10-million-series-a": {
+   "name": "Buildforce: $10 Million Series A",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Buildforce, the largest tech-enabled electrician staffing business in the US, has raised $10 million in Series A funding led by Saepio Capital, with participation from new investor Blue Heron Capital and existing investors including Revolution's Rise of the Rest Seed Fund, S3 Ven",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-01",
+   "last_seen": "2026-08-01",
+   "events": [
+    {
+     "date": "2026-08-01",
+     "amount": "$10 Million",
+     "round": "Series A",
+     "title": "Buildforce: $10 Million Series A Raised To Staff Electricians Nationally",
+     "link": "https://pulse2.com/buildforce-10-million-series-a-raised-to-staff-electricians-nationally/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "discern-10-million-series-a": {
+   "name": "Discern: $10 Million Series A",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Discern, a software-first registered agent that automates state filings, has raised a $10 million Series A funding round led by Walkabout Ventures and Bungalow Capital. The round follows 4x ARR growth in 2025 and brings the company's total funding to $17.5 million. Discern also p",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-01",
+   "last_seen": "2026-08-01",
+   "events": [
+    {
+     "date": "2026-08-01",
+     "amount": "$10 Million",
+     "round": "Series A",
+     "title": "Discern: $10 Million Series A Raised To Automate State Filings",
+     "link": "https://pulse2.com/discern-10-million-series-a-raised-to-automate-state-filings/",
+     "source": "Pulse 2.0"
     }
    ]
   }
