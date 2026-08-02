@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T14:24:56+00:00",
+ "updated": "2026-08-02T14:27:48+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -23238,6 +23238,102 @@
      "title": "Discern: $10 Million Series A Raised To Automate State Filings",
      "link": "https://pulse2.com/discern-10-million-series-a-raised-to-automate-state-filings/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ellis": {
+   "name": "Ellis",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ellis has emerged from stealth with more than $10 million in seed funding to build an AI-native operations platform for private credit firms. First Round Capital led the financing, with participation from 645 Ventures, Harlem Capital, Khosla Ventures, Slow Ventures, Wilshire Lane",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-02",
+   "last_seen": "2026-08-02",
+   "events": [
+    {
+     "date": "2026-08-02",
+     "amount": "$10 Million",
+     "round": "Seed",
+     "title": "Ellis Raises More Than $10 Million In Seed Funding Led By First Round Capital",
+     "link": "https://pulse2.com/ellis-raises-more-than-10-million-in-seed-funding-led-by-first-round-capital/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bridgepeak-energy-capital-funds-921-million-across-44-loans": {
+   "name": "BridgePeak Energy Capital Funds $921 Million Across 44 Loans",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "BridgePeak Energy Capital closed and funded more than $921 million across 44 loans during the first six months of 2026. The amount funded represented a 12% increase from the same period in 2025. \n The post  BridgePeak Energy Capital Funds $921 Million Across 44 Loans In First Hal",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-02",
+   "last_seen": "2026-08-02",
+   "events": [
+    {
+     "date": "2026-08-02",
+     "amount": "$921 Million",
+     "round": "",
+     "title": "BridgePeak Energy Capital Funds $921 Million Across 44 Loans In First Half Of 2026",
+     "link": "https://pulse2.com/bridgepeak-energy-capital-funds-921-million-across-44-loans-in-first-half-of-2026/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "antora-energy": {
+   "name": "Antora Energy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Antora Energy has raised $550 million in an oversubscribed Series C funding round co-led by G2 Venture Partners and Eclipse. New investors in the round included Ribbit Capital, Salesforce Ventures, Activate Capital, John Doerr, Westly Group, StepStone Group and Liberty Mutual Str",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-02",
+   "last_seen": "2026-08-02",
+   "events": [
+    {
+     "date": "2026-08-02",
+     "amount": "$550 Million",
+     "round": "Series C",
+     "title": "Antora Energy Raises $550 Million In Series C Funding Co-Led By G2 Venture Partners And Eclipse",
+     "link": "https://pulse2.com/antora-energy-raises-550-million-in-series-c-funding-co-led-by-g2-venture-partners-and-eclipse/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sarvam-s-ai-arsenal": {
+   "name": "Sarvam’s AI Arsenal",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "In June, Sarvam AI entered India’s unicorn club, raising $234 Mn (about ₹2,210 Cr) in a $300 Mn Series B…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-02",
+   "last_seen": "2026-08-02",
+   "events": [
+    {
+     "date": "2026-08-02",
+     "amount": "$234 Mn",
+     "round": "Series B",
+     "title": "Sarvam’s AI Arsenal",
+     "link": "https://inc42.com/features/sarvams-ai-arsenal/",
+     "source": "Inc42"
     }
    ]
   }
