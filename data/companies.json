@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T14:27:48+00:00",
+ "updated": "2026-08-03T15:41:41+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -23333,6 +23333,438 @@
      "round": "Series B",
      "title": "Sarvam’s AI Arsenal",
      "link": "https://inc42.com/features/sarvams-ai-arsenal/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-dep": {
+   "name": "A Marc Benioff-backed startup thinks AI can solve the AI dep",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$20 million",
+     "round": "Pre-Seed",
+     "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+     "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "a-rare": {
+   "name": "‘A Rare",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "We speak with Menlo Ventures' Matt Murphy about why AI is pushing the firm toward larger deals, what it has learned from its Anthropic relationship, and where he sees the next big opportunities.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$3B",
+     "round": "",
+     "title": "‘A Rare Land-Grab Moment’: Menlo Ventures’ Matt Murphy On The Next Wave of AI And Putting $3B In New Capital To Work",
+     "link": "https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "savills-completes-1-11-billion-acquisition-of-eastdil": {
+   "name": "Savills Completes $1.11 Billion Acquisition Of Eastdil",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Savills has completed its acquisition of Eastdil Secured for an enterprise value of approximately $1.11 billion, or £827 million. The deal brings together Savills’ global real estate advisory platform with Eastdil Secured’s real estate investment banking business. Savills initial",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$1.11 Billion",
+     "round": "",
+     "title": "Savills Completes $1.11 Billion Acquisition Of Eastdil Secured",
+     "link": "https://pulse2.com/savills-completes-1-11-billion-acquisition-of-eastdil-secured/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "dash-bio": {
+   "name": "Dash Bio",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Dash Bio has raised $30 million in Series A financing to expand its automated bioanalysis platform for pharmaceutical and biotechnology companies. Oak HC/FT led the round, with participation from existing investors Freestyle Capital and Swift Ventures. The financing brings Dash B",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$30 Million",
+     "round": "Series A",
+     "title": "Dash Bio Raises $30 Million Series A To Expand Automated Bioanalysis Platform",
+     "link": "https://pulse2.com/dash-bio-raises-30-million-series-a-to-expand-automated-bioanalysis-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "adams-street": {
+   "name": "Adams Street",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Adams Street Partners has secured more than $5 billion in capital commitments for its latest secondaries investment program, including the closing of Global Secondary Fund 8 at $2.7 billion. \n The post  Adams Street Raises More Than $5 Billion For Secondaries Investment Program  ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$5 Billion",
+     "round": "",
+     "title": "Adams Street Raises More Than $5 Billion For Secondaries Investment Program",
+     "link": "https://pulse2.com/adams-street-raises-more-than-5-billion-for-secondaries-investment-program/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "zenity": {
+   "name": "Zenity",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Zenity has raised $125 million in a Series C financing round led by Norwest to expand its artificial intelligence agent security and governance platform. New investors Qumra Capital, SoftBank Vision Fund 2, Hitachi Ventures and LG Technology Ventures joined the round. Existing in",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$125 Million",
+     "round": "Series C",
+     "title": "Zenity Raises $125 Million Series C To Expand AI Agent Security Platform",
+     "link": "https://pulse2.com/zenity-raises-125-million-series-c-to-expand-ai-agent-security-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "horizon3": {
+   "name": "Horizon3",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Horizon3 has raised $250 million in an oversubscribed Series E financing round at a valuation exceeding $2 billion. The valuation is more than three times the $650 million valuation Horizon3 received during its Series D financing slightly more than a year earlier. \n The post  Hor",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$250 Million",
+     "round": "Series E",
+     "title": "Horizon3 Raises $250 Million At More Than $2 Billion Valuation As ARR Jumps 120%",
+     "link": "https://pulse2.com/horizon3-raises-250-million-at-more-than-2-billion-valuation-as-arr-jumps-120/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "orbital-sentry": {
+   "name": "Orbital Sentry",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Orbital Sentry has closed a pre-seed financing round to develop persistent infrared imaging systems designed to operate from geosynchronous orbit. \n The post  Orbital Sentry Raises Pre-Seed Funding For Geosynchronous Infrared Imaging Platform  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Orbital Sentry Raises Pre-Seed Funding For Geosynchronous Infrared Imaging Platform",
+     "link": "https://pulse2.com/orbital-sentry-raises-pre-seed-funding-for-geosynchronous-infrared-imaging-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "inocras": {
+   "name": "Inocras",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Inocras has raised $31 million in an oversubscribed Series B-3 financing round to expand its whole-genome sequencing and bioinformatics platform in the United States. \n The post  Inocras Raises $31 Million In Oversubscribed Series B-3, Bringing Total Funding To $100 Million  appe",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$31 Million",
+     "round": "Series B",
+     "title": "Inocras Raises $31 Million In Oversubscribed Series B-3, Bringing Total Funding To $100 Million",
+     "link": "https://pulse2.com/inocras-raises-31-million-in-oversubscribed-series-b-3-bringing-total-funding-to-100-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "venu": {
+   "name": "VENU",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Venu Holding Corporation has secured a $25 million financing facility to support construction of the Regent Bank Amphitheater in Broken Arrow, Oklahoma. \n The post  VENU Secures $25 Million Debt Financing For Regent Bank Amphitheater  appeared first on  Pulse 2.0 .",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$25 Million",
+     "round": "Debt",
+     "title": "VENU Secures $25 Million Debt Financing For Regent Bank Amphitheater",
+     "link": "https://pulse2.com/venu-secures-25-million-debt-financing-for-regent-bank-amphitheater/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "base-power": {
+   "name": "Base Power",
+   "country": "USA",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Base Power has raised $1 billion in a Series D financing round at a $13 billion post-money valuation and launched Base Core, a home battery manufactured at the company’s Austin facility. \n The post  Base Power Raises $1 Billion Series D At $13 Billion Valuation And Launches U.S.-",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$1 Billion",
+     "round": "Series D",
+     "title": "Base Power Raises $1 Billion Series D At $13 Billion Valuation And Launches U.S.-Made Home Battery",
+     "link": "https://pulse2.com/base-power-raises-1-billion-series-d-at-13-billion-valuation-and-launches-u-s-made-home-battery/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "olix": {
+   "name": "OLIX",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "One of the UK’s hottest chip startups has raised over $300m at a $3.3bn valuation, tripling its valuation, and plans to bring its first products to customers next year, it says. Olix, founded by 25-ye...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$312 Million",
+     "round": "Series B",
+     "title": "OLIX Raises $312 Million At $3.3 Billion Valuation To Build Frontier AI Inference Platform",
+     "link": "https://pulse2.com/olix-raises-312-million-at-3-3-billion-valuation-to-build-frontier-ai-inference-platform/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-08-03",
+     "amount": "€270.5 million",
+     "round": "Series B",
+     "title": "UK AI chip startup OLIX raises €270.5 million at €2.8 billion valuation just two years after its founding",
+     "link": "https://www.eu-startups.com/2026/08/uk-ai-chip-startup-olix-raises-e270-5-million-at-e2-8-billion-valuation-just-two-years-after-its-founding/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-03",
+     "amount": "$312M",
+     "round": "",
+     "title": "UK chip startup Olix raises $312M at $3.3BN valuation",
+     "link": "https://tech.eu/2026/08/03/uk-chip-startup-olix-raises-ps312m-at-ps33bn-valuation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "index-ventures": {
+   "name": "Index Ventures",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Index Ventures, the global venture capital firm, has raised approximately €1.7 billion ($2 billion), bringing its total investing capital to nearly €3 billion ($3.5 billion) across all stages: Seed, venture, and growth. The capital comprises a €346.9 million ($400 million) Seed f",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "$3.5 Billion",
+     "round": "Seed",
+     "title": "Index Ventures Raises $3.5 Billion Across New Seed, Venture And Growth Funds",
+     "link": "https://pulse2.com/index-ventures-raises-3-5-billion-across-new-seed-venture-and-growth-funds/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-08-03",
+     "amount": "€1.7 billion",
+     "round": "Seed",
+     "title": "Index Ventures raises €1.7 billion, bringing total investing capital to nearly €3 billion",
+     "link": "https://www.eu-startups.com/2026/08/index-ventures-raises-e1-7-billion-bringing-total-investing-capital-to-nearly-e3-billion/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "italy-s-aflabox": {
+   "name": "Italy’s Aflabox",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Aflabox, an Italian AgTech startup that aims to revolutionise food safety by making aflatoxin detection accessible, affordable, and efficient, has closed a €1.35 million Seed funding round. The round was completed through FoodSeed, the programme within CDP Venture Capital’s Natio",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "€1.35 million",
+     "round": "Seed",
+     "title": "Italy’s Aflabox raises €1.35 million to scale AI-powered portable aflatoxin detection across Africa and Europe",
+     "link": "https://www.eu-startups.com/2026/08/italys-aflabox-raises-e1-35-million-to-scale-ai-powered-portable-aflatoxin-detection-across-africa-and-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "aiforia": {
+   "name": "Aiforia",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Aiforia, a Helsinki-based life-science company providing deep learning AI solutions for pathology, has secured €20 million in venture debt financing from the European Investment Bank (EIB).  Supported under the European Commission’s InvestEU programme, the financing will accelera",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "€20 million",
+     "round": "Debt",
+     "title": "Helsinki-based Aiforia secures €20 million EIB financing to advance AI-powered cancer diagnostics",
+     "link": "https://www.eu-startups.com/2026/08/helsinki-based-aiforia-secures-e20-million-eib-financing-to-advance-ai-powered-cancer-diagnostics/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "aflabox": {
+   "name": "Aflabox",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Italy-based agritechstartup Aflabox has raised €1.35 million in seed funding to accelerate thecommercialisation and industrial scaling of its AI-powered food safetymonitoring platform. The equity roun...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "€1.35M",
+     "round": "Seed",
+     "title": "Aflabox raises €1.35M seed to bring food safety testing into the field",
+     "link": "https://tech.eu/2026/08/03/aflabox-raises-eur135m-seed-to-bring-food-safety-testing-into-the-field/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ev-components-manufacturer-matel": {
+   "name": "EV Components Manufacturer Matel",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "EV components manufacturer Matel Motion & Energy Solutions has raised ₹130 Cr ($13.6 Mn) in Series B funding round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
+   "events": [
+    {
+     "date": "2026-08-03",
+     "amount": "₹130",
+     "round": "Series B",
+     "title": "EV Components Manufacturer Matel Raises ₹130 Cr To Accelerate R&D",
+     "link": "https://inc42.com/buzz/ev-components-manufacturer-matel-raises-%e2%82%b9130-cr-to-accelerate-rd/",
      "source": "Inc42"
     }
    ]
