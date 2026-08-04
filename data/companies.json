@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T15:41:41+00:00",
+ "updated": "2026-08-04T15:23:25+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -23609,8 +23609,8 @@
    "sector": "AI Infrastructure",
    "is_ai": true,
    "research_based": false,
-   "stage": "established",
-   "summary": "One of the UK’s hottest chip startups has raised over $300m at a $3.3bn valuation, tripling its valuation, and plans to bring its first products to customers next year, it says. Olix, founded by 25-ye...",
+   "stage": "emerging",
+   "summary": "OLIX, a London-based AI chip startup building the infrastructure for frontier AI inference, today announced a €270.5 million ($312 million) Series B financing round at a €2.8 billion ($3.3 billion) valuation, two years after it was founded. The round included Fundomo, Arm and Hud",
    "audience": "General / mixed",
    "first_seen": "2026-08-03",
    "last_seen": "2026-08-03",
@@ -23766,6 +23766,446 @@
      "title": "EV Components Manufacturer Matel Raises ₹130 Cr To Accelerate R&D",
      "link": "https://inc42.com/buzz/ev-components-manufacturer-matel-raises-%e2%82%b9130-cr-to-accelerate-rd/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "pfizer": {
+   "name": "Pfizer",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Pfizer raised the midpoint of its full-year 2026 revenue guidance by $500 million after stronger-than-expected performance from its non-COVID portfolio offset a reduction in anticipated Comirnaty and Paxlovid sales. \n The post  Pfizer: Raises 2026 Revenue Guidance By $500 Million",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "$500 Million",
+     "round": "",
+     "title": "Pfizer: Raises 2026 Revenue Guidance By $500 Million As Non-COVID Products Outperform By $1.5 Billion",
+     "link": "https://pulse2.com/pfizer-raises-2026-revenue-guidance-by-500-million-as-non-covid-products-outperform-by-1-5-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "exclaim-robotics-exits-stealth-with-4-29-million-to-build-r": {
+   "name": "Exclaim Robotics exits stealth with €4.29 million to build r",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Exclaim Robotics, a Zürich-based startup building robots to maintain AI data centres, has exited stealth mode with a €4.29 million ($4.95 million) pre-Seed round co-led by Founderful and Playfair.  The company is building autonomous mobile robots that perform routine repair and m",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "€4.29 million",
+     "round": "Pre-Seed",
+     "title": "Zürich-based Exclaim Robotics exits stealth with €4.29 million to build robots for AI data centre maintenance",
+     "link": "https://www.eu-startups.com/2026/08/zurich-based-exclaim-robotics-exits-stealth-with-e4-29-million-to-build-robots-for-ai-data-centre-maintenance/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "shiplog": {
+   "name": "Shiplog",
+   "country": "France",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Paris-based Shiplog has raised about $1 million in a pre-seed round to build an AI-powered customer lifecycle and expansion platform for B2B SaaS companies. The round is backed by Kima Ventures and Pr...",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "€807.6K",
+     "round": "Pre-Seed",
+     "title": "Paris-based Shiplog raises over €807.6K to build agentic customer intelligence for personalisation at scale",
+     "link": "https://www.eu-startups.com/2026/08/paris-based-shiplog-raises-over-e807-6k-to-build-agentic-customer-intelligence-for-personalisation-at-scale/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-04",
+     "amount": "$1M",
+     "round": "Pre-Seed",
+     "title": "Shiplog raises $1M to build AI customer intelligence for B2B SaaS",
+     "link": "https://tech.eu/2026/08/04/shiplog-raises-1m-to-build-ai-customer-intelligence-for-b2b-saas/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "female-founded-ai-legaltech-startup-aavalynx": {
+   "name": "Female-founded AI LegalTech startup Aavalynx",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Aavalynx, an AI-powered intelligence platform for dispute resolution cases, has raised €1.75 million (£1.5 million) in pre-Seed funding to help enterprises tackle the financial risk of legal disputes.  The round was led by Omega Ventures, with participation from West Coast-based ",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "€1.75 million",
+     "round": "Pre-Seed",
+     "title": "Female-founded AI LegalTech startup Aavalynx raises €1.75 million to bring “death to disputes”",
+     "link": "https://www.eu-startups.com/2026/08/female-founded-ai-legaltech-startup-aavalynx-raises-e1-75-million-to-bring-death-to-disputes/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ore-energy": {
+   "name": "Ore Energy",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Ore Energy, an Amsterdam-based startup developing grid-scale iron-air batteries for long-duration energy storage, has raised €37.3 million ($43 million) in Series A funding to scale its iron-air battery technology. The round was led by Plural and HV, with participation from Posit",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "€37.3 million",
+     "round": "Series A",
+     "title": "Ore Energy raises €37.3 million to scale iron-air batteries that store renewable power for up to 100 hours",
+     "link": "https://www.eu-startups.com/2026/08/ore-energy-raises-e37-3-million-to-scale-iron-air-batteries-that-store-renewable-power-for-up-to-100-hours/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "happyrobot": {
+   "name": "HappyRobot",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "HappyRobot, a company developing agentic AI for supply chains has raised $150 million in Series C funding led by Prysm Capital and co-led by Eurazeo. Existing investors a16z, Base10, Y Combinator are ...",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "$150M",
+     "round": "Series C",
+     "title": "HappyRobot lands $150M Series C to scale agentic AI for enterprise operations",
+     "link": "https://tech.eu/2026/08/04/happyrobot-lands-150m-series-c-to-scale-agentic-ai-for-enterprise-operations/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "monava": {
+   "name": "Monava",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swedish-Finnish defencetech Monava, which specialises in acoustic drone detection, has closed an investment round with Gungnir Capital as the largest investor, together with Foundry Ventures and Hede ...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "",
+     "round": "",
+     "title": "Monava closes funding round as demand for passive drone detection grows",
+     "link": "https://tech.eu/2026/08/04/monava-closes-funding-round-as-demand-for-passive-drone-detection-grows/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "aem": {
+   "name": "AEM",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Advanced Electric Machines Group (AEM), a UK-based manufacturer of rare earth and magnet-free electric motors, has secured £16 million of funding to support the expansion of its product portfolio and ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "£16M",
+     "round": "",
+     "title": "AEM secures £16M to accelerate rare earth-free electric motor innovation",
+     "link": "https://tech.eu/2026/08/04/aem-secures-ps16m-to-accelerate-rare-earth-free-electric-motor-innovation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "10x-banking-banks-40m-in-debt-and-equity": {
+   "name": "10x Banking banks £40M in debt and equity",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The UK fintech founded by a former Barclays bank CEO, which provides banking technology for JP Morgan's UK digital bank, has secured £40m in new funding. 10x Banking, founded by former Barclays CEO An...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "£40M",
+     "round": "Debt",
+     "title": "10x Banking banks £40M in debt and equity raise",
+     "link": "https://tech.eu/2026/08/04/10x-banking-banks-ps40m-in-debt-and-equity-raise/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "aavalynx": {
+   "name": "Aavalynx",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Legaltech Aavalynx has raised £1.5 million in pre-seed funding to help enterprises tackle the financial risk of legal disputes.  Founded in 2023 and commercially live in 2024, Aavalynx has developed p...",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "£1.5M",
+     "round": "Pre-Seed",
+     "title": "Legal AI startup Aavalynx raises £1.5M to cut the cost of corporate disputes",
+     "link": "https://tech.eu/2026/08/04/legal-ai-startup-aavalynx-raises-ps15m-to-cut-the-cost-of-corporate-disputes/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "multi-day-energy-storage-startup-ore-energy-clinches-43m-in": {
+   "name": "Multi-day energy storage startup Ore Energy clinches $43M in",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Dutch energy storage startup Ore Energy has raised more than $40m, as it looks to commercialise its long-storage batteries.The $43m Series A funding round was led by two new investors, tech-investor P...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "$43M",
+     "round": "Series A",
+     "title": "Multi-day energy storage startup Ore Energy clinches $43M in new investment round",
+     "link": "https://tech.eu/2026/08/04/multi-day-energy-startup-ore-energy-clinches-43m-in-new-investment-round/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "estel-technologies": {
+   "name": "Estel Technologies",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bulgaria-based Estel Technologies hasraised €270,000 in pre-seed funding to expand its AI-native sales platform forthe global tech talent industry. The round was led by Vitosha Ventures, withparticipa...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "€270K",
+     "round": "Pre-Seed",
+     "title": "Estel Technologies raises €270K to modernise tech staffing sales",
+     "link": "https://tech.eu/2026/08/04/estel-technologies-raises-eur270k-to-modernise-tech-staffing-sales/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "swedish-finnish-monava": {
+   "name": "Swedish & Finnish Monava",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Stockholm & Helsinki-based defence tech startup Monava has secured an undisclosed investment round led by Gungnir Capital, with participation from Foundry Ventures and Hede Capital, to accelerate the commercialisation of its AI-powered acoustic drone detection technology. The com",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "",
+     "round": "",
+     "title": "Swedish & Finnish Monava closes funding round to expand AI-driven acoustic drone detection",
+     "link": "https://arcticstartup.com/monava-raises-investment/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "home-decor-marketplace-vaaree": {
+   "name": "Home Decor Marketplace Vaaree",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Home decor marketplace Vaaree has raised ₹65 Cr (around $6.8 Mn) in a Series A funding round co-led by Hero…",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "₹65",
+     "round": "Series A",
+     "title": "Home Decor Marketplace Vaaree Raises ₹65 Cr Led By Hero Enterprise",
+     "link": "https://inc42.com/buzz/home-decor-marketplace-vaaree-raises-%e2%82%b965-cr-led-by-hero-enterprise/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "getvantage": {
+   "name": "GetVantage",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "B2B fintech startup GetVantage has raised ₹63 Cr (about $6.6 Mn) in a Series A1 funding round to expand its…",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "₹63",
+     "round": "Series A1",
+     "title": "GetVantage Raises ₹63 Cr To Expand Its B2B Revenue Based Financing Platform",
+     "link": "https://inc42.com/buzz/getvantage-raises-%e2%82%b963-cr-to-expand-its-b2b-revenue-based-financing-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "superleap": {
+   "name": "Superleap",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Enterprise tech startup Superleap has raised ₹36 Cr (around $4.2 Mn) in its pre-Series A funding round led by Peak…",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "₹36",
+     "round": "Pre-Series A",
+     "title": "AI-Native CRM Startup Superleap Bags ₹36 Cr Led By Peak XV’s Surge",
+     "link": "https://inc42.com/buzz/ai-native-crm-startup-superleap-bags-%e2%82%b936-cr-led-by-peak-xvs-surge/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "kily": {
+   "name": "Kily",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI startup Kily has raised a ₹30 Cr ($3.2 Mn) in a funding round led by early stage VC firm…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "₹30",
+     "round": "",
+     "title": "Agentic AI Startup Kily Raises ₹30 Cr To Accelerate Platform Deployment",
+     "link": "https://inc42.com/buzz/agentic-ai-startup-kily-raises-%e2%82%b930-cr-to-accelerate-platform-deployment/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "claryx": {
+   "name": "Claryx",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Canadian co-founders say they’re starting in the US because it’s simpler to sell in private system. \n The post  Claryx raises $3.5 million USD to detect hospital outbreaks before they start  first appeared on  BetaKit .",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "$3.5 million",
+     "round": "",
+     "title": "Claryx raises $3.5 million USD to detect hospital outbreaks before they start",
+     "link": "https://betakit.com/claryx-raises-3-5-million-usd-to-detect-hospital-outbreaks-before-they-start/",
+     "source": "BetaKit"
     }
    ]
   }
