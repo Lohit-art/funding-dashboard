@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T15:23:25+00:00",
+ "updated": "2026-08-05T15:11:41+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -24205,6 +24205,542 @@
      "round": "",
      "title": "Claryx raises $3.5 million USD to detect hospital outbreaks before they start",
      "link": "https://betakit.com/claryx-raises-3-5-million-usd-to-detect-hospital-outbreaks-before-they-start/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "ai-makes-weather-prediction-better-can-windborne-make-it-lu": {
+   "name": "AI makes weather prediction better. Can WindBorne make it lu",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$37 million",
+     "round": "Series B",
+     "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+     "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "wayy-ai": {
+   "name": "Wayy.ai",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entrepreneurship",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Wayy.ai has raised $2 million in pre-seed funding and launched an AI-powered platform that functions as a virtual sales co-founder for solopreneurs and small business owners. The round was led by 0 to 1 Ventures and included strategic angel investor Tunç Yalgin, who previously so",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$2 Million",
+     "round": "Pre-Seed",
+     "title": "Wayy.ai Raises $2 Million Pre-Seed And Launches AI Sales Co-Founder",
+     "link": "https://pulse2.com/wayy-ai-raises-2-million-pre-seed-and-launches-ai-sales-co-founder/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fly-io": {
+   "name": "Fly.io",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fly.io has raised $25 million in Series D funding to expand its computing infrastructure for artificial intelligence agents and appointed former Docker CEO Scott Johnston as its new CEO. The round was co-led by Dell Technologies Capital and Intel Capital, with participation from ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$25 Million",
+     "round": "Series D",
+     "title": "Fly.io Raises $25 Million Series D And Appoints Scott Johnston As CEO",
+     "link": "https://pulse2.com/fly-io-raises-25-million-series-d-and-appoints-scott-johnston-as-ceo/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "multiplier": {
+   "name": "Multiplier",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Multiplier has raised a $35 million Series B to expand its model of acquiring specialized professional services firms and building artificial intelligence tools around their operations. The round was led by The General Partnership, with participation from Ribbit Capital and Light",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$35 Million",
+     "round": "Series B",
+     "title": "Multiplier Raises $35 Million Series B To Acquire Professional Services Firms And Build AI Tools",
+     "link": "https://pulse2.com/multiplier-raises-35-million-series-b-to-acquire-professional-services-firms-and-build-ai-tools/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "south-park-commons": {
+   "name": "South Park Commons",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "South Park Commons has raised $575 million for its fourth fund, expanding the venture firm’s ability to invest in seed and Series A rounds and continue supporting its strongest portfolio companies beyond their earliest stages. \n The post  South Park Commons Raises $575 Million Fu",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$575 Million",
+     "round": "Seed",
+     "title": "South Park Commons Raises $575 Million Fund IV, Bringing AUM To About $2 Billion",
+     "link": "https://pulse2.com/south-park-commons-raises-575-million-fund-iv-bringing-aum-to-approximately-2-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "status-after-closing-30-million-series-c-to-expand-its-fina": {
+   "name": "status after closing €30 million Series C to expand its Fina",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Moss, a Berlin-based FinTech startup offering a digital spend management platform for European SMEs, has closed its €30 million Series C funding round at a valuation north of €1 billion.  With this round, led by Portage and existing investors Cherry Ventures, Moss has achieved un",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "€30 million",
+     "round": "Series C",
+     "title": "Berlin-based Moss hits unicorn status after closing €30 million Series C to expand its Finance AI suite",
+     "link": "https://www.eu-startups.com/2026/08/berlin-based-moss-hits-unicorn-status-after-closing-e30-million-series-c-to-expand-its-finance-ai-suite/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "europe-fund-makes-debut-investment-by-co-leading-iceye-s-1": {
+   "name": "Europe Fund makes debut investment by co-leading ICEYE’s €1 ",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "EQT today announced that the Scaleup Europe Fund has completed its first investment by co-leading Espoo-based SpaceTech company ICEYE’s recently announced €1 billion Series F funding round. The funding round included €450 million of primary investment at a valuation exceeding €10",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "€1 billion",
+     "round": "Series F",
+     "title": "Scaleup Europe Fund makes debut investment by co-leading ICEYE’s €1 billion Series F round",
+     "link": "https://www.eu-startups.com/2026/08/scaleup-europe-fund-makes-debut-investment-by-co-leading-iceyes-e1-billion-series-f-round/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "portugal-s-neuraspace": {
+   "name": "Portugal’s Neuraspace",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Neuraspace, a Coimbra-based space and defence company providing AI-enabled Space Domain Awareness (SDA) and Space Traffic Management (STM) solutions, today announced €15.6 million in new financing.  The funding comprises strategic private investment from Lince Capital, Explorer I",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "€15.6 million",
+     "round": "",
+     "title": "Portugal’s Neuraspace lands €15.6 million to protect satellites and bolster Europe’s space domain awareness",
+     "link": "https://www.eu-startups.com/2026/08/portugals-neuraspace-lands-e15-6-million-to-protect-satellites-and-bolster-europes-space-domain-awareness/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "volta-exits-stealth-at-2-07-billion-valuation": {
+   "name": "Volta exits stealth at €2.07 billion valuation",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Volta, a London-based AI cloud startup, has emerged from stealth after completing a Seed Round and a Series A, valuing the company at €2.07 billion ($2.4 billion). The rounds were led by Azora, Andreessen Horowitz, Altimeter and NVIDIA, with participation from strategic investors",
+   "audience": "Consumers",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "€2.07 billion",
+     "round": "Seed",
+     "title": "London AI cloud startup Volta exits stealth at €2.07 billion valuation, lands €8.6 billion compute deal reportedly with Anthropic",
+     "link": "https://www.eu-startups.com/2026/08/london-ai-cloud-startup-volta-exits-stealth-at-2-4-billion-valuation-lands-e8-6-billion-compute-deal-reportedly-with-anthropic/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "fuvex": {
+   "name": "FuVeX",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Spanishdrone technology company FuVeX has raised €3 million in an oversubscribedfunding round to accelerate its commercial and international expansion andstrengthen its position in the European dual-u...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "€3M",
+     "round": "",
+     "title": "FuVeX raises €3M to scale dual-use drone technology across Europe",
+     "link": "https://tech.eu/2026/08/05/fuvex-raises-eur3m-to-scale-dual-use-drone-technology-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "white-star-capital": {
+   "name": "White Star Capital",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Managing partners say diversification and returns helped them in a difficult fundraising market. \n The post  White Star Capital closes $350-million global fund  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$250M",
+     "round": "Series A",
+     "title": "White Star Capital closes $250M Fund IV to back global startups from Series A to B",
+     "link": "https://tech.eu/2026/08/05/white-star-capital-closes-250m-fund-iv-to-back-global-startups-from-series-a-to-b/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-08-05",
+     "amount": "$350",
+     "round": "",
+     "title": "White Star Capital closes $350-million global fund",
+     "link": "https://betakit.com/white-star-capital-closes-350-million-cad-global-fund/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "neuraspace": {
+   "name": "Neuraspace",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Portuguesespace technology company Neuraspace has secured €15.6 million in new financingto expand its AI-enabled Space Domain Awareness (SDA) and Space TrafficManagement (STM) capabilities. The financ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "€15.6M",
+     "round": "",
+     "title": "Neuraspace lands €15.6M to expand AI space intelligence platform",
+     "link": "https://tech.eu/2026/08/05/neuraspace-lands-eur156m-to-expand-ai-space-intelligence-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "conmeet": {
+   "name": "conmeet",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Construction technology startup conmeet has raised €6 million in anoversubscribed seed funding round to accelerate the rollout of its AI-centricoperating system for trades and construction businesses....",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "€6M",
+     "round": "Seed",
+     "title": "conmeet raises €6M to power construction businesses with AI",
+     "link": "https://tech.eu/2026/08/05/conmeet-raises-eur6m-to-power-construction-businesses-with-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sweden-s-imagi-targets-us-k-12-expansion-after-closing-4-5m": {
+   "name": "Sweden’s imagi targets US K-12 expansion after closing $4.5M",
+   "country": "USA",
+   "region": "North America",
+   "category": "Learning & growth",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Stockholm- and New York-based imagi has secured $4.5 million in seed funding to expand its AI literacy platform for K-12 schools, bringing its total funding to $5.5 million. The round was co-led by Brighteye Ventures and Day One Capital, with participation from FemInvest, We Are ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$4.5M",
+     "round": "Seed",
+     "title": "Sweden’s imagi targets US K-12 expansion after closing $4.5M seed round",
+     "link": "https://arcticstartup.com/imagi-raises-4-5m-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "swedish-scape": {
+   "name": "Swedish Scape",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Stockholm-based Scape has emerged from stealth with a $3.2 million seed round led by Y Combinator, General Catalyst, and FundersClub, alongside angel investors including executives from OpenAI, Google, Meta, Ramp, Lovable, and Legora. The startup is building an AI-native email pl",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$3.2 million",
+     "round": "Seed",
+     "title": "Swedish Scape raises $3.2 million seed to build an AI-native email inbox that works proactively for users",
+     "link": "https://arcticstartup.com/scape-raises-3-2m-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "zanskar-in-talks-to": {
+   "name": "Zanskar In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Delhi NCR-based pain care startup Zanskar is in talks to raise about $6 Mn in a fresh funding round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$6 Mn",
+     "round": "",
+     "title": "Exclusive: Pain Care Startup Zanskar In Talks To Raise $6 Mn In Round Led By Bessemer",
+     "link": "https://inc42.com/buzz/pain-care-startup-zanskar-in-talks-to-raise-6-mn-in-round-led-by-bessemer/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "optimist-in-talks-to": {
+   "name": "Optimist In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Delhi NCR-based cooling solutions startup Optimist is in talks to raise about $10 Mn in a fresh funding round from…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$10 Mn",
+     "round": "",
+     "title": "Exclusive: AC Maker Optimist In Talks To Raise $10 Mn From TDK Ventures",
+     "link": "https://inc42.com/buzz/ac-maker-optimist-in-talks-to-raise-10-mn-from-tdk-ventures/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "river-mobility": {
+   "name": "River Mobility",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Electric two-wheeler manufacturer River Mobility has raised $120 Mn (about ₹1,141 Cr) in its Series C funding round co-led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$120 Mn",
+     "round": "Series C",
+     "title": "EV Startup River Mobility Bags $120 Mn To Expand Manufacturing Capacity",
+     "link": "https://inc42.com/buzz/ev-startup-river-mobility-bags-120-mn-to-expand-manufacturing-capacity/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "hulp": {
+   "name": "Hulp",
+   "country": "India",
+   "region": "Asia",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Household assistance startup Hulp has raised $2.6 Mn (about ₹25 Cr) in a seed funding round led by VC firms…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$2.6 Mn",
+     "round": "Seed",
+     "title": "AI Concierge Startup Hulp Raises $2.6 Mn From Sparrow Capital, BITKRAFT",
+     "link": "https://inc42.com/buzz/ai-concierge-startup-hulp-raises-2-6-mn-from-sparrow-capital-bitkraft/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "sarvam-to": {
+   "name": "Sarvam To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI unicorn Sarvam is set to raise another $74 Mn (about ₹697.8 Cr) in an extension of its ongoing Series…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$74 Mn",
+     "round": "Series B",
+     "title": "Sarvam To Raise $74 Mn In Series B Extension From NVIDIA, Others",
+     "link": "https://inc42.com/buzz/sarvam-to-raise-74-mn-in-series-b-extension-from-nvidia-others/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "inrisk-labs": {
+   "name": "InRisk Labs",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "GIFT City-based insurtech startup InRisk Labs has raised $27 Mn (about ₹256  Cr) in a Series A funding round co-led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$27 Mn",
+     "round": "Series A",
+     "title": "InRisk Labs Raises $27 Mn To Scale AI-Led Reinsurance Platform EarthRe",
+     "link": "https://inc42.com/buzz/inrisk-labs-raises-27-mn-to-scale-ai-led-reinsurance-platform-earthre/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "calogy": {
+   "name": "Calogy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Sherbrooke cleantech startup to design lightweight battery system for Jaunt’s next-generation aircraft. \n The post  Calogy secures $1.2-million contract to power Jaunt’s autonomous drones  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-08-04",
+   "events": [
+    {
+     "date": "2026-08-04",
+     "amount": "$1.2",
+     "round": "",
+     "title": "Calogy secures $1.2-million contract to power Jaunt’s autonomous drones",
+     "link": "https://betakit.com/calogy-secures-1-2-million-contract-to-power-jaunts-autonomous-drones/",
      "source": "BetaKit"
     }
    ]
