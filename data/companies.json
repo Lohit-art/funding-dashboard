@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T15:11:41+00:00",
+ "updated": "2026-08-06T15:11:56+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -24741,6 +24741,734 @@
      "round": "",
      "title": "Calogy secures $1.2-million contract to power Jaunt’s autonomous drones",
      "link": "https://betakit.com/calogy-secures-1-2-million-contract-to-power-jaunts-autonomous-drones/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "moove": {
+   "name": "Moove",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$250M",
+     "round": "",
+     "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+     "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "nextalia-private-equity-ii-reaches-over-1-1-billion-first": {
+   "name": "Nextalia: Private Equity II Reaches Over €1.1 Billion First",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Nextalia has completed the first close of Nextalia Private Equity II at more than €1.1 billion, securing commitments from over 200 investors within five months. \n The post  Nextalia: Private Equity II Reaches Over €1.1 Billion First Close From More Than 200 Investors  appeared fi",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "€1.1 Billion",
+     "round": "",
+     "title": "Nextalia: Private Equity II Reaches Over €1.1 Billion First Close From More Than 200 Investors",
+     "link": "https://pulse2.com/nextalia-private-equity-ii-reaches-over-e1-1-billion-first-close-from-more-than-200-investors/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "proxy-foods-ai": {
+   "name": "Proxy Foods AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Proxy Foods AI has raised $6 million in seed funding to expand its artificial intelligence platform for food and beverage research and development. The round was led by Ted Leonsis, founder, chairman, managing partner and CEO of Monumental Sports & Entertainment, with lead partic",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$6 Million",
+     "round": "Seed",
+     "title": "Proxy Foods AI Raises $6 Million Seed Round To Expand AI-Native Food R&D Platform",
+     "link": "https://pulse2.com/proxy-foods-ai-raises-6-million-seed-round-to-expand-ai-native-food-rd-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "lifemine-therapeutics": {
+   "name": "LifeMine Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "LifeMine Therapeutics has secured $263 million in financing to accelerate the clinical development of LIFE-001 and advance its broader pipeline of transplantation and immunology therapies. The financing includes an oversubscribed $188 million Series E round led by Milky Way Inves",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$263 Million",
+     "round": "Series E",
+     "title": "LifeMine Therapeutics Raises $263 Million To Advance LIFE-001 For Organ Transplantation",
+     "link": "https://pulse2.com/lifemine-therapeutics-raises-263-million-to-advance-life-001-for-organ-transplantation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "vedanta-biosciences": {
+   "name": "Vedanta Biosciences",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vedanta Biosciences has secured $60 million in funding to advance its pivotal Phase 3 RESTORATiVE303 study evaluating VE303 for the prevention of recurrent Clostridioides difficile infection. The financing includes a $40 million investment round led by existing investors AMR Acti",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$60 Million",
+     "round": "",
+     "title": "Vedanta Biosciences Raises $60 Million To Advance Phase 3 VE303 Study",
+     "link": "https://pulse2.com/vedanta-biosciences-raises-60-million-to-advance-phase-3-ve303-study/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sapiom": {
+   "name": "Sapiom",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Sapiom has raised $35 million in Series A funding to expand its infrastructure platform for deploying, operating and scaling artificial intelligence agents. \n The post  Sapiom Raises $35 Million Series A To Scale AI Agent Infrastructure  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$35 Million",
+     "round": "Series A",
+     "title": "Sapiom Raises $35 Million Series A To Scale AI Agent Infrastructure",
+     "link": "https://pulse2.com/sapiom-raises-35-million-series-a-to-scale-ai-agent-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "opal-therapeutics": {
+   "name": "Opal Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Opal Therapeutics has secured a $1.25 million Phase II award through the National Science Foundation’s Small Business Innovation Research program. \n The post  Opal Therapeutics Secures $1.25 Million NSF Award To Expand Uterine Organoid Platform  appeared first on  Pulse 2.0 .",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$1.25 Million",
+     "round": "",
+     "title": "Opal Therapeutics Secures $1.25 Million NSF Award To Expand Uterine Organoid Platform",
+     "link": "https://pulse2.com/opal-therapeutics-secures-1-25-million-nsf-award-to-expand-uterine-organoid-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "yellow-card": {
+   "name": "Yellow Card",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Yellow Card has raised $40 million in strategic equity funding to expand its stablecoin infrastructure and Global USD Accounts platform. The round included investments from SC Ventures by Standard Chartered, Sony Innovation Fund, Polychain Capital, Blockchain Capital and addition",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$40 Million",
+     "round": "",
+     "title": "Yellow Card Raises $40 Million To Expand Global USD Accounts And Stablecoin Infrastructure",
+     "link": "https://pulse2.com/yellow-card-raises-40-million-to-expand-global-usd-accounts-and-stablecoin-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "skinbit": {
+   "name": "SkinBit",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "SkinBit has raised $6 million in pre-seed funding to develop and deploy its full-body skin imaging system for skin cancer screening. Boost VC, Cleo Capital, Manna Ventures and Profluent Capital participated in the round. The investor group also included Lyft co-founder Logan Gree",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$6 Million",
+     "round": "Pre-Seed",
+     "title": "SkinBit Raises $6 Million Pre-Seed To Expand Full-Body Skin Cancer Screening Platform",
+     "link": "https://pulse2.com/skinbit-raises-6-million-pre-seed-to-expand-full-body-skin-cancer-screening-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aurelius-systems": {
+   "name": "Aurelius Systems",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Aurelius Systems has raised $40 million in Series A funding to advance its Archimedes autonomous counter-drone platform and expand manufacturing operations. Draper Associates and KAS Venture Partners co-led the round. Other participants included General Catalyst, Hanwha Asset Man",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$40 Million",
+     "round": "Series A",
+     "title": "Aurelius Systems Raises $40 Million Series A To Scale Archimedes Counter-Drone Platform",
+     "link": "https://pulse2.com/aurelius-systems-raises-40-million-series-a-to-scale-archimedes-counter-drone-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "glucotrack": {
+   "name": "Glucotrack",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Glucotrack has entered into definitive agreements for approximately $5.5 million in financing from institutional investors. The deal consists of a $2 million equity financing and a $3.5 million follow-on investment in the form of convertible debt. \n The post  Glucotrack Secures $",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$5.5 Million",
+     "round": "Debt",
+     "title": "Glucotrack Secures $5.5 Million Financing Through Equity And Convertible Debt",
+     "link": "https://pulse2.com/glucotrack-secures-5-5-million-financing-through-equity-and-convertible-debt/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cross-border-impact-ventures-women-s-and-children-s-health": {
+   "name": "Cross-Border Impact Ventures: Women’s And Children’s Health ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Cross-Border Impact Ventures has completed a $58 million first close for its second women’s and children’s health-focused investment fund. The Women’s and Children’s Health Technology Fund II is targeting a total fund size of $125 million. Cross-Border Impact Ventures expects to ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$58 Million",
+     "round": "",
+     "title": "Cross-Border Impact Ventures: Women’s And Children’s Health Technology Fund II Reaches $58 Million First Close Toward $125 Million Target",
+     "link": "https://pulse2.com/cbiv-58-million-fund-ii/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "shelfmark": {
+   "name": "Shelfmark",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Shelfmark has raised $3.5 million in seed funding to expand its Physical AI platform for continuous-flow manufacturing and move beyond real-time defect detection toward more autonomous, self-optimizing production. Armory Square Ventures led the round, with participation from Gran",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$3.5 Million",
+     "round": "Seed",
+     "title": "Shelfmark Raises $3.5 Million Seed Round To Advance Physical AI For Continuous-Flow Manufacturing",
+     "link": "https://pulse2.com/shelfmark-raises-3-5-million-seed-round-to-advance-physical-ai-for-continuous-flow-manufacturing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pinegap": {
+   "name": "Pinegap",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI-powered equity research startup Pinegap has raised $8 Mn (over ₹76 Cr) in its Series A funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$8 Million",
+     "round": "Series A",
+     "title": "Pinegap Raises $8 Million Series A To Build Custom AI Agents For Institutional Investors",
+     "link": "https://pulse2.com/pinegap-raises-8-million-series-a-to-build-custom-ai-agents-for-institutional-investors/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-08-05",
+     "amount": "$8 Mn",
+     "round": "Series A",
+     "title": "Pinegap Nets $8 Mn From Stellaris & Others To Build An Agentic Platform For Market Analysts",
+     "link": "https://inc42.com/buzz/pinegap-nets-8-mn-from-stellaris-others-to-build-an-agentic-platform-for-market-analysts/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "mitti-labs": {
+   "name": "Mitti Labs",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Mitti Labs has raised $9.5 million in Series A funding to expand its satellite- and AI-powered platform for improving water efficiency and reducing methane emissions across Asia’s rice fields. Aramco Ventures led the round, with participation from Lightspeed India, Godrej Industr",
+   "audience": "Consumers",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$9.5 Million",
+     "round": "Series A",
+     "title": "Mitti Labs Raises $9.5 Million Series A To Expand GeoAI Platform Across Asia’s Rice Fields",
+     "link": "https://pulse2.com/mitti-labs-raises-9-5-million-series-a-to-expand-geoai-platform-across-asias-rice-fields/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "relu": {
+   "name": "Relu",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Relu, a Leuven-based AI startup helping dental labs scale production through automated dental design and planning workflows, has announced a €1.51 million ($1.75 million) strategic investment from Dental Innovation Alliance (DIA).  DIA is a North Carolina-based venture capital fu",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "€1.51 million",
+     "round": "",
+     "title": "Belgian AI dental startup Relu lands €1.51 million to accelerate US expansion",
+     "link": "https://www.eu-startups.com/2026/08/belgian-ai-dental-startup-relu-lands-e1-51-million-to-accelerate-us-expansion/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "inevitable-ai-group": {
+   "name": "Inevitable AI Group",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Inevitable AI Group (IAIG), an AI-native venture studio founded by veteran technology entrepreneurs, today announced a €5.2 million ($6 million) pre-seed funding round led by Aleph. The company is building and launching dozens of AI-native software businesses designed to capitali",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "€5.2 million",
+     "round": "Pre-Seed",
+     "title": "Inevitable AI Group raises €5.2 million from Aleph to launch AI-native SaaS companies",
+     "link": "https://www.eu-startups.com/2026/08/inevitable-ai-group-raises-e5-2-million-from-aleph-to-launch-ai-native-saas-companies/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "finland-s-seetrue-technologies": {
+   "name": "Finland’s SeeTrue Technologies",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "SeeTrue Technologies, a Joensuu-based DeepTech company focused on next-generation eye-tracking technology, has closed a €2.2 million financing round to accelerate the commercialisation of its ultra-low-power eye-sensing architecture.  The round was led by ZEISS Ventures, with par",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "€2.2 million",
+     "round": "Growth",
+     "title": "Finland’s SeeTrue Technologies raises €2.2 million to commercialise low-power eye-sensing architecture",
+     "link": "https://www.eu-startups.com/2026/08/finlands-seetrue-technologies-raises-e2-2-million-to-commercialise-low-power-eye-sensing-architecture/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "naked-energy": {
+   "name": "Naked Energy",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Naked Energy, a Crawley-based renewable-heat technology company, has secured an €10.35 million (£8.875 million) investment to fund a new UK manufacturing facility, creating up to 140 jobs and new export opportunities.  The investment was led by publicly-owned renewable energy com",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "€10.35 million",
+     "round": "",
+     "title": "Crawley-based Naked Energy secures €10.35 million to build UK solar-thermal technology manufacturing facility",
+     "link": "https://www.eu-startups.com/2026/08/crawley-based-naked-energy-secures-e10-35-million-to-build-uk-solar-thermal-technology-manufacturing-facility/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "chargepoly": {
+   "name": "Chargepoly",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Chargepoly, an Aix-en-Provence-based company specialising in the electrification of heavy-duty and commercial vehicle fleets, has secured a €23 million investment. The investment was led by Meridiam, through its Meridiam Green Impact Growth Fund (MGIGF), alongside Fideve Groupe, ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "€23 million",
+     "round": "Growth",
+     "title": "Aix-en-Provence-based Chargepoly secures €23 million to accelerate heavy-duty fleet electrification",
+     "link": "https://www.eu-startups.com/2026/08/aix-en-provence-based-chargepoly-secures-e23-million-to-accelerate-heavy-duty-fleet-electrification/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "solinas-integrity": {
+   "name": "Solinas Integrity",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Robotics startup Solinas Integrity raised $5.5 Mn (₹52.4 Cr) in its Series A1 funding round co-led by Mela Ventures and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$5.5 Mn",
+     "round": "Series A1",
+     "title": "Solinas Integrity Snags $5.5 Mn To Scale Robotics Solutions Across Global Markets",
+     "link": "https://inc42.com/buzz/solinas-integrity-snags-5-5-mn-to-scale-robotics-solutions-across-global-markets/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "nazara-to": {
+   "name": "Nazara To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Gaming major Nazara Technologies has approved raising up to ₹733.5 Cr through a preferential issue of equity shares to fund…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "₹733",
+     "round": "Growth",
+     "title": "Nazara To Raise ₹733 Cr Via Preferential Issue To Fund Acquisitions, Growth",
+     "link": "https://inc42.com/buzz/nazara-to-raise-%e2%82%b9733-cr-via-preferential-issue-to-fund-acquisitions-growth/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "garuda-aerospace": {
+   "name": "Garuda Aerospace",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Chennai-based Garuda Aerospace has received SEBI’s final observation for its proposed IPO, paving the way for the dronetech startup to…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "₹750",
+     "round": "",
+     "title": "Dronetech Startup Garuda Aerospace Gets SEBI Nod For ₹750 Cr+ IPO",
+     "link": "https://inc42.com/buzz/dronetech-startup-garuda-aerospace-gets-sebi-nod-for-%e2%82%b9750-cr-ipo/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "consint-ai": {
+   "name": "Consint.AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI startup Consint.AI, which offers an AI-powered healthcare fraud and management platform to enterprises, has raised ₹22 Cr (about $2.3…",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "₹22",
+     "round": "",
+     "title": "Consint.AI Bags ₹22 Cr To Expand Globally, Build AI Model For Risk And Fraud Detection",
+     "link": "https://inc42.com/buzz/consint-ai-bags-%e2%82%b922-cr-to-expand-globally-build-ai-model-for-risk-and-fraud-detection/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "piper-serica-s-800-cr-bharat-tech-fund-hits-first": {
+   "name": "Piper Serica’s ₹800 Cr Bharat Tech Fund Hits First",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Mumbai-based asset management firm Piper Serica has achieved the first close of its ₹800 Cr Bharat Tech Fund at ₹300…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "₹800",
+     "round": "",
+     "title": "Piper Serica’s ₹800 Cr Bharat Tech Fund Hits First Close At ₹300 Cr",
+     "link": "https://inc42.com/buzz/piper-sericas-%e2%82%b9800-cr-bharat-tech-fund-hits-first-close-at-%e2%82%b9300-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-exclusive-homerun": {
+   "name": "[Update] Exclusive: HomeRun",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | August 6, 2026, 10:15 IST Quick commerce startup for construction and interior materials HomeRun has raised $12 Mn…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$12 Mn",
+     "round": "",
+     "title": "[Update] Exclusive: HomeRun Raises $12 Mn To Scale Construction Materials Quick Commerce Platform",
+     "link": "https://inc42.com/buzz/exclusive-homerun-in-talks-to-raise-%e2%82%b9100-cr-to-scale-its-quick-construction-delivery-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "shiprocket-ipo-to-open-on-august-12-issue-size-cut-to-1-61": {
+   "name": "Shiprocket IPO To Open On August 12, Issue Size Cut To ₹1,61",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Logistics major Shiprocket has filed the RHP to raise ₹1,617 Cr (about $170 Mn) via its IPO, a 30% reduction…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "₹1,617",
+     "round": "",
+     "title": "Shiprocket IPO To Open On August 12, Issue Size Cut To ₹1,617 Cr",
+     "link": "https://inc42.com/buzz/shiprocket-ipo-to-open-on-august-12-issue-size-cut-to-%e2%82%b91617-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "skyroot-invites-bids-to": {
+   "name": "Skyroot Invites Bids To",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Barely three months after raising $60 Mn at a unicorn valuation, spacetech giant Skyroot Aerospace is back in the market…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "$200 Mn",
+     "round": "",
+     "title": "Skyroot Invites Bids To Raise $200 Mn At A Valuation Of $2 Bn",
+     "link": "https://inc42.com/buzz/skyroot-invites-bids-to-raise-200-mn-at-a-valuation-of-2-bn/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "typsy-beauty": {
+   "name": "Typsy Beauty",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Beauty and personal care (BPC) brand Typsy Beauty has secured ₹20 Cr ($2.1 Mn) in a fresh funding round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-08-05",
+   "events": [
+    {
+     "date": "2026-08-05",
+     "amount": "₹20",
+     "round": "",
+     "title": "BPC Brand Typsy Beauty Raises ₹20 Cr To Double Down On Quick Commerce, Offline Retail",
+     "link": "https://inc42.com/buzz/bpc-brand-typsy-beauty-raises-%e2%82%b920-cr-to-double-down-on-quick-commerce-offline-retail/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "cross-border-impact-ventures": {
+   "name": "Cross Border Impact Ventures",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Toronto-based impact investor hopes to more than double the fund by second half of 2027. \n The post  Cross Border Impact Ventures secures $58 million USD for fund focused on women’s, children’s health  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$58 million",
+     "round": "",
+     "title": "Cross Border Impact Ventures secures $58 million USD for fund focused on women’s, children’s health",
+     "link": "https://betakit.com/cross-border-impact-ventures-secures-58-million-usd-for-fund-focused-on-womens-childrens-health/",
      "source": "BetaKit"
     }
    ]
