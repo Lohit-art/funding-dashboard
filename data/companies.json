@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T15:11:56+00:00",
+ "updated": "2026-08-07T14:12:03+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -25091,17 +25091,17 @@
   },
   "mitti-labs": {
    "name": "Mitti Labs",
-   "country": "Unknown",
-   "region": "North America",
+   "country": "India",
+   "region": "Asia",
    "category": "Climate & sustainability",
    "sector": "SpaceTech",
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Mitti Labs has raised $9.5 million in Series A funding to expand its satellite- and AI-powered platform for improving water efficiency and reducing methane emissions across Asia’s rice fields. Aramco Ventures led the round, with participation from Lightspeed India, Godrej Industr",
+   "summary": "Climate tech startup Mitti Labs has raised $9.5 Mn (around ₹90 Cr) in its Series A funding round led by…",
    "audience": "Consumers",
    "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
+   "last_seen": "2026-08-06",
    "events": [
     {
      "date": "2026-08-05",
@@ -25110,6 +25110,14 @@
      "title": "Mitti Labs Raises $9.5 Million Series A To Expand GeoAI Platform Across Asia’s Rice Fields",
      "link": "https://pulse2.com/mitti-labs-raises-9-5-million-series-a-to-expand-geoai-platform-across-asias-rice-fields/",
      "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-08-06",
+     "amount": "$9.5 Mn",
+     "round": "Series A",
+     "title": "Mitti Labs Bags $9.5 Mn To Make Rice Cultivation Water-Efficient",
+     "link": "https://inc42.com/buzz/mitti-labs-bags-9-5-mn-to-make-rice-cultivation-water-efficient/",
+     "source": "Inc42"
     }
    ]
   },
@@ -25470,6 +25478,486 @@
      "title": "Cross Border Impact Ventures secures $58 million USD for fund focused on women’s, children’s health",
      "link": "https://betakit.com/cross-border-impact-ventures-secures-58-million-usd-for-fund-focused-on-womens-childrens-health/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "prime-capital-financial": {
+   "name": "Prime Capital Financial",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Prime Capital Financial has entered a strategic partnership with Carlyle through an approximately $600 million hybrid capital solution that includes a minority ownership investment in the independent wealth management firm. \n The post  Prime Capital Financial Secures $600 Million",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "$600 Million",
+     "round": "",
+     "title": "Prime Capital Financial Secures $600 Million Carlyle Investment At More Than $1.8 Billion Enterprise Value",
+     "link": "https://pulse2.com/prime-capital-financial-secures-600-million-carlyle-investment-at-more-than-1-8-billion-enterprise-value/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "x-caliber-rural-capital-provides-25-million-usda-loan-for-p": {
+   "name": "X-Caliber Rural Capital Provides $25 Million USDA Loan For P",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "X-Caliber Rural Capital has closed a $25 million USDA OneRD Business & Industry Guaranteed Loan for Plantible Foods. The financing represents the maximum amount available through the program and will support the expansion of Plantible’s commercial production facility in Eldorado,",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "$25 Million",
+     "round": "",
+     "title": "X-Caliber Rural Capital Provides $25 Million USDA Loan For Plantible Foods’ Texas Expansion",
+     "link": "https://pulse2.com/x-caliber-rural-capital-provides-25-million-usda-loan-for-plantible-foods-texas-expansion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "lumilens-emerges-from-stealth-with-over-900-million": {
+   "name": "Lumilens Emerges From Stealth With Over $900 Million",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Lumilens has emerged from stealth with more than $900 million in total funding as it develops optical connectivity systems for large-scale AI data centers. The company announced more than $700 million in new financing co-led by Atreides Management, Bain Capital Ventures, Meritech",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "$900 Million",
+     "round": "",
+     "title": "Lumilens Emerges From Stealth With Over $900 Million Raised At $5.51 Billion Valuation",
+     "link": "https://pulse2.com/lumilens-emerges-from-stealth-with-over-900-million-raised-at-5-51-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sambanova-appoints-mohsen-moazami-as-vice-chair-of-global-st": {
+   "name": "SambaNova Appoints Mohsen Moazami As Vice Chair Of Global St",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "SambaNova has appointed Mohsen Moazami as Vice Chair of Global Strategy and Partnerships following the AI infrastructure company’s Series F financing at an $11 billion valuation. \n The post  SambaNova Appoints Mohsen Moazami As Vice Chair Of Global Strategy And Partnerships  appe",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "$11 billion",
+     "round": "Series F",
+     "title": "SambaNova Appoints Mohsen Moazami As Vice Chair Of Global Strategy And Partnerships",
+     "link": "https://pulse2.com/sambanova-appoints-mohsen-moazami-as-vice-chair-of-global-strategy-and-partnerships/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "gryphon-investors": {
+   "name": "Gryphon Investors",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Gryphon Investors has completed the final closing of Gryphon VI Top-Up Co-Investment Partners with more than $770 million in total commitments. The oversubscribed fund exceeded its original $650 million target. \n The post  Gryphon Investors Raises More Than $770 Million For Gryph",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "$770 Million",
+     "round": "",
+     "title": "Gryphon Investors Raises More Than $770 Million For Gryphon VI Co-Investment Fund",
+     "link": "https://pulse2.com/gryphon-investors-raises-more-than-770-million-for-gryphon-vi-co-investment-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "jj-watt-invests-in-base-power-through-1-billion-series-d-an": {
+   "name": "JJ Watt Invests In Base Power Through $1 Billion Series D An",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Former professional football player JJ Watt has invested in Base Power as part of the Texas energy company’s $1 billion Series D financing. Watt has also become a Base customer and said switching his Houston home to the company’s service reduced his power bill by more than 20%. \n",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "$1 Billion",
+     "round": "Series D",
+     "title": "JJ Watt Invests In Base Power Through $1 Billion Series D And Becomes A Customer",
+     "link": "https://pulse2.com/jj-watt-invests-in-base-power-through-1-billion-series-d-and-becomes-a-customer/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "solar-landscape": {
+   "name": "Solar Landscape",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Solar Landscape has secured a development financing facility of up to $150 million from Copenhagen Infrastructure Partners through its Green Credit Fund II. \n The post  Solar Landscape Secures Up To $150 Million From Copenhagen Infrastructure Partners For 250 MW Solar Portfolio  ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "$150 Million",
+     "round": "",
+     "title": "Solar Landscape Secures Up To $150 Million From Copenhagen Infrastructure Partners For 250 MW Solar Portfolio",
+     "link": "https://pulse2.com/solar-landscape-secures-up-to-150-million-from-copenhagen-infrastructure-partners-for-250-mw-solar-portfolio/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "london-s-safehire-ai-founded-by-ex-british-army-officers": {
+   "name": "London’s Safehire.ai, founded by ex-British Army officers",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Safehire.ai, a London-based digital risk intelligence company helping organisations make safer, more informed hiring and access decisions, has secured a €583.2k (£500k) follow-on investment from a private investor.  This round, together with the €1.22 million (£1.05 million) Seed",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "€583.2k",
+     "round": "Seed",
+     "title": "London’s Safehire.ai, founded by ex-British Army officers, secures €583.2k to scale AI-powered digital risk screening",
+     "link": "https://www.eu-startups.com/2026/08/londons-safehire-ai-founded-by-ex-british-army-officers-secures-e583-2k-to-scale-ai-powered-digital-risk-screening/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "mironid": {
+   "name": "Mironid",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Mironid, a Glasgow-based biopharmaceutical company, has closed a €39.9 million ($46 million) Series B financing round to push its lead drug candidate for Autosomal Dominant Polycystic Kidney Disease (ADPKD) through clinical development. The round was led by Scottish National Inve",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "€39.9 million",
+     "round": "Series B",
+     "title": "Glasgow-based Mironid raises €39.9 million in Series B to advance rare kidney disease treatment",
+     "link": "https://www.eu-startups.com/2026/08/glasgow-based-mironid-raises-e39-9-million-in-series-b-to-advance-rare-kidney-disease-treatment/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "navvis": {
+   "name": "NavVis",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "NavVis, a Munich-based spatial twin platform for the built world, has raised a €73.7 million ($85 million) Series D round to build its massive spatial data engine and accelerate the AI product roadmap. The round was led by US private equity firm The Jordan Company, with participa",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "€73.7 million",
+     "round": "Series D",
+     "title": "Munich-based NavVis raises €73.7 million to build its spatial data engine and accelerate AI roadmap",
+     "link": "https://www.eu-startups.com/2026/08/munich-based-navvis-raises-e74-5-million-to-build-its-spatial-data-engine-and-accelerate-ai-roadmap/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "enterprise-agentic-cx-company-omilia": {
+   "name": "enterprise agentic CX company Omilia",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Omilia, the Cyprus-based self-learning agentic CX company, has secured a €58.1 million ($67 million) Series B funding round led by Expedition Growth Capital. The company plans to use this capital to support continued growth acceleration in North America and globally, including th",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "€58.1 million",
+     "round": "Series B",
+     "title": "Cyprus-based enterprise agentic CX company Omilia secures €58.1 million in Series B funding",
+     "link": "https://www.eu-startups.com/2026/08/cyprus-based-enterprise-agentic-cx-company-omilia-secures-e58-1-million-in-series-b-funding/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "platter": {
+   "name": "Platter",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "UK-based Platter, a food-native operating system for suppliers, wholesalers and manufacturers, has raised an extension to its latest venture round, joined by Verb Ventures. The UK is home to around 25...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "",
+     "round": "Extension",
+     "title": "Platter lands follow-on funding from Verb Ventures to modernise food supply operations",
+     "link": "https://tech.eu/2026/08/07/platter-lands-follow-on-funding-from-verb-ventures-to-modernise-food-supply-operations/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "july-funding-european-startups": {
+   "name": "July funding: European startups",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "European tech funding in July reflected a market where capital remained resilient despite a slowdown in deal activity.A total of 267 funding deals were announced, down from 293 in June, representing a...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "€8.6B",
+     "round": "",
+     "title": "July funding: European startups secure €8.6B as exit activity accelerates",
+     "link": "https://tech.eu/2026/08/07/july-funding-european-startups-secure-eur86b-as-exit-activity-accelerates/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "vangrid": {
+   "name": "Vangrid",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Vangrid, a  Dutch startup developing a decentralised spatial intelligence network to be deployed on smartphones, has raised $9 million in seed funding.Vangrid's goal is to make high-fidelity spatial d...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-08-06",
+   "events": [
+    {
+     "date": "2026-08-06",
+     "amount": "$9M",
+     "round": "Seed",
+     "title": "Vangrid raises $9M seed to build a decentralised spatial intelligence network for the Physical AI era",
+     "link": "https://tech.eu/2026/08/06/vangrid-raises-9m-seed-to-build-a-decentralised-spatial-intelligence-network-for-the-physical-ai-era/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ringy-acquires-upgreat-to-scale-the-baltics-circular-electr": {
+   "name": "Ringy acquires UPGREAT to scale the Baltics’ circular electr",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ringy has acquired Baltic refurbished electronics retailer UPGREAT in a deal backed by an undisclosed funding round led by Trind VC, creating a larger player focused on expanding the region’s circular electronics market. Financial terms of both the acquisition and investment were",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "€26 million",
+     "round": "",
+     "title": "Ringy acquires UPGREAT to scale the Baltics’ circular electronics infrastructure",
+     "link": "https://arcticstartup.com/ringy-acquires-upgreat/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "blissclub": {
+   "name": "BlissClub",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C athleisure brand BlissClub has raised ₹160 Cr (about $16.8 Mn) in a fresh funding round led by Singularity AMC,…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "₹160",
+     "round": "",
+     "title": "BlissClub Raises ₹160 Cr To Fuel Offline Expansion, Enter New Categories",
+     "link": "https://inc42.com/buzz/blissclub-raises-%e2%82%b9160-cr-to-fuel-offline-expansion-enter-new-categories/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-edtech-klassroom-s-shares-end-first-trading-session": {
+   "name": "[Update] Edtech Klassroom’s Shares End First Trading Session",
+   "country": "India",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "EdTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | August 7, 2026, 17:00 IST Shares of Fusion Klassroom Edutech closed their maiden trading session at ₹166.75 on…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "₹166.75",
+     "round": "",
+     "title": "[Update] Edtech Klassroom’s Shares End First Trading Session 5% Above Issue Price",
+     "link": "https://inc42.com/buzz/edtech-klassrooms-shares-list-at-7-premium-to-issue-price/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "enrola-s-pivot-to-ai-sales-tech": {
+   "name": "Enrola’s pivot to AI sales-tech",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Enrola ditches edtech for AI sales agents, bags $2.1M Seed, and solves the B2C lead-leak crisis.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "$2.1 million",
+     "round": "Seed",
+     "title": "Enrola’s pivot to AI sales-tech lands $2.1 million Seed",
+     "link": "https://www.startupdaily.net/topic/funding/enrolas-pivot-to-ai-sales-tech-lands-2-1-million-seed/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "procurepro": {
+   "name": "ProcurePro",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Construction technology startup ProcurePro will represent Australia at this year’s Startup World Cup grand final in Silicon Valley after founder Tim Rogers took out the Queensland final. Tim will join...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "$1.4 million",
+     "round": "",
+     "title": "ProcurePro secures shot at $1.4 million Startup World Cup prize",
+     "link": "https://www.startupdaily.net/topic/events/procurepro-secures-shot-at-1-4-million-startup-world-cup-prize/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "firmus-just": {
+   "name": "Firmus just",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Firmus rockets to $15B as Nvidia, Blackstone and Jane Street bankroll its Australian AI data centre plan, Project Southgate.",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-08-07",
+   "events": [
+    {
+     "date": "2026-08-07",
+     "amount": "$2.85 billion",
+     "round": "",
+     "title": "AI data centre startup Firmus just raised another $2.85 billion at a whopping $15B valuation",
+     "link": "https://www.startupdaily.net/topic/funding/ai-data-centre-startup-firmus-just-raised-another-2-85-billion-at-a-whopping-15b-valuation/",
+     "source": "Startup Daily"
     }
    ]
   }
