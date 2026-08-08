@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T14:12:03+00:00",
+ "updated": "2026-08-08T13:43:37+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -23609,11 +23609,11 @@
    "sector": "AI Infrastructure",
    "is_ai": true,
    "research_based": false,
-   "stage": "emerging",
-   "summary": "OLIX, a London-based AI chip startup building the infrastructure for frontier AI inference, today announced a €270.5 million ($312 million) Series B financing round at a €2.8 billion ($3.3 billion) valuation, two years after it was founded. The round included Fundomo, Arm and Hud",
+   "stage": "established",
+   "summary": "This week, we tracked more than 35 tech funding deals worth over €1 billion and 5 exits, M&A transactions, rumours, and related news stories across Europe.If email is more your thing, you can alwa...",
    "audience": "General / mixed",
    "first_seen": "2026-08-03",
-   "last_seen": "2026-08-03",
+   "last_seen": "2026-08-07",
    "events": [
     {
      "date": "2026-08-03",
@@ -23637,6 +23637,14 @@
      "round": "",
      "title": "UK chip startup Olix raises $312M at $3.3BN valuation",
      "link": "https://tech.eu/2026/08/03/uk-chip-startup-olix-raises-ps312m-at-ps33bn-valuation/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-08-07",
+     "amount": "$312M",
+     "round": "",
+     "title": "Chip startup Olix raises $312M, Mobilise launches investment arm, and a deep dive into July funding",
+     "link": "https://tech.eu/2026/08/07/chip-startup-olix-raises-312m-mobilise-launches-investment-arm-and-a-deep-dive-into-july-funding/",
      "source": "Tech.eu"
     }
    ]
