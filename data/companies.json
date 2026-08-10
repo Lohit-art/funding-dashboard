@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T13:48:01+00:00",
+ "updated": "2026-08-10T14:18:58+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -25162,10 +25162,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Inevitable AI Group (IAIG), an AI-native venture studio founded by veteran technology entrepreneurs, today announced a €5.2 million ($6 million) pre-seed funding round led by Aleph. The company is building and launching dozens of AI-native software businesses designed to capitali",
+   "summary": "Inevitable AI Group has raised $6 million in pre-seed funding to build and launch AI-native software companies through a venture studio model. The round was led by Aleph. \n The post  Inevitable AI Group Raises $6 Million Pre-Seed Round To Launch AI-Native SaaS Companies  appeared",
    "audience": "General / mixed",
    "first_seen": "2026-08-06",
-   "last_seen": "2026-08-06",
+   "last_seen": "2026-08-09",
    "events": [
     {
      "date": "2026-08-06",
@@ -25174,6 +25174,14 @@
      "title": "Inevitable AI Group raises €5.2 million from Aleph to launch AI-native SaaS companies",
      "link": "https://www.eu-startups.com/2026/08/inevitable-ai-group-raises-e5-2-million-from-aleph-to-launch-ai-native-saas-companies/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-09",
+     "amount": "$6 Million",
+     "round": "Pre-Seed",
+     "title": "Inevitable AI Group Raises $6 Million Pre-Seed Round To Launch AI-Native SaaS Companies",
+     "link": "https://pulse2.com/inevitable-ai-group-raises-6-million-pre-seed-round-to-launch-ai-native-saas-companies/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -25966,6 +25974,278 @@
      "title": "AI data centre startup Firmus just raised another $2.85 billion at a whopping $15B valuation",
      "link": "https://www.startupdaily.net/topic/funding/ai-data-centre-startup-firmus-just-raised-another-2-85-billion-at-a-whopping-15b-valuation/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "admiral": {
+   "name": "Admiral",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Admiral Group's secured lending portfolio expanded sharply during the first half of 2026, with secured loans reaching £679.7 million compared with £159.8 million a year earlier as Admiral Money continues to broaden beyond unsecured personal lending. \n The post  Admiral: Secured L",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "events": [
+    {
+     "date": "2026-08-10",
+     "amount": "£680 Million",
+     "round": "",
+     "title": "Admiral: Secured Loan Book More Than Quadruples To £680 Million As Admiral Money Expands",
+     "link": "https://pulse2.com/admiral-secured-loan-book-more-than-quadruples-to-680-million-as-admiral-money-expands/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "revealdx": {
+   "name": "RevealDx",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "RevealDx has entered into a distribution agreement with 4DMedical and received a $3.4 million strategic investment from the medical technology company to expand access to RevealAI-Lung, its AI-powered lung nodule characterization software. \n The post  RevealDx Secures $3.4 Millio",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-08-09",
+   "events": [
+    {
+     "date": "2026-08-09",
+     "amount": "$3.4 Million",
+     "round": "",
+     "title": "RevealDx Secures $3.4 Million Investment From 4DMedical And Signs Global Distribution Agreement For RevealAI-Lung",
+     "link": "https://pulse2.com/revealdx-secures-3-4-million-investment-from-4dmedical-and-signs-global-distribution-agreement-for-revealai-lung/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "honeywell-aerospace-15-billion-of-new": {
+   "name": "Honeywell Aerospace: $15 Billion Of New",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Honeywell Aerospace has secured approximately $15 billion of new business wins on an estimated lifetime-value basis so far in 2026, giving the newly independent aerospace and defense company significant commercial momentum as its backlog reaches $18.2 billion. \n The post  Honeywe",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-08-09",
+   "events": [
+    {
+     "date": "2026-08-09",
+     "amount": "$15 Billion",
+     "round": "",
+     "title": "Honeywell Aerospace: $15 Billion Of New Wins Includes Record 810-Aircraft IndiGo Deal As Backlog Reaches $18.2 Billion",
+     "link": "https://pulse2.com/honeywell-aerospace-15-billion-of-new-wins-includes-record-810-aircraft-indigo-deal-as-backlog-reaches-18-2-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cambridge-aerospace": {
+   "name": "Cambridge Aerospace",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Cambridge Aerospace, the UK-based air defence company building low-cost interceptor missiles for European and allied militaries, has closed a €259.7 million ($300 million) Series C round at a €2.94 billion ($3.4 billion) valuation. The fresh capital will fund the company’s contin",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "events": [
+    {
+     "date": "2026-08-10",
+     "amount": "€259.7 million",
+     "round": "Series C",
+     "title": "UK air defence company Cambridge Aerospace raises €259.7 million Series C at €2.94 billion valuation",
+     "link": "https://www.eu-startups.com/2026/08/uk-air-defence-company-cambridge-aerospace-raises-e259-7-million-series-c-at-e2-94-billion-valuation/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "edge-ai-infrastructure-company-edgify": {
+   "name": "edge AI infrastructure company Edgify",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Edgify, a London-based edge MLOps platform for physical retail providing the AI infrastructure to protect against in-store loss, has raised €7.7 million ($9 million) in Series A+ funding to accelerate the rollout of its platform.  The round was backed by Rank Ventures and Mangrov",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "events": [
+    {
+     "date": "2026-08-10",
+     "amount": "€7.7 million",
+     "round": "Series A",
+     "title": "London-based edge AI infrastructure company Edgify raises €7.7 million to combat retail losses",
+     "link": "https://www.eu-startups.com/2026/08/london-based-edge-ai-infrastructure-company-edgify-raises-e7-7-million-to-combat-retail-losses/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "visoid": {
+   "name": "Visoid",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Oslo-based AI startupVisoid has raised $2.5 million in funding to accelerate the development of itsAI visualisation platform for architects and support its international growth.The round was led by Sk...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "events": [
+    {
+     "date": "2026-08-10",
+     "amount": "€2.2 million",
+     "round": "Growth",
+     "title": "Oslo-based Visoid raises €2.2 million to scale its AI visualisation platform for architects",
+     "link": "https://www.eu-startups.com/2026/08/oslo-based-visoid-raises-e2-1-million-to-scale-its-ai-visualisation-platform-for-architects/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-10",
+     "amount": "$2.5M",
+     "round": "Growth",
+     "title": "Visoid raises $2.5M to expand AI visualisation platform for architects",
+     "link": "https://tech.eu/2026/08/10/visoid-raises-25m-to-expand-ai-visualisation-platform-for-architects/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cambridge-aerospace-s-valuation-leaps-to-3-4bn-as": {
+   "name": "Cambridge Aerospace's valuation leaps to $3.4BN as",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "UK defence technology startup Cambridge Aerospace has raised $300m at a $3.4bn valuation, a significant uplift on its valuation just a few months ago.The Series C funding round in the counter-drone st...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "events": [
+    {
+     "date": "2026-08-10",
+     "amount": "$3.4BN",
+     "round": "Series C",
+     "title": "Cambridge Aerospace's valuation leaps to $3.4BN as raises $300M",
+     "link": "https://tech.eu/2026/08/10/cambridge-aerospaces-valuation-leaps-to-34bn-as-raised-300m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "edgify": {
+   "name": "Edgify",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Edge AI infrastructure company Edgify has raised $9million in Series A+ funding to accelerate the rollout of its platform forphysical retail and expand its technology into other industries. The round ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "events": [
+    {
+     "date": "2026-08-10",
+     "amount": "$9M",
+     "round": "Series A",
+     "title": "Edgify raises $9M to expand its edge AI platform",
+     "link": "https://tech.eu/2026/08/10/edgify-raises-9m-to-expand-its-edge-ai-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "norway-s-alva-industries": {
+   "name": "Norway’s Alva Industries",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Trondheim-based deeptech company Alva Industries has raised €16 million in an equity financing round led by Nysnø Climate Investments, Sandwater and Emerald Technology Ventures on behalf of Nabtesco Technology Ventures, with existing investors including Statkraft Ventures and Env",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "events": [
+    {
+     "date": "2026-08-10",
+     "amount": "€16 million",
+     "round": "",
+     "title": "Norway’s Alva Industries lands €16 million to bring lightweight electric motors to global markets",
+     "link": "https://arcticstartup.com/alva-industries-raises-e16-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "finnish-seetrue-technologies": {
+   "name": "Finnish SeeTrue Technologies",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Joensuu-based deeptech startup SeeTrue Technologies has raised €2.2 million in a funding round led by ZEISS Ventures, with participation from Superhero Capital, North Karelia Growth Fund (managed by Redstone Nordics), Luminate, Piotr Frasunkiewicz, and existing angel investors. F",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "events": [
+    {
+     "date": "2026-08-10",
+     "amount": "€2.2 million",
+     "round": "Growth",
+     "title": "Finnish SeeTrue Technologies secures €2.2 million to bring ultra-low-power eye tracking to smart glasses",
+     "link": "https://arcticstartup.com/seetrue-technologies-secures-e2-2m/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "aum-ventures-marks-first": {
+   "name": "AUM Ventures Marks First",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Deeptech focused early-stage VC firm AUM Ventures has marked the first close of its India Innovation Fund II at ₹225…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "events": [
+    {
+     "date": "2026-08-10",
+     "amount": "₹750",
+     "round": "",
+     "title": "AUM Ventures Marks First Close Of ₹750 Cr Deeptech-Focused Fund At ₹225 Cr",
+     "link": "https://inc42.com/buzz/aum-ventures-marks-first-close-of-%e2%82%b9750-cr-deeptech-focused-fund-at-%e2%82%b9225-cr/",
+     "source": "Inc42"
     }
    ]
   }
