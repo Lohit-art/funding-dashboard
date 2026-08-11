@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10T14:18:58+00:00",
+ "updated": "2026-08-11T14:18:51+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -26246,6 +26246,246 @@
      "title": "AUM Ventures Marks First Close Of ₹750 Cr Deeptech-Focused Fund At ₹225 Cr",
      "link": "https://inc42.com/buzz/aum-ventures-marks-first-close-of-%e2%82%b9750-cr-deeptech-focused-fund-at-%e2%82%b9225-cr/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "flagler-health": {
+   "name": "Flagler Health",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Flagler Health has raised $50 million in Series B funding to expand its AI-native platform for musculoskeletal care, bringing the company’s total funding to $63 million. The round was led by Bessemer Venture Partners, with participation from SignalFire, Alumni Ventures, Streamlin",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "$50 Million",
+     "round": "Series B",
+     "title": "Flagler Health Raises $50 Million Series B To Scale AI Platform For Musculoskeletal Care",
+     "link": "https://pulse2.com/flagler-health-raises-50-million-series-b-led-by-bessemer-venture-partners-to-scale-ai-platform-for-musculoskeletal-care/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "luxembourg-s-space-biotech-exobiosphere": {
+   "name": "Luxembourg’s space BioTech Exobiosphere",
+   "country": "Luxembourg",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Exobiosphere, the Luxembourg-based space BioTech startup working on drug discovery and biomedical research in microgravity, has been awarded €1 million in non-dilutive funding through Luxembourg’s Jeune Entreprise Innovante (JEI) aid scheme. The grant, administered by the Ministr",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "€1 million",
+     "round": "Grant",
+     "title": "Luxembourg’s space BioTech Exobiosphere secures €1 million to find “cures from space”",
+     "link": "https://www.eu-startups.com/2026/08/luxembourgs-space-biotech-exobiosphere-secures-e1-million-to-find-cures-from-space/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "stockholm-s-quartr": {
+   "name": "Stockholm’s Quartr",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Quartr, the Stockholm-based company behind the world’s leading first-party data layer for institutional finance and AI, has closed an €15.6 million ($18 million) funding round to accelerate product development and widen its coverage of public company data worldwide. The round was",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "€15.6 million",
+     "round": "",
+     "title": "Stockholm’s Quartr lands €15.6 million to expand its AI-ready public company IR data coverage",
+     "link": "https://www.eu-startups.com/2026/08/stockholms-quartr-lands-e15-6-million-to-expand-its-ai-ready-public-company-ir-data-coverage/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "zerolook": {
+   "name": "Zerolook",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Zerolook, a Zug-based startup offering a business-to-business flight shopping API, today announced a €1.6 million (CHF 1.5 million/ $1.9 million) pre-Seed funding round.  The round was led by London-based Playfair, with participation from Vento Ventures, TrueSight Ventures, Alpha",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "€1.6 million",
+     "round": "Pre-Seed",
+     "title": "Zug-based Zerolook raises €1.6 million to tackle AI-driven flight search costs",
+     "link": "https://www.eu-startups.com/2026/08/zug-based-zerolook-raises-e1-6-million-to-tackle-ai-driven-flight-search-costs/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "bristol-s-electric-air-taxi-developer-vertical-aerospace": {
+   "name": "Bristol’s electric ‘air taxi’ developer Vertical Aerospace",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vertical Aerospace, a Bristol-based aerospace tech company that builds all-electric, vertical take-off and landing aircraft (eVTOLs), has announced about €86.6 million ($100 million) in financing commitments from existing and new investors  The financing is intended to support pr",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "€86.6 million",
+     "round": "",
+     "title": "Bristol’s electric ‘air taxi’ developer Vertical Aerospace secures €86.6 million in financing commitments",
+     "link": "https://www.eu-startups.com/2026/08/bristols-electric-air-taxi-developer-vertical-aerospace-secures-e86-6-million-in-financing-commitments/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "palette": {
+   "name": "Palette",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Copenhagen-basedAI software startup Palette has raised €3 million in pre-seed funding to expandits platform for teams adopting AI across their organisations. The round wasled by Ugly Duckling Ventures...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "€3M",
+     "round": "Pre-Seed",
+     "title": "Palette raises €3M pre-seed to develop an OS for AI-native teams",
+     "link": "https://tech.eu/2026/08/11/palette-raises-eur3m-pre-seed-to-develop-an-os-for-ai-native-teams/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "entravel-group": {
+   "name": "Entravel Group",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Entravel Group, a travel infrastructure company founded by Danish entrepreneur Mathias Lundoe Nielsen, has raised $7.5 million in a round co-led by Ethereal Ventures and Finality Capital, with participation from GSR, Varrock, G1 Ventures, Seier Capital, Veris Ventures, Funfair Ve",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "$7.5M",
+     "round": "",
+     "title": "Entravel Group Raises $7.5M",
+     "link": "https://arcticstartup.com/entravel-group-raises-7-5m/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "discovered-materials": {
+   "name": "Discovered Materials",
+   "country": "India",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI-powered materials discovery startup Discovered Materials has raised $9 Mn (about ₹85.9 Cr) in a seed funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "$9 Mn",
+     "round": "Seed",
+     "title": "Discovered Materials Raises $9 Mn For AI-Led Semiconductor Material Discovery",
+     "link": "https://inc42.com/buzz/discovered-materials-raises-9-mn-for-ai-led-semiconductor-material-discovery/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "fisent-technologies": {
+   "name": "Fisent Technologies",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Toronto startup’s revenue grew more than 200 percent last year amid economy-wide rush to adopt AI. \n The post  Fisent Technologies raises $4.3 million USD to help enterprises automate AI use  first appeared on  BetaKit .",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "$4.3 million",
+     "round": "",
+     "title": "Fisent Technologies raises $4.3 million USD to help enterprises automate AI use",
+     "link": "https://betakit.com/fisent-technologies-raises-4-3-million-usd-to-help-enterprises-automate-ai-use/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "tetragen-robotics": {
+   "name": "TetraGen Robotics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Oversubscribed round was led by StepChange Capital and will help company commercialize. \n The post  Autonomous welding startup TetraGen Robotics raises $1.8 million  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "events": [
+    {
+     "date": "2026-08-10",
+     "amount": "$1.8 million",
+     "round": "",
+     "title": "Autonomous welding startup TetraGen Robotics raises $1.8 million",
+     "link": "https://betakit.com/autonomous-welding-startup-tetragen-robotics-raises-1-8-million/",
+     "source": "BetaKit"
     }
    ]
   }
