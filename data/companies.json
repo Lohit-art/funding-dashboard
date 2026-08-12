@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T14:18:51+00:00",
+ "updated": "2026-08-12T14:19:23+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -26402,10 +26402,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Entravel Group, a travel infrastructure company founded by Danish entrepreneur Mathias Lundoe Nielsen, has raised $7.5 million in a round co-led by Ethereal Ventures and Finality Capital, with participation from GSR, Varrock, G1 Ventures, Seier Capital, Veris Ventures, Funfair Ve",
+   "summary": "Traveltech companyEntravel Group has raised $7.5 million in funding to expand its white-labeltravel platform and develop a stablecoin-enabled financial layer for the travelindustry. The round was co-l...",
    "audience": "General / mixed",
    "first_seen": "2026-08-11",
-   "last_seen": "2026-08-11",
+   "last_seen": "2026-08-12",
    "events": [
     {
      "date": "2026-08-11",
@@ -26414,6 +26414,14 @@
      "title": "Entravel Group Raises $7.5M",
      "link": "https://arcticstartup.com/entravel-group-raises-7-5m/",
      "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-08-12",
+     "amount": "$7.5M",
+     "round": "",
+     "title": "Entravel Group secures $7.5M to scale its travel infrastructure platform",
+     "link": "https://tech.eu/2026/08/12/entravel-group-secures-75m-to-scale-its-travel-infrastructure-platform/",
+     "source": "Tech.eu"
     }
    ]
   },
@@ -26486,6 +26494,502 @@
      "title": "Autonomous welding startup TetraGen Robotics raises $1.8 million",
      "link": "https://betakit.com/autonomous-welding-startup-tetragen-robotics-raises-1-8-million/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "accel": {
+   "name": "Accel",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Global venture capital firm Accel has raised $550 Mn for a new India-focused fund as it looks to step up…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "$550M",
+     "round": "",
+     "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+     "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+     "source": "TechCrunch Venture"
+    },
+    {
+     "date": "2026-08-12",
+     "amount": "$550 Mn",
+     "round": "",
+     "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
+     "link": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "clearjet": {
+   "name": "ClearJet",
+   "country": "USA",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Austin-based ClearJet, an AI-enabled logistics technology startup connects shippers with unused cargo capacity on commercial flights, has raised a $25 million Edison Partners-led Series B, it tells Crunchbase News exclusively.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$25M",
+     "round": "Series B",
+     "title": "Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’",
+     "link": "https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "inkind": {
+   "name": "inKind",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "inKind has closed an oversubscribed $414 million second financing tranche led by Citi and Cross River, bringing the restaurant commerce platform’s total capital raised to more than $1.2 billion. \n The post  inKind Secures $414 Million Financing, Bringing Total Capital Raised Abov",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$414 Million",
+     "round": "",
+     "title": "inKind Secures $414 Million Financing, Bringing Total Capital Raised Above $1.2 Billion",
+     "link": "https://pulse2.com/inkind-secures-414-million-financing-bringing-total-capital-raised-above-1-2-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aureka-biotechnologies": {
+   "name": "Aureka Biotechnologies",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Aureka Biotechnologies has raised $100 million in Series B financing to advance its biological foundation models and closed-loop AI-native drug discovery infrastructure, bringing the company’s total funding to nearly $200 million. \n The post  Aureka Biotechnologies Raises $100 Mi",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$100 Million",
+     "round": "Series B",
+     "title": "Aureka Biotechnologies Raises $100 Million Series B To Build Biological World Model For Drug Discovery",
+     "link": "https://pulse2.com/aureka-biotechnologies-raises-100-million-series-b-to-build-biological-world-model-for-drug-discovery/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "apartmentiq": {
+   "name": "ApartmentIQ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "ApartmentIQ has secured a $25 million follow-on investment from Susquehanna Growth Equity as the multifamily real estate intelligence platform expands its AI-powered product portfolio. \n The post  ApartmentIQ Secures $25 Million Follow-On Investment From Susquehanna Growth Equity",
+   "audience": "Consumers",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$25 Million",
+     "round": "Growth",
+     "title": "ApartmentIQ Secures $25 Million Follow-On Investment From Susquehanna Growth Equity As Platform Reaches 8 Million Units",
+     "link": "https://pulse2.com/apartmentiq-secures-25-million-follow-on-investment-from-susquehanna-growth-equity-as-platform-reaches-8-million-units/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "soctera": {
+   "name": "Soctera",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Soctera has raised $4 million in seed funding to develop semiconductor-based power amplifiers for applications spanning defense radar, electronic warfare, satellites and telecommunications. The round was backed by Anorak Ventures and Multiball Capital, with additional participati",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$4 Million",
+     "round": "Seed",
+     "title": "Soctera Raises $4 Million Seed Round Led By Anorak Ventures And Multiball Capital For Power Amplifier Technology",
+     "link": "https://pulse2.com/soctera-raises-4-million-seed-round-led-by-anorak-ventures-and-multiball-capital-for-power-amplifier-technology/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "global-ai": {
+   "name": "Global AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Global AI has secured $441 million in senior secured financing led and arranged by J.P. Morgan, marking the sovereign AI infrastructure company’s first debt financing. The facility also included participation from a group of additional lenders. \n The post  Global AI Secures $441 ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$441 Million",
+     "round": "Debt",
+     "title": "Global AI Secures $441 Million J.P. Morgan-Led Financing To Expand Sovereign AI Infrastructure",
+     "link": "https://pulse2.com/global-ai-secures-441-million-j-p-morgan-led-financing-to-expand-sovereign-ai-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fazeshift": {
+   "name": "Fazeshift",
+   "country": "USA",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Fazeshift has secured an investment from Amex Ventures, the corporate venture capital arm of American Express, to support development of its AI-native finance automation platform. \n The post  Fazeshift Secures Investment From Amex Ventures Following $22 Million Series A  appeared",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$22 Million",
+     "round": "Series A",
+     "title": "Fazeshift Secures Investment From Amex Ventures Following $22 Million Series A",
+     "link": "https://pulse2.com/fazeshift-secures-investment-from-amex-ventures-following-22-million-series-a/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "axle": {
+   "name": "Axle",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Axle has raised $17.5 million in Series A funding led by Base10 Partners to expand its AI-native insurance clearinghouse. Y Combinator and Gradient made follow-on investments, while Stage 2 Capital and industry angel investors, including the founders of Cover Genius, also partici",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$17.5 Million",
+     "round": "Series A",
+     "title": "Axle Raises $17.5 Million Series A Led By Base10 Partners For AI-Native Insurance Clearinghouse",
+     "link": "https://pulse2.com/axle-raises-17-5-million-series-a-led-by-base10-partners-for-ai-native-insurance-clearinghouse/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "vaderis-therapeutics": {
+   "name": "Vaderis Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Vaderis Therapeutics has closed an oversubscribed $152 million Series B financing and initiated its global Phase 3 HEROIC study evaluating engasertib in patients with hereditary hemorrhagic telangiectasia. The private financing was co-led by Life Sciences at Goldman Sachs Alterna",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$152 Million",
+     "round": "Series B",
+     "title": "Vaderis Therapeutics Raises $152 Million Series B And Launches Phase 3 HEROIC Study For Engasertib",
+     "link": "https://pulse2.com/vaderis-therapeutics-raises-152-million-series-b-and-launches-phase-3-heroic-study-for-engasertib/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "lovable": {
+   "name": "Lovable",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Swedish AI software creation platform Lovable has raised €343 million ($400 million) in Series C funding at a €11.4 billion ($13.3 billion) valuation, as the Stockholm-based company looks to expand its platform, infrastructure and global team. The round was led by Menlo Ventures ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "€343 million",
+     "round": "Series C",
+     "title": "Lovable raise €343 million Series C to expand its platform, infrastructure and global team",
+     "link": "https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "danish-entravel-group": {
+   "name": "Danish Entravel Group",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Entravel Group, the TravelTech founded in 2026, has raised €6.5 million ($7.5 million) in funding to secure larger supplier credit facilities, process higher booking volumes and expand its white-label model into traditional travel. The round was co-led by Ethereal Ventures and Fi",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "€6.5 million",
+     "round": "",
+     "title": "Danish Entravel Group raises €6.5 million to secure larger supplier credit facilities",
+     "link": "https://www.eu-startups.com/2026/08/entravel-group-raises-e6-5-million-to-secure-larger-supplier-credit-facilities/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "cytix": {
+   "name": "Cytix",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Cybersecurity startup Cytix has raised $7 million in SeriesA funding to accelerate the rollout of its change risk management platform andexpand adoption among enterprise and regulated organisations. T...",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "€6 million",
+     "round": "Series A",
+     "title": "UK cybersecurity startup Cytix raises €6 million Series A to tackle AI-driven software change risks",
+     "link": "https://www.eu-startups.com/2026/08/uk-cybersecurity-startup-cytix-raises-e6-million-series-a-to-tackle-ai-driven-software-change-risks/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-12",
+     "amount": "$7M",
+     "round": "Series A",
+     "title": "Cytix raises $7M Series A to tackle cyber risks from AI-driven software development",
+     "link": "https://tech.eu/2026/08/12/cytix-raises-7m-series-a-to-tackle-cyber-risks-from-ai-driven-software-development/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "lovable-s-valuation-doubles-to-13-3bn-as": {
+   "name": "Lovable’s valuation doubles to $13.3BN as",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swedish vibe-coding startup Lovable has raised $400m in new funding, at a $13.3bn valuation, more than double its valuation at its last funding round, in a round which was co-led by Europe’s new €5bn ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$13.3BN",
+     "round": "",
+     "title": "Lovable’s valuation doubles to $13.3BN as raises new funds",
+     "link": "https://tech.eu/2026/08/12/lovables-valuation-doubles-to-13bn-as-raises-400m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "monzo-and-lovable-backer-accel": {
+   "name": "Monzo and Lovable backer Accel",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The VC giant, which has backed Lovable, Synthesia and other current prominent European startups, has raised an enlarged $800m fund to invest in early-stage startups across Europe and Israel as part of...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$800M",
+     "round": "",
+     "title": "Monzo and Lovable backer Accel raises enlarged $800M early-stage fund",
+     "link": "https://tech.eu/2026/08/12/monzo-and-lovable-backer-accel-raises-enlarged-800m-early-stage-fund/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "strgy-ai": {
+   "name": "STRGY AI",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Helsinki-based STRGY AI has raised €1million in angel funding to support the commercial growth and furtherdevelopment of StrategyOS, its AI-powered strategy execution platform. Theround was backed by ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "€1M",
+     "round": "Angel",
+     "title": "STRGY AI raises €1M to scale its AI-powered strategy execution platform",
+     "link": "https://tech.eu/2026/08/12/strgy-ai-raises-eur1m-to-scale-its-ai-powered-strategy-execution-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "how-swishx-is-fixing-messy-back-office-sales-workflows-for-p": {
+   "name": "How SwishX Is Fixing Messy Back Office Sales Workflows For P",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "When Swish Club raised $4.5 Mn in early 2024, it looked like yet another startup trying to solve enterprise device…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$4.5 Mn",
+     "round": "",
+     "title": "How SwishX Is Fixing Messy Back Office Sales Workflows For Pharma Companies With AI",
+     "link": "https://inc42.com/startups/how-swishx-is-fixing-messy-back-office-sales-workflows-for-pharma-companies-with-ai/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "august-ai-in-talks-to": {
+   "name": "August AI In Talks To",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI health companion startup August AI is in talks to raise about $4 Mn from Peak XV Partners, sources told…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$4 Mn",
+     "round": "",
+     "title": "Exclusive: AI Healthtech Startup August AI In Talks To Raise $4 Mn From Peak XV",
+     "link": "https://inc42.com/buzz/ai-healthtech-startup-august-ai-in-talks-to-raise-4-mn-from-peak-xv/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "yulu": {
+   "name": "Yulu",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Electric mobility service provider Yulu has raised $93 Mn (about ₹887.5 Cr) in its Series C funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$93 Mn",
+     "round": "Series C",
+     "title": "Yulu Bags $93 Mn To Scale EV Fleet, Enter Full-Size Electric Scooter Segment",
+     "link": "https://inc42.com/buzz/yulu-bags-93-mn-to-scale-ev-fleet-enter-full-size-electric-scooter-segment/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "influencer-marketing-platform-fabulate": {
+   "name": "Influencer marketing platform Fabulate",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Creative expression",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Fabulate bags $4.5m at an $84.5m valuation to push its AI creator-marketing machine across APAC.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "events": [
+    {
+     "date": "2026-08-11",
+     "amount": "$4.5 million",
+     "round": "",
+     "title": "Influencer marketing platform Fabulate raises $4.5 million",
+     "link": "https://www.startupdaily.net/topic/funding/influencer-marketing-platform-fabulate-raises-4-5-million/",
+     "source": "Startup Daily"
     }
    ]
   }
