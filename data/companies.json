@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T14:19:23+00:00",
+ "updated": "2026-08-13T14:21:02+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -26989,6 +26989,390 @@
      "round": "",
      "title": "Influencer marketing platform Fabulate raises $4.5 million",
      "link": "https://www.startupdaily.net/topic/funding/influencer-marketing-platform-fabulate-raises-4-5-million/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "openai-backed-thrive-holdings": {
+   "name": "OpenAI-backed Thrive Holdings",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "events": [
+    {
+     "date": "2026-08-12",
+     "amount": "$2B",
+     "round": "",
+     "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+     "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "healthsnap": {
+   "name": "HealthSnap",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "HealthSnap has secured a $25 million senior secured growth financing facility led by Eastward Capital Partners to accelerate AI innovation, expand commercial operations, and scale deployment of its Advanced Primary Care Management platform. \n The post  HealthSnap Secures $25 Mill",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "$25 Million",
+     "round": "Growth",
+     "title": "HealthSnap Secures $25 Million Growth Financing Led By Eastward Capital Partners",
+     "link": "https://pulse2.com/healthsnap-secures-25-million-growth-financing-led-by-eastward-capital-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "vexev": {
+   "name": "Vexev",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vexev has raised $6 million in new funding to advance FDA regulatory activities and accelerate U.S. commercialization of VxWave, its AI-powered robotic vascular ultrasound platform. The new financing brings the Australian medical robotics company’s total funding to $19 million. E",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "$6 Million",
+     "round": "",
+     "title": "Vexev Raises $6 Million To Advance FDA Clearance And U.S. Commercialization Of Robotic Vascular Imaging Platform",
+     "link": "https://pulse2.com/vexev-raises-6-million-to-advance-fda-clearance-and-u-s-commercialization-of-robotic-vascular-imaging-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "yuno": {
+   "name": "Yuno",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Yuno has raised $45 million in Series B funding to expand its AI-native global payments and financial services infrastructure and accelerate its path toward profitability. Global PayTech Ventures led the round, with participation from Andreessen Horowitz, Tiger Global, QuantumLig",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "$45 Million",
+     "round": "Series B",
+     "title": "Yuno Raises $45 Million Series B To Scale AI-Native Global Payments Platform",
+     "link": "https://pulse2.com/yuno-raises-45-million-series-b-to-scale-ai-native-global-payments-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pathway-reaches-500-million-valuation-as-total-seed-funding": {
+   "name": "Pathway Reaches $500 Million Valuation As Total Seed Funding",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Pathway has raised additional funding at a $500 million valuation as the AI company prepares to publish benchmarks for its Post-Transformer models. The financing brings Pathway’s total seed funding to $30 million, with most of the new capital expected to go toward additional comp",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "$500 Million",
+     "round": "Seed",
+     "title": "Pathway Reaches $500 Million Valuation As Total Seed Funding Hits $30 Million",
+     "link": "https://pulse2.com/pathway-reaches-500-million-valuation-as-total-seed-funding-hits-30-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "lyon-s-amdb-security-pro-locks-in-2-68-million-to-take-its": {
+   "name": "Lyon’s AMDB Security Pro locks in €2.68 million to take its ",
+   "country": "France",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AMDB Security Pro, a Lyon-based engineering company providing mechanical anti-theft systems for excavators and mini-excavators, has announced the close of a €2.68 million ($3.1 million) Seed funding round from two American private investors. The company plans to use this capital ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "€2.68 million",
+     "round": "Seed",
+     "title": "Lyon’s AMDB Security Pro locks in €2.68 million to take its excavator anti-theft systems to the US",
+     "link": "https://www.eu-startups.com/2026/08/lyons-amdb-security-pro-locks-in-e2-68-million-to-take-its-excavator-anti-theft-systems-to-the-us/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "lancaster-university-spinout-mindgard": {
+   "name": "Lancaster University spinout Mindgard",
+   "country": "USA",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Mindgard, a Boston and London-based AI security startup, has closed a €26 million ($30 million) Series A financing to scale the company across product, engineering, sales, and marketing in response to significant customer demand. The round was led by Album VC with participation f",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "€26 million",
+     "round": "Series A",
+     "title": "Lancaster University spinout Mindgard lands €26 million to secure enterprise AI systems",
+     "link": "https://www.eu-startups.com/2026/08/lancaster-university-spinout-mindgard-lands-e26-million-to-secure-enterprise-ai-systems/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "gothenburg-s-millow": {
+   "name": "Gothenburg’s Millow",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Millow, the Gothenburg-based FoodTech company producing mycelium-based protein ingredients for foodservice, has closed a €2 million funding round to expand its production capacity and scale its commercial team for the Nordic foodservice market. The round was led by serial entrepr",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "€2 million",
+     "round": "Angel",
+     "title": "Gothenburg’s Millow secures €2 million to scale clean-label protein made from oats and mycelium",
+     "link": "https://www.eu-startups.com/2026/08/gothenburgs-millow-secures-e2-million-to-scale-clean-label-protein-made-from-oats-and-mycelium/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "millow": {
+   "name": "Millow",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swedish foodtech company Millowhas raised €2 million in funding to expand production capacity and strengthenits commercial operations as it targets the Nordic foodservice market. Theround was led by s...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "€2M",
+     "round": "",
+     "title": "Millow raises €2M to expand mycelium protein across Nordic foodservice",
+     "link": "https://tech.eu/2026/08/13/millow-raises-eur2m-to-expand-mycelium-protein-across-nordic-foodservice/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "metal-morph": {
+   "name": "Metal Morph",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK-based water technology startupMetal Morph has raised £700,000 in pre-seed funding to advance its technologyfor recovering industrial resources from water and wastewater treatmentprocesses. The roun...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "£700K",
+     "round": "Pre-Seed",
+     "title": "Metal Morph raises £700K to recover industrial resources from wastewater",
+     "link": "https://tech.eu/2026/08/13/metal-morph-raises-ps700k-to-recover-industrial-resources-from-wastewater/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "mirae-asset-venture-investments-marks-first": {
+   "name": "Mirae Asset Venture Investments Marks First",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Investment firm Mirae Asset Venture Investments (MAVI) India has marked the first close of its second fund at ₹1,125 Cr…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "₹1,125",
+     "round": "",
+     "title": "Mirae Asset Venture Investments Marks First Close Of Fund II At ₹1,125 Cr",
+     "link": "https://inc42.com/buzz/mirae-asset-venture-investments-marks-first-close-of-fund-ii-at-%e2%82%b91125-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "bluehill-vc-marks-final": {
+   "name": "Bluehill.VC Marks Final",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Early-stage VC firm Bluehill.VC has marked the final close of its maiden ₹400 Cr frontier tech fund. The fund includes…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "₹400",
+     "round": "",
+     "title": "Bluehill.VC Marks Final Close Of ₹400 Cr Maiden Frontier Tech Fund",
+     "link": "https://inc42.com/buzz/bluehill-vc-marks-final-close-of-%e2%82%b9400-cr-maiden-frontier-tech-fund/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "scrubsy": {
+   "name": "Scrubsy",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "D2C home-cleaning startup Scrubsy has raised ₹27 Cr ($3 Mn) in a seed round led by V3 Ventures. Founded in…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "$3 Mn",
+     "round": "Seed",
+     "title": "D2C Brand Scrubsy Nets $3 Mn To Expand Home Cleaning Offerings",
+     "link": "https://inc42.com/buzz/d2c-brand-scrubsy-nets-3-mn-to-expand-home-cleaning-offerings/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "centricity": {
+   "name": "Centricity",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Wealthtech startup Centricity has raised ₹280 Cr (around $29 Mn) in a funding round led by SMBC Asia Rising Fund,…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "₹280",
+     "round": "",
+     "title": "Centricity Raises ₹280 Cr To Expand Wealthtech Platform, NRI Business",
+     "link": "https://inc42.com/buzz/centricity-raises-%e2%82%b9280-cr-to-expand-wealthtech-platform-nri-business/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "veteran-agtech-farmbot-digs-up-22-million-series-b-for-us-p": {
+   "name": "Veteran agtech Farmbot digs up $22 million Series B for US p",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Farmbot bags $22M to make ranch water checks less Stone Age and fuel its US Ranchbot push.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "$22 million",
+     "round": "Series B",
+     "title": "Veteran agtech Farmbot digs up $22 million Series B for US push",
+     "link": "https://www.startupdaily.net/topic/funding/veteran-agtech-farmbot-digs-up-22-million-series-b-for-us-push/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "6-startups": {
+   "name": "6 startups",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Six Aussie biotechs grab $13.5m in CUREator+ grants to push AI health, cancer and heart tech toward market.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "$13.5 million",
+     "round": "",
+     "title": "6 startups score $13.5 million from biotech grants fund CUREator+",
+     "link": "https://www.startupdaily.net/topic/funding/6-startups-score-13-5-million-from-biotech-grants-fund-cureator/",
      "source": "Startup Daily"
     }
    ]
