@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T14:21:02+00:00",
+ "updated": "2026-08-14T14:14:27+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -24498,10 +24498,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Portuguesespace technology company Neuraspace has secured €15.6 million in new financingto expand its AI-enabled Space Domain Awareness (SDA) and Space TrafficManagement (STM) capabilities. The financ...",
-   "audience": "General / mixed",
+   "summary": "Neuraspace has secured €15.6 million in new financing to expand its AI-powered Space Domain Awareness and Space Traffic Management platform as satellite operators and governments face growing risks from congestion, cyber threats, interference, and counterspace activity. \n The pos",
+   "audience": "Government & public sector",
    "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
+   "last_seen": "2026-08-14",
    "events": [
     {
      "date": "2026-08-05",
@@ -24510,6 +24510,14 @@
      "title": "Neuraspace lands €15.6M to expand AI space intelligence platform",
      "link": "https://tech.eu/2026/08/05/neuraspace-lands-eur156m-to-expand-ai-space-intelligence-platform/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-08-14",
+     "amount": "€15.6 Million",
+     "round": "",
+     "title": "Neuraspace Raises €15.6 Million To Scale AI-Powered Space Traffic And Defence Monitoring",
+     "link": "https://pulse2.com/neuraspace-raises-e15-6-million-to-scale-ai-powered-space-traffic-and-defence-monitoring/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -26754,10 +26762,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "Swedish AI software creation platform Lovable has raised €343 million ($400 million) in Series C funding at a €11.4 billion ($13.3 billion) valuation, as the Stockholm-based company looks to expand its platform, infrastructure and global team. The round was led by Menlo Ventures ",
+   "summary": "This week, we tracked more than 35 tech funding deals worth over €763 million and over 10 exits, M&A transactions, rumours, and related news stories across Europe.If email is more your thing, you ...",
    "audience": "General / mixed",
    "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
+   "last_seen": "2026-08-14",
    "events": [
     {
      "date": "2026-08-12",
@@ -26766,6 +26774,14 @@
      "title": "Lovable raise €343 million Series C to expand its platform, infrastructure and global team",
      "link": "https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-14",
+     "amount": "$400M",
+     "round": "",
+     "title": "Lovable raises $400M, Duolingo acquires Animade, and Isembard is a politician's \"wet dream\"",
+     "link": "https://tech.eu/2026/08/14/lovable-raises-400m-duolingo-acquires-animade-and-isembard-is-a-politician-s-wet-dream/",
+     "source": "Tech.eu"
     }
    ]
   },
@@ -27373,6 +27389,222 @@
      "round": "",
      "title": "6 startups score $13.5 million from biotech grants fund CUREator+",
      "link": "https://www.startupdaily.net/topic/funding/6-startups-score-13-5-million-from-biotech-grants-fund-cureator/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "avatar-robotics": {
+   "name": "Avatar Robotics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Avatar Robotics has raised $6.5 million in Seed funding to scale its humanoid robotics platform for industrial labor, targeting persistent worker shortages across warehousing, logistics, and manufacturing. The round was led by AlleyCorp, alongside a pre-seed led by defy.vc, with ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "$6.5 Million",
+     "round": "Seed",
+     "title": "Avatar Robotics Raises $6.5 Million To Build A 24/7 Humanoid Robot Workforce For Warehouses And Factories",
+     "link": "https://pulse2.com/avatar-robotics-raises-6-5-million-to-build-a-24-7-humanoid-robot-workforce-for-warehouses-and-factories/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "exclaim-robotics": {
+   "name": "Exclaim Robotics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Exclaim Robotics has emerged from stealth with a $5 million pre-seed round to develop robots that can autonomously maintain AI data centers. Founderful and Playfair co-led the financing as Exclaim builds its initial robotic systems and assembles its engineering team. \n The post  ",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "$5 Million",
+     "round": "Pre-Seed",
+     "title": "Exclaim Robotics Raises $5 Million Pre-Seed Round To Build Robots For AI Data Center Maintenance",
+     "link": "https://pulse2.com/exclaim-robotics-raises-5-million-pre-seed-round-to-build-robots-for-ai-data-center-maintenance/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "10x-banking": {
+   "name": "10x Banking",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "10x Banking has raised £40 million from AshGrove Capital to accelerate global expansion and increase sales and go-to-market activity for its cloud-native core banking platform. \n The post  10x Banking Raises £40 Million From AshGrove Capital As ARR Grows More Than 30%  appeared f",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "£40 Million",
+     "round": "",
+     "title": "10x Banking Raises £40 Million From AshGrove Capital As ARR Grows More Than 30%",
+     "link": "https://pulse2.com/10x-banking-raises-40-million-from-ashgrove-capital-as-arr-grows-more-than-30/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "moss": {
+   "name": "Moss",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Moss has raised €30 million in Series C funding led by Portage and Cherry Ventures, with the European financial technology company saying the financing has established it as a unicorn. The funding will support Moss as it expands beyond spend management and builds a broader Financ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "€30 Million",
+     "round": "Series C",
+     "title": "Moss Raises €30 Million Series C And Reaches Unicorn Status",
+     "link": "https://pulse2.com/moss-raises-e30-million-series-c-and-reaches-unicorn-status/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "investments-in-sweden-this-year": {
+   "name": "investments in Sweden this year",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "With Stockholm-based Lovable announcing a €343 million Series C this week, we decided to take a closer look at Sweden’s startup funding landscape in 2026 so far. Sweden has produced some of Europe’s largest startup funding announcements this year, with Stockholm-based companies a",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "€343 million",
+     "round": "Series C",
+     "title": "The 10 biggest startup investments in Sweden this year",
+     "link": "https://www.eu-startups.com/2026/08/the-10-biggest-startup-investments-in-sweden-this-year/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "eth-zurich-spin-off-aisot-technologies": {
+   "name": "ETH Zurich spin-off Aisot Technologies",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Aisot Technologies (Aisot), a Zurich-based startup offering AI-driven portfolio intelligence for institutional investors, has closed a €2.13 million (CHF 2 million) Seed extension round. The round was backed by existing and new investors, including family offices and experienced ",
+   "audience": "Consumers",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "€2.13 million",
+     "round": "Seed",
+     "title": "ETH Zurich spin-off Aisot Technologies bags €2.13 million to bring agentic AI to portfolio management",
+     "link": "https://www.eu-startups.com/2026/08/eth-zurich-spin-off-aisot-technologies-bags-e2-13-million-to-bring-agentic-ai-to-portfolio-management/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "peak-xv-leads-45-mn-bet-on-us-based-ai-code-testing-startup": {
+   "name": "Peak XV Leads $45 Mn Bet On US-Based AI Code Testing Startup",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Peak XV Partners led a $45 Mn Series B funding round of San Francisco-based AI code testing startup Blacksmith at…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "$45 Mn",
+     "round": "Series B",
+     "title": "Peak XV Leads $45 Mn Bet On US-Based AI Code Testing Startup Blacksmith",
+     "link": "https://inc42.com/buzz/peak-xv-leads-45-mn-bet-on-us-based-ai-code-testing-startup-blacksmith/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-leap-india-shares-shares-end-first-trading-session": {
+   "name": "[Update] LEAP India Shares Shares End First Trading Session ",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | 16:30 IST Shares of LEAP India closed their maiden trading session at ₹143.1 on the BSE, down 10%…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "₹143.1",
+     "round": "",
+     "title": "[Update] LEAP India Shares Shares End First Trading Session 10% Below Issue Price",
+     "link": "https://inc42.com/buzz/leap-india-shares-list-at-4-4-premium-to-issue-price-of-%e2%82%b9159/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "building-a-finance-teams-autopilot-banks-3-15-million": {
+   "name": "building a finance teams autopilot banks $3.15 million",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "A New Zealand AI startup developing what it calls an ‘autopilot’ for finance teams has raised NZ$3.8 million (A$3.15m) The round for Stirling was led by Blackbird, supported by the...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "events": [
+    {
+     "date": "2026-08-13",
+     "amount": "$3.15 million",
+     "round": "",
+     "title": "Kiwi AI startup building a finance teams autopilot banks $3.15 million",
+     "link": "https://www.startupdaily.net/topic/funding/kiwi-ai-startup-building-a-finance-teams-autopilot-banks-3-15-million/",
      "source": "Startup Daily"
     }
    ]
