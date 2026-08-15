@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T14:14:27+00:00",
+ "updated": "2026-08-15T13:28:09+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -27606,6 +27606,102 @@
      "title": "Kiwi AI startup building a finance teams autopilot banks $3.15 million",
      "link": "https://www.startupdaily.net/topic/funding/kiwi-ai-startup-building-a-finance-teams-autopilot-banks-3-15-million/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "medicare-platform": {
+   "name": "Medicare Platform",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Medicare Platform has secured a $50 million revolving credit facility facilitated by Nestpoint Group to expand its network of Accountable Care Organizations and invest further in AI-powered healthcare infrastructure. \n The post  Medicare Platform Secures $50 Million Credit Facili",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "$50 Million",
+     "round": "",
+     "title": "Medicare Platform Secures $50 Million Credit Facility To Scale AI-Powered Value-Based Senior Care",
+     "link": "https://pulse2.com/medicare-platform-secures-50-million-credit-facility-to-scale-ai-powered-value-based-senior-care/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "homestead-capital": {
+   "name": "Homestead Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Homestead Capital has completed the first close of its inaugural commingled agriculture private credit fund, anchored by a $150 million commitment from the private credit investment team of a large U.S. state pension system. \n The post  Homestead Capital Lands $150 Million Anchor",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "$150 Million",
+     "round": "",
+     "title": "Homestead Capital Lands $150 Million Anchor For Inaugural Agriculture Private Credit Fund",
+     "link": "https://pulse2.com/homestead-capital-lands-150-million-anchor-for-inaugural-agriculture-private-credit-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "alloy-robotics": {
+   "name": "Alloy Robotics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Alloy Robotics has raised $8 million at an $80 million valuation to scale an AI platform that helps engineers diagnose failures across robot fleets by automatically analyzing massive amounts of operational data. \n The post  Alloy Robotics Raises $8 Million At $80 Million Valuatio",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "$8 Million",
+     "round": "",
+     "title": "Alloy Robotics Raises $8 Million At $80 Million Valuation To Help Engineers Debug Robot Fleets With AI Agents",
+     "link": "https://pulse2.com/alloy-robotics-raises-8-million-at-80-million-valuation-to-help-engineers-debug-robot-fleets-with-ai-agents/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "continuim-equity-partners": {
+   "name": "Continuim Equity Partners",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Continuim Equity Partners has closed its third private equity fund with $548 million in total commitments, pushing the Pittsburgh-based firm's assets under management above $1 billion as it continues expanding its investment strategy across North American manufacturing and indust",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "events": [
+    {
+     "date": "2026-08-14",
+     "amount": "$548 Million",
+     "round": "",
+     "title": "Continuim Equity Partners Closes $548 Million Fund III In Just 32 Days And Tops $1 Billion AUM",
+     "link": "https://pulse2.com/continuim-equity-partners-closes-548-million-fund-iii-in-just-32-days-and-tops-1-billion-aum/",
+     "source": "Pulse 2.0"
     }
    ]
   }
