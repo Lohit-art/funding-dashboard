@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T13:28:09+00:00",
+ "updated": "2026-08-16T13:29:11+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -27701,6 +27701,102 @@
      "round": "",
      "title": "Continuim Equity Partners Closes $548 Million Fund III In Just 32 Days And Tops $1 Billion AUM",
      "link": "https://pulse2.com/continuim-equity-partners-closes-548-million-fund-iii-in-just-32-days-and-tops-1-billion-aum/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "vals-ai": {
+   "name": "Vals AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Vals AI raised a $40 million Series A at a $400 million valuation as the company scales an independent AI evaluation platform that measures how well frontier models perform on real-world professional tasks. Andreessen Horowitz (a16z) led the round, with participation from existin",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-16",
+   "last_seen": "2026-08-16",
+   "events": [
+    {
+     "date": "2026-08-16",
+     "amount": "$40 Million",
+     "round": "Series A",
+     "title": "Vals AI Raises $40 Million Series A At $400 Million Valuation As Revenue Grows 8x",
+     "link": "https://pulse2.com/vals-ai-raises-40-million-series-a-at-400-million-valuation-as-revenue-grows-8x/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "alex-cooper-s-unwell-reportedly": {
+   "name": "Alex Cooper’s Unwell Reportedly",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Unwell, the media and entertainment company co-founded by \"Call Her Daddy\" host Alex Cooper and producer Matt Kaplan, has raised its first outside funding at a $500 million pre-money valuation as it looks to expand through acquisitions, investments and new business lines, accordi",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-16",
+   "last_seen": "2026-08-16",
+   "events": [
+    {
+     "date": "2026-08-16",
+     "amount": "$500 Million",
+     "round": "",
+     "title": "Alex Cooper’s Unwell Reportedly Raises First Outside Funding At $500 Million Valuation From WTSL",
+     "link": "https://pulse2.com/alex-coopers-unwell-reportedly-raises-first-outside-funding-at-500-million-valuation-from-wtsl/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "1789-capital": {
+   "name": "1789 Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "1789 Capital has closed its inaugural Real Estate Development Fund with $1.2 billion in assets under management, giving the investment firm a sizable pool of capital to pursue more than $8 billion of projected real estate development across fast-growing U.S. markets. \n The post  ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-15",
+   "last_seen": "2026-08-15",
+   "events": [
+    {
+     "date": "2026-08-15",
+     "amount": "$1.2 Billion",
+     "round": "",
+     "title": "1789 Capital Closes $1.2 Billion Debut Real Estate Fund Targeting More Than $8 Billion Of Sun Belt Development",
+     "link": "https://pulse2.com/1789-capital-closes-1-2-billion-debut-real-estate-fund-targeting-more-than-8-billion-of-sun-belt-development/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "replimune": {
+   "name": "Replimune",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Replimune completed a $150 million financing as the biotechnology company prepares to commercially launch TUDRIQEV following FDA accelerated approval and continues the Phase 3 confirmatory trial required to support the treatment’s longer-term regulatory position. \n The post  Repl",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-15",
+   "last_seen": "2026-08-15",
+   "events": [
+    {
+     "date": "2026-08-15",
+     "amount": "$150 Million",
+     "round": "",
+     "title": "Replimune Raises $150 Million To Fund TUDRIQEV Launch And Confirmatory Trial",
+     "link": "https://pulse2.com/replimune-raises-150-million-to-fund-tudriqev-launch-and-confirmatory-trial/",
      "source": "Pulse 2.0"
     }
    ]
