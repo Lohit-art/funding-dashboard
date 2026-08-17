@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T13:29:11+00:00",
+ "updated": "2026-08-17T13:37:23+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -27798,6 +27798,326 @@
      "title": "Replimune Raises $150 Million To Fund TUDRIQEV Launch And Confirmatory Trial",
      "link": "https://pulse2.com/replimune-raises-150-million-to-fund-tudriqev-launch-and-confirmatory-trial/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "wispr": {
+   "name": "Wispr",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Wispr has raised $280 million in Series B funding at a $2 billion valuation as the company expands its voice-based interface technology and launches its first proprietary speech model. The financing brings Wispr's total capital raised to $361 million and comes only six months aft",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "$280 Million",
+     "round": "Series B",
+     "title": "Wispr Raises $280 Million At $2 Billion Valuation As Revenue Grows 150%+ Quarterly And Voice AI Push Accelerates",
+     "link": "https://pulse2.com/wispr-raises-280-million-at-2-billion-valuation-as-revenue-grows-150-quarterly-and-voice-ai-push-accelerates/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "econergy": {
+   "name": "Econergy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Econergy has secured approximately €229 million in financing for its Părău 2 solar and battery energy storage project in Romania from a six-lender consortium comprising the European Bank for Reconstruction and Development, Black Sea Trade and Development Bank, Exim Banca Româneas",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "€229 Million",
+     "round": "",
+     "title": "Econergy Secures €229 Million From EBRD, BSTDB, Exim Banca Românească, NLB, OTP And Intesa For 342 MWp Romania Solar-Storage Project",
+     "link": "https://pulse2.com/econergy-secures-e229-million-from-ebrd-bstdb-exim-banca-romaneasca-nlb-otp-and-intesa-for-342-mwp-romania-solar-storage-project/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "spaceam": {
+   "name": "SpaceAM",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "SpaceAM, a Gloucestershire-based aerospace and defence technology company developing ultra-lightweight autonomous sensing systems for deployment in contested and extreme environments, has closed its Seed funding round.  The funding amount has not been disclosed, and the round was",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "",
+     "round": "Seed",
+     "title": "UK-based SpaceAM closes Seed round to scale AI-powered sensing technology for defence and space",
+     "link": "https://www.eu-startups.com/2026/08/uk-based-spaceam-closes-seed-round-to-scale-ai-powered-sensing-technology-for-defence-and-space/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "norway-s-birdsview": {
+   "name": "Norway’s Birdsview",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Birdsview, a Bergen-based startup specialising in concrete inspection technology that helps preserve infrastructure, has raised €3.7 million to strengthen its commercial, industrial, and international scaling. The round was backed by Sarsia, Butterfly Ventures, Proptechfonden, Ki",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "€3.7 million",
+     "round": "",
+     "title": "Norway’s Birdsview raises €3.7 million to scale its “MRI for concrete” technology and protect infrastructure",
+     "link": "https://www.eu-startups.com/2026/08/norways-birdsview-raises-e3-7-million-to-scale-its-mri-for-concrete-technology-and-protect-infrastructure/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "amber": {
+   "name": "amber",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AIplatform amber has raised €7 million in Series A funding to expand acrossEurope and further develop its technology to help small and medium-sizedbusinesses access and use internal company knowledge....",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "€7 million",
+     "round": "Series A",
+     "title": "Aachen-based amber raises €7 million Series A to build the infrastructure for autonomous business AI",
+     "link": "https://www.eu-startups.com/2026/08/aachen-based-amber-raises-e7-million-series-a-to-build-the-infrastructure-for-autonomous-business-ai/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-17",
+     "amount": "€7M",
+     "round": "Series A",
+     "title": "amber raises €7M to expand its AI-powered business knowledge platform",
+     "link": "https://tech.eu/2026/08/17/amber-raises-eur7m-to-expand-its-ai-powered-business-knowledge-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "university-of-essex-spin-out-versatile-robotx": {
+   "name": "University of Essex spin-out Versatile RobotX",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Versatile RobotX, a Colchester-based robotics startup developing field-ready robots that automate labour-intensive farming tasks, has secured more than €1.17 million (£1 million) in funding to accelerate the commercialisation of its intelligent agricultural robots.  The investmen",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "€1.17 million",
+     "round": "Growth",
+     "title": "University of Essex spin-out Versatile RobotX bags over €1.17 million to commercialise its agricultural robots",
+     "link": "https://www.eu-startups.com/2026/08/university-of-essex-spin-out-versatile-robotx-bags-over-e1-17-million-to-commercialise-its-agricultural-robots/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "defence-tech-investor-and-builder-gallos": {
+   "name": "Defence tech investor and builder Gallos",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "A defence tech investor and builder which counts Sir Jeremy Fleming, the former director of the UK’s security and cyber agency GCHQ, as an advisor has raised $50m. The funding round in Gallos Technolo...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "$50M",
+     "round": "",
+     "title": "Defence tech investor and builder Gallos raises $50M",
+     "link": "https://tech.eu/2026/08/17/defence-tech-investor-and-builder-gallos-raises-50m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "astute": {
+   "name": "Astute",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Astute, a platform that helps B2B companies managepartnerships with newsletter, podcast and social media creators, has raised anoversubscribed $1.2 million pre-seed round as it launches its new platfo...",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "$1.2M",
+     "round": "Pre-Seed",
+     "title": "Astute raises $1.2M and launches B2B new media platform",
+     "link": "https://tech.eu/2026/08/17/astute-raises-12m-and-launches-b2b-new-media-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "atomberg": {
+   "name": "Atomberg",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C consumer appliance startup Atomberg’s board passed a special resolution to raise up to ₹450 Cr via an initial public…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "₹450",
+     "round": "",
+     "title": "Atomberg Gets Board Nod To Raise Over ₹450 Cr Via IPO",
+     "link": "https://inc42.com/buzz/atomberg-gets-board-nod-to-raise-over-%e2%82%b9450-cr-via-ipo/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "brdg": {
+   "name": "Brdg",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Connection & community",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Forum-backed Montréal startup aims to simplify construction loan management with AI. \n The post  Brdg secures $850,000 to modernize construction financing  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "$850,000",
+     "round": "",
+     "title": "Brdg secures $850,000 to modernize construction financing",
+     "link": "https://betakit.com/brdg-secures-850000-to-modernize-construction-financing/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "hotels-customer-acquisition-platform-visaible-ai-finds-room": {
+   "name": "Hotels customer acquisition platform Visaible.ai finds room ",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Visaible.ai bags $1M to stop hotels vanishing in ChatGPT-era travel search, using AI agents fix listings and protect direct bookings.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "$1 million",
+     "round": "",
+     "title": "Hotels customer acquisition platform Visaible.ai finds room for $1 million",
+     "link": "https://www.startupdaily.net/topic/funding/hotels-customer-acquisition-platform-visaible-ai-finds-room-for-1-million/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "best-in-tech-awards-finalist-sophiie-ai": {
+   "name": "Best in Tech awards finalist Sophiie AI",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Sophiie AI grabs $5M to turn tradie admin into AI’s problem and crack the US.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "$5 million",
+     "round": "Seed",
+     "title": "Best in Tech awards finalist Sophiie AI lands $5 million Seed round",
+     "link": "https://www.startupdaily.net/topic/funding/best-in-tech-awards-finalist-sophiie-ai-lands-5-million-seed-round/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "deep-tech-copper-recovery-startup-orivium-seeks-30-million": {
+   "name": "Deep tech copper recovery startup  Orivium seeks $30 million",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Copper is the new gold: Orivium wants $30m to turn mining waste into critical metals.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "events": [
+    {
+     "date": "2026-08-17",
+     "amount": "$30 million",
+     "round": "Series B",
+     "title": "Deep tech copper recovery startup  Orivium seeks $30 million Series B",
+     "link": "https://www.startupdaily.net/topic/other-tech/deep-tech-copper-recovery-startup-orivium-seeks-30-million-series-b/",
+     "source": "Startup Daily"
     }
    ]
   }
