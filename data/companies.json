@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T13:40:00+00:00",
+ "updated": "2026-08-19T13:42:20+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -27209,11 +27209,11 @@
    "sector": "FoodTech / AgTech",
    "is_ai": false,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "Swedish foodtech company Millowhas raised €2 million in funding to expand production capacity and strengthenits commercial operations as it targets the Nordic foodservice market. Theround was led by s...",
+   "stage": "new",
+   "summary": "Gothenburg-based foodtech company Millow has raised €2 million in a funding round led by serial entrepreneur and angel investor Magnus Emilson, with Vitamin Well co-founder Jan Enhager joining as an investor and strategic adviser. The round also includes two Swedish tech founders",
    "audience": "General / mixed",
    "first_seen": "2026-08-13",
-   "last_seen": "2026-08-13",
+   "last_seen": "2026-08-19",
    "events": [
     {
      "date": "2026-08-13",
@@ -27222,6 +27222,14 @@
      "title": "Millow raises €2M to expand mycelium protein across Nordic foodservice",
      "link": "https://tech.eu/2026/08/13/millow-raises-eur2m-to-expand-mycelium-protein-across-nordic-foodservice/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-08-19",
+     "amount": "€2 million",
+     "round": "Angel",
+     "title": "Swedish startup Millow raises €2 million to scale low-water mycelium protein",
+     "link": "https://arcticstartup.com/millow-raises-e2-million/",
+     "source": "ArcticStartup"
     }
    ]
   },
@@ -28658,7 +28666,7 @@
    "is_ai": false,
    "research_based": false,
    "stage": "established",
-   "summary": "After recapitalizing in 2023, Toronto FinTech company says it’ll break even by Q4. \n The post  Clearco secures $100 million USD for “rescaling” after difficult years  first appeared on  BetaKit .",
+   "summary": "After recapitalizing in 2023, Toronto FinTech company says it will break even by Q4. \n The post  Clearco secures $100 million USD for “rescaling” after difficult years  first appeared on  BetaKit .",
    "audience": "General / mixed",
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-18",
@@ -28694,6 +28702,518 @@
      "title": "Campus safety platform Legio raises $5 million USD from Klass Capital",
      "link": "https://betakit.com/campus-safety-platform-legio-raises-5-million-usd-from-klass-capital/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "flip": {
+   "name": "Flip",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Employee experience platform Flip hasraised $25 million in new funding to expand its AI-powered technology forfrontline workers. Existing investors Notion Capital and HV Capital increasedtheir stakes ...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$25 Million",
+     "round": "",
+     "title": "Flip Raises $25 Million To Bring AI To Frontline Workers Across 1,000+ Brands",
+     "link": "https://pulse2.com/flip-raises-25-million-to-bring-ai-to-frontline-workers-across-1000-brands/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-08-19",
+     "amount": "$25M",
+     "round": "",
+     "title": "Flip raises $25M to expand AI platform for frontline workers",
+     "link": "https://tech.eu/2026/08/19/flip-raises-25m-to-expand-ai-platform-for-frontline-workers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "also": {
+   "name": "ALSO",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "ALSO has raised a $150 million Series D financing round to accelerate development of its autonomous vehicle platform and expand its lineup of small electric vehicles for moving people and goods. The round was led by Prysm Capital, with participation from Eclipse, Greenoaks and MV",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$150 Million",
+     "round": "Series D",
+     "title": "ALSO Raises $150 Million Series D After $200 Million Series C As Autonomous EV Push Accelerates",
+     "link": "https://pulse2.com/also-raises-150-million-series-d-after-200-million-series-c-as-autonomous-ev-push-accelerates/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "relativity-networks": {
+   "name": "Relativity Networks",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Relativity Networks has raised $22 million through a SAFE financing and secured a $40 million follow-on order from a major hyperscaler as the company scales its ChronoCore hollow-core fiber technology for geographically distributed AI infrastructure. \n The post  Relativity Networ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$22 Million",
+     "round": "",
+     "title": "Relativity Networks Raises $22 Million And Lands $40 Million Hyperscaler Order For 47%-Faster AI Fiber",
+     "link": "https://pulse2.com/relativity-networks-raises-22-million-and-lands-40-million-hyperscaler-order-for-47-faster-ai-fiber/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "docgo": {
+   "name": "DocGo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "DocGo increased the estimated contingent consideration liability associated with its SteadyMD acquisition to $5 million from $2.3 million, recording a $2.7 million first-half fair-value loss because the company now expects stronger revenue performance from the acquired telehealth",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$5 Million",
+     "round": "",
+     "title": "DocGo Raises SteadyMD Earnout Liability To $5 Million From $2.3 Million As Telehealth Revenue Outlook Improves",
+     "link": "https://pulse2.com/docgo-raises-steadymd-earnout-liability-to-5-million-from-2-3-million-as-telehealth-revenue-outlook-improves/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "os-therapies": {
+   "name": "OS Therapies",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "OS Therapies secured up to $10 million of debt financing backed by expected U.K. VAT refunds and reimbursable R&D tax credits, including $5 million funded at an August 10 first closing, creating an unusual financing structure that converts expected recoveries from development spe",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$10 Million",
+     "round": "Debt",
+     "title": "OS Therapies Secures Up To $10 Million Debt Financing Against U.K. Tax Refunds And R&D Credits",
+     "link": "https://pulse2.com/os-therapies-secures-up-to-10-million-debt-financing-against-u-k-tax-refunds-and-rd-credits/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "scotland-s-singular-photonics": {
+   "name": "Scotland’s Singular Photonics",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Singular Photonics, an Edinburgh-based fabless semiconductor company developing SPAD (single photon avalanche diode) image sensors with on-chip computation, has closed an oversubscribed €1.85 million ($2.15 million) funding round. The round was led by ACF Investors, with particip",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "€1.85 million",
+     "round": "",
+     "title": "Scotland’s Singular Photonics secures €1.85 million to scale SPAD image sensors with on-chip computing",
+     "link": "https://www.eu-startups.com/2026/08/scotlands-singular-photonics-secures-e1-85-million-to-scale-spad-image-sensors-with-on-chip-computing/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "reykjavik-s-snerpapower": {
+   "name": "Reykjavik’s SnerpaPower",
+   "country": "Luxembourg",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "SnerpaPower, a Reykjavik-based DeepTech company developing energy management software for power-intensive industries, has secured €3.4 million to accelerate its European expansion.  The funding includes a €3 million Seed investment led by Encevo, a regional leader and a key playe",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "€3.4 million",
+     "round": "Seed",
+     "title": "Reykjavik’s SnerpaPower lands €3.4 million to help power-intensive industries turn electricity into a competitive advantage",
+     "link": "https://www.eu-startups.com/2026/08/reykjaviks-snerpapower-secures-e3-4-million-to-help-power-intensive-industries-turn-electricity-into-a-competitive-advantage/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-medly": {
+   "name": "London’s Medly",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Medly AI, a London-based AI-powered learning platform that claims to offer the world’s first AI tutor for exam prep, has raised a €6.89 million ($8 million) Seed round.  The round was led by Felix Capital and backed by existing investors Eka Ventures and Ada Ventures. Several ang",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "€6.9 million",
+     "round": "Seed",
+     "title": "London’s Medly raises €6.9 million to democratise access to personalised education through an AI tutor",
+     "link": "https://www.eu-startups.com/2026/08/londons-medly-raises-e6-9-million-to-democratise-access-to-personalised-education-through-an-ai-tutor/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "copenhagen-s-aisel-health": {
+   "name": "Copenhagen’s Aisel Health",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Aisel Health, a Copenhagen-based HealthTech company building an operating system (OS) purpose-built for psychiatry and mental health, today announced it has closed a €1.7 million pre-Seed round.  The round was led by Caesar Ventures, with participation from Nordic Web Ventures, L",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "€1.7 million",
+     "round": "Pre-Seed",
+     "title": "Copenhagen’s Aisel Health raises €1.7 million to scale its AI operating system for psychiatric care",
+     "link": "https://www.eu-startups.com/2026/08/copenhagens-aisel-health-raises-e1-7-million-to-scale-its-ai-operating-system-for-psychiatric-care/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "nebius-looks-to": {
+   "name": "Nebius looks to",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Nebius, the Amsterdam-based AI infrastructure provider, is looking to raise $4.5bn through convertible notes, it said today, as it looks to finance the sizeable cost of compute and data centre build-o...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$4.5BN",
+     "round": "",
+     "title": "Nebius looks to raise $4.5BN through bond issue",
+     "link": "https://tech.eu/2026/08/19/nebius-looks-to-raise-45bn-through-bond-issue/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "prevalent-ai": {
+   "name": "Prevalent AI",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Enterprise AI company Prevalent AI has secured a $22million growth investment from Los Angeles-based Integrity Growth Partners(IGP), marking the first primary capital raised by the company since itsfo...",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$22M",
+     "round": "Growth",
+     "title": "Prevalent AI secures $22M growth investment to scale enterprise AI platform",
+     "link": "https://tech.eu/2026/08/19/prevalent-ai-secures-22m-growth-investment-to-scale-enterprise-ai-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "beyond-ai-scribes-aisel": {
+   "name": "Beyond AI scribes: Aisel",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Aisel Health, the Danish HealthTech company building an Operating System (OS) purpose-built for psychiatry and mental health, today announced it has closed a €1.7 million pre-seed round. The round was...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "€1.7M",
+     "round": "Pre-Seed",
+     "title": "Beyond AI scribes: Aisel raises €1.7M to tackle psychiatry’s capacity crisis",
+     "link": "https://tech.eu/2026/08/19/beyond-ai-scribes-aisel-raises-eur17m-to-tackle-psychiatrys-capacity-crisis/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "singular-photonics": {
+   "name": "Singular Photonics",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Edinburgh-basedsemiconductor company Singular Photonics has raised $2.15 million in anoversubscribed funding round to accelerate the development of its nextgeneration of SPAD-based image sensors. The ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$2.15M",
+     "round": "",
+     "title": "Singular Photonics lands $2.15M to develop next-generation image sensors",
+     "link": "https://tech.eu/2026/08/19/singular-photonics-lands-215m-to-develop-next-generation-image-sensors/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "medly-ai": {
+   "name": "Medly AI",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK edtech startup Medly AI has raised$8 million in seed funding to expand its AI-powered exam preparation platformin the UK and international markets. The round was led by Felix Capital, withparticipa...",
+   "audience": "Consumers",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$8M",
+     "round": "Seed",
+     "title": "Medly AI raises $8M to bring AI-powered tutoring to more students",
+     "link": "https://tech.eu/2026/08/19/medly-ai-raises-8m-to-bring-ai-powered-tutoring-to-more-students/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "denmark-s-aisel-health": {
+   "name": "Denmark’s Aisel Health",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Copenhagen-based healthtech startup Aisel Health has raised €1.7 million in a pre-seed round led by Caesar Ventures, with participation from Nordic Web Ventures, LifeX and Angel Invest, while existing backers Rockstart and EIFO also reinvested. Founded in 2024 by Augusta Klingste",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "€1.7 million",
+     "round": "Pre-Seed",
+     "title": "Denmark’s Aisel Health secures €1.7 million pre-seed to help psychiatrists find what matters in patient records",
+     "link": "https://arcticstartup.com/aisel-health-raises-e1-7-million-pre-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "update-shiprocket-shares-end-first-trading-session-48-abo": {
+   "name": "[Update] Shiprocket Shares End First Trading Session 48% Abo",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | August 19, 16:15 IST Share of ecommerce enabler Shiprocket closed their maiden trading session at ₹143.5 on the…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "₹143.5",
+     "round": "",
+     "title": "[Update] Shiprocket Shares End First Trading Session 48% Above Issue Price",
+     "link": "https://inc42.com/buzz/shiprocket-makes-bumper-market-debut-lists-at-35-premium/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "butterfly-learnings": {
+   "name": "Butterfly Learnings",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Healthtech startup Butterfly Learnings, which operates a child development and behavioral healthcare network, has raised ₹65 Cr ($7.7 Mn) in…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "₹65",
+     "round": "",
+     "title": "Butterfly Learnings Raises ₹65 Cr To Scale Neurodivergent Care Network",
+     "link": "https://inc42.com/buzz/butterfly-learnings-raises-%e2%82%b965-cr-to-scale-neurodivergent-care-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ctrls-datacenters": {
+   "name": "CtrlS DataCenters",
+   "country": "India",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Data center network company CtrlS DataCentres has raised ₹250 Cr (about $26.1 Mn) in equity funding from Zerodha cofounder Nikhil…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "₹250",
+     "round": "",
+     "title": "CtrlS DataCenters Nets ₹250 Cr From Zerodha’s Nikhil Kamath, Sreeram Reddy Vanga",
+     "link": "https://inc42.com/buzz/ctrls-datacenters-nets-%e2%82%b9250-cr-from-zerodhas-nikhil-kamath-sreeram-reddy-vanga/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "a16z-backed-blueprint": {
+   "name": "A16z-backed Blueprint",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Toronto AI startup is building the “Lovable for hardware” to help anyone turn their prompts into prototypes. \n The post  A16z-backed Blueprint raises $1.4 million CAD to bring vibe coding to hardware  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$1.4 million",
+     "round": "",
+     "title": "A16z-backed Blueprint raises $1.4 million CAD to bring vibe coding to hardware",
+     "link": "https://betakit.com/a16z-backed-blueprint-raises-1-4-million-to-bring-vibe-coding-to-hardware/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "space": {
+   "name": "Space",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Startup raises $2.4 million USD to build a more seamless version of Dropbox and Google Drive. \n The post  Space lands a16z speedrun backing for its vision to turn the cloud into your hard drive  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-18",
+   "last_seen": "2026-08-18",
+   "events": [
+    {
+     "date": "2026-08-18",
+     "amount": "$2.4 million",
+     "round": "",
+     "title": "Space lands a16z speedrun backing for its vision to turn the cloud into your hard drive",
+     "link": "https://betakit.com/space-lands-a16z-speedrun-backing-for-its-vision-to-turn-the-cloud-into-your-hard-drive/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "queensland-beef-genetics-biotech-nybro-doubles-seed-round-to": {
+   "name": "Queensland beef genetics biotech Nybro doubles Seed round to",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Nbryo doubles its Seed round to $20m as Queensland bets on biotech to supercharge beef genetics, supported by QIC.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$20 million",
+     "round": "Seed",
+     "title": "Queensland beef genetics biotech Nybro doubles Seed round to $20 million",
+     "link": "https://www.startupdaily.net/topic/funding/queensland-beef-genetics-biotech-nybro-doubles-seed-round-to-20-million/",
+     "source": "Startup Daily"
     }
    ]
   }
