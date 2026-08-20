@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T13:42:20+00:00",
+ "updated": "2026-08-20T13:43:38+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -29213,6 +29213,510 @@
      "round": "Seed",
      "title": "Queensland beef genetics biotech Nybro doubles Seed round to $20 million",
      "link": "https://www.startupdaily.net/topic/funding/queensland-beef-genetics-biotech-nybro-doubles-seed-round-to-20-million/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "rillet": {
+   "name": "Rillet",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$100M",
+     "round": "Series C",
+     "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+     "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "guideless": {
+   "name": "Guideless",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI-powered software training andoperational knowledge platform Guideless has raised €1 million in pre-seedfunding to further develop its technology and expand internationally. The roundwas led by Supe...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "€1 Million",
+     "round": "Pre-Seed",
+     "title": "Guideless Raises €1 Million Pre-Seed As AI Training Platform Reaches 3,000+ Users Across 15 Markets",
+     "link": "https://pulse2.com/guideless-raises-e1-million-pre-seed-as-ai-training-platform-reaches-3000-users-across-15-markets/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-08-20",
+     "amount": "€1 million",
+     "round": "Pre-Seed",
+     "title": "Vilnius-based Guideless raises €1 million to turn software workflows into narrated video training guides using AI",
+     "link": "https://www.eu-startups.com/2026/08/vilnius-based-guideless-raises-e1-million-to-turn-software-workflows-into-narrated-video-training-guides-using-ai/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-20",
+     "amount": "€1M",
+     "round": "",
+     "title": "Lithuanian AI startup Guideless raises €1M to streamline software training",
+     "link": "https://tech.eu/2026/08/20/lithuanian-ai-startup-guideless-raises-eur1m-to-streamline-software-training/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "franklin-templeton": {
+   "name": "Franklin Templeton",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Franklin Templeton has closed its first Collateralized Fund Obligation, raising $1.5 billion from global investors and establishing a new capital formation channel for the firm's private markets platform. \n The post  Franklin Templeton Closes $1.5 Billion Inaugural CFO To Expand ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "$1.5 Billion",
+     "round": "",
+     "title": "Franklin Templeton Closes $1.5 Billion Inaugural CFO To Expand Private Markets Access Across Lexington And Benefit Street",
+     "link": "https://pulse2.com/franklin-templeton-closes-1-5-billion-inaugural-cfo-to-expand-private-markets-access-across-lexington-and-benefit-street/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "stockholm-s-pixelgen-technologies": {
+   "name": "Stockholm’s Pixelgen Technologies",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Pixelgen Technologies, a Stockholm-based life sciences company that claims to have developed the first high-throughput platform for mapping molecular cell architecture, has closed an oversubscribed €13.26 million ($15.5 million) Series B funding round.  The round was led by new i",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "€13.26 million",
+     "round": "Series B",
+     "title": "Stockholm’s Pixelgen Technologies secures €13.26 million to advance spatial mapping of cell-surface proteins",
+     "link": "https://www.eu-startups.com/2026/08/stockholms-pixelgen-technologies-secures-e13-26-million-to-advance-spatial-mapping-of-cell-surface-proteins/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "callosum": {
+   "name": "Callosum",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "A UK AI startup that is building software infrastructure that allows AI workloads to run on different chips and AI models has raised $100m in an exceptionally high-value European seed round. Callosum ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "€85.4 million",
+     "round": "Seed",
+     "title": "London-based Callosum raises €85.4 million in Atomico-led Seed round to unify AI models and chips",
+     "link": "https://www.eu-startups.com/2026/08/london-based-callosum-raises-e85-4-million-in-atomico-led-seed-round-to-unify-ai-models-and-chips/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-20",
+     "amount": "$100M",
+     "round": "Seed",
+     "title": "Callosum raises $100M seed round",
+     "link": "https://tech.eu/2026/08/20/callosum-raises-100m-seed-round/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "danish-ai-infrastructure-startup-velatir": {
+   "name": "Danish AI infrastructure startup Velatir",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Velatir, an Odense-based AI infrastructure startup, today announced it has secured €5 million in new funding to “triple down” on its European expansion and “compete for the best talent” in the region.  According to the company, this round was completed in two weeks and was co-led",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "€5 million",
+     "round": "Pre-Seed",
+     "title": "Danish AI infrastructure startup Velatir secures €5 million six months after its pre-Seed round and official launch",
+     "link": "https://www.eu-startups.com/2026/08/danish-ai-infrastructure-startup-velatir-secures-e5-million-six-months-after-its-pre-seed-round-and-official-launch/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "turning-livestock-waste-into-renewable-energy-for-small-farm": {
+   "name": "Turning livestock waste into renewable energy for small farm",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Harpenden-based AgriTech startup EcoNomad Solutions has received €466k (£400k) in new funding to help small livestock farms cut methane emissions, reduce rising energy and fertiliser costs, and turn organic waste into renewable energy. The investment is made up of €268k (£230k) f",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "€466k",
+     "round": "Grant",
+     "title": "Turning livestock waste into renewable energy for small farms, UK startup EcoNomad Solutions lands €466k",
+     "link": "https://www.eu-startups.com/2026/08/turning-livestock-waste-into-renewable-energy-for-small-farms-uk-startup-economad-solutions-lands-e466k/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "a-year-after-their-last": {
+   "name": "A year after their last",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Flip, a Stuttgart-based employee experience platform for frontline workers, has raised €22 million (£19 million) in order to fund AI infrastructure and knowledge development for deskless roles. Today’s round is backed by existing investors Notion Capital and HV Capital, who are e",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "€22 million",
+     "round": "",
+     "title": "A year after their last raise, Germany’s Flip raises €22 million to scale its frontline AI platform",
+     "link": "https://www.eu-startups.com/2026/08/a-year-after-their-last-raise-germanys-flip-raises-e22-million-to-scale-its-frontline-ai-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "solinide": {
+   "name": "Solinide",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Swedish deeptech company Solinide Photonics has raised €4 million in seed funding to commercialise its siliconnitride photonic integrated circuit technology and prepare for scalablemanufacturing. The ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "€4M",
+     "round": "Seed",
+     "title": "Solinide closes €4M to commercialise photonic chips for AI data centres",
+     "link": "https://tech.eu/2026/08/20/solinide-closes-eur4m-to-commercialise-photonic-chips-for-ai-data-centres/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "paralo": {
+   "name": "Paralo",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK golf technology startup Paralo has raised £270,000 in an oversubscribed pre-seed funding round to develop its operating system for golf clubs and a connected product for golfers. £250,000 of the fo...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "£270K",
+     "round": "Pre-Seed",
+     "title": "Paralo raises £270K to tackle golf’s fragmented technology stack",
+     "link": "https://tech.eu/2026/08/20/paralo-raises-ps270k-to-tackle-golfs-fragmented-technology-stack/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "velatir": {
+   "name": "Velatir",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "DanishAI startup Velatir has raised €5 million in new funding to expand its AIinfrastructure platform across Europe and grow its team. The round was co-ledby new investor Spintop Ventures and existing...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "€5M",
+     "round": "Seed",
+     "title": "Velatir secures €5M seed funding to expand its AI infrastructure across Europe",
+     "link": "https://tech.eu/2026/08/20/velatir-secures-eur5m-seed-funding-to-expand-its-ai-infrastructure-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "economad": {
+   "name": "EcoNomad",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "UK‑based startup EcoNomad Solutions has received £230,000 in funding from the British Design Fund (BDF) to help small livestock farms cut methane emissions, reduce rising energy and fertiliser costs, ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "£400K",
+     "round": "",
+     "title": "EcoNomad raises £400K to bring waste-to-energy tech to small livestock farms",
+     "link": "https://tech.eu/2026/08/19/economad-raises-ps400k-to-bring-waste-to-energy-tech-to-small-livestock-farms/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "danish-velatir": {
+   "name": "Danish Velatir",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Odense-based AI startup Velatir has raised €5 million in seed funding in a round co-led by Spintop Ventures and existing investor Ugly Duckling Ventures. The round also includes follow-on investment from Norrsken Evolve, angel investors Jan Oberhauser, founder of n8n, and Thomas ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "€5 million",
+     "round": "Seed",
+     "title": "Danish Velatir gets €5 million seed as companies seek greater control over AI use",
+     "link": "https://arcticstartup.com/velatir-raises-e5-million-in-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "zetwerk-udrhp-a-look-at-shareholding-pattern-key-executiv": {
+   "name": "Zetwerk UDRHP: A Look At Shareholding Pattern & Key Executiv",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "B2B manufacturing company Zetwerk filed its updated IPO papers with the SEBI, bidding to raise ₹2,600 Cr via a fresh…",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "₹2,600",
+     "round": "",
+     "title": "Zetwerk UDRHP: A Look At Shareholding Pattern & Key Executives",
+     "link": "https://inc42.com/buzz/zetwerk-udrhp-a-look-at-shareholding-pattern-key-executives/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "baby-focused-quick-commerce-startup-peeko": {
+   "name": "Baby-Focused Quick Commerce Startup Peeko",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Babycare-focused quick commerce startup Peeko has raised $7 Mn (₹67.4 Cr) in its Series A funding round led by Chiratae…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "$7 Mn",
+     "round": "Series A",
+     "title": "Baby-Focused Quick Commerce Startup Peeko Nets $7 Mn To Double Dark Store Count",
+     "link": "https://inc42.com/buzz/baby-focused-quick-commerce-startup-peeko-nets-7-mn-to-double-dark-store-count/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "the-playbook-behind-agilitas-global-sportswear-ambition": {
+   "name": "The Playbook Behind Agilitas’ Global Sportswear Ambition",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Having raised ₹225 Cr in fresh funding, three-year-old sportswear startup Agilitas is looking to bolster its presence in the sportswear…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "₹225",
+     "round": "",
+     "title": "The Playbook Behind Agilitas’ Global Sportswear Ambition",
+     "link": "https://inc42.com/buzz/the-playbook-behind-agilitass-global-sportswear-ambition/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ipo-bound-navi": {
+   "name": "IPO-Bound Navi",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Global VC firm Prosus has invested $100 Mn (over ₹955 Cr) in Sachin Bansal-led fintech startup Navi, marking the latter’s…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$100 Mn",
+     "round": "",
+     "title": "IPO-Bound Navi Raises $100 Mn From Prosus In Maiden Institutional Round",
+     "link": "https://inc42.com/buzz/ipo-bound-navi-raises-100-mn-from-prosus-in-maiden-institutional-round/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "former-nvidia-lab-leader-sanja-fidler-launches-veeda-ai-to-t": {
+   "name": "Former Nvidia lab leader Sanja Fidler launches Veeda AI to t",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "New startup has raised $90 million USD, with backing from Radical and Khosla. \n The post  Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "events": [
+    {
+     "date": "2026-08-19",
+     "amount": "$90 million",
+     "round": "",
+     "title": "Former Nvidia lab leader Sanja Fidler launches Veeda AI to tackle world models",
+     "link": "https://betakit.com/former-nvidia-lab-leader-sanja-fidler-launches-veeda-ai-to-tackle-world-models/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "gotta-be-bonds-australian-investors-wanted-to-tip-20-billi": {
+   "name": "Gotta be bonds: Australian investors wanted to tip $20 billi",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Alphabet’s A$5.5bn Kangaroo bonds unleashed a $20bn Aussie feeding frenzy for AI debt—see why Amazon may be next.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "$20 billion",
+     "round": "Debt",
+     "title": "Gotta be bonds: Australian investors wanted to tip $20 billion into Alphabet’s $5.5bn debt raise",
+     "link": "https://www.startupdaily.net/topic/funding/gotta-be-bonds-australian-investors-wanted-to-tip-20-billion-into-alphabets-5-5bn-debt-raise/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "canberra-defence-tech-startup-seitec-detects-4-million": {
+   "name": "Canberra defence tech startup Seitec  detects $4 million",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Seitec bags $4m to take stealth conflict-zone sensing global as allies hunt tougher detection tech.",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "$4 million",
+     "round": "",
+     "title": "Canberra defence tech startup Seitec  detects $4 million",
+     "link": "https://www.startupdaily.net/topic/funding/canberra-defence-tech-startup-seitec-detects-4-million/",
      "source": "Startup Daily"
     }
    ]
