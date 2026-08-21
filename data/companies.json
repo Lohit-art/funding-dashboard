@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T13:43:38+00:00",
+ "updated": "2026-08-21T13:42:52+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -29717,6 +29717,366 @@
      "round": "",
      "title": "Canberra defence tech startup Seitec  detects $4 million",
      "link": "https://www.startupdaily.net/topic/funding/canberra-defence-tech-startup-seitec-detects-4-million/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "wingspire-equipment-finance-provides-140-million-financing": {
+   "name": "Wingspire Equipment Finance Provides $140 Million Financing ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Wingspire Equipment Finance has closed a $140 million equipment financing transaction with a private equity-backed company providing GPU cloud computing capacity to AI labs, enterprises and public-sector organizations. \n The post  Wingspire Equipment Finance Provides $140 Million",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$140 Million",
+     "round": "",
+     "title": "Wingspire Equipment Finance Provides $140 Million Financing For High-Performance AI Compute Infrastructure",
+     "link": "https://pulse2.com/wingspire-equipment-finance-provides-140-million-financing-for-high-performance-ai-compute-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "navi": {
+   "name": "Navi",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Navi Limited has secured a proposed $100 million investment from Prosus, marking the Indian digital financial services company's first institutional capital raise. \n The post  Navi Raises $100 Million From Prosus In First Institutional Funding Round As Lending AUM Tops ₹130 Billi",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$100 Million",
+     "round": "",
+     "title": "Navi Raises $100 Million From Prosus In First Institutional Funding Round As Lending AUM Tops ₹130 Billion",
+     "link": "https://pulse2.com/navi-raises-100-million-from-prosus-in-first-institutional-funding-round-as-lending-aum-tops-%e2%82%b9130-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "coastline-wealth-management": {
+   "name": "Coastline Wealth Management",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Coastline Wealth Management has secured up to $100 million in financing from Brightwood Capital Advisors while simultaneously completing 12 acquisitions, pushing the independent wealth management platform above $6 billion in assets under management and administration. \n The post ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$100 Million",
+     "round": "",
+     "title": "Coastline Wealth Management Secures Up To $100 Million From Brightwood And Completes 12 Acquisitions, Surpassing $6 Billion",
+     "link": "https://pulse2.com/coastline-wealth-management-secures-up-to-100-million-from-brightwood-and-completes-12-acquisitions-surpassing-6-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "castelion": {
+   "name": "Castelion",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Castelion has raised a $1 billion Series C financing at a $13 billion valuation to scale production of its Blackbeard hypersonic strike missile and accelerate development of longer-range strike weapons and defensive systems. The financing includes $800 million in equity and $250 ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$1 Billion",
+     "round": "Series C",
+     "title": "Castelion Raises $1 Billion Series C At $13 Billion Valuation As U.S. Military Contracts Top $500 Million",
+     "link": "https://pulse2.com/castelion-raises-1-billion-series-c-at-13-billion-valuation-as-u-s-military-contracts-top-500-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "queen-one": {
+   "name": "Queen One",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Queen One has raised $25 million in new financing to scale its AI-powered commerce technology platform, expand its commercial organization, launch an advertising business, and pursue potential acquisitions across commerce and marketing technology. Investors include Mercury Fund, ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$25 Million",
+     "round": "",
+     "title": "Queen One Raises $25 Million To Scale AI Commerce Platform, Launch Advertising Business And Fund Acquisitions",
+     "link": "https://pulse2.com/queen-one-raises-25-million-to-scale-ai-commerce-platform-launch-advertising-business-and-fund-acquisitions/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "renata-medical": {
+   "name": "Renata Medical",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Renata Medical has raised $25 million in Series D financing to expand commercialization of its Minima Stent System and advance a broader pipeline of cardiovascular devices designed specifically for children. The financing was led by healthcare investment firm ARCHIMED, with parti",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$25 Million",
+     "round": "Series D",
+     "title": "Renata Medical Raises $25 Million Series D To Scale Pediatric Heart Stent As U.S. Adoption Exceeds Expectations",
+     "link": "https://pulse2.com/renata-medical-raises-25-million-series-d-to-scale-pediatric-heart-stent-as-u-s-adoption-exceeds-expectations/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "birdsview": {
+   "name": "Birdsview",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Birdsview has raised €3.7 million to expand its non-destructive concrete scanning technology internationally after customers across eight countries adopted the platform. \n The post  Birdsview Raises €3.7 Million As AI Concrete Scanning Platform Expands Across 8 Countries  appeare",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "€3.7 Million",
+     "round": "",
+     "title": "Birdsview Raises €3.7 Million As AI Concrete Scanning Platform Expands Across 8 Countries",
+     "link": "https://pulse2.com/birdsview-raises-e3-7-million-as-ai-concrete-scanning-platform-expands-across-8-countries/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "redfaire": {
+   "name": "Redfaire",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Redfaire, a Limerick-based enterprise resource planning (ERP) and cloud services provider, has secured a €13 million minority investment from Ireland-based growth capital firm BGF.  The funding will back the company’s international expansion, ongoing service development and a tar",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "€13 million",
+     "round": "Growth",
+     "title": "Limerick-based Redfaire lands €13 million from BGF to scale its ERP and cloud services business",
+     "link": "https://www.eu-startups.com/2026/08/limerick-based-redfaire-lands-e13-million-from-bgf-to-scale-its-erp-and-cloud-services-business/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "oshen": {
+   "name": "Oshen",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Oshen, a Plymouth-based robotics company building a persistent sensing layer for the world’s oceans, has secured €4.27 million ($5 million in a fresh funding round and is tripling its manufacturing rate to meet demand from navies, weather agencies and ocean scientists. The round ",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "€4.27 million",
+     "round": "",
+     "title": "Plymouth-based Oshen raises €4.27 million to scale robot swarms that act as the ocean’s “eyes and ears”",
+     "link": "https://www.eu-startups.com/2026/08/plymouth-based-oshen-raises-e4-27-million-to-scale-robot-swarms-that-act-as-the-oceans-eyes-and-ears/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "hexseed": {
+   "name": "HexSeed",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "HexSeed Technology, a carbon capture and utilisation (CCU) startup that transforms captured CO₂ into high-value supermaterials, has raised over €700k (£600k) in early-stage funding.  The funding was led by Carbon13, with participation from Net Zero Technology Centre and Vento Ven",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "€700k",
+     "round": "Grant",
+     "title": "UK-based HexSeed raises over €700k to cool AI data centres with its with diamond coating technology",
+     "link": "https://www.eu-startups.com/2026/08/uk-based-hexseed-raises-over-e700k-to-cool-ai-data-centres-with-its-with-diamond-coating-technology/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "belgian-creative-learning-platform-artwod": {
+   "name": "Belgian creative learning platform Artwod",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Antwerp-based Artwod, a guided learning and community platform for visual artists, has raised a €1.1 million Seed round to launch their creators’ marketplace, promote greater community participation, and build artist loyalty. The round was raised with participation from Airbridge",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "€1.1 million",
+     "round": "Seed",
+     "title": "Belgian creative learning platform Artwod raises €1.1 million to launch creators’ marketplace",
+     "link": "https://www.eu-startups.com/2026/08/belgian-creative-learning-platform-artwod-raises-e1-1-million-to-launch-creators-marketplace/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "fragaria-in-talks-to": {
+   "name": "Fragaria In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Chennai-based agritech startup Fragaria Fruits is in talks to raise ₹40 Cr ($4.2 Mn) in a fresh funding round, sources…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "₹40",
+     "round": "",
+     "title": "Exclusive: Fragaria In Talks To Raise ₹40 Cr From Blume Ventures, Others",
+     "link": "https://inc42.com/buzz/fragaria-fruits-in-talks-to-raise-%e2%82%b940-cr-from-blume-ventures-others/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "father-son-founders": {
+   "name": "Father-son founders",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Montréal startup Élisa Interactive is using AI to help bring  3D world design to non-developers. \n The post  Father-son founders raise $875,000 to help anyone build worlds in Roblox  first appeared on  BetaKit .",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$875,000",
+     "round": "",
+     "title": "Father-son founders raise $875,000 to help anyone build worlds in Roblox",
+     "link": "https://betakit.com/father-son-founders-raise-875000-to-help-anyone-build-worlds-in-roblox/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "magic-potion-games": {
+   "name": "Magic Potion Games",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Entertainment & play",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Kelowna studio led by veteran Canadian developers hopes Imagine Island can provide safe online gaming for kids.  \n The post  Magic Potion Games raises Series A as its Club Penguin successor exits beta   first appeared on  BetaKit .",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "events": [
+    {
+     "date": "2026-08-20",
+     "amount": "",
+     "round": "Series A",
+     "title": "Magic Potion Games raises Series A as its Club Penguin successor exits beta",
+     "link": "https://betakit.com/magic-potion-games-raises-series-a-as-its-club-penguin-successor-exits-beta/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "vessev-floats-27-million-series-a": {
+   "name": "Vessev floats $27 million Series A",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Vessev bags A$27m to make electric hydrofoil ferries the new commute in Australia and the US.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$27 million",
+     "round": "Series A",
+     "title": "Kiwi electric ferry startup Vessev floats $27 million Series A",
+     "link": "https://www.startupdaily.net/topic/funding/kiwi-electric-ferry-startup-vessev-floats-27-million-series-a/",
      "source": "Startup Daily"
     }
    ]
