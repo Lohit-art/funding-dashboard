@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T13:42:52+00:00",
+ "updated": "2026-08-22T13:30:08+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -20866,10 +20866,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Electric vehicle manufacturer Omega Seiki Mobility (OSM) has secured ₹50 Cr ($5.2 Mn) in a fresh funding round from Saket…",
+   "summary": "Weeks after announcing fresh capital raise, EV manufacturer Omega Seiki Mobility (OSM) has secured an additional ₹50 Cr ($5.2 Mn)…",
    "audience": "General / mixed",
    "first_seen": "2026-07-27",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-22",
    "events": [
     {
      "date": "2026-07-27",
@@ -20877,6 +20877,14 @@
      "round": "",
      "title": "EV Manufacturer Omega Seiki Nets ₹50 Cr To Expand Capacity",
      "link": "https://inc42.com/buzz/ev-manufacturer-omega-seiki-nets-%e2%82%b950-cr-to-expand-capacity/",
+     "source": "Inc42"
+    },
+    {
+     "date": "2026-08-22",
+     "amount": "₹50",
+     "round": "",
+     "title": "EV Manufacturer Omega Seiki Raises Additional ₹50 Cr To Accelerate International Expansion",
+     "link": "https://inc42.com/buzz/ev-manufacturer-omega-seiki-raises-additional-%e2%82%b950-cr-to-accelerate-international-expansion/",
      "source": "Inc42"
     }
    ]
@@ -29226,10 +29234,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
+   "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
    "audience": "General / mixed",
    "first_seen": "2026-08-19",
-   "last_seen": "2026-08-19",
+   "last_seen": "2026-08-21",
    "events": [
     {
      "date": "2026-08-19",
@@ -29237,6 +29245,14 @@
      "round": "Series C",
      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
      "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+     "source": "TechCrunch Venture"
+    },
+    {
+     "date": "2026-08-21",
+     "amount": "$100M",
+     "round": "Growth",
+     "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+     "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
      "source": "TechCrunch Venture"
     }
    ]
@@ -30078,6 +30094,174 @@
      "title": "Kiwi electric ferry startup Vessev floats $27 million Series A",
      "link": "https://www.startupdaily.net/topic/funding/kiwi-electric-ferry-startup-vessev-floats-27-million-series-a/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "capitan-orthopedics": {
+   "name": "Capitan Orthopedics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Capitan Orthopedics has closed an oversubscribed Seed financing round, bringing total capital raised to $4.1 million. The company said the Seed round was oversubscribed by more than $1.1 million. \n The post  Capitan Orthopedics Closes Seed Round, Bringing Total Funding To $4.1 Mi",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$4.1 Million",
+     "round": "Seed",
+     "title": "Capitan Orthopedics Closes Seed Round, Bringing Total Funding To $4.1 Million",
+     "link": "https://pulse2.com/capitan-orthopedics-closes-seed-round-bringing-total-funding-to-4-1-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "thunder-compute": {
+   "name": "Thunder Compute",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Thunder Compute has raised $13 million in Series A funding to scale its GPU virtualization technology and help enterprises extract more computing capacity from underutilized AI infrastructure. The round was led by Matrix Partners, which also led Thunder Compute's Seed round earli",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$13 Million",
+     "round": "Series A",
+     "title": "Thunder Compute Raises $13 Million Series A To Unlock $200 Billion Of Idle GPU Capacity",
+     "link": "https://pulse2.com/thunder-compute-raises-13-million-series-a-to-unlock-200-billion-of-idle-gpu-capacity/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "eyedentity": {
+   "name": "Eyedentity",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "MedTech startup Eyedentity has closed its first oversubscribed investment round at €1.3 million (SEK 15 million) to support regulatory approval, further product development and the expansion of Eyedentity’s AI-powered diagnostics platform into opticians, eye clinics and hospitals",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "€1.3 million",
+     "round": "",
+     "title": "Stockholm-based Eyedentity secures €1.3 million to detect deadly eye cancer earlier with AI",
+     "link": "https://www.eu-startups.com/2026/08/stockholm-based-eyedentity-secures-e1-3-million-to-detect-deadly-eye-cancer-earlier-with-ai/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "gravis-robotics": {
+   "name": "Gravis Robotics",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "This week, we tracked more than 45 tech funding deals worth over €684 million and over 5 exits, M&A transactions, rumours, and related news stories across Europe.If email is more your thing, you c...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$200M",
+     "round": "",
+     "title": "Gravis Robotics bags $200M, a safer marketplace for teen odd jobs, and Monzo chairman Gary Hoffman to stand down",
+     "link": "https://tech.eu/2026/08/21/gravis-robotics-bags-200m-a-safer-marketplace-for-teen-odd-jobs-and-monzo-chairman-gary-hoffman-to-stand-down/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "be-clinical": {
+   "name": "Be Clinical",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "D2C skincare brand Be Clinical has raised ₹21 Cr (about $2.2 Mn) in its seed extension round led by Sauce,…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-22",
+   "last_seen": "2026-08-22",
+   "events": [
+    {
+     "date": "2026-08-22",
+     "amount": "₹21",
+     "round": "Seed",
+     "title": "D2C Brand Be Clinical Bags ₹21 Cr To Expand Beauty & Personal Care Portfolio",
+     "link": "https://inc42.com/buzz/d2c-brand-be-clinical-bags-%e2%82%b921-cr-to-double-down-on-clinical-skincare/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "greenjoules": {
+   "name": "Greenjoules",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Pune-based green energy startup Greenjoules has raised about ₹62 Cr ($6.5 Mn) in what appears to be an ongoing Series…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "₹62",
+     "round": "",
+     "title": "Exclusive: Greenjoules Raises ₹62 Cr From Amazon, Singularity To Scale Green Energy Operations",
+     "link": "https://inc42.com/buzz/exclusive-greenjoules-raises-%e2%82%b962-cr-funding-from-amazon-singularity-to-scale-green-energy-operations/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "helcim": {
+   "name": "Helcim",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Calgary company reaches $250-million valuation, hopes to grow after Moneris sells to US private equity. \n The post  Helcim raises $53 million amid shakeup in Canadian payments  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "events": [
+    {
+     "date": "2026-08-21",
+     "amount": "$53 million",
+     "round": "",
+     "title": "Helcim raises $53 million amid shakeup in Canadian payments",
+     "link": "https://betakit.com/helcim-raises-53-million-amid-shakeup-in-canadian-payments/",
+     "source": "BetaKit"
     }
    ]
   }
