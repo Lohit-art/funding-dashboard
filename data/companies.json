@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T13:30:08+00:00",
+ "updated": "2026-08-23T13:30:13+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -28626,10 +28626,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "AI-powered lending tech startup Rezolv has raised $12.5 Mn (about ₹115 Cr) in a Series A funding round led by…",
+   "summary": "Rezolv has raised $12.5 million in Series A funding to scale its AI-native debt collection platform, bringing total funding to $16 million. Norwest led the round, with participation from Vertex Ventures Southeast Asia and India and existing investor 3one4 Capital. \n The post  Rez",
    "audience": "General / mixed",
    "first_seen": "2026-08-18",
-   "last_seen": "2026-08-18",
+   "last_seen": "2026-08-22",
    "events": [
     {
      "date": "2026-08-18",
@@ -28638,6 +28638,14 @@
      "title": "Rezolv Bags $12.5 Mn To Expand AI-Powered Lending Suite",
      "link": "https://inc42.com/buzz/rezolv-bags-12-5-mn-to-expand-ai-powered-lending-suite/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-08-22",
+     "amount": "$12.5 Million",
+     "round": "Series A",
+     "title": "Rezolv Raises $12.5 Million Series A As AI Debt Collection Platform Handles 12 Million+ Loan Accounts",
+     "link": "https://pulse2.com/rezolv-raises-12-5-million-series-a-as-ai-debt-collection-platform-handles-12-million-loan-accounts/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -29113,11 +29121,11 @@
    "sector": "HealthTech / Bio",
    "is_ai": false,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "Healthtech startup Butterfly Learnings, which operates a child development and behavioral healthcare network, has raised ₹65 Cr ($7.7 Mn) in…",
+   "stage": "emerging",
+   "summary": "Butterfly Learnings has raised ₹65 crore in a Pre-Series B financing led by Inflexor Ventures to expand its pediatric behavioral health platform for neurodivergent children across India. \n The post  Butterfly Learnings Raises ₹65 Crore Pre-Series B As Pediatric Behavioral Health ",
    "audience": "General / mixed",
    "first_seen": "2026-08-19",
-   "last_seen": "2026-08-19",
+   "last_seen": "2026-08-22",
    "events": [
     {
      "date": "2026-08-19",
@@ -29126,6 +29134,14 @@
      "title": "Butterfly Learnings Raises ₹65 Cr To Scale Neurodivergent Care Network",
      "link": "https://inc42.com/buzz/butterfly-learnings-raises-%e2%82%b965-cr-to-scale-neurodivergent-care-network/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-08-22",
+     "amount": "₹65",
+     "round": "Pre-Series B",
+     "title": "Butterfly Learnings Raises ₹65 Crore Pre-Series B As Pediatric Behavioral Health Platform Reaches 90+ Centers",
+     "link": "https://pulse2.com/butterfly-learnings-raises-%e2%82%b965-crore-pre-series-b-as-pediatric-behavioral-health-platform-reaches-90-centers/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -30262,6 +30278,30 @@
      "title": "Helcim raises $53 million amid shakeup in Canadian payments",
      "link": "https://betakit.com/helcim-raises-53-million-amid-shakeup-in-canadian-payments/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "raana-semiconductors-in-talks-to": {
+   "name": "Raana Semiconductors In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Semiconductor startup Raana Semiconductors is in advanced talks to raise ₹100 Cr (around $10.4 Mn) in its Series A funding…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-22",
+   "last_seen": "2026-08-22",
+   "events": [
+    {
+     "date": "2026-08-22",
+     "amount": "₹100",
+     "round": "Growth",
+     "title": "Raana Semiconductors In Talks To Raise ₹100 Cr For Silicon-Growth Equipment",
+     "link": "https://inc42.com/buzz/raana-semiconductors-in-talks-to-raise-%e2%82%b9100-cr-for-silicon-growth-equipment/",
+     "source": "Inc42"
     }
    ]
   }
