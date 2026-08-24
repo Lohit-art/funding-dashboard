@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T13:30:13+00:00",
+ "updated": "2026-08-24T13:50:12+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -28410,10 +28410,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "LITILIT, a Vilnius-based company, has received an €8 million loan from the Lithuanian National Development Bank ILTE for the development of a femtosecond laser modular system (FEMODA) intended to speed up the adoption of advanced lasers and open the door for new applications. The",
+   "summary": "Vilnius-based femtosecond laser manufacturer LITILIT has secured an €8 million loan from Lithuanian National Development Bank ILTE to develop FEMODA, a modular femtosecond laser system for industrial applications. The project has a total value of €10 million, with LITILIT contrib",
    "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-08-18",
-   "last_seen": "2026-08-18",
+   "last_seen": "2026-08-24",
    "events": [
     {
      "date": "2026-08-18",
@@ -28422,6 +28422,14 @@
      "title": "Vilnius-based LITILIT secures €8 million financing to make femtosecond laser systems scalable",
      "link": "https://www.eu-startups.com/2026/08/vilnius-based-litilit-secures-e8-million-financing-to-make-femtosecond-laser-systems-scalable/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-24",
+     "amount": "€8M",
+     "round": "",
+     "title": "LITILIT Raises €8M",
+     "link": "https://arcticstartup.com/litilit-raises-e8m/",
+     "source": "ArcticStartup"
     }
    ]
   },
@@ -29282,10 +29290,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "AI-powered software training andoperational knowledge platform Guideless has raised €1 million in pre-seedfunding to further develop its technology and expand internationally. The roundwas led by Supe...",
+   "summary": "Vilnius-based Guideless has raised €1 million in pre-seed funding in a round led by Superhero Capital, with participation from FIRSTPICK VC and Vinted executives Thomas Plantenga, Vytautas Atkočaitis and co-founder Mantas Mikuckas. The startup develops software that uses AI to tu",
    "audience": "General / mixed",
    "first_seen": "2026-08-20",
-   "last_seen": "2026-08-20",
+   "last_seen": "2026-08-24",
    "events": [
     {
      "date": "2026-08-20",
@@ -29310,6 +29318,14 @@
      "title": "Lithuanian AI startup Guideless raises €1M to streamline software training",
      "link": "https://tech.eu/2026/08/20/lithuanian-ai-startup-guideless-raises-eur1m-to-streamline-software-training/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-08-24",
+     "amount": "€1 million",
+     "round": "Pre-Seed",
+     "title": "Lithuanian AI startup Guideless raises €1 million pre-seed and targets UK, Europe & US",
+     "link": "https://arcticstartup.com/guideless-raises-e1m-pre-seed/",
+     "source": "ArcticStartup"
     }
    ]
   },
@@ -29370,10 +29386,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "A UK AI startup that is building software infrastructure that allows AI workloads to run on different chips and AI models has raised $100m in an exceptionally high-value European seed round. Callosum ...",
+   "summary": "Callosum has raised a $100 million seed round led by Atomico to build a global platform that orchestrates AI workloads across different models, chips and infrastructure based on requirements such as cost, speed and energy efficiency. Plural, DCVC and the UK Sovereign AI Fund part",
    "audience": "General / mixed",
    "first_seen": "2026-08-20",
-   "last_seen": "2026-08-20",
+   "last_seen": "2026-08-24",
    "events": [
     {
      "date": "2026-08-20",
@@ -29390,6 +29406,14 @@
      "title": "Callosum raises $100M seed round",
      "link": "https://tech.eu/2026/08/20/callosum-raises-100m-seed-round/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-08-24",
+     "amount": "$100 Million",
+     "round": "Seed",
+     "title": "Callosum Raises $100 Million Seed Funding To Build Heterogeneous AI Compute Platform",
+     "link": "https://pulse2.com/callosum-raises-100-million-seed-funding-to-build-heterogeneous-ai-compute-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -30301,6 +30325,230 @@
      "round": "Growth",
      "title": "Raana Semiconductors In Talks To Raise ₹100 Cr For Silicon-Growth Equipment",
      "link": "https://inc42.com/buzz/raana-semiconductors-in-talks-to-raise-%e2%82%b9100-cr-for-silicon-growth-equipment/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "swift-current-energy": {
+   "name": "Swift Current Energy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Swift Current Energy has closed a $750 million corporate credit facility with an accordion option for an additional $250 million, giving the clean energy developer access to as much as $1 billion of total capacity as it expands its U.S. project pipeline. \n The post  Swift Current",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "events": [
+    {
+     "date": "2026-08-24",
+     "amount": "$1 Billion",
+     "round": "",
+     "title": "Swift Current Energy Secures Up To $1 Billion Credit Facility As Development Pipeline Exceeds 10 GW",
+     "link": "https://pulse2.com/swift-current-energy-secures-up-to-1-billion-credit-facility-as-development-pipeline-exceeds-10-gw/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "blacksun": {
+   "name": "BlackSun",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "BlackSun Private Equity has raised $1 billion for its inaugural investment vehicle, Mega Fund I, as the newly launched private equity firm targets a total of $7 billion to invest across sports, media, entertainment and technology, according to Bloomberg. \n The post  BlackSun Rais",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "events": [
+    {
+     "date": "2026-08-24",
+     "amount": "$1 Billion",
+     "round": "",
+     "title": "BlackSun Raises $1 Billion For Mega Fund I, Targets $7 Billion Across Sports, Media And Technology",
+     "link": "https://pulse2.com/blacksun-raises-1-billion-for-mega-fund-i-targets-7-billion-across-sports-media-and-technology/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "embedd": {
+   "name": "Embedd",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Embedd, a London-based startup building infrastructure for physical AI, has raised €2.3 million ($2.7 million) in pre-Seed funding to continue developing its platform and expand its work with semiconductor companies. The round was led by Seedcamp, with participation from Cocoa, C",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "events": [
+    {
+     "date": "2026-08-24",
+     "amount": "€2.3 million",
+     "round": "Pre-Seed",
+     "title": "London-based Embedd raises €2.3 million to build the software infrastructure for physical AI",
+     "link": "https://www.eu-startups.com/2026/08/london-based-embedd-raises-e2-3-million-to-build-the-software-infrastructure-for-physical-ai/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "kazimi": {
+   "name": "Kazimi",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Berlin-based mobile cybersecurity startupKazimi has raised €2.2 million in an oversubscribed pre-seed round to scale itstechnology for securing and verifying first-party data used by app developersfor...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "events": [
+    {
+     "date": "2026-08-24",
+     "amount": "€2.2 million",
+     "round": "Pre-Seed",
+     "title": "Berlin-based Kazimi secures €2.2 million to help app developers protect and verify first-party data",
+     "link": "https://www.eu-startups.com/2026/08/berlin-based-kazimi-secures-e2-2-million-to-help-app-developers-protect-and-verify-first-party-data/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-24",
+     "amount": "€2.2M",
+     "round": "Pre-Seed",
+     "title": "Kazimi raises €2.2M pre-seed to tackle bot activity in mobile marketing",
+     "link": "https://tech.eu/2026/08/24/kazimi-raises-eur22m-pre-seed-to-tackle-bot-activity-in-mobile-marketing/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "boldr": {
+   "name": "Boldr",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "UK energy management startup Boldr has raised $5 million in a pre-SeriesA round to expand its technology for connecting residential energy equipmentand turning it into flexible capacity for the power ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "events": [
+    {
+     "date": "2026-08-24",
+     "amount": "$5M",
+     "round": "",
+     "title": "Boldr raises $5M to turn home energy systems into grid capacity",
+     "link": "https://tech.eu/2026/08/24/boldr-raises-5m-to-turn-home-energy-systems-into-grid-capacity/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "icelandic-snerpapower": {
+   "name": "Icelandic SnerpaPower",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Icelandic energy software company SnerpaPower has raised €3.4 million in funding, including a €3 million seed round led by Encevo, with participation from existing investors Crowberry Capital and BackingMinds, as well as a €400,000 grant from the Icelandic Technology Development ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "events": [
+    {
+     "date": "2026-08-24",
+     "amount": "€3.4M",
+     "round": "Seed",
+     "title": "Icelandic SnerpaPower secures €3.4M to expand electricity management platform in Europe",
+     "link": "https://arcticstartup.com/snerpapower-raises-e3-4m/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "water-robotics": {
+   "name": "WATER Robotics",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI startup WATER Robotics has secured $2.5 Mn (about ₹24 Cr) in a fresh funding round led by Endiya Partners,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "events": [
+    {
+     "date": "2026-08-24",
+     "amount": "$2.5 Mn",
+     "round": "",
+     "title": "WATER Robotics Raises $2.5 Mn To Build India’s First Robotic Bed",
+     "link": "https://inc42.com/buzz/water-robotics-raises-2-5-mn-to-build-indias-first-robotic-bed/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "asaya": {
+   "name": "Asaya",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "D2C skincare brand Asaya has raised ₹88 Cr (about $9.1 Mn) in a Series A funding round led by existing…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "events": [
+    {
+     "date": "2026-08-24",
+     "amount": "₹88",
+     "round": "Series A",
+     "title": "D2C Skincare Brand Asaya Bags ₹88 Cr, Eyes Offline Retail Entry",
+     "link": "https://inc42.com/buzz/d2c-skincare-brand-asaya-bags-%e2%82%b988-cr-eyes-offline-retail-entry/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "third-wave-coffee": {
+   "name": "Third Wave Coffee",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Coffee QSR chain Third Wave Coffee has raised ₹408 Cr (around $43 Mn) in a fresh funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "events": [
+    {
+     "date": "2026-08-24",
+     "amount": "₹408",
+     "round": "",
+     "title": "Third Wave Coffee Raises ₹408 Cr To Expand Cafe Network, Dessert Business",
+     "link": "https://inc42.com/buzz/third-wave-coffee-raises-%e2%82%b9408-cr-to-expand-cafe-network-dessert-business/",
      "source": "Inc42"
     }
    ]
