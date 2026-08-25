@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T13:50:12+00:00",
+ "updated": "2026-08-25T13:48:10+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -28514,10 +28514,10 @@
    "is_ai": false,
    "research_based": true,
    "stage": "unspecified",
-   "summary": "Vilnius-based femtosecond laser manufacturer LITILIT has received an €8 million loan from the Lithuanian National Development Bank ILTE.  The company manufactures lasers based on patented technology t...",
+   "summary": "Vilnius-based femtosecond laser manufacturer LITILIT has secured an €8 million loan from Lithuanian National Development Bank ILTE to develop FEMODA, a modular femtosecond laser system for industrial applications. The project has a total value of €10 million, with LITILIT contrib",
    "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-08-18",
-   "last_seen": "2026-08-18",
+   "last_seen": "2026-08-24",
    "events": [
     {
      "date": "2026-08-18",
@@ -28526,6 +28526,14 @@
      "title": "Lithuania’s LITILIT lands €8M to take femtosecond lasers into mass manufacturing",
      "link": "https://tech.eu/2026/08/18/lithuanias-litilit-lands-eur8m-to-take-femtosecond-lasers-into-mass-manufacturing/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-08-24",
+     "amount": "€8 million",
+     "round": "",
+     "title": "Lithuania’s LITILIT raises €8 million to develop modular femtosecond laser system",
+     "link": "https://arcticstartup.com/litilit-raises-e8m/",
+     "source": "ArcticStartup"
     }
    ]
   },
@@ -30435,14 +30443,14 @@
   },
   "boldr": {
    "name": "Boldr",
-   "country": "Unknown",
+   "country": "UK",
    "region": "Europe",
    "category": "Professional excellence",
    "sector": "Climate / Energy",
    "is_ai": false,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "UK energy management startup Boldr has raised $5 million in a pre-SeriesA round to expand its technology for connecting residential energy equipmentand turning it into flexible capacity for the power ...",
+   "stage": "emerging",
+   "summary": "London-based energy management startup Boldr has raised €4.2 million ($5 million) in a pre-Series A round to expand its smart climate technology across North America, develop its contractor software platform, and move into a broader range of residential and commercial heating and",
    "audience": "General / mixed",
    "first_seen": "2026-08-24",
    "last_seen": "2026-08-24",
@@ -30454,6 +30462,14 @@
      "title": "Boldr raises $5M to turn home energy systems into grid capacity",
      "link": "https://tech.eu/2026/08/24/boldr-raises-5m-to-turn-home-energy-systems-into-grid-capacity/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-08-24",
+     "amount": "€4.2 million",
+     "round": "Pre-Series A",
+     "title": "Smart thermostat maker Boldr raises €4.2 million to grow connected heating and cooling platform",
+     "link": "https://www.eu-startups.com/2026/08/smart-thermostat-maker-boldr-raises-e4-2-million-to-grow-connected-heating-and-cooling-platform/",
+     "source": "EU-Startups"
     }
    ]
   },
@@ -30550,6 +30566,606 @@
      "title": "Third Wave Coffee Raises ₹408 Cr To Expand Cafe Network, Dessert Business",
      "link": "https://inc42.com/buzz/third-wave-coffee-raises-%e2%82%b9408-cr-to-expand-cafe-network-dessert-business/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "fiat-ventures-combines-venture-and-advisory-divisions-into-n": {
+   "name": "Fiat Ventures combines venture and advisory divisions into n",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entertainment & play",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$35M",
+     "round": "",
+     "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+     "link": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "valor-point72-back-general-intuition-at-6b-valuation-as-ai": {
+   "name": "Valor, Point72 back General Intuition at $6B valuation as AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "events": [
+    {
+     "date": "2026-08-24",
+     "amount": "$6B",
+     "round": "",
+     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+     "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "keenable": {
+   "name": "Keenable",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Keenable has emerged from stealth with $26 million in seed funding led by Accel to build independent web search infrastructure designed specifically for artificial intelligence models and agents. Conviction also participated in the financing alongside angel investors from Amazon,",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$26 Million",
+     "round": "Seed",
+     "title": "Keenable Raises $26 Million Seed As 100 Billion-Document Search Index Targets AI Knowledge Access",
+     "link": "https://pulse2.com/keenable-raises-26-million-seed-as-100-billion-document-search-index-targets-ai-knowledge-access/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "alice": {
+   "name": "Alice",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Alice (formerly known as ActiveFence) has raised $140 million in a funding round led by Apax Digital as the AI trust, safety and security company approaches $100 million in annual recurring revenue and expands its work with major frontier model developers. Samsung, SentinelOne, M",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$140 Million",
+     "round": "",
+     "title": "Alice Raises $140 Million As AI Security Business Approaches $100 Million ARR And Grows 500%+",
+     "link": "https://pulse2.com/alice-raises-140-million-as-ai-security-business-approaches-100-million-arr-and-grows-500/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "redstone-reaches-first": {
+   "name": "Redstone Reaches First",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Redstone has reached the first close of its €25 million Blue Fund, establishing a new investment vehicle focused on early-stage ocean and water technology companies across Europe. \n The post  Redstone Reaches First Close Of €25 Million Blue Fund To Back Ocean Technology Startups ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "€25 Million",
+     "round": "",
+     "title": "Redstone Reaches First Close Of €25 Million Blue Fund To Back Ocean Technology Startups",
+     "link": "https://pulse2.com/redstone-reaches-first-close-of-e25-million-blue-fund-to-back-ocean-technology-startups/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "valerio-therapeutics-to-acquire-etherna-for-30-million-and": {
+   "name": "Valerio Therapeutics To Acquire Etherna For €30 Million And",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Valerio Therapeutics has signed definitive agreements to acquire 100% of Etherna Immunotherapies at an enterprise value of €30 million while simultaneously raising €40.25 million through a PIPE financing backed by existing shareholders and new investors. \n The post  Valerio Thera",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "€30 Million",
+     "round": "",
+     "title": "Valerio Therapeutics To Acquire Etherna For €30 Million And Raise €40.25 Million PIPE To Build Targeted RNA Platform",
+     "link": "https://pulse2.com/valerio-therapeutics-to-acquire-etherna-for-e30-million-and-raise-e40-25-million-pipe-to-build-targeted-rna-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "newcode-ai": {
+   "name": "Newcode.ai",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Newcode.ai has raised a Series A financing that brings its total funding since inception to $20 million as the company continues building a configurable artificial intelligence platform for the legal industry. \n The post  Newcode.ai Raises Series A To Build AI Platform For Legal ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$20 million",
+     "round": "Series A",
+     "title": "Newcode.ai Raises Series A To Build AI Platform For Legal Industry",
+     "link": "https://pulse2.com/newcode-ai-raises-series-a-to-build-ai-platform-for-legal-industry/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "curi-capital": {
+   "name": "Curi Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Curi Capital has secured a strategic investment from The Vistria Group as the registered investment adviser looks to accelerate technology investment, hiring, client-service development, and acquisitions. \n The post  Curi Capital Secures Vistria Investment As Wealth Platform Surp",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$14 Billion",
+     "round": "",
+     "title": "Curi Capital Secures Vistria Investment As Wealth Platform Surpasses $14 Billion AUA",
+     "link": "https://pulse2.com/curi-capital-secures-vistria-investment-as-wealth-platform-surpasses-14-billion-aua/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "arcspace": {
+   "name": "ArcSpace",
+   "country": "France",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "ArcSpace, a Paris-based SpaceTech startup developing technology for in-orbit satellite repair, assembly, and servicing, has closed a funding round of over €2 million to support the startup’s next stage of growth.  The round was led by DEPO Ventures through its DEPO Ventures One f",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "€2 million",
+     "round": "Growth",
+     "title": "French SpaceTech startup ArcSpace secures over €2 million for in-orbit satellite servicing and repair",
+     "link": "https://www.eu-startups.com/2026/08/french-spacetech-startup-arcspace-secures-over-e2-million-for-in-orbit-satellite-servicing-and-repair/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "maash": {
+   "name": "MAASH",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "MAASH, a Brussels-based fermentation company specialising in the development and production of mycoproteins for the food industry, has secured a €12.15 million funding package combining equity investment and public financing. The package includes a €5.85 million equity raise from",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "€12.15 million",
+     "round": "",
+     "title": "Brussels-based MAASH secures €12.15 million to take mycoprotein production to industrial scale",
+     "link": "https://www.eu-startups.com/2026/08/brussels-based-maash-secures-e12-15-million-to-take-mycoprotein-production-to-industrial-scale/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "stockholm-s-ecomid": {
+   "name": "Stockholm’s eComID",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "eComID, a Stockholm-based startup that claims to be building the “shopping passport for the future of commerce”, today announced a €14.58 million ($17 million) Seed round. The round was led by Systemiq Capital, with participation from Regeneration.VC, Course Corrected, Stadium an",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "€14.6 million",
+     "round": "Seed",
+     "title": "Stockholm’s eComID raises €14.6 million to build the “shopping passport” for AI-powered personalised commerce",
+     "link": "https://www.eu-startups.com/2026/08/stockholms-ecomid-raises-e14-6-million-to-build-the-shopping-passport-for-ai-powered-personalised-commerce/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "hungary-s-bookr-kids": {
+   "name": "Hungary’s BOOKR Kids",
+   "country": "Hungary",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "BOOKR Kids, a Budapest-based EdTech company behind BOOKR Class, has completed a €6.1 million Series A raise to develop their learning platform focused on literacy, language development and AI readiness. The raise was led by TCEE Fund IV, advised by 3TS Capital Partners, with part",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "€6.1 million",
+     "round": "Series A",
+     "title": "Hungary’s BOOKR Kids closes €6.1 million Series A for global EdTech expansion",
+     "link": "https://www.eu-startups.com/2026/08/hungarys-bookr-kids-closes-e6-1-million-series-a-for-global-edtech-expansion/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "amsterdam-s-neno": {
+   "name": "Amsterdam’s Neno",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Neno, an Amsterdam-based AI-native financial services startup for small and medium-sized businesses, has raised €6.6 million in Seed funding to launch a new research unit, grow its accounting and tax teams, and expand into new European markets in 2027. The round was led by New Yo",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "€6.6 million",
+     "round": "Seed",
+     "title": "Amsterdam’s Neno raises €6.6 million to build the AI-native back office suite for entrepreneurs",
+     "link": "https://www.eu-startups.com/2026/08/amsterdams-neno-raises-e6-6-million-to-build-the-ai-native-back-office-suite-for-entrepreneurs/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "itoflow": {
+   "name": "Itoflow",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI investment platform Itoflow has raised $2.5 million inpre-seed funding to develop its technology to help professional investmentteams automate and scale research and portfolio management. The round...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$2.5M",
+     "round": "Seed",
+     "title": "Itoflow lands $2.5M to scale investment research and portfolio management",
+     "link": "https://tech.eu/2026/08/25/itoflow-lands-25m-to-scale-investment-research-and-portfolio-management/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "lunar-co-founders-launch-ai-audit-startup-repodo-raising-ov": {
+   "name": "Lunar co-founders launch AI audit startup Repodo, raising ov",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "The co-founders of Danish challenger bank Lunar have launched an AI audit startup, which has secured over €8 million in pre-seed funding. Called Repodo, it has four co-founders in total, including the...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "€8M",
+     "round": "Pre-Seed",
+     "title": "Lunar co-founders launch AI audit startup Repodo, raising over €8M",
+     "link": "https://tech.eu/2026/08/25/lunar-co-founders-launch-ai-audit-startup-repodo-raising-over-eur8m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "dutch-ai-native-financial-services-startup-neno": {
+   "name": "Dutch AI-native financial services startup Neno",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Amsterdam-based AI-native financial servicescompany Neno has raised €6.6 million in seed funding to develop its technology,expand its accounting and tax services and enter additional European markets....",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "€6.6M",
+     "round": "Seed",
+     "title": "Dutch AI-native financial services startup Neno secures €6.6M for European expansion",
+     "link": "https://tech.eu/2026/08/25/dutch-ai-native-financial-services-startup-neno-secures-eur66m-for-european-expansion/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "volve": {
+   "name": "Volve",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Norwegianconstruction technology company Volve has raised $3 million (NOK 30 million) inseed funding to further develop its intelligence platform for constructiontendering and preconstruction and supp...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$3M",
+     "round": "",
+     "title": "Volve lands $3M to expand construction tendering AI across Europe",
+     "link": "https://tech.eu/2026/08/25/volve-lands-3m-to-expand-construction-tendering-ai-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "norway-s-volve": {
+   "name": "Norway’s Volve",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Oslo-based construction technology company Volve has raised NOK 30 million (approximately $3 million) in a seed round led by Skyfall Ventures, with J12, Norrsken Evolve, OBOS Ventures, Antler, Startuplab, and Daniel Kjørberg Siraj, former CEO of OBOS. Founded in 2024, Volve devel",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$3 million",
+     "round": "Seed",
+     "title": "Norway’s Volve raises $3 million seed to tackle construction’s costly pre-project decisions with AI",
+     "link": "https://arcticstartup.com/volve-raises-3m/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "swedish-solace-care": {
+   "name": "Swedish Solace Care",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Stockholm-based Solace Care has raised €2.1 million in a pre-seed round led by Spintop Ventures, with the participation from Plug and Play Insurtech, Wave Ventures and a group of Nordic insurance executives, including former ICA Försäkring CEO Caroline Farberger and former Fennia",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "€2.1 million",
+     "round": "Pre-Seed",
+     "title": "Swedish Solace Care secures €2.1 million pre-seed to expand end-of-life platform across Europe",
+     "link": "https://arcticstartup.com/solace-care-raises-e2-1m-pre-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "verlinvest-mirchandani-family": {
+   "name": "Verlinvest, Mirchandani Family",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C brand Epigamia’s existing shareholders Verlinvest and the family of its late cofounder Rohan Mirchandani have increased their stakes in…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$20 Mn",
+     "round": "",
+     "title": "Verlinvest, Mirchandani Family Raise Stakes In Epigamia In $20 Mn Secondary Deal",
+     "link": "https://inc42.com/buzz/verlinvest-mirchandani-family-raise-stakes-in-epigamia-in-20-mn-secondary-deal/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "utsav": {
+   "name": "Utsav",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Spiritual tech startup Utsav has secured ₹36 Cr ($3.8 Mn) in a Series A funding round led by Atomic Capital.…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "₹36",
+     "round": "Series A",
+     "title": "Spiritual Tech Startup Utsav Raises ₹36 Cr To Expand Temple Network",
+     "link": "https://inc42.com/buzz/spiritual-tech-startup-utsav-raises-%e2%82%b936-cr-to-expand-temple-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "nexedge-capital": {
+   "name": "Nexedge Capital",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Wealth management startup Nexedge Capital has raised $20 Mn (₹191.4 Cr) in its maiden funding round co-led by Mirae Asset…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$20 Mn",
+     "round": "",
+     "title": "Nexedge Capital Nets $20 Mn To Scale HNI Wealth Management Platform",
+     "link": "https://inc42.com/buzz/nexedge-capital-nets-20-mn-to-scale-hni-wealth-management-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "matter": {
+   "name": "MATTER",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Ahmedabad-based electric motorcycle startup MATTER Motor Works has raised $25 Mn (₹240 Cr) in growth capital, anchored by its existing…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$25 Mn",
+     "round": "Growth",
+     "title": "MATTER Nets $25 Mn To Scale Manufacturing, Launch Four New Electric Motorcycles",
+     "link": "https://inc42.com/buzz/matter-nets-25-mn-to-scale-manufacturing-launch-four-new-electric-motorcycles/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "airbound": {
+   "name": "Airbound",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Dronetech startup Airbound has raised $37 Mn (about ₹355 Cr) in a Series A funding round led by US-based investment…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$37 Mn",
+     "round": "Series A",
+     "title": "Airbound Bags $37 Mn From Greenoaks, DoorDash To Scale Drone Manufacturing",
+     "link": "https://inc42.com/buzz/airbound-bags-37-mn-from-greenoaks-doordash-to-scale-drone-manufacturing/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "breakthrough-diabetes-biotech-immunobiota-looks-to": {
+   "name": "Breakthrough diabetes biotech Immunobiota looks to",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Immunobiota is developing the world’s first oral, non-immunosuppressive therapy for type 1 diabetes for clinical trials.",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "events": [
+    {
+     "date": "2026-08-25",
+     "amount": "$5 million",
+     "round": "Seed",
+     "title": "Breakthrough diabetes biotech Immunobiota looks to raise $5 million Seed for clinical trials",
+     "link": "https://www.startupdaily.net/topic/funding/breakthrough-diabetes-biotech-immunobiota-looks-to-raise-5-million-seed-for-clinical-trials/",
+     "source": "Startup Daily"
     }
    ]
   }
