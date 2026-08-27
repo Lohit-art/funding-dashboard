@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T13:53:05+00:00",
+ "updated": "2026-08-27T22:48:19+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -31274,10 +31274,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "established",
-   "summary": "Nuveen and Nuveen Green Capital have secured more than $1 billion in the first close of Nuveen CPACE Lending Fund IV, bringing aggregate commitments across the fund series to approximately $3 billion since its launch in 2023. \n The post  Nuveen CPACE Lending Fund IV Tops $1 Billi",
+   "summary": "Nuveen and Nuveen Green Capital have completed a first close exceeding $1 billion for Nuveen CPACE Lending Fund IV, bringing total commitments across the four-vintage fund series to approximately $3 billion since the strategy launched in 2023. \n The post  Nuveen: CPACE Lending Fu",
    "audience": "General / mixed",
    "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
+   "last_seen": "2026-08-27",
    "events": [
     {
      "date": "2026-08-26",
@@ -31285,6 +31285,14 @@
      "round": "",
      "title": "Nuveen CPACE Lending Fund IV Tops $1 Billion First Close As Series Commitments Reach $3 Billion",
      "link": "https://pulse2.com/nuveen-cpace-lending-fund-iv-tops-1-billion-first-close-as-series-commitments-reach-3-billion/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-08-27",
+     "amount": "$1 Billion",
+     "round": "",
+     "title": "Nuveen: CPACE Lending Fund IV Tops $1 Billion First Close As Series Commitments Reach $3 Billion",
+     "link": "https://pulse2.com/nuveen-cpace-lending-fund-iv-tops-1-billion-first-close-as-series-commitments-reach-3-billion-2/",
      "source": "Pulse 2.0"
     }
    ]
@@ -31646,6 +31654,534 @@
      "title": "Pay.com.au banks $39 million Series E for US launch",
      "link": "https://www.startupdaily.net/topic/funding/pay-com-au-banks-39-million-series-e-for-us-launch/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "atorie": {
+   "name": "Atorie",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.",
+   "audience": "Consumers",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$9.5M",
+     "round": "",
+     "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+     "link": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "socure": {
+   "name": "Socure",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Identity verification and fraud prevention company Socure announced Thursday that it raised $156 million in a strategic growth investment valuing it at $5.2 billion. The Incline Village, Nevada-based company also says it is acquiring agentic AI startup Fravity, which will be inco",
+   "audience": "Enterprises",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$156M",
+     "round": "Growth",
+     "title": "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup Fravity",
+     "link": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "permanent-capital-ventures-launches-200-million-fund-ii-as": {
+   "name": "Permanent Capital Ventures Launches $200 Million Fund II As ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Permanent Capital Ventures has formally launched as an early-stage venture capital firm focused on leading Series A investments in applied artificial intelligence companies, with more than $350 million raised since its inception in early 2024. The firm is now investing from PCV F",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$200 Million",
+     "round": "Series A",
+     "title": "Permanent Capital Ventures Launches $200 Million Fund II As Firm Tops $350 Million Raised Since 2024",
+     "link": "https://pulse2.com/permanent-capital-ventures-launches-200-million-fund-ii-as-firm-tops-350-million-raised-since-2024/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cyclic-materials": {
+   "name": "Cyclic Materials",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Cyclic Materials has raised $75 million in strategic growth financing to accelerate U.S. rare earth recycling and production infrastructure. Accounts advised by T. Rowe Price Associates led the round, which brings Cyclic Materials' total equity funding to $237 million. \n The post",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$75 Million",
+     "round": "Growth",
+     "title": "Cyclic Materials Raises $75 Million Led By T. Rowe Price As Total Equity Funding Reaches $237 Million",
+     "link": "https://pulse2.com/cyclic-materials-raises-75-million-led-by-t-rowe-price-as-total-equity-funding-reaches-237-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ventures-platform": {
+   "name": "Ventures Platform",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ventures Platform has closed its second institutional venture fund with $84 million, exceeding its original $75 million target despite a more challenging global fundraising environment for African venture capital. \n The post  Ventures Platform Closes $84 Million Pan-African Fund ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$84 Million",
+     "round": "",
+     "title": "Ventures Platform Closes $84 Million Pan-African Fund II Above $75 Million Target",
+     "link": "https://pulse2.com/ventures-platform-closes-84-million-pan-african-fund-ii-above-75-million-target/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "adaptyv": {
+   "name": "Adaptyv",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Adaptyv Bio, the Lausanne-based BioTech startup building an automated wet lab for AI-driven protein design, has raised a €34.35 million ($40 million) Series A round.  The round was led by Highland Europe, with existing investors Ace Ventures, ByFounders, and Y Combinator doubling",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$40 Million",
+     "round": "Series A",
+     "title": "Adaptyv Raises $40 Million Series A As Automated Biology Lab Throughput Grows More Than 5x",
+     "link": "https://pulse2.com/adaptyv-raises-40-million-series-a-as-automated-biology-lab-throughput-grows-more-than-5x/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-08-27",
+     "amount": "€34.35 million",
+     "round": "Series A",
+     "title": "Lausanne-based Adaptyv raises €34.35 million Series A to build the automated lab for agentic biology",
+     "link": "https://www.eu-startups.com/2026/08/lausanne-based-adaptyv-raises-e34-35-million-series-a-to-build-the-automated-lab-for-agentic-biology/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "payrewards": {
+   "name": "PayRewards",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "PayRewards has raised $28 million in Series E funding and launched in the U.S., bringing total capital raised across the business to approximately $70 million. \n The post  PayRewards Raises $28 Million Series E To Enter U.S. As Parent Processes $7 Billion+ Annually  appeared firs",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$28 Million",
+     "round": "Series E",
+     "title": "PayRewards Raises $28 Million Series E To Enter U.S. As Parent Processes $7 Billion+ Annually",
+     "link": "https://pulse2.com/payrewards-raises-28-million-series-e-to-enter-u-s-as-parent-processes-7-billion-annually/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "levanta": {
+   "name": "Levanta",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Creative expression",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Levanta has raised $22 million in Series B funding as the creator commerce platform expands beyond Amazon into a broader network spanning Walmart, Shopify and additional retail marketplaces. \n The post  Levanta Raises $22 Million Series B As Revenue Grows 80% And Creator Network ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$22 Million",
+     "round": "Series B",
+     "title": "Levanta Raises $22 Million Series B As Revenue Grows 80% And Creator Network Tops 90,000",
+     "link": "https://pulse2.com/levanta-raises-22-million-series-b-as-revenue-grows-80-and-creator-network-tops-90000/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "gennx360-capital-partners": {
+   "name": "GenNx360 Capital Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "GenNx360 Capital Partners has closed its fourth flagship fund with $865 million in commitments, exceeding its target and marking the largest fundraise in the private equity firm's history. \n The post  GenNx360 Capital Partners Closes Record $865 Million Fund IV As Realizations To",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$865 Million",
+     "round": "",
+     "title": "GenNx360 Capital Partners Closes Record $865 Million Fund IV As Realizations Top $2 Billion In 2.5 Years",
+     "link": "https://pulse2.com/gennx360-capital-partners-closes-record-865-million-fund-iv-as-realizations-top-2-billion-in-2-5-years/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "faro-ai": {
+   "name": "Faro AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Faro AI has raised $37.3 million in Series B funding to expand its agentic AI platform for clinical development, as pharmaceutical companies increasingly turn to artificial intelligence to improve clinical trial design and execution. Merck Global Health Innovation Fund and S32 co",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$37.3 Million",
+     "round": "Series B",
+     "title": "Faro AI Raises $37.3 Million Series B As Platform Reaches 6 Of World’s 10 Largest Pharma Companies",
+     "link": "https://pulse2.com/faro-ai-raises-37-3-million-series-b-as-platform-reaches-6-of-worlds-10-largest-pharma-companies/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "instinct": {
+   "name": "Instinct",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Instinct, an AI assistant developed by Spear Street Technology, is raising $250 million in Series B funding at a $2.5 billion valuation as the product gains traction among Silicon Valley technologists, according to a Wall Street Journal report. The round is being co-led by Index ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$250 Million",
+     "round": "Series B",
+     "title": "Instinct Raises $250 Million At $2.5 Billion Valuation As AI Assistant Goes Viral In Silicon Valley",
+     "link": "https://pulse2.com/instinct-raises-250-million-at-2-5-billion-valuation-as-ai-assistant-goes-viral-in-silicon-valley/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "voya-energy": {
+   "name": "Voya Energy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Voya Energy has raised $35 million in Series A funding and unveiled an aluminum-based metal fuel system designed to provide large-scale electricity without combustion or dependence on the utility grid. \n The post  Voya Energy Raises $35 Million Series A As Metal Fuel System Targe",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$35 Million",
+     "round": "Series A",
+     "title": "Voya Energy Raises $35 Million Series A As Metal Fuel System Targets 100 MW And 10 GWh Per Acre",
+     "link": "https://pulse2.com/voya-energy-raises-35-million-series-a-as-metal-fuel-system-targets-100-mw-and-10-gwh-per-acre/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tackling-sti-testing-readily-diagnostics": {
+   "name": "Tackling STI testing, Readily Diagnostics",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Readily Diagnostics, a Swedish point-of-care diagnostics company, has received a grant of approximately €811k (about 9 million SEK) from the Gates Foundation to develop an affordable test for the world’s most common sexually transmitted infections (STIs). The funding will support",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "€811k",
+     "round": "Grant",
+     "title": "Tackling STI testing, Readily Diagnostics raises €811k for affordable alternative",
+     "link": "https://www.eu-startups.com/2026/08/tackling-sti-testing-readily-diagnostics-raises-e811k-for-affordable-alternative/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "eindhoven-s-vitalfluid": {
+   "name": "Eindhoven’s VitalFluid",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vitalfluid, an Eindhoven-based startup helping growers to adopt plasma technology as a natural, residue-free alternative to chemical fungicides, has secured €17.2 million to accelerate sustainable crop protection worldwide.  The round was co-led by Invest-NL and Alder Tree Invest",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "€17.2 million",
+     "round": "",
+     "title": "Eindhoven’s VitalFluid raises €17.2 million to protect crops with its “lightning in a box” technology",
+     "link": "https://www.eu-startups.com/2026/08/eindhovens-vitalfluid-raises-e17-2-million-to-protect-crops-with-lightning-in-a-box-technology/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "motion": {
+   "name": "Motion",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Brussels-basedrobotics company Motion has raised $2 million in pre-seed funding to expand itsHumanoids-as-a-Service (HaaS) platform and move its existing industrial pilotsinto commercial deployment. T...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "€1.7 million",
+     "round": "Pre-Seed",
+     "title": "Brussels-based Motion raises €1.7 million to tackle Europe’s “robot adoption problem”",
+     "link": "https://www.eu-startups.com/2026/08/brussels-based-motion-raises-e1-7-million-to-tackle-europes-robot-adoption-problem/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-27",
+     "amount": "$2M",
+     "round": "Pre-Seed",
+     "title": "Motion lands $2M to expand humanoid robot deployments across Europe",
+     "link": "https://tech.eu/2026/08/27/motion-lands-2m-to-expand-humanoid-robot-deployments-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "colibritd": {
+   "name": "ColibriTD",
+   "country": "France",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "French quantumsoftware company ColibriTD has raised €4 million in seed funding to furtherdevelop its multiphysics simulation technology and expand internationally. Theround was led by Earlybird Ventur...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "€4 million",
+     "round": "Seed",
+     "title": "Paris-based ColibriTD raises €4 million to scale its quantum-powered multiphysics simulation platform",
+     "link": "https://www.eu-startups.com/2026/08/paris-based-colibritd-raises-e4-million-to-scale-its-quantum-powered-multiphysics-simulation-platform/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-27",
+     "amount": "€4M",
+     "round": "Seed",
+     "title": "ColibriTD secures €4M to scale its quantum simulation platform",
+     "link": "https://tech.eu/2026/08/27/colibritd-secures-eur4m-to-scale-its-quantum-simulation-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sweden-s-top-funded-tech-companies-in-h1-2026": {
+   "name": "Sweden's top-funded tech companies in H1 2026",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swedish technology companies raised approximately €2.8billion in H1 2026, with a significant share of capital concentrated in a smallnumber of large transactions.Stegra recorded the largest financing ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "€2.8billion",
+     "round": "",
+     "title": "Sweden's top-funded tech companies in H1 2026",
+     "link": "https://tech.eu/2026/08/27/swedens-top-funded-tech-companies-in-h1-2026/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ipo-bound-esds-software": {
+   "name": "IPO-Bound ESDS Software",
+   "country": "India",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Cloud and data centre company ESDS Software Solution has raised ₹216 Cr from anchor investors ahead of the opening of…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "₹216",
+     "round": "",
+     "title": "IPO-Bound ESDS Software Bags ₹216 Cr From Anchor Investors",
+     "link": "https://inc42.com/buzz/ipo-bound-esds-software-bags-%e2%82%b9216-cr-from-anchor-investors/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "oyo-parent-prism-s-fy26-profit-skyrockets-4x-yoy-to-994-cr": {
+   "name": "OYO Parent PRISM’s FY26 Profit Skyrockets 4X YoY To ₹994 Cr",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "IPO-bound PRISM’s net profit for the fiscal year FY26 skyrocketed close to the ₹1,000 Cr mark, growing by 306% YoY…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "₹994",
+     "round": "",
+     "title": "OYO Parent PRISM’s FY26 Profit Skyrockets 4X YoY To ₹994 Cr",
+     "link": "https://inc42.com/buzz/oyo-parent-prisms-fy26-profit-skyrockets-4x-yoy-to-%e2%82%b9994-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "instaastro": {
+   "name": "InstaAstro",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Online astrology startup InstaAstro has raised $12 Mn (about ₹114.5 Cr) in a Series A funding round led by Singularity…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "$12 Mn",
+     "round": "Series A",
+     "title": "InstaAstro Bags $12 Mn To Build AI Tools, Expand Online Pooja Services",
+     "link": "https://inc42.com/buzz/instaastro-bags-12-mn-to-build-ai-tools-expand-online-pooja-services/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "inspecity": {
+   "name": "InspeCity",
+   "country": "India",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Spacetech startup InspeCity has raised ₹100 Cr (around $10.4 Mn) in its pre-Series A funding round co-led by veteran investor…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "events": [
+    {
+     "date": "2026-08-27",
+     "amount": "₹100",
+     "round": "Pre-Series A",
+     "title": "InspeCity Raises ₹100 Cr To Fund Four Space Missions",
+     "link": "https://inc42.com/buzz/inspecity-raises-%e2%82%b9100-cr-to-fund-four-space-missions/",
+     "source": "Inc42"
     }
    ]
   }
