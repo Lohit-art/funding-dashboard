@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T22:48:19+00:00",
+ "updated": "2026-08-28T22:52:53+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -31402,10 +31402,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Breedr, the UK-founded platform giving every cow a digital record that follows it from birth to the supermarket shelf, announced it has raised €23 million ($27 million) in Series B funding to bring more ranchers and farmers onto the platform and capture more data points such as g",
+   "summary": "Breedr has raised $27 million in Series B funding to expand its digital livestock platform as the company works to build a global system of record for the beef supply chain. Partech led the financing through its impact fund, with participation from Latitude, the growth-stage fund",
    "audience": "General / mixed",
    "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
+   "last_seen": "2026-08-28",
    "events": [
     {
      "date": "2026-08-26",
@@ -31414,6 +31414,14 @@
      "title": "Livestock tech platform Breedr raises €23 million to expand globally",
      "link": "https://www.eu-startups.com/2026/08/livestock-tech-platform-breedr-raises-e23-million-to-expand-globally/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-08-28",
+     "amount": "$27 Million",
+     "round": "Series B",
+     "title": "Breedr Raises $27 Million Series B As Platform Tracks 2+ Million Cattle And Nearly $500 Million In Livestock Transactions",
+     "link": "https://pulse2.com/breedr-raises-27-million-series-b-as-platform-tracks-2-million-cattle-and-nearly-500-million-in-livestock-transactions/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -32182,6 +32190,318 @@
      "title": "InspeCity Raises ₹100 Cr To Fund Four Space Missions",
      "link": "https://inc42.com/buzz/inspecity-raises-%e2%82%b9100-cr-to-fund-four-space-missions/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "unrivaled-series-c-tops-100-million-at-650-million-valuati": {
+   "name": "Unrivaled Series C Tops $100 Million At $650 Million Valuati",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Unrivaled has raised more than $100 million in an oversubscribed Series C financing at a $650 million valuation as the professional women's basketball league continues expanding its athlete-owned business model. Ten Pillars Sports Fund, backed by UC Investments, led the financing",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "$100 Million",
+     "round": "Series C",
+     "title": "Unrivaled Series C Tops $100 Million At $650 Million Valuation As Player Equity Pool Nears $200 Million",
+     "link": "https://pulse2.com/unrivaled-series-c-tops-100-million-at-650-million-valuation-as-player-equity-pool-nears-200-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "lockheed-martin": {
+   "name": "Lockheed Martin",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Lockheed Martin has entered into a new $2.25 billion unsecured revolving credit facility and extended the maturity of an existing $3 billion revolving facility, giving the defense contractor $5.25 billion of committed revolving credit capacity across the two agreements. \n The pos",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "$2.25 Billion",
+     "round": "",
+     "title": "Lockheed Martin Secures $2.25 Billion Revolver Led By Bank Of America And Extends $3 Billion Facility To 2031",
+     "link": "https://pulse2.com/lockheed-martin-secures-2-25-billion-revolver-led-by-bank-of-america-and-extends-3-billion-facility-to-2031/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "owner": {
+   "name": "Owner",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Owner has raised $240 million in new financing at a $2.3 billion valuation as the AI-native technology platform expands beyond restaurant software toward becoming a broader operating system for local businesses. \n The post  Owner Raises $240 Million At $2.3 Billion Valuation As A",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "$240 Million",
+     "round": "",
+     "title": "Owner Raises $240 Million At $2.3 Billion Valuation As ARR Tops $100 Million",
+     "link": "https://pulse2.com/owner-raises-240-million-at-2-3-billion-valuation-as-arr-tops-100-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "infimaker": {
+   "name": "InfiMaker",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "InfiMaker has completed a new financing round that includes tens of millions of U.S. dollars from IDG Capital, as the desktop manufacturing company reports more than $4 million in Kickstarter pledges for its K1 five-axis CNC machine. The financing marks another institutional-back",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "$4 Million",
+     "round": "",
+     "title": "InfiMaker Raises Tens Of Millions From IDG Capital As K1 Kickstarter Pledges Surpass $4 Million",
+     "link": "https://pulse2.com/infimaker-raises-tens-of-millions-from-idg-capital-as-k1-kickstarter-pledges-surpass-4-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ausperbio": {
+   "name": "AusperBio",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "AusperBio has closed a $120 million Series C financing to advance its chronic hepatitis B pipeline, including the Phase 3 registrational program and potential commercialization of its lead investigational therapy AHB-137. The financing brings AusperBio's total capital raised sinc",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "$120 Million",
+     "round": "Series C",
+     "title": "AusperBio Raises $120 Million Series C As Total Funding Reaches $360 Million And AHB-137 Advances Through Phase 3",
+     "link": "https://pulse2.com/ausperbio-raises-120-million-series-c-as-total-funding-reaches-360-million-and-ahb-137-advances-through-phase-3/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "warpify-robotics": {
+   "name": "Warpify Robotics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Warpify Robotics has completed a Pre-Series A financing backed by Zhongguancun Zhongnuo Fund, marking the global robotics company's first institutional funding round. \n The post  Warpify Robotics Raises Pre-Series A From Zhongguancun Zhongnuo Fund To Expand Robotics-As-A-Service ",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "",
+     "round": "Pre-Series A",
+     "title": "Warpify Robotics Raises Pre-Series A From Zhongguancun Zhongnuo Fund To Expand Robotics-As-A-Service Globally",
+     "link": "https://pulse2.com/warpify-robotics-raises-pre-series-a-from-zhongguancun-zhongnuo-fund-to-expand-robotics-as-a-service-globally/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "lambda": {
+   "name": "Lambda",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Lambda has closed a $926 million senior secured Term Loan B facility to finance GPU infrastructure supporting a committed customer deployment with an investment-grade offtaker. \n The post  Lambda Secures $926 Million GPU Term Loan With Baa2 Investment-Grade Rating  appeared first",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "$926 Million",
+     "round": "",
+     "title": "Lambda Secures $926 Million GPU Term Loan With Baa2 Investment-Grade Rating",
+     "link": "https://pulse2.com/lambda-secures-926-million-gpu-term-loan-with-baa2-investment-grade-rating/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "civilgrid": {
+   "name": "CivilGrid",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "CivilGrid has raised $26 million in Series A financing to expand its infrastructure planning platform nationally as utilities and engineering firms increasingly use software to reduce delays, construction conflicts and project costs. Spark Capital led the round, with participatio",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "$26 Million",
+     "round": "Series A",
+     "title": "CivilGrid Raises $26 Million Series A As PG&E Reports $60+ Million In Eliminated Paving Conflicts",
+     "link": "https://pulse2.com/civilgrid-raises-26-million-series-a-as-pge-reports-60-million-in-eliminated-paving-conflicts/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ponda": {
+   "name": "Ponda",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ponda, a biomaterials company out of Bristol restoring wetlands through regenerative farming, has closed its latest crowdfunding campaign, raising €1.6 million (£1.4 million) in a Seed extension that welcomed 256 new investors. The company had previously shared with EU-Startups t",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "€1.6 million",
+     "round": "Seed",
+     "title": "Biomaterials company Ponda closes crowdfunding round at €1.6 million – welcoming 256 new investors",
+     "link": "https://www.eu-startups.com/2026/08/biomaterials-company-ponda-closes-their-crowdfunding-round-at-e1-6-million-shattering-their-e230k-mininum/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "clementine": {
+   "name": "Clementine",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Clementine, a Maastricht-based startup that has built an AI-powered platform to help hearing clinics convert leads into patients, has raised €1.7 million ($2 million) in Seed funding. The Seed round was led by Healthy.Capital, an Amsterdam-based early-stage HealthTech investor th",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "€1.7 million",
+     "round": "Seed",
+     "title": "Maastricht-based Clementine raises €1.7 million to scale its AI-powered hearing care platform",
+     "link": "https://www.eu-startups.com/2026/08/maastricht-based-clementine-raises-e1-7-million-to-scale-its-ai-powered-hearing-care-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "nanolope": {
+   "name": "Nanolope",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Nanolope, a Berlin-based DeepTech startup developing high‑density thermal energy storage materials for buildings and energy systems, has closed an €800k pre-Seed financing round.  The round was backed by IBB Ventures through its pre-Seed Fund B# (“be sharp”), as well as several e",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "€800k",
+     "round": "Pre-Seed",
+     "title": "Berlin-based Nanolope secures €800k to turn building surfaces into thermal energy storage systems",
+     "link": "https://www.eu-startups.com/2026/08/berlin-based-nanolope-secures-e800k-to-turn-building-surfaces-into-thermal-energy-storage-systems/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "lupin-dental": {
+   "name": "Lupin Dental",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Lupin Dental, a Montpellier-based early-stage robotics company focused on developing innovative dental technologies, has announced the close of its €15 million Series A financing round.  The round was led by Fynveur with a €10 million investment, with participation from its exist",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "€15 million",
+     "round": "Series A",
+     "title": "Montpellier-based dental robotics startup Lupin Dental closes €15 million Series A round",
+     "link": "https://www.eu-startups.com/2026/08/montpellier-based-dental-robotics-startup-lupin-dental-closes-e15-million-series-a-round/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "from-soup-to-qubits-xanadu-to-open-advanced-photonics-hub": {
+   "name": "“From soup to qubits”: Xanadu to open advanced photonics hub",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Toronto firm lands $195-million loan in Canada’s largest quantum manufacturing investment. \n The post  “From soup to qubits”: Xanadu to open advanced photonics hub in old Campbell’s factory  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "events": [
+    {
+     "date": "2026-08-28",
+     "amount": "$195",
+     "round": "",
+     "title": "“From soup to qubits”: Xanadu to open advanced photonics hub in old Campbell’s factory",
+     "link": "https://betakit.com/from-soup-to-qubits-xanadu-to-open-advanced-photonics-hub-in-old-campbells-factory/",
+     "source": "BetaKit"
     }
    ]
   }
