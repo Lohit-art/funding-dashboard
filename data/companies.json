@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T22:52:53+00:00",
+ "updated": "2026-08-29T16:57:56+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -32502,6 +32502,54 @@
      "title": "“From soup to qubits”: Xanadu to open advanced photonics hub in old Campbell’s factory",
      "link": "https://betakit.com/from-soup-to-qubits-xanadu-to-open-advanced-photonics-hub-in-old-campbells-factory/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "atlantic-alumina": {
+   "name": "Atlantic Alumina",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Atlantic Alumina Company has secured a total of $800 million in public and private funding during 2026 to revitalize the only remaining alumina refinery in the U.S. and establish domestic primary gallium production. \n The post  Atlantic Alumina Secures $800 Million With U.S. Gove",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-08-29",
+   "events": [
+    {
+     "date": "2026-08-29",
+     "amount": "$800 Million",
+     "round": "",
+     "title": "Atlantic Alumina Secures $800 Million With U.S. Government And Pinnacle As Gallium Production Targets 50 Metric Tons Annually",
+     "link": "https://pulse2.com/atlantic-alumina-secures-800-million-with-u-s-government-and-pinnacle-as-gallium-production-targets-50-metric-tons-annually/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ola-electric": {
+   "name": "Ola Electric",
+   "country": "India",
+   "region": "Asia",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Electric two-wheeler maker Ola Electric has secured a ₹95.81 Cr incentive under the government’s Production Linked Incentive (PLI) Scheme from…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-08-29",
+   "events": [
+    {
+     "date": "2026-08-29",
+     "amount": "₹95.81",
+     "round": "",
+     "title": "Ola Electric Secures Centre’s ₹95.81 Cr Incentive Under PLI-Auto Scheme",
+     "link": "https://inc42.com/buzz/ola-electric-secures-centres-%e2%82%b995-81-cr-incentive-under-pli-auto-scheme/",
+     "source": "Inc42"
     }
    ]
   }
