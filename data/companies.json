@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T16:57:56+00:00",
+ "updated": "2026-08-30T17:12:11+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -32550,6 +32550,54 @@
      "title": "Ola Electric Secures Centre’s ₹95.81 Cr Incentive Under PLI-Auto Scheme",
      "link": "https://inc42.com/buzz/ola-electric-secures-centres-%e2%82%b995-81-cr-incentive-under-pli-auto-scheme/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "andreessen-horowitz": {
+   "name": "Andreessen Horowitz",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Andreessen Horowitz has launched a $1.1 billion Machine Age Fund dedicated to investing in the physical infrastructure required to support the rapid expansion of artificial intelligence. \n The post  Andreessen Horowitz Raises $1.1 Billion Machine Age Fund For AI Infrastructure, C",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-30",
+   "last_seen": "2026-08-30",
+   "events": [
+    {
+     "date": "2026-08-30",
+     "amount": "$1.1 Billion",
+     "round": "",
+     "title": "Andreessen Horowitz Raises $1.1 Billion Machine Age Fund For AI Infrastructure, Chips And Robotics",
+     "link": "https://pulse2.com/andreessen-horowitz-raises-1-1-billion-machine-age-fund-for-ai-infrastructure-chips-and-robotics/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "civitas-provides-104-million-senior-loan-for-164-unit-vail": {
+   "name": "Civitas Provides $104 Million Senior Loan For 164-Unit Vail ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Civitas Capital Group has closed a $104 million senior construction loan to finance The Summit, a planned 164-unit Class A multifamily development in downtown Avon, Colorado. \n The post  Civitas Provides $104 Million Senior Loan For 164-Unit Vail Valley Multifamily Development  a",
+   "audience": "Consumers",
+   "first_seen": "2026-08-30",
+   "last_seen": "2026-08-30",
+   "events": [
+    {
+     "date": "2026-08-30",
+     "amount": "$104 Million",
+     "round": "",
+     "title": "Civitas Provides $104 Million Senior Loan For 164-Unit Vail Valley Multifamily Development",
+     "link": "https://pulse2.com/civitas-provides-104-million-senior-loan-for-164-unit-vail-valley-multifamily-development/",
+     "source": "Pulse 2.0"
     }
    ]
   }
