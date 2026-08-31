@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T17:12:11+00:00",
+ "updated": "2026-08-31T19:23:04+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -32598,6 +32598,366 @@
      "title": "Civitas Provides $104 Million Senior Loan For 164-Unit Vail Valley Multifamily Development",
      "link": "https://pulse2.com/civitas-provides-104-million-senior-loan-for-164-unit-vail-valley-multifamily-development/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "eit-pharma": {
+   "name": "EIT Pharma",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "EIT Pharma has closed an oversubscribed $35 million Series A financing round to advance its infectious disease pipeline, including preparations surrounding the potential approval and commercialization of lonafarnib for chronic hepatitis D. Propel Bio Partners led the round, with ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "$35 Million",
+     "round": "Series A",
+     "title": "EIT Pharma Raises $35 Million Series A Led By Propel Bio Partners As Lonafarnib NDA Enters FDA Review",
+     "link": "https://pulse2.com/eit-pharma-raises-35-million-series-a-led-by-propel-bio-partners-as-lonafarnib-nda-enters-fda-review/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "diffraqtion": {
+   "name": "Diffraqtion",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Diffraqtion has brought its total pre-seed funding above $10 million after receiving strategic investments from Lockheed Martin Ventures and Sumitomo Corporation's Presidio Ventures, backing development of quantum-enabled cameras for defense, space and autonomous sensing applicat",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "$10 Million",
+     "round": "Pre-Seed",
+     "title": "Diffraqtion Raises Over $10 Million With Lockheed Martin And Sumitomo As Quantum Camera Targets 20x Smaller Features",
+     "link": "https://pulse2.com/diffraqtion-raises-over-10-million-with-lockheed-martin-and-sumitomo-as-quantum-camera-targets-20x-smaller-features/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "molten-salt-solutions": {
+   "name": "Molten Salt Solutions",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Molten Salt Solutions has closed an oversubscribed $7 million seed financing round to scale production of enriched lithium isotopes needed for fusion and advanced fission technologies. Dolby Family Ventures led the round, with participation from Vanedge Capital Partners, Alumni V",
+   "audience": "Consumers",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "$7 Million",
+     "round": "Seed",
+     "title": "Molten Salt Solutions Raises $7 Million Seed To Scale Lithium-6 And Lithium-7 Enrichment For Advanced Nuclear",
+     "link": "https://pulse2.com/molten-salt-solutions-raises-7-million-seed-to-scale-lithium-6-and-lithium-7-enrichment-for-advanced-nuclear/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "carrick": {
+   "name": "Carrick",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Carrick Capital Partners has closed an oversubscribed single-asset continuation vehicle for identity security company Saviynt with approximately $600 million in capital commitments and made a new $255 million investment in the business. \n The post  Carrick Closes $600 Million Sav",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "$600 Million",
+     "round": "",
+     "title": "Carrick Closes $600 Million Saviynt Continuation Vehicle And Invests $255 Million As ARR Tops $300 Million",
+     "link": "https://pulse2.com/carrick-closes-600-million-saviynt-continuation-vehicle-and-invests-255-million-as-arr-tops-300-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "convergen": {
+   "name": "Convergen",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Convergen has raised $15 million in Seed+ financing to advance its targeted protein degradation platform and pipeline of potential therapies for neurodegenerative and other diseases driven by pathological protein aggregation. MPCi led the round, with participation from LAV, BioTr",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "$15 Million",
+     "round": "Seed",
+     "title": "Convergen Raises $15 Million Seed+ Round As Total Funding Reaches $25 Million For Protein Degradation Platform",
+     "link": "https://pulse2.com/convergen-raises-15-million-seed-round-as-total-funding-reaches-25-million-for-protein-degradation-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "reducing-preterm-birth-risks-in-foetal-surgery-kove-medical": {
+   "name": "Reducing preterm birth risks in foetal surgery, KOVE Medical",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Zurich-based MedTech startup KOVE Medical has closed a €1.7 million (CHF 1.6 million) to develop an implantable medical device designed to reduce the risk of preterm birth following foetal surgery, with the fresh capital set to support the company as it progresses towards First-i",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "€1.7 million",
+     "round": "Angel",
+     "title": "Reducing preterm birth risks in foetal surgery, KOVE Medical secures €1.7 million",
+     "link": "https://www.eu-startups.com/2026/08/reducing-preterm-birth-risks-in-foetal-surgery-kove-medical-secures-e1-7-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "elekta": {
+   "name": "Elekta",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Stockholm-based HealthTech company Elekta has secured a loan of up to €100 million from the European Investment Bank (EIB), the European Union’s financing arm. The financing falls under the EIB Group’s TechEU programme, which is designed to strengthen European investment in strat",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "€100 million",
+     "round": "",
+     "title": "Stockholm-based Elekta secures €100 million EIB loan to advance cancer and neurological treatments",
+     "link": "https://www.eu-startups.com/2026/08/stockholm-based-elekta-secures-e100-million-eib-loan-to-advance-cancer-and-neurological-treatments/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "nexeon": {
+   "name": "Nexeon",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Nexeon, an Oxfordshire-based developer of advanced silicon-based battery materials, has completed its latest investment round totalling €116.7 million (£100 million/$133 million), with the National Wealth Fund committing €61.4 million (£52.6 million/$70 million).  Other new inves",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "€116.7 million",
+     "round": "",
+     "title": "UK-based BatteryTech firm Nexeon secures €116.7 million with National Wealth Fund backing",
+     "link": "https://www.eu-startups.com/2026/08/uk-based-batterytech-firm-nexeon-secures-e116-7-million-with-national-wealth-fund-backing/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "finland-s-s-transistors": {
+   "name": "Finland’s S-Transistors",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "S-Transistors, a newly launched Finnish startup and a spin-off from VTT Technical Research Centre of Finland, has raised €2.6 million in pre-Seed funding to deliver a new class of integrated circuits based on superconducting transistors.  The round was led by Lifeline Ventures, a",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "€2.6 million",
+     "round": "Pre-Seed",
+     "title": "Finland’s S-Transistors raises €2.6 million to build the world’s first quantum motherboard",
+     "link": "https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "panda-therapeutics": {
+   "name": "PANDA Therapeutics",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Biotech startup PANDA Therapeutics has obtained €160,000 (CHF 150,000) from Venture Kick to advance a new treatment for Alzheimer’s disease toward clinical development. By targeting multiple harmful p...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "€160K",
+     "round": "",
+     "title": "PANDA Therapeutics secures €160K to advance multi-target Alzheimer’s therapy",
+     "link": "https://tech.eu/2026/08/31/panda-therapeutics-secures-160k-to-advance-multi-target-alzheimer-s-therapy/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "foldcast": {
+   "name": "Foldcast",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swissconstruction technology startup Foldcast has secured €160,000 (CHF 150,000) fromVenture Kick to advance its recyclable paper mould technology for concreteconstruction and move towards commercial ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "€160K",
+     "round": "",
+     "title": "Foldcast secures €160K to reduce concrete use with recyclable paper moulds",
+     "link": "https://tech.eu/2026/08/31/foldcast-secures-eur160k-to-reduce-concrete-use-with-recyclable-paper-moulds/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "s-transistors": {
+   "name": "S-Transistors",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Finnishquantum technology startup S-Transistors has raised €2.6 million in pre-seedfunding to develop integrated circuits based on superconducting transistors,initially targeting the control and signa...",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "€2.6M",
+     "round": "",
+     "title": "S-Transistors raises €2.6M for superconducting quantum computing platform",
+     "link": "https://tech.eu/2026/08/31/s-transistors-raises-eur26m-for-superconducting-quantum-computing-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "state-street": {
+   "name": "State Street",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Global asset manager State Street Investment Management has completed its ₹580 Cr strategic investment in Groww’s mutual fund arm Groww…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "₹580",
+     "round": "",
+     "title": "State Street Closes ₹580 Cr Investment In Groww AMC",
+     "link": "https://inc42.com/buzz/state-street-closes-%e2%82%b9580-cr-investment-in-groww-amc/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "yoga": {
+   "name": "YOGa",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Clean tech startup YOGa Clean Air has raised ₹20 Cr (around $2.1 Mn) in its Series A round, in a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "₹20",
+     "round": "Series A",
+     "title": "YOGa Bags ₹20 Cr From Info Edge, Others To Scale Clean-Air Solutions",
+     "link": "https://inc42.com/buzz/yoga-bags-%e2%82%b920-cr-from-info-edge-others-to-scale-clean-air-solutions/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "apate-ai": {
+   "name": "Apate.AI",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Apate.AI raises $11.4m to unleash scammer-baiting AI bots globally, turning fraudsters into intel.",
+   "audience": "General / mixed",
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "events": [
+    {
+     "date": "2026-08-31",
+     "amount": "$11.4 million",
+     "round": "Seed",
+     "title": "Anti-scammer startup Apate.AI nabs $11.4 million Seed raise amid US move",
+     "link": "https://www.startupdaily.net/topic/funding/anti-scammer-startup-apate-ai-nabs-11-4-million-seed-raise-amid-us-move/",
+     "source": "Startup Daily"
     }
    ]
   }
