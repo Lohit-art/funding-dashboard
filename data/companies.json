@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T19:23:04+00:00",
+ "updated": "2026-09-01T17:08:54+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -13903,13 +13903,13 @@
    "region": "Europe",
    "category": "Scientific discovery",
    "sector": "Deep Tech",
-   "is_ai": false,
+   "is_ai": true,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "This week, we tracked more than 70 tech funding deals worth over €2.8 billion and over 5 exits, M&A transactions, rumours, and related news stories across Europe. Alongside the week’s top funding ...",
+   "stage": "established",
+   "summary": "Nscale has closed approximately $3 billion of financing commitments across two senior secured delayed draw term loan facilities supporting large-scale artificial intelligence infrastructure deployments in Texas and North Carolina. \n The post  Nscale Secures $3 Billion For Texas A",
    "audience": "General / mixed",
    "first_seen": "2026-07-10",
-   "last_seen": "2026-07-10",
+   "last_seen": "2026-09-01",
    "events": [
     {
      "date": "2026-07-10",
@@ -13918,6 +13918,14 @@
      "title": "Nscale secures $1.4B, Proxima Fusion lands €411M, and Invest Europe sees VC rebound",
      "link": "https://tech.eu/2026/07/10/nscale-secures-14b-proxima-fusion-lands-eur411m-and-invest-europe-sees-vc-rebound/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-01",
+     "amount": "$3 Billion",
+     "round": "",
+     "title": "Nscale Secures $3 Billion For Texas And North Carolina AI Campuses Supporting Up To 315 MW Of Capacity",
+     "link": "https://pulse2.com/nscale-secures-3-billion-for-texas-and-north-carolina-ai-campuses-supporting-up-to-315-mw-of-capacity/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -32957,6 +32965,470 @@
      "round": "Seed",
      "title": "Anti-scammer startup Apate.AI nabs $11.4 million Seed raise amid US move",
      "link": "https://www.startupdaily.net/topic/funding/anti-scammer-startup-apate-ai-nabs-11-4-million-seed-raise-amid-us-move/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "ares": {
+   "name": "Ares",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Ares Management has closed Japan Logistics Development Partners V at ¥612 billion, or about $4 billion, reaching the fund's hard cap and completing the largest closed-end institutional fundraise in Ares Real Estate's history. \n The post  Ares Closes $4 Billion Japan Logistics Fun",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$4 Billion",
+     "round": "",
+     "title": "Ares Closes $4 Billion Japan Logistics Fund With $11 Billion Investment Capacity",
+     "link": "https://pulse2.com/ares-closes-4-billion-japan-logistics-fund-with-11-billion-investment-capacity/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "zedge": {
+   "name": "Zedge",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Zedge has announced an approximately $7.5 million direct insider investment and appointed Morris Berger as Chief Executive Officer as the company accelerates development of DataSeeds.AI into a larger artificial intelligence data business. \n The post  Zedge Secures $7.5 Million In",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$7.5 Million",
+     "round": "",
+     "title": "Zedge Secures $7.5 Million Insider Investment As Morris Berger Becomes CEO To Scale DataSeeds.AI",
+     "link": "https://pulse2.com/zedge-secures-7-5-million-insider-investment-as-morris-berger-becomes-ceo-to-scale-dataseeds-ai/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "xorlab": {
+   "name": "xorlab",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Europeanemail security company xorlab has raised €5 million in a Series A+ financinground to support its expansion across Europe and further develop its emailsecurity platform. The round was led by ex...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "€5 million",
+     "round": "Series A",
+     "title": "Zurich-based xorlab secures €5 million to scale sovereign email security across Europe",
+     "link": "https://www.eu-startups.com/2026/09/zurich-based-xorlab-secures-e5-million-to-scale-sovereign-email-security-across-europe/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-01",
+     "amount": "€5M",
+     "round": "Series A",
+     "title": "xorlab secures €5M to scale its email security platform across Europe",
+     "link": "https://tech.eu/2026/09/01/xorlab-secures-eur5m-to-scale-its-email-security-platform-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "drone-attack-at-leipzig-halle-airport-underscores-threat-as": {
+   "name": "Drone attack at Leipzig/Halle Airport underscores threat as ",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Hannover-based DeepTech company INLEAP Photonics has closed a €20 million Seed funding round for its laser-based drone defence in order to accelerate the scaling of its technology for defence applications and the protection of critical infrastructure. The round was led by UVC Par",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "€20 million",
+     "round": "Seed",
+     "title": "Drone attack at Leipzig/Halle Airport underscores threat as INLEAP Photonics raises €20 million for drone defence",
+     "link": "https://www.eu-startups.com/2026/09/drone-attack-at-leipzig-halle-airport-underscores-threat-as-inleap-photonics-raises-e20-million-for-drone-defence/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "after-securing-158-9-million-esa-award-pld-space-adds-108": {
+   "name": "After securing €158.9 million ESA award, PLD Space adds €108",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "PLD Space, an Elche-based space transportation company, today announced that it has extended its Series C funding round, originally launched in March 2026, with an additional €108 million investment.  The Series C extension was led once again by Mitsubishi Electric Corporation. T",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "€158.9 million",
+     "round": "Series C",
+     "title": "After securing €158.9 million ESA award, PLD Space adds €108 million to Series C, bringing round to €288 million",
+     "link": "https://www.eu-startups.com/2026/09/after-securing-e158-9-million-esa-award-pld-space-adds-e108-million-to-series-c-bringing-round-to-e288-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "berlin-s-auxxo": {
+   "name": "Berlin’s Auxxo",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Auxxo, a Berlin-based venture capital firm dedicated to backing teams with at least one female founder, has announced the final closing of its Auxxo Female Catalyst Fund II at €33.3 million, surpassing its prior fund by more than 75%.  The VC firm announced the first close of Fem",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "€33.3 million",
+     "round": "",
+     "title": "Berlin’s Auxxo closes Female Catalyst Fund II at €33.3 million and launches founder matchmaking platform",
+     "link": "https://www.eu-startups.com/2026/09/berlins-auxxo-closes-female-catalyst-fund-ii-at-e33-3-million-and-launches-founder-matchmaking-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "cloover": {
+   "name": "Cloover",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Cloover, a Berlin-based AI-native energy platform for residential solar, heat pumps, and home electrification, has secured a new €86.2 million ($100 million) facility. It also announced that it became profitable three years after its launch, with a revenue run rate exceeding €301",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "€86.2 million",
+     "round": "",
+     "title": "Berlin-based Cloover secures €86.2 million facility as it reaches profitability and launches AI-native neo-utility",
+     "link": "https://www.eu-startups.com/2026/09/berlin-based-cloover-secures-e86-2-million-facility-as-it-reaches-profitability-and-launches-ai-native-neo-utility/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "italian-obesity-digital-clinic-holifya": {
+   "name": "Italian obesity digital clinic Holifya",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Holifya, the first digital clinic in Italy focused on pharmacologic treatment of obesity through AI and advanced diagnostics, has raised €2 million investment. The round, which is €1.6 million in equi...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "€2M",
+     "round": "",
+     "title": "Italian obesity digital clinic Holifya raises €2M to scale AI-supported GLP-1 care",
+     "link": "https://tech.eu/2026/09/01/italian-obesity-digital-clinic-holifya-raises-eur2m-to-scale-ai-supported-glp-1-care/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "instarc": {
+   "name": "Instarc",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Tallinn-based regtech companyInstarc has secured a €1.25 million strategic investment to support thecommercial rollout of its cloud-native compliance platform in South Africa. Theinvestment was led by...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "€1.25M",
+     "round": "",
+     "title": "Instarc raises €1.25M to scale its cloud-native compliance platform",
+     "link": "https://tech.eu/2026/09/01/instarc-raises-eur125m-to-scale-its-cloud-native-compliance-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "inleap-photonics": {
+   "name": "INLEAP Photonics",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "German deeptechcompany INLEAP Photonics has raised approximately €20 million in seed fundingto scale its laser-based counter-drone technology for defence and criticalinfrastructure applications. The r...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "€20M",
+     "round": "Seed",
+     "title": "INLEAP Photonics raises €20M to expand laser counter-drone systems",
+     "link": "https://tech.eu/2026/09/01/inleap-photonics-raises-eur20m-to-expand-laser-counter-drone-systems/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "id-finance": {
+   "name": "ID Finance",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fintech company ID Financehas secured a €21 million debt facility from German asset manager nordIX tosupport the continued growth of its consumer lending business in Spain.Founded in Barcelona in2015,...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "€21M",
+     "round": "Debt",
+     "title": "ID Finance secures €21M from nordIX to grow its Spanish lending business",
+     "link": "https://tech.eu/2026/09/01/id-finance-secures-eur21m-from-nordix-to-grow-its-spanish-lending-business/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cloover-turns-profitable-at-350m-revenue-run-rate-and": {
+   "name": "Cloover turns profitable at $350M revenue run rate and",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Energy platform for residential solar, heat pumps, and home electrification, Cloover, has turned profitable three years after launch, at a revenue run rate of more than $350 million.  The company has ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$350M",
+     "round": "",
+     "title": "Cloover turns profitable at $350M revenue run rate and secures $100M financing facility",
+     "link": "https://tech.eu/2026/09/01/cloover-turns-profitable-at-350m-revenue-run-rate-and-secures-100m-financing-facility/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "minimac-systems": {
+   "name": "Minimac Systems",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Pune-based startup Minimac Systems has raised ₹30 Cr ($3.2 Mn) in a fresh funding round led by Zerodha’s investment arm…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "₹30",
+     "round": "",
+     "title": "Minimac Systems Raises ₹30 Cr To Scale Lubricant Recycling Infrastructure",
+     "link": "https://inc42.com/buzz/minimac-systems-raises-%e2%82%b930-cr-to-scale-lubricant-recycling-infrastructure/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "alteon": {
+   "name": "Alteon",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bengaluru-based startup Alteon has raised $2.5 Mn (about ₹24 Cr) in a pre-seed round led by Lachy Groom, with participation…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$2.5 Mn",
+     "round": "Pre-Seed",
+     "title": "Alteon Raises $2.5 Mn To Develop Long-Endurance Autonomous Aircraft",
+     "link": "https://inc42.com/buzz/alteon-raises-2-5-mn-to-develop-long-endurance-autonomous-aircraft/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "kepler-aerospace": {
+   "name": "Kepler Aerospace",
+   "country": "India",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Spacetech startup Kepler Aerospace has raised $8 Mn (around ₹75.8 Cr) in a seed funding round led by Blue Ashva…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$8 Mn",
+     "round": "Seed",
+     "title": "Kepler Aerospace Raises $8 Mn To Launch Six Autonomous Surveillance Satellites",
+     "link": "https://inc42.com/buzz/kepler-aerospace-raises-8-mn-to-launch-six-autonomous-surveillance-satellites/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "yuma-energy": {
+   "name": "Yuma Energy",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Battery swapping platform Yuma Energy has raised $35 Mn (₹333 Cr) in its Series A funding round from existing backer…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$35 Mn",
+     "round": "Series A",
+     "title": "Yuma Energy Bags $35 Mn To Expand Its Battery Swapping Network",
+     "link": "https://inc42.com/buzz/yuma-energy-bags-35-mn-to-expand-its-battery-swapping-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "zenergize": {
+   "name": "Zenergize",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Clean tech startup Zenergize, which manufactures chargers for electric vehicles (EVs), has raised $4 Mn (nearly ₹38 Cr) in its…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$4 Mn",
+     "round": "",
+     "title": "Zenergize Bags $4 Mn To Scale Production Of Its EV Chargers",
+     "link": "https://inc42.com/buzz/zenergize-bags-4-mn-to-boost-production-of-its-ev-chargers/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "bdc-other-xanadu-investors-back-meissner-s-discovery-engin": {
+   "name": "BDC, other Xanadu investors back Meissner’s “discovery engin",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "U of T science student closes $2.6 million USD to enable quantum computing and fusion. \n The post  BDC, other Xanadu investors back Meissner’s “discovery engine” for superconductors  first appeared on  BetaKit .",
+   "audience": "Consumers",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$2.6 million",
+     "round": "",
+     "title": "BDC, other Xanadu investors back Meissner’s “discovery engine” for superconductors",
+     "link": "https://betakit.com/bdc-other-xanadu-investors-back-meissners-discovery-engine-for-superconductors/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "energy-network-management-platform-gridsight-charges-up-on": {
+   "name": "Energy network management platform Gridsight charges up on $",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Gridsight bags $36m to squeeze hidden capacity from overloaded grids as AI and solar pile on demand.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$36 million",
+     "round": "Series B",
+     "title": "Energy network management platform Gridsight charges up on $36 million Series B",
+     "link": "https://www.startupdaily.net/topic/funding/energy-network-management-platform-gridsight-charges-up-on-36-million-series-b/",
      "source": "Startup Daily"
     }
    ]
