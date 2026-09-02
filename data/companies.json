@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T17:08:54+00:00",
+ "updated": "2026-09-02T16:59:49+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -31483,17 +31483,17 @@
   },
   "certain-energy": {
    "name": "Certain Energy",
-   "country": "Unknown",
+   "country": "UK",
    "region": "Europe",
    "category": "Climate & sustainability",
    "sector": "Climate / Energy",
    "is_ai": false,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Britishlong-duration energy storage company Certain Energy has raised £10 million inSeries A funding to commercialise its manganese flow battery technology andprepare it for grid-scale deployment. The...",
-   "audience": "General / mixed",
+   "summary": "Certain Energy, formerly known as RFC Power, has raised £10 million in Series A funding to commercialize its manganese flow battery technology and scale long-duration energy storage systems designed to stabilize electricity grids and support renewable power generation. The round ",
+   "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
+   "last_seen": "2026-09-02",
    "events": [
     {
      "date": "2026-08-26",
@@ -31502,6 +31502,14 @@
      "title": "Certain Energy raises £10M Series A for long-duration battery storage",
      "link": "https://tech.eu/2026/08/26/certain-energy-raises-ps10m-series-a-for-long-duration-battery-storage/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-02",
+     "amount": "£10 Million",
+     "round": "Series A",
+     "title": "Certain Energy Raises £10 Million Series A For Long-Duration Energy Storage",
+     "link": "https://pulse2.com/certain-energy-raises-10-million-series-a-for-long-duration-energy-storage/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -32875,17 +32883,17 @@
   },
   "s-transistors": {
    "name": "S-Transistors",
-   "country": "Unknown",
+   "country": "Finland",
    "region": "Europe",
    "category": "Scientific discovery",
    "sector": "Deep Tech",
    "is_ai": false,
    "research_based": true,
-   "stage": "unspecified",
-   "summary": "Finnishquantum technology startup S-Transistors has raised €2.6 million in pre-seedfunding to develop integrated circuits based on superconducting transistors,initially targeting the control and signa...",
+   "stage": "new",
+   "summary": "Finnish startup S-Transistors has raised €2.6 million in pre-seed funding in a round led by Lifeline Ventures, with participation from an angel investor. Spun out of VTT Technical Research Centre of Finland, the company is developing superconducting transistor-based integrated ci",
    "audience": "General / mixed",
    "first_seen": "2026-08-31",
-   "last_seen": "2026-08-31",
+   "last_seen": "2026-09-02",
    "events": [
     {
      "date": "2026-08-31",
@@ -32894,6 +32902,14 @@
      "title": "S-Transistors raises €2.6M for superconducting quantum computing platform",
      "link": "https://tech.eu/2026/08/31/s-transistors-raises-eur26m-for-superconducting-quantum-computing-platform/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-02",
+     "amount": "€2.6 million",
+     "round": "Pre-Seed",
+     "title": "Finnish startup S-Transistors raises €2.6 million pre-seed to develop superconducting electronics for quantum computing",
+     "link": "https://arcticstartup.com/s-transistors-raises-e2-6-million-pre-seed/",
+     "source": "ArcticStartup"
     }
    ]
   },
@@ -33429,6 +33445,462 @@
      "round": "Series B",
      "title": "Energy network management platform Gridsight charges up on $36 million Series B",
      "link": "https://www.startupdaily.net/topic/funding/energy-network-management-platform-gridsight-charges-up-on-36-million-series-b/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "afterquery-reportedly-becomes-y-combinator-s-fastest-ever-un": {
+   "name": "AfterQuery reportedly becomes Y Combinator’s fastest-ever un",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$3.2B",
+     "round": "Series A",
+     "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+     "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "remittance-startup-fe-lix": {
+   "name": "Remittance Startup Félix",
+   "country": "USA",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Félix, a Miami-based AI-powered WhatsApp remittance platform for Latino immigrants, announced on Tuesday that it has secured $200 million in Series C funding co-led by Andreessen Horowitz and General Catalyst.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$200M",
+     "round": "Series C",
+     "title": "WhatsApp Remittance Startup Félix Secures $200M Series C Led By A16z, General Catalyst",
+     "link": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "huskeys": {
+   "name": "Huskeys",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Huskeys has raised $27 million in Series A funding led by Blackstone Innovations Investments, bringing the cybersecurity company's total funding to $35 million as it builds a Network Edge Security Management platform for increasingly complex and AI-driven network environments. Th",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "$27 Million",
+     "round": "Series A",
+     "title": "Huskeys Raises $27 Million Series A Led By Blackstone Innovations Investments",
+     "link": "https://pulse2.com/huskeys-raises-27-million-series-a-led-by-blackstone-innovations-investments/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "green-canada-uranium": {
+   "name": "Green Canada Uranium",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Green Canada Uranium Corp., formerly known as MAACKK Capital Corp., has completed its previously announced reverse takeover with Green Canada Corporation, along with approximately $2.92 million in concurrent financing and the acquisition of a 100% interest in the Marshall uranium",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "$2.92 Million",
+     "round": "",
+     "title": "Green Canada Uranium Closes Reverse Takeover, $2.92 Million Financing And Marshall Project Acquisition",
+     "link": "https://pulse2.com/green-canada-uranium-closes-reverse-takeover-2-92-million-financing-and-marshall-project-acquisition/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pharosyn": {
+   "name": "Pharosyn",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "London-based Pharosyn, which builds AI infrastructure for commercial decision-making in pharma, has raised €2.5 million to expand its platform and support wider adoption across pharmaceutical commercial and portfolio strategy teams. The round was led by Moonfire, including invest",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "€2.5 million",
+     "round": "",
+     "title": "UK startup Pharosyn raises €2.5 million for pharma competitive intelligence platform",
+     "link": "https://www.eu-startups.com/2026/09/uk-startup-pharosyn-raises-e2-5-million-for-pharma-competitive-intelligence-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "mirava": {
+   "name": "MIRAVA",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "MIRAVA, a smart recreational boat startup, has raised €4.2 million ($5 million) in angel funding to move from three years of product development into small-batch production and customer deliveries. The company has spent the past three years developing its first product, combining",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "€4.2 million",
+     "round": "Angel",
+     "title": "MIRAVA raises €4.2 million to build a new category in recreational boating (Sponsored)",
+     "link": "https://www.eu-startups.com/2026/09/mirava-raises-e4-2-million-to-build-a-new-category-in-recreational-boating-sponsored/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "adressing-complicated-pregnancies-ipremom": {
+   "name": "Adressing complicated pregnancies, iPremom",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "iPremom, a Spanish molecular diagnostics company addressing the early identification of pregnancy complications, has raised €15 million in Seed funding to support clinical validation and the commercial rollout of its MaiRa platform, which analyses early signals of first-trimester",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "€15 million",
+     "round": "Seed",
+     "title": "Adressing complicated pregnancies, iPremom raises €15 million to advance early detection",
+     "link": "https://www.eu-startups.com/2026/09/adressing-complicated-pregnancies-ipremom-raises-e15-million-to-advance-early-detection/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "german-spacetech-hyimpulse": {
+   "name": "German SpaceTech HyImpulse",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "HyImpulse Technologies, a Neuenstadt am Kocher-based manufacturer and system provider of commercial rockets for suborbital and orbital launch services, today announced a Series A Extension round of more than €50 million in equity. The round was co-led by JOIN Capital and Ace Capi",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "€50 million",
+     "round": "Series A",
+     "title": "German SpaceTech HyImpulse secures over €50 million to accelerate Europe’s sovereign launch capabilities",
+     "link": "https://www.eu-startups.com/2026/09/german-spacetech-hyimpulse-secures-over-e50-million-to-accelerate-europes-sovereign-launch-capabilities/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "wonderful": {
+   "name": "Wonderful",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Wonderful, the Netherlands-based startup that provides AI services to help companies boost productivity, has raised around $550 million at a $5 billion valuation, it said today.The Series C funding ro...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "$550M",
+     "round": "Series C",
+     "title": "Netherlands-based AI startup Wonderful raises $550M at $5BN valuation",
+     "link": "https://tech.eu/2026/09/02/netherlands-based-ai-startup-wonderful-raises-550m-at-5bn-valuation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "hiasynth": {
+   "name": "Hiasynth",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI startup Hiasynth has raised an angel funding round led by Further Than Capital. The company has built a synthetic model of Europe's population at 1:1 scale, designed to be queried by AI. With it, a...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "",
+     "round": "Angel",
+     "title": "Hiasynth raises angel funding to build a queryable synthetic model of Europe’s population",
+     "link": "https://tech.eu/2026/09/02/hiasynth-raises-angel-funding-to-build-a-queryable-synthetic-model-of-europes-population/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "conveo": {
+   "name": "Conveo",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Consumerresearch technology company Conveo has raised $50 million in Series A fundingto expand in the US and develop its platform into a broader consumerintelligence infrastructure for enterprises. Th...",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "$50M",
+     "round": "Series A",
+     "title": "Conveo raises $50M to scale its AI-powered consumer intelligence platform",
+     "link": "https://tech.eu/2026/09/02/conveo-raises-50m-to-scale-its-ai-powered-consumer-intelligence-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ki-13": {
+   "name": "Ki 13",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK cleantech company Ki 13 (formerly Ki Hydrogen) has raised $5 millionin seed funding to build an industrial pilot plant for its biomass electrolysistechnology. The round was led by HICO Investment G...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "$5M",
+     "round": "Seed",
+     "title": "Ki 13 raises $5M for affordable synthetic fuels",
+     "link": "https://tech.eu/2026/09/02/ki-13-raises-5m-for-affordable-synthetic-fuels/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "hyimpulse": {
+   "name": "HyImpulse",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Germanspacetech HyImpulse has raised more than €50 million in a Series A extension toadvance its suborbital and orbital launch systems and expand its production andcommercial operations. The round was...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "€50M",
+     "round": "Series A",
+     "title": "HyImpulse secures €50M+ to scale suborbital and orbital launch services",
+     "link": "https://tech.eu/2026/09/02/hyimpulse-secures-eur50m-to-scale-suborbital-and-orbital-launch-services/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "quick-commerce-supply-chain-startup-docpharma": {
+   "name": "Quick Commerce Supply Chain Startup DocPharma",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Healthcare supply chain startup DocPharma has raised $2 Mn (₹19 Cr) in a Pre-Series A funding round led by Equentis,…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "$2 Mn",
+     "round": "Pre-Series A",
+     "title": "Quick Commerce Supply Chain Startup DocPharma Nets $2 Mn For Expansion",
+     "link": "https://inc42.com/buzz/quick-commerce-supply-chain-startup-docpharma-nets-2-mn-for-expansion/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "aeron-systems": {
+   "name": "Aeron Systems",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Pune-based deeptech company Aeron Systems has raised ₹45 Cr (about $4.7 Mn) in a pre-Series B funding round jointly led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "₹45",
+     "round": "Pre-Series B",
+     "title": "Aeron Systems Raises ₹45 Cr To Scale Navigation, Weather-Monitoring Systems",
+     "link": "https://inc42.com/buzz/aeron-systems-raises-%e2%82%b945-cr-to-scale-navigation-weather-monitoring-systems/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "scopia-surgical": {
+   "name": "Scopia Surgical",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Montréal medtech company is gearing up to validate its navigation software in hospitals. \n The post  Scopia Surgical raises $2.65 million to build a GPS for robotic surgery  first appeared on  BetaKit .",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "$2.65 million",
+     "round": "",
+     "title": "Scopia Surgical raises $2.65 million to build a GPS for robotic surgery",
+     "link": "https://betakit.com/scopia-surgical-raises-2-65-million-to-build-a-gps-for-robotic-surgery/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "landjourney-rebrands-to-sweet": {
+   "name": "Landjourney rebrands to Sweet",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Montreal-founded FinTech says its platform helps lenders complete previously “weeks-long processes” in days. \n The post  Landjourney rebrands to Sweet, secures $7.4 million USD to simplify commercial lending beyond agriculture  first appeared on  BetaKit .",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "events": [
+    {
+     "date": "2026-09-01",
+     "amount": "$7.4 million",
+     "round": "",
+     "title": "Landjourney rebrands to Sweet, secures $7.4 million USD to simplify commercial lending beyond agriculture",
+     "link": "https://betakit.com/landjourney-rebrands-to-sweet-secures-7-4-million-usd-to-simplify-commercial-lending-beyond-agriculture/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "gonglobal": {
+   "name": "GonGlobal",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "GonGlobal bags $1.2M to kill IVF’s pin-cushion era with inhaled fertility meds and reshape treatment.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "$1.2 million",
+     "round": "",
+     "title": "IVF startup GonGlobal raises $1.2 million for needle-free treatments",
+     "link": "https://www.startupdaily.net/topic/funding/ivf-startup-gonglobal-raises-1-2-million-for-needle-free-treatments/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "drumbeat": {
+   "name": "Drumbeat",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Drumbeat lands NZ$2M to drag PR out of the ’90s and scale founder storytelling across AU and US.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "$2M",
+     "round": "",
+     "title": "Kiwi comms startup Drumbeat bags NZ$2M to help founders tell their stories",
+     "link": "https://www.startupdaily.net/topic/funding/kiwi-comms-startup-drumbeat-bags-nz2m-to-help-founders-tell-their-stories/",
      "source": "Startup Daily"
     }
    ]
