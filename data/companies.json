@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T16:59:49+00:00",
+ "updated": "2026-09-03T16:56:06+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -30898,10 +30898,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "AI investment platform Itoflow has raised $2.5 million inpre-seed funding to develop its technology to help professional investmentteams automate and scale research and portfolio management. The round...",
+   "summary": "Itoflow has raised $2.5 million in Pre-Seed funding led by Balderton, with participation from angel investors including Cleo Founder and CEO Barney Hussey-Yeo. \n The post  Itoflow Raises $2.5 Million Pre-Seed Round Led By Balderton  appeared first on  Pulse 2.0 .",
    "audience": "General / mixed",
    "first_seen": "2026-08-25",
-   "last_seen": "2026-08-25",
+   "last_seen": "2026-09-03",
    "events": [
     {
      "date": "2026-08-25",
@@ -30910,6 +30910,14 @@
      "title": "Itoflow lands $2.5M to scale investment research and portfolio management",
      "link": "https://tech.eu/2026/08/25/itoflow-lands-25m-to-scale-investment-research-and-portfolio-management/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-03",
+     "amount": "$2.5 Million",
+     "round": "Pre-Seed",
+     "title": "Itoflow Raises $2.5 Million Pre-Seed Round Led By Balderton",
+     "link": "https://pulse2.com/itoflow-raises-2-5-million-pre-seed-round-led-by-balderton/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -33902,6 +33910,590 @@
      "title": "Kiwi comms startup Drumbeat bags NZ$2M to help founders tell their stories",
      "link": "https://www.startupdaily.net/topic/funding/kiwi-comms-startup-drumbeat-bags-nz2m-to-help-founders-tell-their-stories/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "former-apple-engineers-physical-ai-startup-lyte": {
+   "name": "Former Apple Engineers’ Physical AI Startup Lyte",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Lyte, a physical AI startup building sensing and perception technology for robots, has raised a Maverick Silicon-led $165 million Series C funding at a $1.6 billion post-money valuation.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "events": [
+    {
+     "date": "2026-09-02",
+     "amount": "$165M",
+     "round": "Series C",
+     "title": "Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation",
+     "link": "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "dealade-interview-with-ceo-scott-yenor-about-owner-first-m": {
+   "name": "Dealade: Interview With CEO Scott Yenor About Owner-First M&",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Dealade is a platform built to help owners of small and midsize businesses understand, improve, and track the value of their companies long before any sale process begins, so that whatever they decide to do with the business, they own the outcome. Recently launched publicly, the ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$10 billion",
+     "round": "",
+     "title": "Dealade: Interview With CEO Scott Yenor About Owner-First M&A Infrastructure",
+     "link": "https://pulse2.com/dealade-profile-scott-yenor-interview/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "concordare-trials": {
+   "name": "Concordare Trials",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Concordare Trials has closed a funding round led by Surface Ventures, with participation from Techstars, Innovation Works, Gaingels and individual investors. \n The post  Concordare Trials Raises Funding Led By Surface Ventures To Digitize Clinical Trial Protocols  appeared first ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "",
+     "round": "",
+     "title": "Concordare Trials Raises Funding Led By Surface Ventures To Digitize Clinical Trial Protocols",
+     "link": "https://pulse2.com/concordare-trials-raises-funding-led-by-surface-ventures-to-digitize-clinical-trial-protocols/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "netapp-q1-fiscal-2027-revenue-reaches-record-2-03-billion": {
+   "name": "NetApp: Q1 Fiscal 2027 Revenue Reaches Record $2.03 Billion ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "NetApp reported record first-quarter fiscal 2027 net revenue of $2.03 billion, increasing 30% from $1.56 billion in the prior-year period. Hybrid Cloud revenue increased 30% to $1.82 billion, while Public Cloud revenue rose 28% to a record $206 million. Billings increased 36% to ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$2.03 Billion",
+     "round": "",
+     "title": "NetApp: Q1 Fiscal 2027 Revenue Reaches Record $2.03 Billion As EPS Hits $2.58 And Guidance Is Raised",
+     "link": "https://pulse2.com/netapp-q1-fiscal-2027-revenue-reaches-record-2-03-billion-as-eps-hits-2-58-and-guidance-is-raised/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "imprint": {
+   "name": "Imprint",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Imprint has secured $2 billion in new debt funding capacity since April 2026, consisting of $1.5 billion of incremental warehouse capacity and a $500 million AAA-rated asset-backed securitization. \n The post  Imprint Secures $2 Billion In New Debt Funding Capacity  appeared first",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$2 Billion",
+     "round": "Debt",
+     "title": "Imprint Secures $2 Billion In New Debt Funding Capacity",
+     "link": "https://pulse2.com/imprint-secures-2-billion-in-new-debt-funding-capacity/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "gestala": {
+   "name": "Gestala",
+   "country": "China",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Gestala has raised RMB570 million, or approximately $84 million, across two financing rounds during its first six months of operations, as the Chinese life sciences company develops an ultrasound-based brain-computer interface platform. \n The post  Gestala Raises $84 Million Acro",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$84 Million",
+     "round": "",
+     "title": "Gestala Raises $84 Million Across Two Financing Rounds To Develop Ultrasound-Based Brain-Computer Interface",
+     "link": "https://pulse2.com/gestala-raises-84-million-across-two-financing-rounds-to-develop-ultrasound-based-brain-computer-interface/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "atira": {
+   "name": "Atira",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Munich-based AIcompany Atira has raised $15 million in seed funding to expand its platform forautomating industrial sales engineering. The round was led by Accel, withparticipation from UVC, Fortino, ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$17.5 Million",
+     "round": "Seed",
+     "title": "Atira Raises $17.5 Million To Build AI Orchestration Platform For Industrial Sales Engineering",
+     "link": "https://pulse2.com/atira-raises-17-5-million-to-build-ai-orchestration-platform-for-industrial-sales-engineering/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-09-03",
+     "amount": "$17.5M",
+     "round": "Seed",
+     "title": "Atira raises $17.5M to bring AI orchestration to industrial sales",
+     "link": "https://tech.eu/2026/09/03/atira-raises-175m-to-bring-ai-orchestration-to-industrial-sales/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "mantel": {
+   "name": "Mantel",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Mantel has raised $18 million in strategic funding from Constellation Technology Ventures, Azimut Investments and existing investors, bringing total funding for the carbon capture company to $50 million. \n The post  Mantel Raises $18 Million From Constellation Technology Ventures",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$18 Million",
+     "round": "",
+     "title": "Mantel Raises $18 Million From Constellation Technology Ventures, Azimut And Existing Investors",
+     "link": "https://pulse2.com/mantel-raises-18-million-from-constellation-technology-ventures-azimut-and-existing-investors/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "celera-semiconductor": {
+   "name": "Celera Semiconductor",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Celera Semiconductor has closed $30 million in Series B financing fully funded by Maverick Silicon, the company's largest investor. \n The post  Celera Semiconductor Raises $30 Million Series B From Maverick Silicon  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$30 Million",
+     "round": "Series B",
+     "title": "Celera Semiconductor Raises $30 Million Series B From Maverick Silicon",
+     "link": "https://pulse2.com/celera-semiconductor-raises-30-million-series-b-from-maverick-silicon/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "mara": {
+   "name": "Mara",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Mara has raised $7 million in funding led by Khosla Ventures to move its Spike counter-UAS platform from field testing toward broader deployment. The round also included a16z Speedrun, Night Capital, Palmdrive, Protagonist, Freedom Fund, Indicator Fund, and angel investors. \n The",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$7 Million",
+     "round": "Angel",
+     "title": "Mara Raises $7 Million Led By Khosla Ventures To Scale Autonomous Counter-Drone System",
+     "link": "https://pulse2.com/mara-raises-7-million-led-by-khosla-ventures-to-scale-autonomous-counter-drone-system/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "uk-medtech-strolll": {
+   "name": "UK MedTech Strolll",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Strolll, a Stafford-based software-as-a-medical-device (SaMD) company using Augmented Reality for neurorehabilitation, has secured a new round of investment led by IW Capital, with participation from Cleveland Clinic and Future Planet Capital Regional.  Additionally, Innovate UK ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "€5 million",
+     "round": "Growth",
+     "title": "UK MedTech Strolll secures €5 million in Innovate UK funding and additional IW Capital-led investment",
+     "link": "https://www.eu-startups.com/2026/09/uk-medtech-strolll-secures-e5-million-in-innovate-uk-funding-and-additional-iw-capital-led-investment/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "yc-backed-zeit-ai": {
+   "name": "YC-backed Zeit AI",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Zeit AI, a Munich-based startup building the autonomous data engineer for Europe, today announced that it has closed a €4.3 million ($5 million) funding round.  Investors in this round include Y Combinator, the University of Oxford’s Seed Fund, the Sequoia Capital Scout Fund, ACE",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "€4.3 million",
+     "round": "Seed",
+     "title": "YC-backed Zeit AI raises €4.3 million to build Europe’s “autonomous data engineer”",
+     "link": "https://www.eu-startups.com/2026/09/yc-backed-zeit-ai-raises-e5-million-to-build-europes-autonomous-data-engineer/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "cyprus-founded-piney": {
+   "name": "Cyprus-founded Piney",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Piney, a Cyprus-founded cleaning and operations provider for short- and mid-term rental property managers, has raised €1.6 million. The funding round was led by Uni.fund, which had also led the company’s €1.2 million funding round in December 2024. This funding round also saw par",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "€1.6 million",
+     "round": "",
+     "title": "Cyprus-founded Piney raises €1.6 million to take its rental operations platform beyond Europe",
+     "link": "https://www.eu-startups.com/2026/09/cyprus-founded-piney-raises-e1-6-million-to-take-its-rental-operations-platform-beyond-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "fresh-from-14-6-million-seed-round-ecomid-acquires-nilum-t": {
+   "name": "Fresh from €14.6 million Seed round, eComID acquires Nilum t",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "eComID, a Stockholm-based startup that claims to be building the “shopping passport for the future of commerce”, has acquired Nilum, another Stockholm-based startup specialising in AI-native second-hand shopping, as it pushes into the recommerce space.  The acquisition follows eC",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "€14.6 million",
+     "round": "Seed",
+     "title": "Fresh from €14.6 million Seed round, eComID acquires Nilum to push into recommerce",
+     "link": "https://www.eu-startups.com/2026/09/fresh-from-e14-6-million-seed-round-ecomid-acquires-nilum-to-push-into-recommerce/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "belgian-food-quality-ai-startup-backbone": {
+   "name": "Belgian food quality AI startup Backbone",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Backbone, a Brussels-based AI OS for quality and compliance in the food industry, has raised €4 million in a pre-Seed round. to expand its marketing activities and invest further in product development. The round was led by Pitchdrive, with participation from PROfounders Capital ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "€4 million",
+     "round": "Pre-Seed",
+     "title": "Belgian food quality AI startup Backbone raises €4 million pre-Seed round",
+     "link": "https://www.eu-startups.com/2026/09/belgian-food-quality-ai-startup-backbone-raises-e4-million-pre-seed-round/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "the-netherlands-top-funded-tech-companies-in-h1-2026": {
+   "name": "The Netherlands' top-funded tech companies in H1 2026",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Dutch tech companies raised approximately €1.9 billion in H1 2026, with funding concentrated among the largest deals. The three largestrounds alone accounted for approximately 44 per cent of the total...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "€1.9 billion",
+     "round": "",
+     "title": "The Netherlands' top-funded tech companies in H1 2026",
+     "link": "https://tech.eu/2026/09/03/the-netherlands-top-funded-tech-companies-in-h1-2026/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "zeit-ai": {
+   "name": "Zeit AI",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Zeit AI, a  startup developingautonomous data engineering technology, has raised €5 million in funding toexpand its platform for mid-sized European companies. Investors in the roundinclude Y Combinato...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "€5M",
+     "round": "",
+     "title": "Zeit AI raises €5M to give Europe’s mid-market its own data engineer",
+     "link": "https://tech.eu/2026/09/03/zeit-ai-raises-eur5m-to-give-europes-mid-market-its-own-data-engineer/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "rightcharge": {
+   "name": "Rightcharge",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "UK EVcharging payments startup Rightcharge has raised £500,000 in growth funding toexpand across Europe and further develop its platform for managing fleetcharging payments. The round was led by exist...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "£500K",
+     "round": "Growth",
+     "title": "Rightcharge raises £500K to scale fleet EV charging payments across Europe",
+     "link": "https://tech.eu/2026/09/03/rightcharge-raises-ps500k-to-scale-fleet-ev-charging-payments-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "souk": {
+   "name": "Souk",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK-based B2B software startup Souk has raised $1.6 millionin pre-seed funding to develop its AI-powered partner management platform. Theround was led by Sure Valley Ventures (SVV), with participation ...",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$1.6M",
+     "round": "Pre-Seed",
+     "title": "Souk lands $1.6M to turn inactive B2B partners into revenue",
+     "link": "https://tech.eu/2026/09/03/souk-lands-16m-to-turn-inactive-b2b-partners-into-revenue/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "backbone": {
+   "name": "Backbone",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Food industry software startup Backbone hasraised €4 million in pre-seed funding to further develop its AI-powered qualityand compliance platform and support its commercial expansion. The round was le...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "€4M",
+     "round": "Pre-Seed",
+     "title": "Backbone raises €4M for automated food quality and compliance",
+     "link": "https://tech.eu/2026/09/03/backbone-raises-eur4m-for-automated-food-quality-and-compliance/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "slice-eyes-100-mn-funding-at-60-valuation-cut-as-bank-valu": {
+   "name": "slice Eyes $100 Mn Funding At 60% Valuation Cut As Bank Valu",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fintech unicorn turned small finance bank (SFB) slice is set to raise around $100 Mn in fresh funding at a…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$100 Mn",
+     "round": "",
+     "title": "slice Eyes $100 Mn Funding At 60% Valuation Cut As Bank Valuation Takes Shape",
+     "link": "https://inc42.com/buzz/slice-eyes-100-mn-funding-at-60-valuation-cut-as-bank-valuation-takes-shape/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "cradlewise": {
+   "name": "Cradlewise",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "D2C smart crib brand Cradlewise has raised $12 Mn (about ₹xx Cr) in a Series A funding round led by…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$12 Mn",
+     "round": "Series A",
+     "title": "D2C Smart Crib Brand Cradlewise Raises $12 Mn To Expand Product Portfolio",
+     "link": "https://inc42.com/buzz/d2c-smart-crib-brand-cradlewise-raises-12-mn-to-expand-product-portfolio/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "norbot": {
+   "name": "NorBot",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vancouver startup aims to help Canadian businesses “robotize.” \n The post  NorBot closes $1 million to establish a commercial robotics integrator  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$1 million",
+     "round": "",
+     "title": "NorBot closes $1 million to establish a commercial robotics integrator",
+     "link": "https://betakit.com/norbot-closes-1-million-to-establish-a-commercial-robotics-integrator/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "launch-alum": {
+   "name": "Launch alum",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "BDC, BKR, Launch back former Jason Calacanis associate’s consumer healthtech vision. \n The post  Launch alum closes $1.6 million to support healthier living with The Wellness Company  first appeared on  BetaKit .",
+   "audience": "Consumers",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$1.6 million",
+     "round": "",
+     "title": "Launch alum closes $1.6 million to support healthier living with The Wellness Company",
+     "link": "https://betakit.com/launch-alum-closes-1-6-million-to-support-healthier-living-with-the-wellness-company/",
+     "source": "BetaKit"
     }
    ]
   }
