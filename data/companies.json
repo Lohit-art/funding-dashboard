@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T16:56:06+00:00",
+ "updated": "2026-09-04T16:43:34+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -33658,10 +33658,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "Wonderful, the Netherlands-based startup that provides AI services to help companies boost productivity, has raised around $550 million at a $5 billion valuation, it said today.The Series C funding ro...",
-   "audience": "General / mixed",
+   "summary": "This week, we tracked more than 50 tech funding deals worth over €4.6 billion and over 10 exits, M&A transactions, rumours, and related news stories across Europe.If email is more your thing, you ...",
+   "audience": "Government & public sector",
    "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-04",
    "events": [
     {
      "date": "2026-09-02",
@@ -33669,6 +33669,14 @@
      "round": "Series C",
      "title": "Netherlands-based AI startup Wonderful raises $550M at $5BN valuation",
      "link": "https://tech.eu/2026/09/02/netherlands-based-ai-startup-wonderful-raises-550m-at-5bn-valuation/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-04",
+     "amount": "$550M",
+     "round": "",
+     "title": "Wonderful raises $550M, Mykhailo Fedorov's new defencetech investment fund, and Londoners can now hail AVs (with safety drivers)",
+     "link": "https://tech.eu/2026/09/04/wonderful-raises-550m-mykhailo-fedorov-s-new-defencetech-investment-fund-and-londoners-can-now-hail-avs-with-safety-drivers/",
      "source": "Tech.eu"
     }
    ]
@@ -34494,6 +34502,390 @@
      "title": "Launch alum closes $1.6 million to support healthier living with The Wellness Company",
      "link": "https://betakit.com/launch-alum-closes-1-6-million-to-support-healthier-living-with-the-wellness-company/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "crusoe-reportedly": {
+   "name": "Crusoe reportedly",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "$3B",
+     "round": "",
+     "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+     "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "enhance": {
+   "name": "Enhance",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Enhance has raised $18.2 million in equity and venture debt financing to accelerate its expansion across the United States. The financing includes equity backing from Global Ventures and venture debt from Stride Ventures, supporting the fitness technology company's next phase of ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "$18.2 Million",
+     "round": "Debt",
+     "title": "Enhance Raises $18.2 Million In Equity And Venture Debt To Accelerate U.S. Expansion",
+     "link": "https://pulse2.com/enhance-raises-18-2-million-in-equity-and-venture-debt-to-accelerate-u-s-expansion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ipronics": {
+   "name": "iPronics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "iPronics has raised $125 million in Series B funding to scale its programmable optical networking technology for AI data centers. The round was co-led by Maverick Silicon and Light Street Capital, with NVIDIA also participating. Other investors included Triatomic Capital, Bosch V",
+   "audience": "Consumers",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "$125 Million",
+     "round": "Series B",
+     "title": "iPronics Raises $125 Million Led By Maverick Silicon And Light Street Capital",
+     "link": "https://pulse2.com/ipronics-raises-125-million-led-by-maverick-silicon-and-light-street-capital/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "radisson-mining": {
+   "name": "Radisson Mining",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Radisson Mining Resources has closed a C$57.16 million strategic private placement with Agnico Eagle Mines, providing significant new capital to advance the company's 100%-owned O’Brien Gold Project in Québec. \n The post  Radisson Mining Closes C$57.2 Million Strategic Investment",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "C$57.2 Million",
+     "round": "",
+     "title": "Radisson Mining Closes C$57.2 Million Strategic Investment From Agnico Eagle",
+     "link": "https://pulse2.com/radisson-mining-closes-c57-2-million-strategic-investment-from-agnico-eagle/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "spire": {
+   "name": "Spire",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Spire has entered into a $400 million delayed-draw senior unsecured term loan facility with a syndicate of banks led by Mizuho Bank and U.S. Bank. \n The post  Spire Secures $400 Million Term Loan Facility Led By Mizuho And U.S. Bank  appeared first on  Pulse 2.0 .",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "$400 Million",
+     "round": "",
+     "title": "Spire Secures $400 Million Term Loan Facility Led By Mizuho And U.S. Bank",
+     "link": "https://pulse2.com/spire-secures-400-million-term-loan-facility-led-by-mizuho-and-u-s-bank/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "creoir": {
+   "name": "Creoir",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Creoir, an Oulu-based DefenceTech company developing voice AI for defence and mission-critical systems, has raised a Seed investment from Gungnir Capital. The Swedish VC fund is leading Creoir’s ongoing Seed round that has a €2 million target. The company plans to use this capita",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "€2 million",
+     "round": "Seed",
+     "title": "Oulu-based Creoir secures Seed funding to scale voice AI for defence and mission-critical systems",
+     "link": "https://www.eu-startups.com/2026/09/oulu-based-creoir-secures-seed-funding-to-scale-voice-ai-for-defence-and-mission-critical-systems/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "belgium-s-wad-capital-reaches-67-5-million-first": {
+   "name": "Belgium’s WAD Capital reaches €67.5 million first",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Belgian investment firm WAD Capital has completed the first closing of its fund at €67.5 million with a €25 million investment from the European Investment Fund (EIF), making the EU’s development bank the largest backer of its debut fund. The Ghent-based firm, which buys small an",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "€67.5 million",
+     "round": "",
+     "title": "Belgium’s WAD Capital reaches €67.5 million first close for debut fund following €25 million EIF investment",
+     "link": "https://www.eu-startups.com/2026/09/belgiums-wad-capital-reaches-e67-5-million-first-close-for-debut-fund-following-e25-million-eif-investment/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-ai": {
+   "name": "London’s AI",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK-based AI Score, a startup easing the adoption and management of gen- and agentic-AI, has raised €4.6 million ($5.4 million) in Seed funding to accelerate product development, expand its operations, and continue building its platform for companies looking to safely introduce ag",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "€4.6 million",
+     "round": "Seed",
+     "title": "London’s AI Score raises €4.6 million to help businesses keep AI agents under control",
+     "link": "https://www.eu-startups.com/2026/09/londons-ai-score-raises-e4-6-million-to-help-businesses-keep-ai-agents-under-control/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "spain-s-ipronics": {
+   "name": "Spain’s iPronics",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "iPronics, a Valencia-based company specialising in silicon photonics-based optical circuit switching for AI infrastructure, has raised €107.57 million ($125 million) in Series B funding, bringing the company’s total funding to €152.3 million ($177 million). The round was co-led b",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "€107.6 million",
+     "round": "Series B",
+     "title": "Spain’s iPronics raises €107.6 million with NVIDIA backing to scale optical networking for AI data centres",
+     "link": "https://www.eu-startups.com/2026/09/spains-ipronics-raises-e107-6-million-with-nvidia-backing-to-scale-optical-networking-for-ai-data-centres/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "profitable-belgian-cleantech-octave-energy": {
+   "name": "Profitable Belgian CleanTech Octave.energy",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Octave.energy, a Mechelen-based CleanTech startup, has raised €10 million in Series A funding to accelerate its expansion across Europe and further develop its Battery Energy Storage System (BESS) and Energy Management System (EMS) solutions. The round comprises equity and flexib",
+   "audience": "Consumers",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "€10 million",
+     "round": "Series A",
+     "title": "Profitable Belgian CleanTech Octave.energy raises €10 million to scale BESS and EMS solutions across Europe",
+     "link": "https://www.eu-startups.com/2026/09/profitable-belgian-cleantech-octave-energy-raises-e10-million-to-scale-bess-and-ems-solutions-across-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ai": {
+   "name": "AI",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "London-based AI governancecompany AI Score has raised $5.4 million in seed funding to further develop itsplatform for managing the use of generative and agentic AI acrossorganisations. The round was l...",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "$5.4M",
+     "round": "Seed",
+     "title": "UK startup AI Score raises $5.4M to scale its enterprise AI governance platform",
+     "link": "https://tech.eu/2026/09/04/uk-startup-ai-score-raises-54m-to-scale-its-enterprise-ai-governance-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "stellar-alpina": {
+   "name": "Stellar Alpina",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Zurich-basedspace technology startup Stellar Alpina has secured €160,000 (CHF 150,000) fromVenture Kick to advance its compact rocket engine technology for in-spacepropulsion.Founded by Rick Röthlisbe...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "€160K",
+     "round": "",
+     "title": "Stellar Alpina secures €160K from Venture Kick for in-space propulsion",
+     "link": "https://tech.eu/2026/09/04/stellar-alpina-secures-eur160k-from-venture-kick-for-in-space-propulsion/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "comet": {
+   "name": "Comet",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "D2C sneaker brand Comet has raised ₹100 Cr ($10.6 Mn) in a Series B funding round led by global investment…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "₹100",
+     "round": "Series B",
+     "title": "D2C Sneaker Brand Comet Raises ₹100 Cr To Expand Offline Presence",
+     "link": "https://inc42.com/buzz/d2c-sneaker-brand-comet-raises-%e2%82%b9100-cr-to-expand-offline-presence/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "medulance": {
+   "name": "Medulance",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Healthtech startup Medulance has raised ₹24 Cr ($2.5 Mn) in its Series A 2 funding round from Auxano Capital, existing…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "₹24",
+     "round": "Series A",
+     "title": "Medulance Raises ₹24 Cr To Expand Emergency Response Network",
+     "link": "https://inc42.com/buzz/medulance-raises-%e2%82%b924-cr-to-expand-emergency-response-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "leanwatts": {
+   "name": "Leanwatts",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Clean tech startup Leanwatts, which manufactures EV chargers, has raised $2 Mn (around ₹18 Cr) in its seed funding round…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$2 Mn",
+     "round": "Seed",
+     "title": "Leanwatts Bags $2 Mn To Build Portable EV Chargers In India",
+     "link": "https://inc42.com/buzz/leanwatts-bags-2-mn-to-build-portable-ev-chargers-in-india/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ultrahuman": {
+   "name": "Ultrahuman",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "With an eye on expanding its health intelligence platform, smart ring maker Ultrahuman has raised $70 Mn (nearly ₹662 Cr)…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-03",
+   "events": [
+    {
+     "date": "2026-09-03",
+     "amount": "$70 Mn",
+     "round": "",
+     "title": "Ultrahuman Bags $70 Mn To Build An Integrated Healthtech Platform",
+     "link": "https://inc42.com/buzz/ultrahuman-bags-70-mn-to-build-an-integrated-healthtech-platform/",
+     "source": "Inc42"
     }
    ]
   }
