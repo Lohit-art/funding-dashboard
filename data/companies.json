@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T16:43:34+00:00",
+ "updated": "2026-09-05T15:46:40+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -33714,10 +33714,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Consumerresearch technology company Conveo has raised $50 million in Series A fundingto expand in the US and develop its platform into a broader consumerintelligence infrastructure for enterprises. Th...",
+   "summary": "Conveo has raised $50 million in Series A funding from DST Global Partners, Balderton Capital, Visionaries, 6 Degrees Capital and Y Combinator, bringing its total funding to $55.8 million. \n The post  Conveo Raises $50 Million Series A To Expand AI Consumer Intelligence Platform ",
    "audience": "Enterprises",
    "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-05",
    "events": [
     {
      "date": "2026-09-02",
@@ -33726,6 +33726,14 @@
      "title": "Conveo raises $50M to scale its AI-powered consumer intelligence platform",
      "link": "https://tech.eu/2026/09/02/conveo-raises-50m-to-scale-its-ai-powered-consumer-intelligence-platform/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-05",
+     "amount": "$50 Million",
+     "round": "Series A",
+     "title": "Conveo Raises $50 Million Series A To Expand AI Consumer Intelligence Platform",
+     "link": "https://pulse2.com/conveo-raises-50-million-series-a-to-expand-ai-consumer-intelligence-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -34886,6 +34894,222 @@
      "title": "Ultrahuman Bags $70 Mn To Build An Integrated Healthtech Platform",
      "link": "https://inc42.com/buzz/ultrahuman-bags-70-mn-to-build-an-integrated-healthtech-platform/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "blue-owl-technology-finance": {
+   "name": "Blue Owl Technology Finance",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Blue Owl Technology Finance Corp. has closed a $150 million private placement of 7.60% senior unsecured notes due September 3, 2032, marking its third financing since June 30. \n The post  Blue Owl Technology Finance Closes $150 Million Private Placement Of 7.60% Senior Unsecured ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-05",
+   "last_seen": "2026-09-05",
+   "events": [
+    {
+     "date": "2026-09-05",
+     "amount": "$150 Million",
+     "round": "",
+     "title": "Blue Owl Technology Finance Closes $150 Million Private Placement Of 7.60% Senior Unsecured Notes",
+     "link": "https://pulse2.com/blue-owl-technology-finance-closes-150-million-private-placement-of-7-60-senior-unsecured-notes/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aitan": {
+   "name": "Aitan",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Aitan has raised $41 million in new financing co-led by Deep33 and Dell Technologies Capital, bringing the defense technology company's total capital raised to $54 million as it emerges from stealth. \n The post  Aitan Raises $41 Million In Funding Co-Led By Deep33 And Dell Techno",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-05",
+   "last_seen": "2026-09-05",
+   "events": [
+    {
+     "date": "2026-09-05",
+     "amount": "$41 Million",
+     "round": "",
+     "title": "Aitan Raises $41 Million In Funding Co-Led By Deep33 And Dell Technologies Capital",
+     "link": "https://pulse2.com/aitan-raises-41-million-in-funding-co-led-by-deep33-and-dell-technologies-capital/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "superluminal-medicines": {
+   "name": "Superluminal Medicines",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Superluminal Medicines has raised an oversubscribed $60 million Series B financing led by BVF Partners to advance its lead obesity program into clinical development and expand its AI-enabled drug discovery platform. New investors Deep Track Capital and Perceptive Advisors partici",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-05",
+   "last_seen": "2026-09-05",
+   "events": [
+    {
+     "date": "2026-09-05",
+     "amount": "$60 Million",
+     "round": "Series B",
+     "title": "Superluminal Medicines Raises $60 Million Series B Led By BVF Partners",
+     "link": "https://pulse2.com/superluminal-medicines-raises-60-million-series-b-led-by-bvf-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "patientiq": {
+   "name": "PatientIQ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "PatientIQ has raised $30 million in Series C funding led by Hughes & Company to expand its patient-reported outcomes intelligence platform across additional healthcare specialties, medical device companies and life sciences organizations. \n The post  PatientIQ Raises $30 Million ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-05",
+   "last_seen": "2026-09-05",
+   "events": [
+    {
+     "date": "2026-09-05",
+     "amount": "$30 Million",
+     "round": "Series C",
+     "title": "PatientIQ Raises $30 Million Series C Led By Hughes & Company",
+     "link": "https://pulse2.com/patientiq-raises-30-million-series-c-led-by-hughes-company/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "hibob": {
+   "name": "HiBob",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "HiBob has secured a $166 million investment led by Salesforce with additional participation from Farallon, providing new capital as the HR technology company expands from a people-management platform into what it describes as an organizational intelligence layer for AI-powered bu",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-05",
+   "last_seen": "2026-09-05",
+   "events": [
+    {
+     "date": "2026-09-05",
+     "amount": "$166 Million",
+     "round": "",
+     "title": "HiBob Secures $166 Million Investment Led By Salesforce With Farallon",
+     "link": "https://pulse2.com/hibob-secures-166-million-investment-led-by-salesforce-with-farallon/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "hi-rasmus": {
+   "name": "Hi Rasmus",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hi Rasmus has raised $50 million from Updata Partners through a strategic minority investment, providing the behavioral health technology company with its first outside capital after scaling to more than 1,000 organizations. \n The post  Hi Rasmus Raises $50 Million From Updata Pa",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-05",
+   "last_seen": "2026-09-05",
+   "events": [
+    {
+     "date": "2026-09-05",
+     "amount": "$50 Million",
+     "round": "",
+     "title": "Hi Rasmus Raises $50 Million From Updata Partners To Scale Autism Care Technology Platform",
+     "link": "https://pulse2.com/hi-rasmus-raises-50-million-from-updata-partners-to-scale-autism-care-technology-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "airbility": {
+   "name": "Airbility",
+   "country": "South Korea",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Airbility has raised $4.7 million (KRW 6.5 billion) in Series A funding led by Sazze Partners, bringing the South Korean aerospace and defense company's total funding to $7.6 million (KRW 10.5 billion).  \n The post  Airbility Raises $4.7 Million Series A Led By Sazze Partners  ap",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-05",
+   "last_seen": "2026-09-05",
+   "events": [
+    {
+     "date": "2026-09-05",
+     "amount": "$4.7 Million",
+     "round": "Series A",
+     "title": "Airbility Raises $4.7 Million Series A Led By Sazze Partners",
+     "link": "https://pulse2.com/airbility-raises-4-7-million-series-a-led-by-sazze-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sugar-cosmetics": {
+   "name": "SUGAR Cosmetics",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C beauty and personal brand SUGAR Cosmetics has raised ₹144.47 Cr ($15.3 Mn) in a fresh equity round from VC…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "₹145",
+     "round": "",
+     "title": "SUGAR Cosmetics Raises ₹145 Cr From A91 At A Near 80% Valuation Cut",
+     "link": "https://inc42.com/buzz/sugar-cosmetics-raises-%e2%82%b9145-cr-from-a91-at-a-near-80-valuation-cut/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "asi-engineering": {
+   "name": "ASI Engineering",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Funding comes through federal government’s Business Scale-up and Productivity program. \n The post  ASI Engineering lands nearly $1 million to scale AI for asset management  first appeared on  BetaKit .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "events": [
+    {
+     "date": "2026-09-04",
+     "amount": "$1 million",
+     "round": "",
+     "title": "ASI Engineering lands nearly $1 million to scale AI for asset management",
+     "link": "https://betakit.com/asi-engineering-lands-nearly-1-million-to-scale-ai-for-asset-management/",
+     "source": "BetaKit"
     }
    ]
   }
