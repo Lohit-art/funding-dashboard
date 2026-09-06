@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T15:46:40+00:00",
+ "updated": "2026-09-06T15:58:46+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -35110,6 +35110,30 @@
      "title": "ASI Engineering lands nearly $1 million to scale AI for asset management",
      "link": "https://betakit.com/asi-engineering-lands-nearly-1-million-to-scale-ai-for-asset-management/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "mokobara": {
+   "name": "Mokobara",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Travel and lifestyle brand Mokobara has raised ₹170 Cr (about $18 Mn) in a Series C funding round led by…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-09-05",
+   "last_seen": "2026-09-05",
+   "events": [
+    {
+     "date": "2026-09-05",
+     "amount": "₹170",
+     "round": "Series C",
+     "title": "D2C Luggage Brand Mokobara Bags ₹170 Cr",
+     "link": "https://inc42.com/buzz/d2c-luggage-brand-mokobara-bags-%e2%82%b9170-cr/",
+     "source": "Inc42"
     }
    ]
   }
