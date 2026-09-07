@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T15:58:46+00:00",
+ "updated": "2026-09-07T18:06:22+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -35133,6 +35133,350 @@
      "round": "Series C",
      "title": "D2C Luggage Brand Mokobara Bags ₹170 Cr",
      "link": "https://inc42.com/buzz/d2c-luggage-brand-mokobara-bags-%e2%82%b9170-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "erieview-development": {
+   "name": "ErieView Development",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Food & agriculture",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "ErieView Development has closed financing for the $218 million redevelopment of Cleveland's Erieview Tower, advancing plans to transform the 40-story downtown landmark into a mixed-use property featuring Ohio's first W Hotel, rental residences, Class A office space and a major fo",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "$218 Million",
+     "round": "",
+     "title": "ErieView Development Closes $218 Million Financing For W Cleveland Redevelopment",
+     "link": "https://pulse2.com/erieview-development-closes-218-million-financing-for-w-cleveland-redevelopment/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "robbie-williams-backed-tickets-for-good": {
+   "name": "Robbie Williams-backed Tickets for Good",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Tickets for Good, a UK startup that provides key workers with low-cost tickets for live events, has raised a further €4.5 million (£3.9 million) to accelerate its international expansion and create 10 new jobs in Sheffield in the next three years. The funding was secured from NPI",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "€4.5 million",
+     "round": "",
+     "title": "Robbie Williams-backed Tickets for Good raises €4.5 million for international expansion",
+     "link": "https://www.eu-startups.com/2026/09/robbie-williams-backed-tickets-for-good-raises-e4-5-million-for-international-expansion/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "molten-ventures": {
+   "name": "Molten Ventures",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Molten Ventures, a British VC firm with a 20-year track record, today announces the first close of its Growth Fund at €203 million (£175 million) to invest across key technology sectors including Space, AI, FinTech, Quantum, DeepTech and Hardware. The British Business Bank has co",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "€203 million",
+     "round": "Growth",
+     "title": "Molten Ventures raises €203 million to back UK and European growth-stage tech companies",
+     "link": "https://www.eu-startups.com/2026/09/molten-ventures-raises-e203-million-to-back-uk-and-european-growth-stage-tech-companies/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "fluencify": {
+   "name": "Fluencify",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Stockholm-based creator marketing platform Fluencify has raised anoversubscribed $4.3 million pre-seed round led by byFounders, withparticipation from Wave Ventures. As part of the investment, MagnusH...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "€3.7 million",
+     "round": "Pre-Seed",
+     "title": "Stockholm-based Fluencify raises €3.7 million to scale its end-to-end creator marketing platform",
+     "link": "https://www.eu-startups.com/2026/09/stockholm-based-fluencify-raises-e3-7-million-to-scale-its-end-to-end-creator-marketing-platform/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-07",
+     "amount": "$4.3M",
+     "round": "Pre-Seed",
+     "title": "Fluencify secures $4.3M to scale its creator campaign platform",
+     "link": "https://tech.eu/2026/09/07/fluencify-secures-43m-to-scale-its-creator-campaign-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "jaipur-robotics": {
+   "name": "Jaipur Robotics",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Swiss deeptech startup Jaipur Robotics has raised €4.3 Mn (around ₹48 Cr) in a seed funding round co-led by EquityPitcher…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "€4.3 million",
+     "round": "Seed",
+     "title": "Swiss startup Jaipur Robotics raises €4.3 million to expand its AI operating system across more waste-to-energy plants",
+     "link": "https://www.eu-startups.com/2026/09/swiss-startup-jaipur-robotics-raises-e4-3-million-to-expand-its-ai-operating-system-across-more-waste-to-energy-and-industrial-plants/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-07",
+     "amount": "€4.3M",
+     "round": "Seed",
+     "title": "Jaipur Robotics raises €4.3M to bring computer vision to waste plants",
+     "link": "https://tech.eu/2026/09/07/jaipur-robotics-raises-eur43m-to-bring-computer-vision-to-waste-plants/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-07",
+     "amount": "€4.3 Mn",
+     "round": "Seed",
+     "title": "Deeptech Startup Jaipur Robotics Raises €4.3 Mn, Eyes India Expansion",
+     "link": "https://inc42.com/buzz/deeptech-startup-jaipur-robotics-raises-e4-3-mn-eyes-india-expansion/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "cato": {
+   "name": "Cato",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "ItalianAI company Cato has raised €6 million in seed funding to expand its platformfor helping businesses find, analyse and compete for public tenders. The roundwas led by Keen Venture Partners, with ...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "€6 million",
+     "round": "Seed",
+     "title": "Milan-based Cato raises €6 million to help companies find and win public tenders with AI",
+     "link": "https://www.eu-startups.com/2026/09/milan-based-cato-raises-e6-million-to-help-companies-find-and-win-public-tenders-with-ai/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-07",
+     "amount": "€6M",
+     "round": "Seed",
+     "title": "Cato raises €6M to expand its AI platform for public sector sales",
+     "link": "https://tech.eu/2026/09/07/cato-raises-eur6m-to-expand-its-ai-platform-for-public-sector-sales/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "london-s-claret-capital-partners": {
+   "name": "London’s Claret Capital Partners",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Claret Capital Partners, a London-based independent growth debt fund manager, today announced the final close of its Claret European Growth Capital Fund IV (Fund IV), which has now raised €575 million in total, surpassing Claret’s original €500 million target.  The €575 million t",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "€575 million",
+     "round": "Growth",
+     "title": "London’s Claret Capital Partners closes Fund IV at €575 million to back European tech, life sciences and impact companies",
+     "link": "https://www.eu-startups.com/2026/09/londons-claret-capital-partners-closes-fund-iv-at-e575-million-to-back-european-tech-life-sciences-and-impact-companies/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "robbie-williams-backed-ticketing-platform-tickets-for-good": {
+   "name": "Robbie Williams-backed ticketing platform Tickets for Good",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "UK ticketing platformTickets for Good has raised £3.9 million in funding to support itsinternational expansion and grow its team. The investment came from NPIF II –Mercia Equity Finance, managed by Me...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "£3.9M",
+     "round": "",
+     "title": "Robbie Williams-backed ticketing platform Tickets for Good raises £3.9M",
+     "link": "https://tech.eu/2026/09/07/tickets-for-good-raises-ps39m-to-expand-low-cost-access-to-live-events-globally/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "revolut-backer-molten-ventures-hits-175m-first": {
+   "name": "Revolut backer Molten Ventures hits £175M first",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Thebacker of Revolut, which is reportedly vying to manage a £1bngovernment-backed fund focused on backing the UK’s most promising startups, hasannounced the £175m first close of a fund aimed at pluggi...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "£175M",
+     "round": "Growth",
+     "title": "Revolut backer Molten Ventures hits £175M first close of growth fund",
+     "link": "https://tech.eu/2026/09/07/revolut-backer-molten-ventures-hits-ps175m-first-close-of-growth-fund/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "navana-ai": {
+   "name": "Navana.ai",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Voice AI startup Navana.ai has raised ₹40 Cr ($4.2 Mn) in a Series A funding round led by existing investor…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "₹40",
+     "round": "Series A",
+     "title": "Navana.ai Raises ₹40 Cr To Scale Voice AI Platform",
+     "link": "https://inc42.com/buzz/navana-ai-raises-%e2%82%b940-cr-to-scale-voice-ai-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "lickicious": {
+   "name": "Lickicious",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "D2C pet food startup Lickicious has raised ₹19 Cr (about $2.1 Mn) through a mix of equity and institutional debt…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "₹19",
+     "round": "Debt",
+     "title": "D2C Pet Food Startup Lickicious Raises ₹19 Cr To Expand Operations",
+     "link": "https://inc42.com/buzz/d2c-pet-food-startup-lickicious-raises-%e2%82%b919-cr-to-expand-operations/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "nua": {
+   "name": "Nua",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Omnichannel femtech startup Nua has raised $50 Mn (around ₹472 Cr) in its Series C funding round led by Peak…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "$50 Mn",
+     "round": "Series C",
+     "title": "Nua Raises $50 Mn To Expand Women’s Wellness Portfolio, Distribution",
+     "link": "https://inc42.com/buzz/nua-raises-50-mn-to-expand-womens-wellness-portfolio-distribution/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "pixxel": {
+   "name": "Pixxel",
+   "country": "Singapore",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Google-backed spacetech startup Pixxel has raised $100 Mn (about ₹945 Cr) in its Series C funding round co-led by Singapore’s…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "$100 Mn",
+     "round": "Series C",
+     "title": "Pixxel Bags $100 Mn To Ramp Up Satellite Manufacturing, Imaging",
+     "link": "https://inc42.com/buzz/pixxel-bags-100-mn-to-ramp-up-satellite-manufacturing-imaging/",
      "source": "Inc42"
     }
    ]
