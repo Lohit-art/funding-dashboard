@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T18:06:22+00:00",
+ "updated": "2026-09-08T17:04:21+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -18090,10 +18090,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "new",
-   "summary": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson & Co.",
+   "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
    "audience": "General / mixed",
    "first_seen": "2026-07-21",
-   "last_seen": "2026-07-21",
+   "last_seen": "2026-09-08",
    "events": [
     {
      "date": "2026-07-21",
@@ -18101,6 +18101,14 @@
      "round": "Pre-Seed",
      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
      "link": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
+     "source": "TechCrunch Venture"
+    },
+    {
+     "date": "2026-09-08",
+     "amount": "$50M",
+     "round": "Seed",
+     "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+     "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
      "source": "TechCrunch Venture"
     }
    ]
@@ -35466,7 +35474,7 @@
    "is_ai": false,
    "research_based": false,
    "stage": "established",
-   "summary": "Google-backed spacetech startup Pixxel has raised $100 Mn (about ₹945 Cr) in its Series C funding round co-led by Singapore’s…",
+   "summary": "Pixxel has raised $100 million in Series C funding co-led by Temasek and Seraphim, giving the space technology company additional capital to expand beyond hyperspectral imaging into a broader planetary infrastructure platform spanning advanced sensing satellites, Earth intelligen",
    "audience": "General / mixed",
    "first_seen": "2026-09-07",
    "last_seen": "2026-09-07",
@@ -35477,6 +35485,518 @@
      "round": "Series C",
      "title": "Pixxel Bags $100 Mn To Ramp Up Satellite Manufacturing, Imaging",
      "link": "https://inc42.com/buzz/pixxel-bags-100-mn-to-ramp-up-satellite-manufacturing-imaging/",
+     "source": "Inc42"
+    },
+    {
+     "date": "2026-09-07",
+     "amount": "$100 Million",
+     "round": "Series C",
+     "title": "Pixxel Raises $100 Million Series C Led By Temasek And Seraphim",
+     "link": "https://pulse2.com/pixxel-raises-100-million-series-c-led-by-temasek-and-seraphim/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "brainchild-bio": {
+   "name": "BrainChild Bio",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "BrainChild Bio has raised $116 million in Series A funding to advance its CAR T cell therapies for central nervous system tumors, including a pivotal Phase 2 clinical trial of its lead candidate BCB-276 in diffuse intrinsic pontine glioma. The financing was led by an undisclosed ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "$116 Million",
+     "round": "Series A",
+     "title": "BrainChild Bio Raises $116 Million Series A And Launches Pivotal Phase 2 CAR T Cell Trial For Pediatric Brain Cancer",
+     "link": "https://pulse2.com/brainchild-bio-raises-116-million-series-a-and-launches-pivotal-phase-2-car-t-cell-trial-for-pediatric-brain-cancer/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "d-wave-quantum": {
+   "name": "D-Wave Quantum",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "D-Wave Quantum has finalized a definitive agreement with the U.S. Department of Commerce providing access to up to $100 million in CHIPS and Science Act funding to accelerate development of its annealing and gate-model quantum computing technologies. \n The post  D-Wave Quantum Se",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "$100 Million",
+     "round": "",
+     "title": "D-Wave Quantum Secures Up To $100 Million In CHIPS And Science Act Funding",
+     "link": "https://pulse2.com/d-wave-quantum-secures-up-to-100-million-in-chips-and-science-act-funding/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "capital-b": {
+   "name": "Capital B",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Capital B has completed approximately €30.1 million of capital raises and acquired an additional 376 BTC for €25.3 million, increasing its Bitcoin Treasury holdings to 3,521 BTC. \n The post  Capital B Raises €30.1 Million And Acquires 376 Bitcoin, Bringing Holdings To 3,521 BTC  ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€30.1 Million",
+     "round": "",
+     "title": "Capital B Raises €30.1 Million And Acquires 376 Bitcoin, Bringing Holdings To 3,521 BTC",
+     "link": "https://pulse2.com/capital-b-raises-e30-1-million-and-acquires-376-bitcoin-bringing-holdings-to-3521-btc/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "precore-gold": {
+   "name": "Precore Gold",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Precore Gold has closed an oversubscribed C$6 million non-brokered private placement, providing additional capital for exploration programs and general working capital. \n The post  Precore Gold Raises C$6 Million In Oversubscribed Private Placement  appeared first on  Pulse 2.0 .",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "C$6 Million",
+     "round": "",
+     "title": "Precore Gold Raises C$6 Million In Oversubscribed Private Placement",
+     "link": "https://pulse2.com/precore-gold-raises-c6-million-in-oversubscribed-private-placement/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "haystack-robotics": {
+   "name": "Haystack Robotics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Haystack Robotics has raised $3.95 million in Series A funding, with the round led by Agadia, to support the expansion of its autonomous UV-C disinfection robotics platform. The Portland, Oregon-based company plans to use the new capital to support global expansion and further de",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "events": [
+    {
+     "date": "2026-09-07",
+     "amount": "$3.95 Million",
+     "round": "Series A",
+     "title": "Haystack Robotics Raises $3.95 Million Series A Led By Agadia",
+     "link": "https://pulse2.com/haystack-robotics-raises-3-95-million-series-a-led-by-agadia/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "the-exploration-company": {
+   "name": "The Exploration Company",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "European space company The Exploration Company (TEC) has raised $450 million in Series C funding toadvance its reusable space transportation systems and expand its operations.The round was co-led by B...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€387 million",
+     "round": "Series C",
+     "title": "The Exploration Company secures €387 million to accelerate development of reusable high-thrust rocket engine",
+     "link": "https://www.eu-startups.com/2026/09/the-exploration-company-secures-e387-million-to-accelerate-development-of-reusable-high-thrust-rocket-engine/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-08",
+     "amount": "$450M",
+     "round": "Series C",
+     "title": "The Exploration Company raises $450M Series C to scale reusable space transport",
+     "link": "https://tech.eu/2026/09/08/the-exploration-company-raises-450m-series-c-to-scale-reusable-space-transport/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "tellia": {
+   "name": "Tellia",
+   "country": "France",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Tellia, the Paris-based voice AI assistant for agriculture founded in 2024, has raised a €4.3 million ($5 million) pre-Seed to scale technology that lets farmers, agronomists and field teams capture and use their data simply by speaking. The pre-Seed round was led by Revent, with",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€4.3 million",
+     "round": "Pre-Seed",
+     "title": "French AgTech startup Tellia raises €4.3 million to scale voice-enabled data capture",
+     "link": "https://www.eu-startups.com/2026/09/french-agtech-startup-tellia-raises-e4-3-million-to-scale-voice-enabled-data-capture/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "italian-vc-techshop-launches-second-fund-with-43-million-fi": {
+   "name": "Italian VC Techshop launches second fund with €43 million fi",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Milan-based VC firm Techshop announces the first closing of Techshop II at €43 million dedicated to pre-Seed and Seed startups developing AI B2B solutions – this edition exceeded its initial fundraising target and is now aiming to to raise €100 million in 2027. CDP Venture Capita",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€43 million",
+     "round": "Pre-Seed",
+     "title": "Italian VC Techshop launches second fund with €43 million first close",
+     "link": "https://www.eu-startups.com/2026/09/italian-vc-techshop-launches-second-fund-with-e43-million-first-close/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "portugal-s-hope-care": {
+   "name": "Portugal’s Hope Care",
+   "country": "Portugal",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Hope Care, a Portuguese digital health company specialising in regulated remote patient monitoring technology, has closed a €6 million Series A funding round. The round was led by Iberis Capital, with participation from Vieira de Matos – VDM Capital, S.A. and existing shareholder",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€6 million",
+     "round": "Series A",
+     "title": "Portugal’s Hope Care closes €6 million Series A to expand remote patient monitoring across Europe",
+     "link": "https://www.eu-startups.com/2026/09/portugals-hope-care-closes-e6-million-series-a-to-expand-remote-patient-monitoring-across-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "mistral": {
+   "name": "Mistral",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "French AI company Mistral  raised €3 billion in Series Dfunding at a post-money valuation of more than €21 billion, three years afterits launch. Samsung Electronics led the round, with the Scaleup Eur...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€3 billion",
+     "round": "Series D",
+     "title": "Mistral raises €3 billion Series D led by Samsung at over €21 billion valuation",
+     "link": "https://www.eu-startups.com/2026/09/french-ai-company-mistral-raises-e3-billion-series-d-led-by-samsung-at-over-e21-billion-valuation/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-08",
+     "amount": "€3B",
+     "round": "Series D",
+     "title": "Mistral secures €3B Series D to push sovereign AI into its next phase",
+     "link": "https://tech.eu/2026/09/08/mistral-secures-eur3b-series-d-to-push-sovereign-ai-into-its-next-phase/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "clean-growth-fund-adds-institutional-backing-as-fund-ii-reac": {
+   "name": "Clean Growth Fund adds institutional backing as Fund II reac",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Clean Growth Fund, the specialist UK ClimateTech VC platform, today announces the second close of its Fund II vehicle, taking total investor commitments to €94.5 million (£81.5 million) – more than halfway towards its €174 million (£150 million) target. This equips the fund to co",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€94.5 million",
+     "round": "Growth",
+     "title": "Clean Growth Fund adds institutional backing as Fund II reaches €94.5 million",
+     "link": "https://www.eu-startups.com/2026/09/clean-growth-fund-adds-institutional-backing-as-fund-ii-reaches-e94-5-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "bioinnovation-institute-injects-1-3-million-each-into-six-s": {
+   "name": "BioInnovation Institute injects €1.3 million each into six s",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Copenhagen-based BioInnovation Institute (BII) has awarded additional convertible loans of €1.3 million each to six of its portfolio companies, bringing the total capital each has received from the institute to €1.8 million. The six recipients — PanTarg, 3Sonic, Inia Biosciences,",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€1.3 million",
+     "round": "",
+     "title": "BioInnovation Institute injects €1.3 million each into six startups tackling cancer, disease, pest control and decarbonisation",
+     "link": "https://www.eu-startups.com/2026/09/bioinnovation-institute-injects-e7-8-million-into-six-startups-tackling-cancer-disease-pest-control-and-decarbonisation/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "veridue": {
+   "name": "Veridue",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Technology company Veridue has raised $4 million inpre-seed funding to expand its due diligence and M&A platform for renewableenergy and data centre transactions. The round was led by Episode 1 Ve...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€3.4 million",
+     "round": "Pre-Seed",
+     "title": "UK-based Veridue secures €3.4 million to accelerate investment and project financing for renewable energy and data centres",
+     "link": "https://www.eu-startups.com/2026/09/uk-based-veridue-secures-e3-44-million-to-accelerate-investment-and-project-financing-for-renewable-energy-and-data-centres/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-08",
+     "amount": "$4M",
+     "round": "Pre-Seed",
+     "title": "Veridue secures $4M pre-seed to streamline energy infrastructure due diligence",
+     "link": "https://tech.eu/2026/09/08/veridue-secures-4m-pre-seed-to-streamline-energy-infrastructure-due-diligence/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ground-a": {
+   "name": "Ground A",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "German defencetech company Ground A, which has developed a new generation of software and laser-based counter-drone systems, today stepped out of stealth, announcing a pre-seed financing round of more...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€9M",
+     "round": "Pre-Seed",
+     "title": "Ground A raises €9M+ to bring laser-based counter-drone technology to market",
+     "link": "https://tech.eu/2026/09/08/ground-a-raises-eur9m-to-bring-laser-based-counter-drone-technology-to-market/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sci2sci": {
+   "name": "sci2sci",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Berlin-based software startup sci2sci has raised €1.2million in pre-seed funding to expand its technology for organising andverifying data in regulated industries. The round was co-led by Heliad and I...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "€1.2M",
+     "round": "Pre-Seed",
+     "title": "sci2sci raises €1.2M to build trusted AI infrastructure for regulated industries",
+     "link": "https://tech.eu/2026/09/08/sci2sci-raises-eur12m-to-build-trusted-ai-infrastructure-for-regulated-industries/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "clean-growth-fund-ii-hits-81-5m-at-second": {
+   "name": "Clean Growth Fund II hits £81.5M at second",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "UK climate tech investor Clean Growth Fund has announced the second close of Fund II, bringing total commitments to£81.5 million as it works towards a £150 million target.The second close was anchored...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "£81.5M",
+     "round": "Growth",
+     "title": "Clean Growth Fund II hits £81.5M at second close towards £150M target",
+     "link": "https://tech.eu/2026/09/08/clean-growth-fund-ii-hits-ps815m-at-second-close-towards-ps150m-target/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "circolife": {
+   "name": "Circolife",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Climatetech startup Circolife has netted $4.5 Mn (around ₹40.45 Cr) in a pre-Series A round led by Polycab India’s joint…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "$4.5 Mn",
+     "round": "Pre-Series A",
+     "title": "Circolife Raises $4.5 Mn To Scale Subscription-Based Air Conditioning",
+     "link": "https://inc42.com/buzz/circolife-raises-4-5-mn-to-scale-subscription-based-air-conditioning/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "fundly-ai": {
+   "name": "Fundly.ai",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "B2B pharma distribution startup Fundly.ai has raised $4 Mn (about ₹38 Cr) in a pre-Series A funding round co-led by…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "$4 Mn",
+     "round": "Pre-Series A",
+     "title": "Fundly.ai Raises $4 Mn To Scale Pharma Payments, Commerce Infra",
+     "link": "https://inc42.com/buzz/fundly-ai-raises-4-mn-to-scale-pharma-payments-commerce-infra/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "digitalpaani": {
+   "name": "DigitalPaani",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Watertech startup DigitalPaani has raised ₹22 Cr (about $2.3 Mn) in a funding round led by Navam Capital. Enzia Ventures,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "₹22",
+     "round": "",
+     "title": "DigitalPaani Bags ₹22 Cr To Expand Water Management Platform",
+     "link": "https://inc42.com/buzz/digitalpaani-bags-%e2%82%b922-cr-to-expand-water-management-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "w-health-ventures-marks": {
+   "name": "W Health Ventures Marks",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Healthtech-focused VC firm W Health Ventures has closed its second fund at ₹700 Cr (about $84 Mn), sailing past its…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "₹700",
+     "round": "",
+     "title": "W Health Ventures Marks Close Of Fund II At ₹700 Cr",
+     "link": "https://inc42.com/buzz/w-health-ventures-marks-close-of-fund-ii-at-%e2%82%b9700-cr/",
      "source": "Inc42"
     }
    ]
