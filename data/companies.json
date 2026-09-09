@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T17:04:21+00:00",
+ "updated": "2026-09-09T17:02:02+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -35998,6 +35998,542 @@
      "title": "W Health Ventures Marks Close Of Fund II At ₹700 Cr",
      "link": "https://inc42.com/buzz/w-health-ventures-marks-close-of-fund-ii-at-%e2%82%b9700-cr/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "cloudnc": {
+   "name": "CloudNC",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "London precision machining software company CloudNC has raised $20 million in new investment capital. Nimble Ventures leads the round, with participation from other investors including Calculus Ventur...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$20M",
+     "round": "Extension",
+     "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+     "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+     "source": "TechCrunch Venture"
+    },
+    {
+     "date": "2026-09-09",
+     "amount": "€17.2 million",
+     "round": "Growth",
+     "title": "London-based CloudNC raises €17.2 million to scale AI-powered precision machining",
+     "link": "https://www.eu-startups.com/2026/09/london-based-cloudnc-raises-e17-2-million-to-scale-ai-powered-precision-machining/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-09",
+     "amount": "$20M",
+     "round": "",
+     "title": "CloudNC lands $20M to expand its AI software for precision manufacturing",
+     "link": "https://tech.eu/2026/09/09/cloudnc-lands-20m-to-expand-its-ai-software-for-precision-manufacturing/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "mistral-ai": {
+   "name": "Mistral AI",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Paris-based generative AI startup Mistral AI said Tuesday that it has nearly doubled its valuation to more than $24 billion with a Samsung Electronics-led $3.5 billion Series D fundraise.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "$3.5B",
+     "round": "Series D",
+     "title": "Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round",
+     "link": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "lgt-capital-partners": {
+   "name": "LGT Capital Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "LGT Capital Partners has raised €850 million for Crown Europe Small Buyouts VII, exceeding the fund's €800 million target. \n The post  LGT Capital Partners Raises €850 Million For Crown Europe Small Buyouts VII  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "€850 Million",
+     "round": "",
+     "title": "LGT Capital Partners Raises €850 Million For Crown Europe Small Buyouts VII",
+     "link": "https://pulse2.com/lgt-capital-partners-raises-e850-million-for-crown-europe-small-buyouts-vii/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cymphony": {
+   "name": "Cymphony",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Cymphony has launched with $30 million in funding to develop an AI-native governance and security platform designed to give enterprises visibility and control over how employees and AI agents access sensitive data and critical systems. The financing was co-led by Sequoia Capital ",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$30 Million",
+     "round": "",
+     "title": "Cymphony Raises $30 Million To Build AI Agent Governance And Enterprise Security Platform",
+     "link": "https://pulse2.com/cymphony-raises-30-million-to-build-ai-agent-governance-and-enterprise-security-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "wnc-associates": {
+   "name": "WNC & Associates",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "WNC & Associates has closed WNC Institutional Tax Credit Fund X California Series 23, L.P. at $66.3 million, marking the company's 23rd consecutive California-focused multi-investor affordable housing fund for institutional investors. The closing comes as WNC marks 55 years of op",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$66.3 Million",
+     "round": "",
+     "title": "WNC & Associates Closes $66.3 Million California Affordable Housing Fund",
+     "link": "https://pulse2.com/wnc-associates-closes-66-3-million-california-affordable-housing-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "suniva": {
+   "name": "Suniva",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Suniva has completed an $835 million debt and equity capital raise to fund construction of its second major U.S. solar cell manufacturing facility and increase its total domestic manufacturing capacity to 5.5 GW. \n The post  Suniva Raises $835 Million To Expand Solar Cell Capacit",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$835 Million",
+     "round": "Debt",
+     "title": "Suniva Raises $835 Million To Expand Solar Cell Capacity To 5.5 GW",
+     "link": "https://pulse2.com/suniva-raises-835-million-to-expand-solar-cell-capacity-to-5-5-gw/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "french-cardiac-monitoring-startup-implicity-reports-26-lowe": {
+   "name": "French cardiac monitoring startup Implicity reports 26% lowe",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Implicity, an innovator in AI-driven cardiac remote monitoring out of Paris, has secured a €35 million funding round to accelerate its international expansion, particularly in the USA, while advancing its AI capabilities and developing next-generation heart failure prediction alg",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "€35 million",
+     "round": "Growth",
+     "title": "French cardiac monitoring startup Implicity reports 26% lower mortality as it raises €35 million",
+     "link": "https://www.eu-startups.com/2026/09/french-cardiac-monitoring-startup-implicity-reports-26-lower-mortality-as-it-raises-e35-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "fryte-mobility": {
+   "name": "FRYTE Mobility",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "FRYTE Mobility, a Munich-based tech startup building the central software platform to connect logistics and energy systems for eTruck operations, has closed its €3.5 million Seed round, bringing total...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "€3.5 million",
+     "round": "Seed",
+     "title": "Munich-based FRYTE Mobility raises €3.5 million to connect eTruck fleets with charging infrastructure across Europe",
+     "link": "https://www.eu-startups.com/2026/09/munich-based-fryte-mobility-raises-e3-5-million-to-connect-etruck-fleets-with-charging-infrastructure-across-europe/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-09",
+     "amount": "€3.5M",
+     "round": "Seed",
+     "title": "FRYTE Mobility lands €3.5M to build the coordination layer for eTruck charging",
+     "link": "https://tech.eu/2026/09/09/fryte-mobility-lands-eur35m-to-build-the-coordination-layer-for-etruck-charging/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "limetax": {
+   "name": "Limetax",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Berlin-based Limetax has raised €36 million, comprising €6 million in pre-Seed equity and a €30 million credit facility. The pre-Seed equity was led by New York-based Motive Partners, with participation from Activant and Heliad, while the credit facility came from a consortium of",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "€36 million",
+     "round": "Pre-Seed",
+     "title": "Limetax lands €36 million to build an AI-powered group of German tax and accounting firms",
+     "link": "https://www.eu-startups.com/2026/09/limetax-lands-e36-million-to-build-an-ai-powered-group-of-german-tax-and-accounting-firms/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "actionable": {
+   "name": "Actionable",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "French customerintelligence startup Actionable has raised $10 million in funding to expand itsplatform for predicting customer behaviour and identifying the factors behindit. The round was led by Hi I...",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "€8.6 million",
+     "round": "Pre-Seed",
+     "title": "Paris-based Actionable raises €8.6 million to scale its predictive customer experience platform",
+     "link": "https://www.eu-startups.com/2026/09/paris-based-actionable-raises-e8-6-million-to-scale-its-predictive-customer-experience-platform/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-09",
+     "amount": "$10M",
+     "round": "",
+     "title": "Actionable raises $10M to turn customer data into behavioural predictions",
+     "link": "https://tech.eu/2026/09/09/actionable-raises-10m-to-turn-customer-data-into-behavioural-predictions/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sci-semiconductor": {
+   "name": "SCI Semiconductor",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Sheffield-headquartered company SCI Semiconductor, which has developed the world’s first memory-safe computer chip, has raised £5 million to accelerate production.  The heavily oversubscribed round wa...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "£5M",
+     "round": "",
+     "title": "SCI Semiconductor raises £5M to ramp up production of memory-safe chips",
+     "link": "https://tech.eu/2026/09/09/sci-semiconductor-raises-ps5m-to-ramp-up-production-of-memory-safe-chips/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "harry-stebbings-backed-proptech-ostrich-shuts": {
+   "name": "Harry Stebbings-backed proptech Ostrich shuts",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "A London-based proptech startup, backed by the VC and podcasterHarry Stebbings, which has raised nearly $4m in funding, has shut down. Ostrich, founded in 2021, was looking to disrupt the propertymark...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$4m",
+     "round": "",
+     "title": "Harry Stebbings-backed proptech Ostrich shuts",
+     "link": "https://tech.eu/2026/09/09/harry-stebbings-backed-proptech-ostrich-shuts/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "helmguard": {
+   "name": "HelmGuard",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "London-based governance, risk and compliance (GRC) andsecurity startup HelmGuard has raised $7.3 million in seed funding to expandits platform for automating risk and compliance assessments. The round...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$7.3M",
+     "round": "Seed",
+     "title": "HelmGuard raises $7.3M to move compliance beyond paperwork",
+     "link": "https://tech.eu/2026/09/09/helmguard-raises-73m-to-move-compliance-beyond-paperwork/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "digital-fund-operations-platform-fundcraft": {
+   "name": "Digital fund operations platform Fundcraft",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "European digital fund operations provider Fundcraft hassecured €12 million in strategic growth financing to expand its operationsacross Europe and further develop its technology for alternative invest...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "€12M",
+     "round": "Growth",
+     "title": "Digital fund operations platform Fundcraft secures €12M growth financing",
+     "link": "https://tech.eu/2026/09/09/digital-fund-operations-platform-fundcraft-secures-eur12m-growth-financing/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "rebaba": {
+   "name": "Rebaba",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Swedish energy technology companyRebaba has raised $4.6 million (SEK 44.1 million) in an oversubscribed seedround to expand its battery energy storage systems using repurposed electricvehicle batterie...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$4.6M",
+     "round": "Seed",
+     "title": "Rebaba closes $4.6M seed to scale second-life battery storage across Europe",
+     "link": "https://tech.eu/2026/09/09/rebaba-closes-46m-seed-to-scale-second-life-battery-storage-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "anemo-labs": {
+   "name": "Anemo Labs",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "London-based deeptech startup Anemo Labs has raised £700,000 in pre-seed funding to develop its technology fordetecting disease-related compounds through smell. The round was led by Zincand SFC Capita...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "£700K",
+     "round": "Pre-Seed",
+     "title": "Anemo Labs lands £700K to give AI a sense of smell",
+     "link": "https://tech.eu/2026/09/09/anemo-labs-lands-ps700k-to-give-ai-a-sense-of-smell/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "strong-by-form": {
+   "name": "Strong by Form",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Strong by Form, a deeptech company reimagining wood as a high-performance material, has raised €5.8 million Series A round.  Founded in Chile, Strong by Form is headquartered in Madrid and also operat...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "€5.8M",
+     "round": "Series A",
+     "title": "Strong by Form raises €5.8M to take on concrete with less wood",
+     "link": "https://tech.eu/2026/09/09/strong-by-form-raises-eur58m-to-take-on-concrete-with-less-wood/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "carrum-mobility": {
+   "name": "Carrum Mobility",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "B2B fleet management startup Carrum Mobility has raised $10 Mn (about ₹96 Cr) from ride-hailing major Uber as a part…",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$10 Mn",
+     "round": "",
+     "title": "Fleet Management Startup Carrum Mobility Raises $10 Mn From Uber",
+     "link": "https://inc42.com/buzz/fleet-management-startup-carrum-mobility-raises-10-mn-in-uber-led-round/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "quantum-cybersecurity-startup-qnu-labs": {
+   "name": "Quantum Cybersecurity Startup QNu Labs",
+   "country": "India",
+   "region": "Asia",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Quantum cybersecurity startup QNu Labs has raised ₹200 Cr (around $21 Mn) in its Series A1 funding round co-led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "₹200",
+     "round": "Series A1",
+     "title": "Quantum Cybersecurity Startup QNu Labs Nets ₹200 Cr To Scale R&D",
+     "link": "https://inc42.com/buzz/quantum-cybersecurity-startup-qnu-labs-nets-%e2%82%b9200-cr-to-scale-rd/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "onix": {
+   "name": "Onix",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Montréal startup is betting on small language models and demand for data privacy. \n The post  Onix raises $5 million USD to create AI library of health and wellness “experts”  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$5 million",
+     "round": "",
+     "title": "Onix raises $5 million USD to create AI library of health and wellness “experts”",
+     "link": "https://betakit.com/onix-raises-5-million-usd-to-create-ai-library-of-health-and-wellness-experts/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "dela-which-takes-the-scams-out-of-marketplace-sales": {
+   "name": "Dela, which takes the scams out of marketplace sales",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Dela bags $1M to kill marketplace scams with protected payments, ID checks and shipping tools.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "events": [
+    {
+     "date": "2026-09-08",
+     "amount": "$1 million",
+     "round": "",
+     "title": "Dela, which takes the scams out of marketplace sales, raises $1 million",
+     "link": "https://www.startupdaily.net/topic/funding/dela-which-takes-the-scams-out-of-marketplace-sales-raises-1-million/",
+     "source": "Startup Daily"
     }
    ]
   }
