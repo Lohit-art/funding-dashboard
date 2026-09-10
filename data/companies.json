@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T17:02:02+00:00",
+ "updated": "2026-09-10T16:53:23+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -36533,6 +36533,422 @@
      "round": "",
      "title": "Dela, which takes the scams out of marketplace sales, raises $1 million",
      "link": "https://www.startupdaily.net/topic/funding/dela-which-takes-the-scams-out-of-marketplace-sales-raises-1-million/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-ta": {
+   "name": "Listen Labs scrubbed a $1.5B funding round for Salesforce ta",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$1.5B",
+     "round": "Series C",
+     "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+     "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "celligence-and-angelai": {
+   "name": "Celligence And AngelAi",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Celligence has secured a $100 million investment from Mortgage Treasury to scale AngelAi, its AI platform designed to automate complex financial decision-making and transactions, including the entire mortgage process. \n The post  Celligence And AngelAi Secure $100 Million Investm",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$100 Million",
+     "round": "",
+     "title": "Celligence And AngelAi Secure $100 Million Investment From Mortgage Treasury To Scale AI Financial Transactions Platform",
+     "link": "https://pulse2.com/celligence-and-angelai-secure-100-million-investment-from-mortgage-treasury-to-scale-ai-financial-transactions-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "buildcheck": {
+   "name": "Buildcheck",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Buildcheck has raised $12 million in Series A funding to expand its AI-powered construction design review platform, bringing the company's total funding to $18 million only nine months after its $5.9 million seed round. \n The post  Buildcheck Raises $12 Million Series A To Scale ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$12 Million",
+     "round": "Series A",
+     "title": "Buildcheck Raises $12 Million Series A To Scale AI-Powered Construction Design Review Platform",
+     "link": "https://pulse2.com/buildcheck-raises-12-million-series-a-to-scale-ai-powered-construction-design-review-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cloverleaf-bio": {
+   "name": "Cloverleaf Bio",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Cloverleaf Bio has closed an upsized and oversubscribed $33 million seed financing to advance its engineered transfer RNA, or tRNA, therapeutic platform and develop new treatments for cancer. The round was led by 4BIO Capital and included strategic investments from AbbVie Venture",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$33 Million",
+     "round": "Seed",
+     "title": "Cloverleaf Bio Raises $33 Million Seed Financing To Advance RNA-Based Cancer Therapeutics",
+     "link": "https://pulse2.com/cloverleaf-bio-raises-33-million-seed-financing-to-advance-rna-based-cancer-therapeutics/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bannerman-energy": {
+   "name": "Bannerman Energy",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Bannerman Energy has completed the bookbuild for a fully underwritten A$124 million institutional placement, providing the company with funding expected to support its Etango Uranium Project in Namibia through construction and ramp-up. \n The post  Bannerman Energy Raises A$124 Mi",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "A$124 Million",
+     "round": "",
+     "title": "Bannerman Energy Raises A$124 Million To Fully Fund Etango Uranium Project",
+     "link": "https://pulse2.com/bannerman-energy-raises-a124-million-to-fully-fund-etango-uranium-project/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "wint": {
+   "name": "Wint",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Wint has raised $36 million in Series D funding to expand its AI-powered platform for monitoring water usage, preventing leaks and reducing water-related risks across commercial and industrial buildings. \n The post  Wint Raises $36 Million Series D To Scale AI-Powered Water Intel",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$36 Million",
+     "round": "Series D",
+     "title": "Wint Raises $36 Million Series D To Scale AI-Powered Water Intelligence Platform",
+     "link": "https://pulse2.com/wint-raises-36-million-series-d-to-scale-ai-powered-water-intelligence-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "peterson-partners": {
+   "name": "Peterson Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Peterson Partners has closed a $510 million capital raise for Peterson Kelso Coinvest, a single-asset continuation vehicle supporting portfolio company Kelso Industries. \n The post  Peterson Partners Raises $510 Million Continuation Vehicle For Kelso Industries  appeared first on",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$510 Million",
+     "round": "",
+     "title": "Peterson Partners Raises $510 Million Continuation Vehicle For Kelso Industries",
+     "link": "https://pulse2.com/peterson-partners-raises-510-million-continuation-vehicle-for-kelso-industries/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "italy-s-biorsaf": {
+   "name": "Italy’s Biorsaf",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Biorsaf, a Tuscany-based company specialising in the digitisation of food safety and quality processes, has raised a €5.2 million funding round and has also acquired Cooki, a Bologna-based platform for the digital management of food information.  This acquisition creates Italy’s ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "€5.2 million",
+     "round": "",
+     "title": "Italy’s Biorsaf raises €5.2 million and acquires Cooki to build AI-powered food RegTech platform",
+     "link": "https://www.eu-startups.com/2026/09/italys-biorsaf-raises-e5-2-million-and-acquires-cooki-to-build-ai-powered-food-regtech-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ku-leuven-spin-out-ivex": {
+   "name": "KU Leuven spin-out IVEX",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "IVEX, a Heverlee-based DeepTech startup developing technology for automotive safety testing, has raised €5 million in Series A to accelerate its engineering roadmap and expand its presence in North America and Asia.  The round was backed by existing investors, The Faktory and Ded",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "€5 million",
+     "round": "Series A",
+     "title": "KU Leuven spin-out IVEX lands €5 million to accelerate AI-powered automotive safety testing",
+     "link": "https://www.eu-startups.com/2026/09/ku-leuven-spin-out-ivex-lands-e5-million-to-accelerate-ai-powered-automotive-safety-testing/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "bynario": {
+   "name": "Bynario",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Cybersecurity company Bynario has raised €2.1 million in apre-seed round to develop its AI-powered platform for identifying, prioritisingand addressing software vulnerabilities. The round was led by 3...",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "€2.1 million",
+     "round": "Pre-Seed",
+     "title": "Milan-based Bynario raises €2.1 million pre-Seed after AI research exposed serious Apple vulnerabilities",
+     "link": "https://www.eu-startups.com/2026/09/milan-based-bynario-raises-e2-1-million-pre-seed-after-ai-research-exposed-serious-apple-vulnerabilities/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-10",
+     "amount": "€2.1M",
+     "round": "Seed",
+     "title": "Bynario raises €2.1M to develop AI-powered platform for software vulnerabilities",
+     "link": "https://tech.eu/2026/09/10/bynario-raises-eur21m-to-develop-ai-powered-platform-for-software-vulnerabilities/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "new-german-ai-research-lab-grubel": {
+   "name": "New German AI research lab Grubel",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Grubel, a Munich- and Tübingen-based AI research lab developing systems that adapt to individual legal matters, has raised €3 million in pre-Seed funding to support research, product development, and team expansion. The round was led by venture capital firm Point Nine, with parti",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "€3 million",
+     "round": "Pre-Seed",
+     "title": "New German AI research lab Grubel raises €3 million to build systems that adapt to individual legal cases",
+     "link": "https://www.eu-startups.com/2026/09/new-german-ai-research-lab-grubel-raises-e3-million-to-build-systems-that-adapt-to-individual-legal-cases/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "robutler": {
+   "name": "Robutler",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Robutler has raised $400,000 from ZAS Ventures, a US-based venture capital firm investing in AI, SaaS, and robotics companies founded by Ukrainians. The investment, made across ZAS Ventures’ Fund I an...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$400K",
+     "round": "",
+     "title": "Robutler raises $400K from ZAS Ventures to build the ‘YouTube of software’",
+     "link": "https://tech.eu/2026/09/10/robutler-raises-400k-from-zas-ventures-to-build-the-youtube-of-software/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "arlequin-ai": {
+   "name": "Arlequin AI",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Paris-based AI company Arlequin AI hasraised €28 million in Series A funding to accelerate the development of itstopological neural network architecture and expand the international deploymentof its t...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "€28M",
+     "round": "Series A",
+     "title": "Arlequin AI lands €28M to scale topological neural network technology",
+     "link": "https://tech.eu/2026/09/10/arlequin-ai-lands-eur28m-to-scale-topological-neural-network-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "theater": {
+   "name": "Theater",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "D2C fashion and accessories startup Theater has raised ₹75 Cr (around $7.8 Mn) in a Series A funding round led…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "₹75",
+     "round": "Series A",
+     "title": "D2C Fashion Startup Theater Bags ₹75 Cr To Expand Offline",
+     "link": "https://inc42.com/buzz/d2c-fashion-startup-bags-%e2%82%b975-cr-to-expand-offline/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "swish": {
+   "name": "Swish",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Quick food delivery startup Swish has raised $24 Mn (about ₹228.4 Cr) in a funding round led by Bertelsmann India…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$24 Mn",
+     "round": "",
+     "title": "Swish Raises $24 Mn To Expand Quick Food Delivery Network",
+     "link": "https://inc42.com/buzz/swish-raises-24-mn-to-expand-quick-food-delivery-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "clay": {
+   "name": "Clay",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Canadian-founded go-to-market startup wants to become “the AI growth engine for every company.” \n The post  Clay lands $115-million USD Series D at $7-billion valuation  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$115",
+     "round": "Series D",
+     "title": "Clay lands $115-million USD Series D at $7-billion valuation",
+     "link": "https://betakit.com/clay-lands-115-million-usd-series-d-at-7-billion-valuation/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "ai-startup": {
+   "name": "AI startup",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Metacognition AI grabs $10M to build a “Windows for robots” that lets workers train machines by voice.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-09",
+   "last_seen": "2026-09-09",
+   "events": [
+    {
+     "date": "2026-09-09",
+     "amount": "$10 million",
+     "round": "",
+     "title": "AI startup raises $10 million to build robotics operating system",
+     "link": "https://www.startupdaily.net/topic/funding/ai-startup-raises-10-million-to-build-robotics-operating-system/",
      "source": "Startup Daily"
     }
    ]
