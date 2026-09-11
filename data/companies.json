@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T16:53:23+00:00",
+ "updated": "2026-09-11T16:55:09+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -35730,10 +35730,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "French AI company Mistral  raised €3 billion in Series Dfunding at a post-money valuation of more than €21 billion, three years afterits launch. Samsung Electronics led the round, with the Scaleup Eur...",
+   "summary": "This week, we tracked more than 70 tech funding deals worth over €3.9 billion and over 5 exits, M&A transactions, rumours, and related news stories across Europe.If email is more your thing, you c...",
    "audience": "General / mixed",
    "first_seen": "2026-09-08",
-   "last_seen": "2026-09-08",
+   "last_seen": "2026-09-11",
    "events": [
     {
      "date": "2026-09-08",
@@ -35749,6 +35749,14 @@
      "round": "Series D",
      "title": "Mistral secures €3B Series D to push sovereign AI into its next phase",
      "link": "https://tech.eu/2026/09/08/mistral-secures-eur3b-series-d-to-push-sovereign-ai-into-its-next-phase/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-11",
+     "amount": "€3B",
+     "round": "Series D",
+     "title": "Mistral secures €3B Series D, 100 days to save EU Inc, and early-stage funding crisis",
+     "link": "https://tech.eu/2026/09/11/mistral-secures-3b-series-d-100-days-to-save-eu-inc-and-early-stage-funding-crisis/",
      "source": "Tech.eu"
     }
    ]
@@ -36950,6 +36958,414 @@
      "title": "AI startup raises $10 million to build robotics operating system",
      "link": "https://www.startupdaily.net/topic/funding/ai-startup-raises-10-million-to-build-robotics-operating-system/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "archy": {
+   "name": "Archy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Archy, an AI platform for dental practice management, announced that it has raised $50 million in Series C funding led by JMI Equity, with participation from existing investors TCV, Entrée Capital, Bessemer Venture Partners, CRV, and Alven. \n The post  Archy Raises $50 Million Se",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "$50 Million",
+     "round": "Series C",
+     "title": "Archy Raises $50 Million Series C To Expand AI Platform For Dental Practices",
+     "link": "https://pulse2.com/archy-raises-50-million-series-c-to-expand-ai-platform-for-dental-practices/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "the-property-franchise-group-h1-revenue-rises-7-to-record": {
+   "name": "The Property Franchise Group: H1 Revenue Rises 7% To Record ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The Property Franchise Group reported record first-half revenue of £43.3 million, up 7%, as its franchising and financial services businesses continued growing despite subdued activity in the UK housing market. \n The post  The Property Franchise Group: H1 Revenue Rises 7% To Reco",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "£43.3 Million",
+     "round": "",
+     "title": "The Property Franchise Group: H1 Revenue Rises 7% To Record £43.3 Million And Dividend Raised 10%",
+     "link": "https://pulse2.com/the-property-franchise-group-h1-revenue-rises-7-to-record-43-3-million-and-dividend-raised-10/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "chewy-q2": {
+   "name": "Chewy: Q2",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Chewy reported second-quarter fiscal 2026 net sales of $3.33 billion, up 7.3% year over year, as growth in its recurring revenue base and customer activity helped results reach the high end of the company's guidance. \n The post  Chewy: Q2 Net Sales Rise 7.3% To $3.33 Billion And ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "$3.33 Billion",
+     "round": "Growth",
+     "title": "Chewy: Q2 Net Sales Rise 7.3% To $3.33 Billion And Raises Full-Year Outlook",
+     "link": "https://pulse2.com/chewy-q2-net-sales-rise-7-3-to-3-33-billion-and-raises-full-year-outlook/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "dutch-agtech-gravity-gardens": {
+   "name": "Dutch AgTech Gravity Gardens",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Gravity Gardens, a Nijmegen-based AgTech startup developing a chemical-free seed activation technology for European arable and horticultural crops, has secured a €2.6 million Seed round to bring a new kind of seed activation to market: a dry process that improves establishment wi",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "€2.6 million",
+     "round": "Seed",
+     "title": "Dutch AgTech Gravity Gardens secures €2.6 million to scale its dry, chemical-free seed activation technology",
+     "link": "https://www.eu-startups.com/2026/09/dutch-agtech-gravity-gardens-secures-e2-6-million-to-scale-its-dry-chemical-free-seed-activation-technology/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "copenhagen-s-seed-capital": {
+   "name": "Copenhagen’s Seed Capital",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Seed Capital, a Copenhagen-based seed-stage investor, has today announced that it has closed its Fund V at €130 million. The fund will invest in 15-17 companies, with first checks of €3-6 million in FinTech, cybersecurity, resilience, and AI-driven B2B. With its fifth fund, Seed ",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "€130 million",
+     "round": "Seed",
+     "title": "Copenhagen’s Seed Capital closes €130 million Fund V to back Nordic startups from Seed to Series A",
+     "link": "https://www.eu-startups.com/2026/09/copenhagens-seed-capital-closes-e130-million-fund-v-to-back-nordic-startups-from-seed-to-series-a/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "after-387-million": {
+   "name": "After €387 million",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The Exploration Company (TEC), the European space company, has been awarded a service contract by the European Space Agency (ESA) worth €760 million to build and fly Europe’s first commercial cargo capsule to the International Space Station (ISS).  The deal, signed at the Interna",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "€387 million",
+     "round": "",
+     "title": "After €387 million raise, The Exploration Company wins ESA’s “ALADDIN” cargo capsule contract worth €760 million",
+     "link": "https://www.eu-startups.com/2026/09/after-e387-million-raise-the-exploration-company-wins-esas-aladdin-cargo-capsule-contract-worth-e760-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "furo": {
+   "name": "Furo",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Furo (formerly Lumera Energy), a Munich-based energy software company, today announced that it has closed a €3.44 million ($4 million) funding round to further develop its software, expand into additional European markets, and grow its team. The round was led by US investor TQ Ve",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "€3.44 million",
+     "round": "",
+     "title": "Munich-based Furo raises €3.44 million to make industrial battery storage economically viable",
+     "link": "https://www.eu-startups.com/2026/09/munich-based-furo-raises-e3-44-million-to-make-industrial-battery-storage-economically-viable/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "seed-capital": {
+   "name": "Seed Capital",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Copenhagen-based Seed Capital has closed its Fund V at €130 million. The firm, which has spent 20 years backing founders at seed through Series A, will invest in 15-17 companies with first checks of €...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "€130M",
+     "round": "Seed",
+     "title": "Seed Capital closes €130M Fund V to expand across the Nordics",
+     "link": "https://tech.eu/2026/09/11/seed-capital-closes-eur130m-fund-v-to-expand-across-the-nordics/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "danish-vc-seed-capital": {
+   "name": "Danish VC Seed Capital",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Copenhagen-based Seed Capital has closed its fifth fund at €130 million, targeting 15–17 seed to Series A startups across the Nordics with initial investments of €3–6 million. The fund will build on the firm’s focus on FinTech and AI-driven B2B, while adding cybersecurity and res",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "€130M",
+     "round": "Seed",
+     "title": "Danish VC Seed Capital closes €130M Fund V with focus on fintech, cybersecurity and AI",
+     "link": "https://arcticstartup.com/seed-capital-closes-e130m-fund/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "nordic-foodtech-vc-nears-80m-fund-target-with-up-to-30m-ei": {
+   "name": "Nordic Foodtech VC nears €80M fund target with up to €30M EI",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Nordic Foodtech VC, a Helsinki-based venture capital firm focused on agrifood technology, has received a commitment of up to €30 million from the European Investment Fund (EIF) for its second fund, NFT.VC Fund II. With a target size of €80 million, the fund has already raised €40",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "€80M",
+     "round": "",
+     "title": "Nordic Foodtech VC nears €80M fund target with up to €30M EIF commitment",
+     "link": "https://arcticstartup.com/nordic-foodtech-vc-secures-up-to-e30m-eif-commitment/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "sweden-s-cubase-bio-teams-up-with-heartbeat-bio-to-advance-3": {
+   "name": "Sweden’s Cubase Bio teams up with HeartBeat.bio to advance 3",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Cubase Bio, a Stockholm-based spatial biology company developing technology to map biological systems in true three dimensions, has partnered with Austria’s HeartBeat.bio to advance 3D spatial transcriptomics for cardiovascular drug discovery. The companies have secured approxima",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "€1 million",
+     "round": "",
+     "title": "Sweden’s Cubase Bio teams up with HeartBeat.bio to advance 3D spatial mapping for heart disease",
+     "link": "https://arcticstartup.com/heartbeat-bio-and-cubase-bio-partner/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "ultraviolette-to": {
+   "name": "Ultraviolette To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Electric two-wheeler (E2W) maker Ultraviolette Automotive is set to raise an additional ₹373.04 Cr as part of its ongoing Series…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "₹373",
+     "round": "",
+     "title": "Exclusive: Ultraviolette To Raise ₹373 Cr As Manufacturing Facility BIGGA Takes Shape",
+     "link": "https://inc42.com/buzz/exclusive-ultraviolette-to-raise-inr-373-cr-as-manufacturing-facility-bigga-takes-shape/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "paris-panini-parent-popo-global": {
+   "name": "Paris Panini Parent Popo Global",
+   "country": "France",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bengaluru-based restaurant company Popo Global, which operates gourmet food brands including The Pizza Bakery, Paris Panini and Smash Guys, has…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "₹532",
+     "round": "",
+     "title": "Paris Panini Parent Popo Global Raises ₹532 Cr From Artal Asia",
+     "link": "https://inc42.com/buzz/paris-panini-parent-popo-global-raises-%e2%82%b9532-cr-from-artal-asia/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-graph-ai": {
+   "name": "[Update] Graph AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | September 10, 22:00 IST Pharmaceutical-sector focused AI startup Graph AI has raised $13.3 Mn (₹127.2 Cr) in its…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$13.3 Mn",
+     "round": "",
+     "title": "[Update] Graph AI Nets $13.3 Mn To Accelerate International Expansion",
+     "link": "https://inc42.com/buzz/graph-ai-in-talks-to-raise-14-mn-from-insight-partners-others/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "gravity-s-23-year-old-founder-left-vancouver-for-san-francis": {
+   "name": "Gravity’s 23-year-old founder left Vancouver for San Francis",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI adtech startup hopes to eventually parlay its $30.5-million USD Series A into a Canadian office. \n The post  Gravity’s 23-year-old founder left Vancouver for San Francisco. One day, he hopes to come back bigger  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "$30.5",
+     "round": "Series A",
+     "title": "Gravity’s 23-year-old founder left Vancouver for San Francisco. One day, he hopes to come back bigger",
+     "link": "https://betakit.com/gravitys-23-year-old-founder-left-vancouver-for-san-francisco-one-day-he-hopes-to-come-back-bigger/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "wittington-ventures": {
+   "name": "Wittington Ventures",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Weston family-backed firm plans to back 15 more startups. \n The post  Wittington Ventures closes third, $180-million VC fund  first appeared on  BetaKit .",
+   "audience": "Consumers",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$180",
+     "round": "",
+     "title": "Wittington Ventures closes third, $180-million VC fund",
+     "link": "https://betakit.com/wittington-ventures-closes-third-180-million-vc-fund/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "galaxia": {
+   "name": "Galaxia",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Halifax startup developing AI-powered satellites that can process and analyze data in orbit.  \n The post  Galaxia raises $4.5 million to bring satellite computers to Canada’s space race    first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "events": [
+    {
+     "date": "2026-09-10",
+     "amount": "$4.5 million",
+     "round": "",
+     "title": "Galaxia raises $4.5 million to bring satellite computers to Canada’s space race",
+     "link": "https://betakit.com/galaxia-raises-4-5-million-to-bring-satellite-computers-to-canadas-space-race/",
+     "source": "BetaKit"
     }
    ]
   }
