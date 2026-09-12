@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T16:55:09+00:00",
+ "updated": "2026-09-12T15:59:20+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -35154,10 +35154,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "established",
-   "summary": "ErieView Development has closed financing for the $218 million redevelopment of Cleveland's Erieview Tower, advancing plans to transform the 40-story downtown landmark into a mixed-use property featuring Ohio's first W Hotel, rental residences, Class A office space and a major fo",
+   "summary": "ErieView Development has closed approximately $217.6 million in financing for the residential and hotel phases of the Erieview Tower and Galleria redevelopment in downtown Cleveland. Brown Gibbons Lang & Company's Real Estate team served as exclusive financial advisor on the fina",
    "audience": "General / mixed",
    "first_seen": "2026-09-07",
-   "last_seen": "2026-09-07",
+   "last_seen": "2026-09-12",
    "events": [
     {
      "date": "2026-09-07",
@@ -35165,6 +35165,14 @@
      "round": "",
      "title": "ErieView Development Closes $218 Million Financing For W Cleveland Redevelopment",
      "link": "https://pulse2.com/erieview-development-closes-218-million-financing-for-w-cleveland-redevelopment/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-09-12",
+     "amount": "$217.6 Million",
+     "round": "",
+     "title": "ErieView Development Secures $217.6 Million Financing For Cleveland Redevelopment",
+     "link": "https://pulse2.com/erieview-development-secures-217-6-million-financing-for-cleveland-redevelopment/",
      "source": "Pulse 2.0"
     }
    ]
@@ -37365,6 +37373,102 @@
      "round": "",
      "title": "Galaxia raises $4.5 million to bring satellite computers to Canada’s space race",
      "link": "https://betakit.com/galaxia-raises-4-5-million-to-bring-satellite-computers-to-canadas-space-race/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "chariot-re": {
+   "name": "Chariot Re",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Chariot Reinsurance has closed an oversubscribed third capital raise of approximately $700 million in equity and debt financing to expand its life and annuity reinsurance platform. \n The post  Chariot Re Raises $700 Million To Expand Life And Annuity Reinsurance Platform  appeare",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-12",
+   "last_seen": "2026-09-12",
+   "events": [
+    {
+     "date": "2026-09-12",
+     "amount": "$700 Million",
+     "round": "Debt",
+     "title": "Chariot Re Raises $700 Million To Expand Life And Annuity Reinsurance Platform",
+     "link": "https://pulse2.com/chariot-re-raises-700-million-to-expand-life-and-annuity-reinsurance-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bridgepoint-credit": {
+   "name": "Bridgepoint Credit",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Bridgepoint Credit has completed an approximately €1.2 billion continuation vehicle led by Pantheon for assets from Bridgepoint Direct Lending II, or BDL II. \n The post  Bridgepoint Credit Closes €1.2 Billion Continuation Vehicle Led By Pantheon  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-12",
+   "last_seen": "2026-09-12",
+   "events": [
+    {
+     "date": "2026-09-12",
+     "amount": "€1.2 Billion",
+     "round": "",
+     "title": "Bridgepoint Credit Closes €1.2 Billion Continuation Vehicle Led By Pantheon",
+     "link": "https://pulse2.com/bridgepoint-credit-closes-e1-2-billion-continuation-vehicle-led-by-pantheon/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ultimarii": {
+   "name": "Ultimarii",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "BDC and Mistral Venture Partners led the financing round, with additional support from IRAP. \n The post  Regulatory AI company Ultimarii raises $13-million Series A round  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "$13",
+     "round": "Series A",
+     "title": "Regulatory AI company Ultimarii raises $13-million Series A round",
+     "link": "https://betakit.com/regulatory-ai-company-ultimarii-raises-13-million-series-a-round/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "micrologic": {
+   "name": "Micrologic",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Québec-based sovereign cloud provider aims to win more contracts across Canada. \n The post  Micrologic raises $45 million for sovereign cloud services  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-11",
+   "events": [
+    {
+     "date": "2026-09-11",
+     "amount": "$45 million",
+     "round": "",
+     "title": "Micrologic raises $45 million for sovereign cloud services",
+     "link": "https://betakit.com/micrologic-raises-45-million-for-sovereign-cloud-services/",
      "source": "BetaKit"
     }
    ]
