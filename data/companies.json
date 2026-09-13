@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T15:59:20+00:00",
+ "updated": "2026-09-13T16:49:35+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -37470,6 +37470,78 @@
      "title": "Micrologic raises $45 million for sovereign cloud services",
      "link": "https://betakit.com/micrologic-raises-45-million-for-sovereign-cloud-services/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "adobe-q3-revenue-rises-13-to-record-6-76-billion-and-comp": {
+   "name": "Adobe: Q3 Revenue Rises 13% To Record $6.76 Billion And Comp",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Adobe reported record third-quarter fiscal 2026 revenue of $6.76 billion, up 13% year-over-year, or 12% in constant currency, as the company continued expanding its artificial intelligence offerings and surpassed one billion monthly active users across its creativity and producti",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-13",
+   "last_seen": "2026-09-13",
+   "events": [
+    {
+     "date": "2026-09-13",
+     "amount": "$6.76 Billion",
+     "round": "",
+     "title": "Adobe: Q3 Revenue Rises 13% To Record $6.76 Billion And Company Raises FY2026 Targets",
+     "link": "https://pulse2.com/adobe-q3-revenue-rises-13-to-record-6-76-billion-and-company-raises-fy2026-targets/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "vulcan-infrastructure-and-power": {
+   "name": "Vulcan Infrastructure And Power",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vulcan Infrastructure and Power has completed an approximately $39.4 million strategic investment from affiliates of Machine Investment Group and Atlas Holdings, along with institutional investors including Conversant Capital and certain company insiders. \n The post  Vulcan Infra",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-13",
+   "last_seen": "2026-09-13",
+   "events": [
+    {
+     "date": "2026-09-13",
+     "amount": "$39.4 Million",
+     "round": "",
+     "title": "Vulcan Infrastructure And Power Raises $39.4 Million Strategic Investment From Machine Investment Group, Atlas Holdings, Conversant Capital And Others",
+     "link": "https://pulse2.com/vulcan-infrastructure-and-power-raises-39-4-million-strategic-investment-from-machine-investment-group-atlas-holdings-conversant-capital-and-others/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cerenome": {
+   "name": "Cerenome",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Cerenome has entered into a financing agreement with 3i, LP for a senior secured facility of up to $20 million with royalty-based repayments, providing additional capital for the commercialization and development of its CNS oncology platform. \n The post  Cerenome Secures Up To $2",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-13",
+   "last_seen": "2026-09-13",
+   "events": [
+    {
+     "date": "2026-09-13",
+     "amount": "$20 Million",
+     "round": "",
+     "title": "Cerenome Secures Up To $20 Million Financing Facility From 3i Fund",
+     "link": "https://pulse2.com/cerenome-secures-up-to-20-million-financing-facility-from-3i-fund/",
+     "source": "Pulse 2.0"
     }
    ]
   }
