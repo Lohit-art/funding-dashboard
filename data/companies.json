@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T16:49:35+00:00",
+ "updated": "2026-09-14T18:20:33+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -37542,6 +37542,446 @@
      "title": "Cerenome Secures Up To $20 Million Financing Facility From 3i Fund",
      "link": "https://pulse2.com/cerenome-secures-up-to-20-million-financing-facility-from-3i-fund/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "temporal": {
+   "name": "Temporal",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Temporal has raised $550 million in Series E funding at a $12.55 billion valuation as demand grows for infrastructure that can reliably run complex AI applications and long-running software workflows. Lightspeed Venture Partners led the round. Wellington Management, Growth Equity",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "$550 Million",
+     "round": "Series E",
+     "title": "Temporal Raises $550 Million Series E At $12.55 Billion Valuation As AI Infrastructure Demand Surges",
+     "link": "https://pulse2.com/temporal-raises-550-million-series-e-at-12-55-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "buildots": {
+   "name": "Buildots",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Buildots has raised $130 million in a new funding round led by O.G. Venture Partners to expand its AI-powered construction intelligence platform and scale deployments across large construction portfolios, including data centers, advanced manufacturing and energy infrastructure pr",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "$130 Million",
+     "round": "Growth",
+     "title": "Buildots Raises $130 Million To Scale AI Construction Platform And Support Global Data Center Buildout",
+     "link": "https://pulse2.com/buildots-raises-130-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "abstract-names-jonathan-eller-as-chief-revenue-officer-follo": {
+   "name": "Abstract Names Jonathan Eller As Chief Revenue Officer Follo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Abstract has named Jonathan Eller as its first Chief Revenue Officer as the cybersecurity company expands its enterprise go-to-market organization following a $25 million funding round completed in July. \n The post  Abstract Names Jonathan Eller As Chief Revenue Officer Following",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "$25 Million",
+     "round": "",
+     "title": "Abstract Names Jonathan Eller As Chief Revenue Officer Following $25 Million Funding Round",
+     "link": "https://pulse2.com/abstract-names-jonathan-eller-as-chief-revenue-officer-following-25-million-funding-round/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "z-ai-plans-to": {
+   "name": "Z.AI Plans To",
+   "country": "China",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Chinese artificial intelligence company Z.AI plans to raise more than $5 billion through a combination of new shares and convertible bonds as it seeks additional capital to expand its AI models, computing infrastructure and commercial operations, according to The Wall Street Jour",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "$5 Billion",
+     "round": "",
+     "title": "Z.AI Plans To Raise More Than $5 Billion Through Shares And Convertible Bonds For AI Expansion",
+     "link": "https://pulse2.com/z-ai-plans-to-raise-more-than-5-billion-through-shares-and-convertible-bonds-for-ai-expansion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "shennon-biotechnologies": {
+   "name": "Shennon Biotechnologies",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Shennon Biotechnologies has raised $12 million in new financing to advance its precision immunotherapy platform and emerging oncology pipeline while appointing biotechnology industry veteran Cyril Konto, M.D., as Chief Executive Officer. This financing was backed by Future Ventur",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "$12 Million",
+     "round": "",
+     "title": "Shennon Biotechnologies Raises $12 Million, Names Cyril Konto As CEO, And Unveils Precision Immunotherapy Pipeline",
+     "link": "https://pulse2.com/shennon-biotechnologies-raises-12-million-names-cyril-konto-as-ceo-and-unveils-precision-immunotherapy-pipeline/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "vantage": {
+   "name": "Vantage",
+   "country": "USA",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Vantage has closed a $2 billion financing facility to support early-stage development across its North American data center platform, adding another source of committed capital as demand from artificial intelligence and cloud customers continues to accelerate. \n The post  Vantage",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "$2 Billion",
+     "round": "",
+     "title": "Vantage Secures $2 Billion Credit Facility To Support North American Data Center Development",
+     "link": "https://pulse2.com/vantage-secures-2-billion-credit-facility-to-support-north-american-data-center-development/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "immortal-dragons-interview-with-founder-and-ceo-boyang-wang": {
+   "name": "Immortal Dragons: Interview With Founder And CEO Boyang Wang",
+   "country": "Singapore",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Immortal Dragons is a $40 million purpose-driven longevity fund headquartered in Singapore that invests in pre-seed to Series A longevity biotechnology startups. The geographically agnostic fund focuses on underfunded moonshot projects across areas including replacement strategie",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "$40 million",
+     "round": "Pre-Seed",
+     "title": "Immortal Dragons: Interview With Founder And CEO Boyang Wang About Longevity Investing And Biological Replacement",
+     "link": "https://pulse2.com/immortal-dragons-profile-boyang-wang-interview/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "swedish-drone-detection-company-freya": {
+   "name": "Swedish drone detection company Freya",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Freya Industries, the Swedish company who develops intelligent, affordable sensors for security and defence, has closed an oversubscribed €533k (SEK 6 million) round with the capital going to delivering customer orders, scaling up the team and the European rollout. The round had ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "€533k",
+     "round": "",
+     "title": "Swedish drone detection company Freya raises €533k to aid European rollout",
+     "link": "https://www.eu-startups.com/2026/09/swedish-drone-detection-company-freya-raises-e533k-to-scale-team-and-aid-european-rollout/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "greencovery": {
+   "name": "Greencovery",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Greencovery, a Wageningen-based FoodTech startup that upcycles valuable compounds from industry side streams, has raised €1 million to scale its proprietary cocoa upcycling technology for industrial production. The round includes investment from ROM InWest, existing shareholder B",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "€1 million",
+     "round": "",
+     "title": "Wageningen-based Greencovery raises €1 million to scale cocoa upcycling technology, with further €3 million round underway",
+     "link": "https://www.eu-startups.com/2026/09/wageningen-based-greencovery-raises-e1-million-to-scale-cocoa-upcycling-technology-with-further-e3-million-round-underway/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ferm-labs": {
+   "name": "Ferm Labs",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ferm Labs, a Zug-based ingredient startup specialising in proprietary, high-yield bioprocessing platforms, has secured €3 million to scale its bioprocessing platform across the global clean-label ingredient market.  The round was led by CDP Venture Capital (through its Green Tran",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "€3 million",
+     "round": "",
+     "title": "Swiss-Italian startup Ferm Labs secures €3 million to scale its bioprocessing-based B2B ingredient platform",
+     "link": "https://www.eu-startups.com/2026/09/swiss-italian-startup-ferm-labs-secures-e3-million-to-scale-its-bioprocessing-based-b2b-ingredient-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "chift": {
+   "name": "Chift",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Brussels-based fintech Chift has raised €10.5 million inSeries A funding to scale its financial software connectivity platform acrossEurope and further develop its AI capabilities. The round was led b...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "€10.5 million",
+     "round": "Series A",
+     "title": "Brussels-based Chift raises €10.5 million Series A to become Europe’s financial connectivity layer",
+     "link": "https://www.eu-startups.com/2026/09/brussels-based-chift-raises-e10-5-million-series-a-to-become-europes-financial-connectivity-layer/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-14",
+     "amount": "€10.5M",
+     "round": "Series A",
+     "title": "Chift raises €10.5M Series A to scale financial connectivity across Europe",
+     "link": "https://tech.eu/2026/09/14/chift-raises-eur105m-series-a-to-scale-financial-connectivity-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "stockholm-s-tandem-health": {
+   "name": "Stockholm’s Tandem Health",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Tandem Health, a Stockholm-based HealthTech startup building a complete AI medical assistant for European clinics, has raised €86.49 million ($100 million) in Series B funding.  The round was led by the Scaleup Europe Fund, managed by EQT, with support from existing investors Kin",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "€86.5 million",
+     "round": "Series B",
+     "title": "Stockholm’s Tandem Health raises €86.5 million to build an AI-native operating system for European healthcare",
+     "link": "https://www.eu-startups.com/2026/09/stockholms-tandem-health-raises-e86-5-million-to-build-an-ai-native-operating-system-for-european-healthcare/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "open-cosmos": {
+   "name": "Open Cosmos",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "European satellite company Open Cosmos has secured €300million in funding to expand its satellite manufacturing capacity andaccelerate the deployment of its connectivity and Earth observation services...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "€300M",
+     "round": "",
+     "title": "Open Cosmos secures €300M to expand satellite intelligence and connectivity",
+     "link": "https://tech.eu/2026/09/14/open-cosmos-secures-eur300m-to-expand-satellite-intelligence-and-connectivity/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "fastweb-vodafone-backs-italian-insurtech-mama-insurance-in-n": {
+   "name": "Fastweb+Vodafone backs Italian insurtech Mama Insurance in n",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Italian insurtech Mama Insurance hassecured a new investment led by Fastweb+Vodafone, with support from Founders Factory. The deal follows an initial investment in 2025 and brings thecompany’s total f...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "",
+     "round": "",
+     "title": "Fastweb+Vodafone backs Italian insurtech Mama Insurance in new funding round",
+     "link": "https://tech.eu/2026/09/14/fastwebvodafone-backs-italian-insurtech-mama-insurance-in-new-funding-round/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "custodea": {
+   "name": "Custodea",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Custodea, a European AI data platformdesigned to help SMEs centralise and manage their business data, has raised€350,000 in seed funding from investors in Custodea’s network.Custodea is addressing the...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "€350K",
+     "round": "Seed",
+     "title": "Custodea secures €350K to give European SMEs greater control over their data",
+     "link": "https://tech.eu/2026/09/14/custodea-secures-eur350k-to-give-european-smes-greater-control-over-their-data/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "tandem-health": {
+   "name": "Tandem Health",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Swedish healthtech startup Tandem Health hasraised $100m in a Series B funding round, which was led by the EU-backed €5bn Scaleup EuropeFund, a new investor. The round, which is large for a Series B, ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "$100M",
+     "round": "Series B",
+     "title": "Tandem Health scores $100M Series B, led by EU’s €5bn tech startup fund",
+     "link": "https://tech.eu/2026/09/14/swedish-healthtech-tandem-health-scores-100m-series-b-led-by-eus-eur5bn-tech-startup-fund/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ai-native-game-studio-arcustin-games": {
+   "name": "AI-native game studio Arcustin Games",
+   "country": "Turkey",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Istanbul-based mobile game studioArcustin Games has raised $500,000 in pre-seed funding at a $10 millionvaluation from Webrazzi GSYF, a venture capital investment fund establishedjointly by İş Portföy...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "$500K",
+     "round": "Pre-Seed",
+     "title": "AI-native game studio Arcustin Games raises $500K from Webrazzi GSYF",
+     "link": "https://tech.eu/2026/09/14/ai-native-game-studio-arcustin-games-raises-500k-from-webrazzi-gsyf/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "intrepid-growth-partners": {
+   "name": "Intrepid Growth Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Former leaders from OMERS, CPPIB, and CDL lead fund to find “the next generation of AI founders.” \n The post  Intrepid Growth Partners secures $525-million USD final close for inaugural AI fund   first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "events": [
+    {
+     "date": "2026-09-14",
+     "amount": "$525",
+     "round": "Growth",
+     "title": "Intrepid Growth Partners secures $525-million USD final close for inaugural AI fund",
+     "link": "https://betakit.com/intrepid-growth-partners-secures-525-million-usd-final-close-for-inaugural-ai-fund/",
+     "source": "BetaKit"
     }
    ]
   }
