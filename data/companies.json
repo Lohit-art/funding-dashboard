@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T18:20:33+00:00",
+ "updated": "2026-09-15T17:28:18+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -37982,6 +37982,550 @@
      "title": "Intrepid Growth Partners secures $525-million USD final close for inaugural AI fund",
      "link": "https://betakit.com/intrepid-growth-partners-secures-525-million-usd-final-close-for-inaugural-ai-fund/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "evvy": {
+   "name": "Evvy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "$40M",
+     "round": "Series B",
+     "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+     "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "thatch": {
+   "name": "Thatch",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Thatch has raised $108 million in new funding at a $1 billion valuation as the health benefits platform scales its model of helping employers replace traditional group health plans with individual healthcare budgets. The financing came from The General Partnership, Index Ventures",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "$108 Million",
+     "round": "",
+     "title": "Thatch Raises $108 Million At $1 Billion Valuation As Health Benefits Platform Expands To More Than 5,000 Employers",
+     "link": "https://pulse2.com/thatch-raises-108-million-at-1-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "liquid-compute": {
+   "name": "Liquid Compute",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Liquid Compute has raised $15 million in seed funding to build a marketplace and financial infrastructure platform for buying, selling, pricing and managing AI computing capacity. FirstMark and Chemistry co-led the round, with participation from K8 Capital, Night Capital, TrueBri",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "$15 Million",
+     "round": "Seed",
+     "title": "Liquid Compute Raises $15 Million Seed Round To Build Regulated AI Infrastructure Marketplace",
+     "link": "https://pulse2.com/liquid-compute-raises-15-million-seed-round/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "jack-jill": {
+   "name": "Jack & Jill",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Jack & Jill, the London-based startup that puts an AI agent on each side of the hiring table, has raised €34.68 million ($40 million) in a Series A round. The round was led by Air Street Capital, with new investors Madrona and Antler joining. Existing backers Creandum, Ada Ventur",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "$40 Million",
+     "round": "Series A",
+     "title": "Jack & Jill Raises $40 Million Series A For AI Agent Hiring Platform That Matches Candidates Directly With Employers",
+     "link": "https://pulse2.com/jack-jill-raises-40-million-series-a/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-09-15",
+     "amount": "€34.68 million",
+     "round": "Series A",
+     "title": "London-based Jack & Jill raises €34.68 million Series A to scale its AI agents for jobseekers and employers",
+     "link": "https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "exein": {
+   "name": "Exein",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Exein, the Physical AI cybersecurity company, today announced $270 million in new funding at a $1.7 billion valuation, making it Europe's most valuable cybersecurity startup.  Exein’s AI-powered techn...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "$270 Million",
+     "round": "",
+     "title": "Exein Raises $270 Million At $1.7 Billion Valuation To Expand Physical AI Cybersecurity Platform",
+     "link": "https://pulse2.com/exein-raises-270-million-at-1-7-billion-valuation-to-expand-physical-ai-cybersecurity-platform/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-09-15",
+     "amount": "$270M",
+     "round": "",
+     "title": "Exein raises $270M at $1.7B valuation, claims title of Europe’s most valuable cybersecurity scaleup",
+     "link": "https://tech.eu/2026/09/15/exein-raises-270m-at-1-7b-valuation-claims-title-of-europe-s-most-valuable-cybersecurity-scaleup/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "isometric-brings-series-a-to-43-million-as-it-expands-beyon": {
+   "name": "Isometric brings Series A to €43 million as it expands beyon",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Isometric, a London-based certifier for the industrial economy, today announced that their Series A has reached €43 million ($50 million) to accelerate its expansion with the help of new investors. EU-Startups understands today’s investment to have a value of approximately €8.6 m",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "€43 million",
+     "round": "Series A",
+     "title": "UK ClimateTech startup Isometric brings Series A to €43 million as it expands beyond carbon removal",
+     "link": "https://www.eu-startups.com/2026/09/uk-climatetech-startup-isometric-brings-series-a-to-e43-million-as-it-expands-beyond-carbon-removal/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "crane-venture-partners": {
+   "name": "Crane Venture Partners",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "London’s Crane Venture Partners today announced that they have raised €419 million ($484 million) across four investment vehicles, as well as their plans to create an inception-to-Seed venture platform in partnership with MassMutual Ventures (MMV). The four vehicles making up the",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "€419 million",
+     "round": "Seed",
+     "title": "Crane Venture Partners raises €419 million as it expands across Europe, APAC and the US",
+     "link": "https://www.eu-startups.com/2026/09/crane-venture-partners-raises-e419-million-as-it-expands-across-europe-apac-and-the-us/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "status-as-it-faces-5-000-attacks-weekly-and": {
+   "name": "status as it faces 5,000 attacks weekly and",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Exein, a Physical AI cybersecurity company out of Rome, today announced €234 million ($270 million) in new funding at a €1.4 billion ($1.7 billion) valuation, reportedly making it the most valuable cybersecurity startup in Europe. The funding will accelerate Exein’s US and APAC e",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "€234 million",
+     "round": "",
+     "title": "Exein reaches Unicorn status as it faces 5,000 attacks weekly and raises €234 million for Physical AI cybersecurity",
+     "link": "https://www.eu-startups.com/2026/09/facing-5000-new-attacks-weekly-italys-exein-raises-e234-million-for-physical-ai-cybersecurity/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "magnitude-biosciences": {
+   "name": "Magnitude Biosciences",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Magnitude Biosciences, a specialist contract research organisation (CRO) and Durham University spinout, has secured €1.5 million (£1.3 million) in funding to accelerate the commercialisation of VivoScan, its proprietary in vivo high-throughput screening (HTS) platform. Northstar ",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "€1.5 million",
+     "round": "",
+     "title": "Magnitude Biosciences secures €1.5 million investment to scale in-vivo drug discovery platform",
+     "link": "https://www.eu-startups.com/2026/09/magnitude-biosciences-secures-e1-5-million-investment-to-scale-in-vivo-drug-discovery-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "enforceshield": {
+   "name": "EnforceShield",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "EnforceShield, a Vilnius-based LegalTech startup that shields businesses from intellectual property violations, has raised a €1.7 million Seed round for its attorney-built, autonomous intellectual property (IP) enforcement platform.  The round was led by Vendep Capital, with part",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "€1.7 million",
+     "round": "Seed",
+     "title": "Vilnius-based EnforceShield raises €1.7 million Seed round to fight AI-powered IP abuse with autonomous enforcement",
+     "link": "https://www.eu-startups.com/2026/09/vilnius-based-enforceshield-raises-e1-7-million-seed-round-to-fight-ai-powered-ip-abuse-with-autonomous-enforcement/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "helsinki-s-zero": {
+   "name": "Helsinki’s Zero",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Zero, a Helsinki-based startup building the GTM operating system for the AI era, today announced an €8.93 million ($10.3 million) Seed round. The company opens to the public today. The round was led by New York-based Primary Venture Partners, with participation from Inception Fun",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "€8.93 million",
+     "round": "Seed",
+     "title": "Helsinki’s Zero raises €8.93 million with backing from Lovable and Supercell founders to make CRM history",
+     "link": "https://www.eu-startups.com/2026/09/helsinkis-zero-raises-e8-93-million-with-backing-from-lovable-and-supercell-founders-to-make-crm-history/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "euclyd": {
+   "name": "EUCLYD",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "EUCLYD, an Eindhoven-based semiconductor systems startup, has raised a Series A funding round of more than €200 million to accelerate development of “ultra-efficient” infrastructure for foundation AI models. The round was co-led by Samsung, Somerset Capital Partners, the EQT-mana",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "€200 million",
+     "round": "Series A",
+     "title": "Dutch AI chip startup EUCLYD lands over €200 million Series A, taps ex-ASML chief Peter Wennink as Chairman",
+     "link": "https://www.eu-startups.com/2026/09/dutch-ai-chip-startup-euclyd-lands-e200-million-series-a-taps-ex-asml-chief-peter-wennink-as-chairman/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "academyai": {
+   "name": "AcademyAI",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AcademyAIhas raised £1.65 million in an oversubscribed pre-seed funding round to developits platform for assessing employees' AI skills and providing training tailoredto their roles. Investors in the ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "£1.65M",
+     "round": "Pre-Seed",
+     "title": "AcademyAI raises £1.65M to close the workplace AI skills gap",
+     "link": "https://tech.eu/2026/09/15/academyai-raises-ps165m-to-close-the-workplace-ai-skills-gap/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "originalvoices": {
+   "name": "OriginalVoices",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "OriginalVoices, a platform providing human-generateddata and insights for AI systems, has raised £1 million in a pre-seed fundinground led by venture capital firm Iona Star.OriginalVoices is developin...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "£1M",
+     "round": "Pre-Seed",
+     "title": "OriginalVoices raises £1M pre-seed round led by Iona Star",
+     "link": "https://tech.eu/2026/09/15/originalvoices-raises-ps1m-pre-seed-round-led-by-iona-star/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "lithuanian-legaltech-enforceshield": {
+   "name": "Lithuanian legaltech EnforceShield",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Legaltech startup EnforceShield has raised€1.7 million in seed funding to expand its platform for automating intellectualproperty (IP) enforcement. The round was led by Vendep Capital, withparticipati...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "€1.7M",
+     "round": "Seed",
+     "title": "Lithuanian legaltech EnforceShield secures €1.7M for automated IP enforcement",
+     "link": "https://tech.eu/2026/09/15/lithuanian-legaltech-enforceshield-secures-eur17m-for-automated-ip-enforcement/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "depotcharge": {
+   "name": "Depotcharge",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Munich-based Depotcharge has raised€2.7 million in a pre-seed funding round to expand its shared charginginfrastructure platform for electric road freight and support its internationalgrowth. The roun...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "€2.7M",
+     "round": "Pre-Seed",
+     "title": "Depotcharge lands €2.7M and BGL partnership to scale electric truck charging",
+     "link": "https://tech.eu/2026/09/15/depotcharge-lands-eur27m-and-bgl-partnership-to-scale-electric-truck-charging/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "crm-challenger-zero": {
+   "name": "CRM challenger Zero",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The founders of European AI startups Lovable and Langdock are among the backers of a Finnish startup which is challenging CRM (customer relationship management) giants Salesforce and HubSpot.Zero has ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "$10M",
+     "round": "",
+     "title": "CRM challenger Zero gets backing from Lovable and Langdock founders in $10M raise",
+     "link": "https://tech.eu/2026/09/15/crm-challenger-zero-gets-backing-from-lovable-and-langdock-founders-in-10m-raise/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "finland": {
+   "name": "Finland",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Google is set to invest at least €13 billion in digital infrastructure in Finland over 2027–2028, marking the company’s largest single investment in Europe and further strengthening Finland’s position as a hub for AI, cloud and digital infrastructure in the Nordics. The investmen",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "€13 billion",
+     "round": "",
+     "title": "Finland lands Google’s biggest-ever European investment",
+     "link": "https://arcticstartup.com/google-invests-at-least-e13-billion-to-finland/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "finnish-startup": {
+   "name": "Finnish startup",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Helsinki-based Zero has raised a $10.3 million seed round led by New York-based Primary Venture Partners, with participation from Inception Fund, Defiant, Greens Ventures and founders of Lovable, Supercell, Langdock and AMD Silo AI. Zero is developing a GTM operating system desig",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "$10.3 million",
+     "round": "Seed",
+     "title": "Finnish startup raises $10.3 million seed to replace the traditional CRM with AI agents",
+     "link": "https://arcticstartup.com/zero-raises-10-3-million-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "swedish-startup": {
+   "name": "Swedish startup",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Swedish energy technology company Rebaba has raised $4.6 million (SEK 44.1 million) in an oversubscribed seed round led by Sistafund, alongside EIT Urban Mobility, with participation from existing shareholders and new European investors. Founded around the reuse of electric vehic",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "$4.6 million",
+     "round": "Seed",
+     "title": "Swedish startup raises $4.6 million seed to turn retired EV batteries into energy storage systems",
+     "link": "https://arcticstartup.com/rebaba-closes-4-6-million-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "novastar-partners-backs-pre-seed-stage-focused-vc-firm-ajvc": {
+   "name": "Novastar Partners Backs Pre-Seed Stage Focused VC Firm AJVC",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Investment firm Novastar Partners has made its maiden India bet by investing an undisclosed sum in Aviral Bhatnagar-led venture capital…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Novastar Partners Backs Pre-Seed Stage Focused VC Firm AJVC",
+     "link": "https://inc42.com/buzz/novastar-partners-backs-pre-seed-stage-focused-vc-firm-ajvc/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "flam": {
+   "name": "Flam",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI-powered content platform Flam has raised $40 Mn (around ₹383 Cr), via a mix of primary and secondary deals, in…",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "$40 Mn",
+     "round": "",
+     "title": "Flam Bags $40 Mn To Offer Immersive Content To Enterprises",
+     "link": "https://inc42.com/buzz/flam-bags-40-mn-to-offer-immersive-content-to-enterprises/",
+     "source": "Inc42"
     }
    ]
   }
