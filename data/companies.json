@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T17:28:18+00:00",
+ "updated": "2026-09-16T17:27:51+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -38526,6 +38526,630 @@
      "title": "Flam Bags $40 Mn To Offer Immersive Content To Enterprises",
      "link": "https://inc42.com/buzz/flam-bags-40-mn-to-offer-immersive-content-to-enterprises/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "a-hard-year-for-software-ipos": {
+   "name": "A Hard Year For Software IPOs",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "U.S. venture-backed technology companies have secured around $90 billion in domestic public offerings this year, per Crunchbase data. That’s already the second-highest annual tally on record, and we’ve still got a few months to go.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$90 billion",
+     "round": "",
+     "title": "A Hard Year For Software IPOs",
+     "link": "https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "footprint": {
+   "name": "Footprint",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Footprint has raised $25 million in Series B funding to expand Percy, its agentic AI operating system for financial crime compliance, and Trust Fabric, the underlying infrastructure designed to turn individual investigations into reusable organizational knowledge. \n The post  Foo",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$25 Million",
+     "round": "Series B",
+     "title": "Footprint Raises $25 Million Series B To Expand AI Financial Crime Compliance Platform",
+     "link": "https://pulse2.com/footprint-raises-25-million-series-b-to-expand-ai-financial-crime-compliance-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "matter-venture-partners": {
+   "name": "Matter Venture Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Matter Venture Partners has closed its second fund at $450 million to invest in early-stage HardTech companies spanning semiconductors, robotics and Physical AI, AI infrastructure, quantum computing, advanced manufacturing, energy technologies and AI applications for scientific r",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$450 Million",
+     "round": "",
+     "title": "Matter Venture Partners Closes $450 Million Fund II For HardTech, Robotics, And Physical AI Startups",
+     "link": "https://pulse2.com/matter-venture-partners-closes-450-million-fund-ii/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "etfbook": {
+   "name": "ETFBOOK",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "ETFBOOK (SquaredData AG) has raised $13million in a funding round to expand its ETF data and analytics platform intothe Americas and Asia-Pacific. Expedition Growth Capital led the roundwith participa...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$13 Million",
+     "round": "Growth",
+     "title": "ETFBOOK Raises $13 Million To Expand ETF Data And Analytics Platform Into U.S. And Asia-Pacific",
+     "link": "https://pulse2.com/etfbook-raises-13-million-to-expand-etf-data-and-analytics-platform-into-u-s-and-asia-pacific/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-09-16",
+     "amount": "$13M",
+     "round": "Growth",
+     "title": "ETFBOOK raises $13M to expand ETF data and analytics globally",
+     "link": "https://tech.eu/2026/09/16/etfbook-raises-13m-to-expand-etf-data-and-analytics-globally/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "gaia-dynamics": {
+   "name": "Gaia Dynamics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Gaia Dynamics has raised $7 million in an oversubscribed seed funding round led by Corazon Capital as the company expands its AI-powered global trade platform into strategic trade intelligence, compliance planning and tariff optimization. \n The post  Gaia Dynamics Raises $7 Milli",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$7 Million",
+     "round": "Seed",
+     "title": "Gaia Dynamics Raises $7 Million Seed Round To Expand AI Platform For Global Trade Compliance And Tariff Optimization",
+     "link": "https://pulse2.com/gaia-dynamics-raises-7-million-seed-round-led-by-corazon-capital/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ucl-spinout-acoubatt": {
+   "name": "UCL Spinout AcouBatt",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "AcouBatt, a University College London spinout developing AI-powered acoustic sensing technology for battery manufacturing and monitoring, has raised £1.1 million in pre-seed funding to help manufacturers produce lithium-ion batteries faster, with less waste and greater visibility",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "£1.1 Million",
+     "round": "Pre-Seed",
+     "title": "UCL Spinout AcouBatt Raises £1.1 Million Pre-Seed Round For AI-Powered Battery Diagnostics",
+     "link": "https://pulse2.com/ucl-spinout-acoubatt-raises-1-1-million-pre-seed-round-for-ai-powered-battery-diagnostics/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "expanse": {
+   "name": "Expanse",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Expanse, an AI infrastructure company, today announced a €4.5 million ($5.3 million) Seed funding round in order to expand its engineering team, accelerate product development and reach wider industry adoption. The round was led by Crane Venture Partners, with participation from ",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "€4.5 million",
+     "round": "Seed",
+     "title": "U.S. and U.K.-based Expanse raises €4.5 million for predictive AI infrastructure platform",
+     "link": "https://www.eu-startups.com/2026/09/u-s-and-u-k-based-expanse-raises-e4-5-million-for-predictive-ai-infrastructure-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "integral": {
+   "name": "Integral",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Berlin-based accounting technologycompany Integral has raised €18 million in a Series A round to expand itsAI-powered accounting, tax and payroll services for small and medium-sizedbusinesses. The rou...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "€18 million",
+     "round": "Series A",
+     "title": "Berlin-based Integral raises €18 million to deliver AI-run accounting, tax and payroll services to SMEs",
+     "link": "https://www.eu-startups.com/2026/09/berlin-based-integral-raises-e18-million-to-deliver-ai-run-accounting-tax-and-payroll-services-to-smes/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-16",
+     "amount": "€18M",
+     "round": "Series A",
+     "title": "Integral lands €18M Series A for AI-native accounting and tax services",
+     "link": "https://tech.eu/2026/09/16/integral-lands-eur18m-series-a-for-ai-native-accounting-and-tax-services/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "vulnerability-tsunami-prompts-france-s-hackuity-to": {
+   "name": "“Vulnerability tsunami” prompts France’s Hackuity to",
+   "country": "France",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hackuity, a Lyon-based AI-powered Vulnerability Operations Center (VOC), today announced a €16 million ($19 million) funding round to accelerate product innovation, AI capabilities, and international expansion across Europe and Asia. The round was led by Forgepoint Capital Intern",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "€16 million",
+     "round": "",
+     "title": "“Vulnerability tsunami” prompts France’s Hackuity to land €16 million for automated cyber remediation",
+     "link": "https://www.eu-startups.com/2026/09/vulnerability-tsunami-prompts-frances-hackuity-to-land-e16-million-for-automated-cyber-remediation/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "igii": {
+   "name": "iGii",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "iGii, a Stirling-based DeepTech advanced materials company behind the proprietary carbon nanomaterial Gii, today announced €26.49 million (£22.7 million) in new funding to accelerate the commercialisation and industrial adoption of its technology.  The round comprises a €13.65 mi",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "€26.5 million",
+     "round": "Series B",
+     "title": "Stirling-based iGii secures €26.5 million to commercialise its proprietary carbon nanomaterial",
+     "link": "https://www.eu-startups.com/2026/09/stirling-based-igii-secures-e26-5-million-to-commercialise-its-proprietary-carbon-nanomaterial/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "veridion": {
+   "name": "Veridion",
+   "country": "Romania",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Business intelligence startup Veridion has raised $20million in Series A funding to expand its AI-powered platform for providingcontinuously updated information on businesses worldwide. The round was ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "€17.5 million",
+     "round": "Series A",
+     "title": "Bucharest-based Veridion raises €17.5 million to scale its real-time map of the world’s businesses",
+     "link": "https://www.eu-startups.com/2026/09/bucharest-based-veridion-raises-e17-5-million-to-scale-its-real-time-map-of-the-worlds-businesses/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-16",
+     "amount": "$20M",
+     "round": "Series A",
+     "title": "Veridion lands $20M to take business intelligence beyond static data",
+     "link": "https://tech.eu/2026/09/16/veridion-lands-20m-to-take-business-intelligence-beyond-static-data/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "boxd": {
+   "name": "Boxd",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Dutchstartup Boxd has raised $2 million in a pre-seed funding round to develop itscloud computing infrastructure for developers and AI coding agents. The roundwas led by BlueYard Capital, with partici...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$2M",
+     "round": "Pre-Seed",
+     "title": "Boxd raises $2M to build cloud infrastructure for AI coding agents",
+     "link": "https://tech.eu/2026/09/16/boxd-raises-2m-to-build-cloud-infrastructure-for-ai-coding-agents/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "acoubatt": {
+   "name": "AcouBatt",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "London-based deeptech startup AcouBatt has raised £1.1million in pre-seed funding to develop its battery diagnostics technology andadvance industrial pilots with battery manufacturers. The round was l...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "£1.1M",
+     "round": "Pre-Seed",
+     "title": "AcouBatt raises £1.1M to improve battery manufacturing safety and reliability",
+     "link": "https://tech.eu/2026/09/16/acoubatt-raises-ps11m-to-improve-battery-manufacturing-safety-and-reliability/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "hackuity": {
+   "name": "Hackuity",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "France-basedcybersecurity company Hackuity has raised $19 million in funding to furtherdevelop its vulnerability management platform and expand internationally. Theround was led by Forgepoint Capital ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$19M",
+     "round": "",
+     "title": "Hackuity secures $19M to address rising AI-driven security vulnerabilities",
+     "link": "https://tech.eu/2026/09/16/hackuity-secures-19m-to-address-rising-ai-driven-security-vulnerabilities/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "opio": {
+   "name": "Opio",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI for financial due diligence startup Opio has raised €4 million from investors Frst, Seedcamp and GFC to develop its specialised technology that helps auditors examine a company's accounts ahead of ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "€4M",
+     "round": "",
+     "title": "Opio raises €4M to automate the grunt work of financial due diligence",
+     "link": "https://tech.eu/2026/09/16/opio-raises-eur4m-to-automate-the-grunt-work-of-financial-due-diligence/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "brighteye-ventures": {
+   "name": "Brighteye Ventures",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Brighteye Ventures has announced a $72 million first close of their Fund III, taking the firm to a total of $245 million in AUM.  Brighteye invests in early-stage European companies shaping the future...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$72M",
+     "round": "",
+     "title": "Brighteye Ventures lands $72M first close to back the future of learning and work",
+     "link": "https://tech.eu/2026/09/16/brighteye-ventures-lands-72m-first-close-to-back-the-future-of-learning-and-work/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "quartz-launches-with-2-75m-to-build-a-personal-banker-for-e": {
+   "name": "Quartz launches with £2.75M to build a personal banker for e",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "London-based fintech Quartz has raised £2.75million in pre-seed funding as it launches its personal finance platform in theUK. The round was led by Daphni, with participation from Outward VC and K Fun...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "£2.75M",
+     "round": "Pre-Seed",
+     "title": "Quartz launches with £2.75M to build a personal banker for everyone",
+     "link": "https://tech.eu/2026/09/16/quartz-launches-with-ps275m-to-build-a-personal-banker-for-everyone/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "copenhagen-s-complir": {
+   "name": "Copenhagen’s Complir",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Product compliancetechnology company Complir has raised $11 million in seed funding to expand itsAI-powered platform that helps retailers and brands manage regulatoryrequirements. The round was led by...",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$11M",
+     "round": "Seed",
+     "title": "Copenhagen’s Complir raises $11M to tackle product compliance bottlenecks",
+     "link": "https://tech.eu/2026/09/16/copenhagens-complir-raises-11m-to-tackle-product-compliance-bottlenecks/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "finvolve-announces-first": {
+   "name": "Finvolve Announces First",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "India Accelerator’s dedicated multi-stage venture capital (VC) investment arm Finvolve has announced the first close of its ₹250 Cr growth…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "₹90",
+     "round": "Growth",
+     "title": "Finvolve Announces First Close Of Growth Stage Fund At ₹90 Cr",
+     "link": "https://inc42.com/buzz/finvolve-announces-first-close-of-growth-stage-fund-at-%e2%82%b990-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "aakrit-vaish-s-activate": {
+   "name": "Aakrit Vaish’s Activate",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Former Haptik CEO Aakrit Vaish-led VC firm Activate has announced the final close of its maiden fund at $105 Mn…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$105 Mn",
+     "round": "",
+     "title": "Aakrit Vaish’s Activate Closes Maiden VC Fund At $105 Mn To Back AI Startups",
+     "link": "https://inc42.com/buzz/aakrit-vaishs-activate-closes-maiden-vc-fund-at-105-mn-to-back-ai-startups/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "verifaix": {
+   "name": "VerifAIX",
+   "country": "India",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI-native semiconductor verification startup VerifAIX has raised $5 Mn (about ₹48 Cr) in a seed funding round co-led by Endiya…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$5 Mn",
+     "round": "Seed",
+     "title": "VerifAIX Bags $5 Mn To Scale AI-Based Chip Verification Platform",
+     "link": "https://inc42.com/buzz/verifaix-bags-5-mn-to-scale-ai-based-chip-verification-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "firi": {
+   "name": "Firi",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Beauty quick commerce startup Firi has raised $3 Mn (about ₹28.8 Cr) in a seed funding round led by 360…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$3 Mn",
+     "round": "Seed",
+     "title": "Firi Bags $3 Mn To Expand Beauty Quick Commerce Platform",
+     "link": "https://inc42.com/buzz/firi-bags-3-mn-to-expand-beauty-quick-commerce-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "portage": {
+   "name": "Portage",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Portage is the FinTech investment arm of Power Corporation-owned Sagard. \n The post  Portage closes fourth FinTech VC fund at $600 million USD  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$600 million",
+     "round": "",
+     "title": "Portage closes fourth FinTech VC fund at $600 million USD",
+     "link": "https://betakit.com/portage-closes-fourth-fintech-vc-fund-at-600-million-usd/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "startmate-alumni-evatto": {
+   "name": "Startmate alumni Evatto",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Evatto bags $1.02m to drag enterprise events out of spreadsheet hell with AI.",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "events": [
+    {
+     "date": "2026-09-16",
+     "amount": "$1.02 million",
+     "round": "Pre-Seed",
+     "title": "Startmate alumni Evatto raises $1.02 million pre-Seed",
+     "link": "https://www.startupdaily.net/topic/funding/startmate-alumni-evatto-raises-1-02-million-pre-seed/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "doctors-microdose-ai-receptionist-with-another-3-5-million": {
+   "name": "Doctors microdose AI receptionist with another $3.5 million ",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Medow Health AI bags $3.5m for an AI front desk to stop specialist clinics ghosting patients.",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "events": [
+    {
+     "date": "2026-09-15",
+     "amount": "$3.5 million",
+     "round": "Seed",
+     "title": "Doctors microdose AI receptionist with another $3.5 million in Seed funding",
+     "link": "https://www.startupdaily.net/topic/funding/doctors-microdose-ai-receptionist-with-another-3-5-million-in-seed-funding/",
+     "source": "Startup Daily"
     }
    ]
   }
