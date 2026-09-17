@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T17:27:51+00:00",
+ "updated": "2026-09-17T17:27:48+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -37122,10 +37122,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Furo (formerly Lumera Energy), a Munich-based energy software company, today announced that it has closed a €3.44 million ($4 million) funding round to further develop its software, expand into additional European markets, and grow its team. The round was led by US investor TQ Ve",
+   "summary": "Furo, a Munich-based energy software company that develops technology to control and optimize commercial and industrial battery storage systems, has raised $4 million to expand its software platform and enter additional European markets. \n The post  Furo Raises $4 Million To Opti",
    "audience": "General / mixed",
    "first_seen": "2026-09-11",
-   "last_seen": "2026-09-11",
+   "last_seen": "2026-09-17",
    "events": [
     {
      "date": "2026-09-11",
@@ -37134,6 +37134,14 @@
      "title": "Munich-based Furo raises €3.44 million to make industrial battery storage economically viable",
      "link": "https://www.eu-startups.com/2026/09/munich-based-furo-raises-e3-44-million-to-make-industrial-battery-storage-economically-viable/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-17",
+     "amount": "$4 Million",
+     "round": "",
+     "title": "Furo Raises $4 Million To Optimize Industrial Energy Storage Across Europe",
+     "link": "https://pulse2.com/furo-raises-4-million-to-optimize-industrial-energy-storage-across-europe/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -38513,11 +38521,11 @@
    "sector": "Gaming / Media",
    "is_ai": true,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "AI-powered content platform Flam has raised $40 Mn (around ₹383 Cr), via a mix of primary and secondary deals, in…",
+   "stage": "emerging",
+   "summary": "Flam, an AI-powered interactive content company, has raised $40 million in Series B funding led by QED Investors to expand its AI models, product portfolio and global enterprise sales operation. \n The post  Flam Raises $40 Million Series B To Scale Video, 3D And Visual Agent Tech",
    "audience": "Enterprises",
    "first_seen": "2026-09-15",
-   "last_seen": "2026-09-15",
+   "last_seen": "2026-09-17",
    "events": [
     {
      "date": "2026-09-15",
@@ -38526,6 +38534,14 @@
      "title": "Flam Bags $40 Mn To Offer Immersive Content To Enterprises",
      "link": "https://inc42.com/buzz/flam-bags-40-mn-to-offer-immersive-content-to-enterprises/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-09-17",
+     "amount": "$40 Million",
+     "round": "Series B",
+     "title": "Flam Raises $40 Million Series B To Scale Video, 3D And Visual Agent Technology",
+     "link": "https://pulse2.com/flam-raises-40-million-series-b-to-scale-video-3d-and-visual-agent-technology/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -38770,10 +38786,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "emerging",
-   "summary": "iGii, a Stirling-based DeepTech advanced materials company behind the proprietary carbon nanomaterial Gii, today announced €26.49 million (£22.7 million) in new funding to accelerate the commercialisation and industrial adoption of its technology.  The round comprises a €13.65 mi",
+   "summary": "Scottish advanced materials company iGii has secured a £22.7 million financing and support package to accelerate commercialization and industrial adoption of Gii, its proprietary three-dimensional porous pure carbon nanomaterial. \n The post  iGii Secures £22.7 Million To Scale 3D",
    "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
+   "last_seen": "2026-09-17",
    "events": [
     {
      "date": "2026-09-16",
@@ -38782,6 +38798,14 @@
      "title": "Stirling-based iGii secures €26.5 million to commercialise its proprietary carbon nanomaterial",
      "link": "https://www.eu-startups.com/2026/09/stirling-based-igii-secures-e26-5-million-to-commercialise-its-proprietary-carbon-nanomaterial/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-17",
+     "amount": "£22.7 Million",
+     "round": "",
+     "title": "iGii Secures £22.7 Million To Scale 3D Porous Carbon Nanomaterial",
+     "link": "https://pulse2.com/igii-secures-22-7-million-to-scale-3d-porous-carbon-nanomaterial/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -38794,10 +38818,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Business intelligence startup Veridion has raised $20million in Series A funding to expand its AI-powered platform for providingcontinuously updated information on businesses worldwide. The round was ...",
+   "summary": "Veridion has raised $20 million in Series A funding to expand its AI-powered live business graph, which provides a continuously updated view of more than 640 million companies worldwide. The round was led by Hoxton Ventures, with participation from existing investors Underline Ve",
    "audience": "General / mixed",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
+   "last_seen": "2026-09-17",
    "events": [
     {
      "date": "2026-09-16",
@@ -38814,6 +38838,14 @@
      "title": "Veridion lands $20M to take business intelligence beyond static data",
      "link": "https://tech.eu/2026/09/16/veridion-lands-20m-to-take-business-intelligence-beyond-static-data/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-17",
+     "amount": "$20 Million",
+     "round": "Series A",
+     "title": "Veridion Raises $20 Million Series A To Map 640 Million Companies In Real Time",
+     "link": "https://pulse2.com/veridion-raises-20-million-series-a-to-map-640-million-companies-in-real-time/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -39149,6 +39181,606 @@
      "round": "Seed",
      "title": "Doctors microdose AI receptionist with another $3.5 million in Seed funding",
      "link": "https://www.startupdaily.net/topic/funding/doctors-microdose-ai-receptionist-with-another-3-5-million-in-seed-funding/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "comp-ai-sets-eyes-on-a-continuously-agentic-future-for-secur": {
+   "name": "Comp AI sets eyes on a continuously agentic future for secur",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$34 million",
+     "round": "Series A",
+     "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+     "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "psg-equity": {
+   "name": "PSG Equity",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "PSG Equity has closed its third European growth equity fund, PSG Europe III, at more than €4.4 billion in total committed capital as the firm expands its strategy of investing in European software and technology-enabled services companies. \n The post  PSG Equity Closes Third Euro",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "€4.4 Billion",
+     "round": "Growth",
+     "title": "PSG Equity Closes Third European Growth Fund At Over €4.4 Billion To Back Software And AI Companies",
+     "link": "https://pulse2.com/psg-equity-closes-third-european-growth-fund-at-over-e4-4-billion-to-back-software-and-ai-companies/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aethlon-medical-to-merge-with-north-immunology-and": {
+   "name": "Aethlon Medical To Merge With North Immunology And",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Aethlon Medical has entered into a definitive agreement to merge with privately held biotechnology company North Immunology in an all-stock transaction, alongside an oversubscribed $180 million private placement intended to fund development of North's lead atopic dermatitis progr",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$180 Million",
+     "round": "",
+     "title": "Aethlon Medical To Merge With North Immunology And Raise $180 Million To Advance Atopic Dermatitis Drug NOR-101",
+     "link": "https://pulse2.com/aethlon-medical-to-merge-with-north-immunology-and-raise-180-million-to-advance-atopic-dermatitis-drug-nor-101/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "euno": {
+   "name": "Euno",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Euno, an enterprise AI context platform designed to help organizations give AI agents trusted business and data context, has raised $23 million in Series A funding led by N47. The financing brings the company's total funding to $29 million. Existing investor 10D also participated",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$23 Million",
+     "round": "Series A",
+     "title": "Euno Raises $23 Million Series A To Help Companies Deploy Trusted AI Agents",
+     "link": "https://pulse2.com/euno-raises-23-million-series-a/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "telmax": {
+   "name": "telMAX",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "telMAX, an independent Canadian provider of 100% fibre internet, TV and phone services, has secured $215 million in growth financing to accelerate the expansion of its fibre network across Ontario. \n The post  telMAX Secures $215 Million From Hamilton Lane, Power Sustainable, Pal",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$215 Million",
+     "round": "Growth",
+     "title": "telMAX Secures $215 Million From Hamilton Lane, Power Sustainable, Palistar And MidStar To Expand Ontario Fibre Network",
+     "link": "https://pulse2.com/telmax-secures-215-million-from-hamilton-lane-power-sustainable-palistar-and-midstar-to-expand-ontario-fibre-network/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "alphapai": {
+   "name": "AlphaPai",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AlphaPai, an AI investment research assistant developed by financial AI company Rabyte Technology, has raised $50 million in Series B funding, marking its third consecutive financing round in the past year. \n The post  AlphaPai Raises $50 Million Series B To Expand Investment Res",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$50 Million",
+     "round": "Series B",
+     "title": "AlphaPai Raises $50 Million Series B To Expand Investment Research Workflows",
+     "link": "https://pulse2.com/alphapai-raises-50-million-series-b-to-expand-investment-research-workflows/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fin-com-emerges-from-stealth-with-20-million-seed-round": {
+   "name": "Fin.com Emerges From Stealth With $20 Million Seed Round",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Fin.com, a financial infrastructure company building a unified network for global money movement, has emerged from stealth with $20 million in seed funding after growing annual recurring revenue more than 50-fold since the beginning of 2026. The round was led by Expa and Uber co-",
+   "audience": "Consumers",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$20 Million",
+     "round": "Seed",
+     "title": "Fin.com Emerges From Stealth With $20 Million Seed Round",
+     "link": "https://pulse2.com/fin-com-emerges-from-stealth-with-20-million-seed-round/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "circle-pharma": {
+   "name": "Circle Pharma",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Circle Pharma has raised an oversubscribed $92.5 million Series E financing to advance CID-165, its first-in-class oral macrocyclic cyclin D1 RxL inhibitor, into clinical development for ER-positive breast cancer. The round was led by The Column Group, with participation from Nex",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$92.5 Million",
+     "round": "Series E",
+     "title": "Circle Pharma Raises $92.5 Million Series E To Advance Cyclin D1 Cancer Drug CID-165 Into Clinical Development",
+     "link": "https://pulse2.com/circle-pharma-raises-92-5-million-series-e-to-advance-cyclin-d1-cancer-drug-cid-165-into-clinical-development/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "caddi": {
+   "name": "CADDi",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "CADDi has raised $114 million in Series D funding at a $1.2 billion valuation as the manufacturing technology company expands its AI-powered data platform globally. The financing increases CADDi's total funding to $234 million. \n The post  CADDi Raises $114 Million Series D At $1",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$114 Million",
+     "round": "Series D",
+     "title": "CADDi Raises $114 Million Series D At $1.2 Billion Valuation",
+     "link": "https://pulse2.com/caddi-raises-114-million-series-d-at-1-2-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sling-therapeutics": {
+   "name": "Sling Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Sling Therapeutics, an Ann Arbor-based clinical-stage biopharmaceutical company, has raised $123 million in Series C financing to advance linsitinib, its oral small-molecule IGF-1R inhibitor for thyroid eye disease, through Phase 3 development. \n The post  Sling Therapeutics Rais",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$123 Million",
+     "round": "Series C",
+     "title": "Sling Therapeutics Raises $123 Million Series C To Advance Oral Thyroid Eye Disease Drug Into Phase 3",
+     "link": "https://pulse2.com/sling-therapeutics-raises-123-million-series-c-to-advance-oral-thyroid-eye-disease-drug-into-phase-3/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "profound": {
+   "name": "Profound",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Profound has raised $180 million in Series D funding at a $1.8 billion valuation as the company expands from AI search analytics into a broader agentic platform designed to perform work across marketing organizations. The round was co-led by Sequoia Capital and Kleiner Perkins, w",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$180 Million",
+     "round": "Series D",
+     "title": "Profound Raises $180 Million Series D At $1.8 Billion Valuation To Build AI Platform For Marketing Teams",
+     "link": "https://pulse2.com/profound-raises-180-million-series-d-at-1-8-billion-valuation-to-build-ai-platform-for-marketing-teams/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "startup-ryft": {
+   "name": "startup Ryft",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Manchester-based payments company Ryft has secured a €23 million (£20 million) Series B amid broader efforts to promote British tech companies and strengthen sovereign payments infrastructure across Europe. The round was led by Gresham House Ventures, with participation from exis",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "€23 million",
+     "round": "Series B",
+     "title": "UK FinTech startup Ryft secures €23 million to accelerate European expansion",
+     "link": "https://www.eu-startups.com/2026/09/uk-fintech-startup-ryft-secures-e23-million-to-accelerate-european-expansion/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "microlub": {
+   "name": "MicroLub",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "MicroLub, a deeptech ingredient solutions company spun out from the University of Leeds, has completed a $10 million funding round led by Northern Gritstone. All of MicroLub's existing investors parti...",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "€8.7 million",
+     "round": "",
+     "title": "Leeds-based MicroLub raises €8.7 million to help food makers cut fat without sacrificing taste and texture",
+     "link": "https://www.eu-startups.com/2026/09/leeds-based-microlub-raises-e8-7-million-to-help-food-makers-cut-fat-without-sacrificing-taste-and-texture/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-17",
+     "amount": "$10M",
+     "round": "",
+     "title": "MicroLub raises $10M to cut fat and calories without compromising taste",
+     "link": "https://tech.eu/2026/09/17/microlub-raises-10m-to-cut-fat-and-calories-without-compromising-taste/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "syte": {
+   "name": "syte",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "German real estate technology company sytehas raised €9 million in Series A funding to expand its land and propertyanalytics platform. The round was led by amberra, the venture studio of theCooperativ...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "€9 million",
+     "round": "Series A",
+     "title": "Münster-based syte raises €9 million to expand its AI-powered real estate analytics platform",
+     "link": "https://www.eu-startups.com/2026/09/munster-based-syte-raises-e9-million-to-expand-its-ai-powered-real-estate-analytics-platform/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-17",
+     "amount": "€9M",
+     "round": "Series A",
+     "title": "syte raises €9M to automate early-stage real estate planning",
+     "link": "https://tech.eu/2026/09/17/syte-raises-eur9m-to-automate-early-stage-real-estate-planning/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "treble": {
+   "name": "Treble",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Treble Technologies, a sound simulation and synthetic acoustic data company, hasraised $18 million in a Series A-2 round to expand its technology fordeveloping and testing audio-enabled products and A...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "€15 million",
+     "round": "Series A",
+     "title": "Reykjavík-based Treble raises nearly €15 million to bring sound and voice to physical AI",
+     "link": "https://www.eu-startups.com/2026/09/reykjavik-based-treble-raises-e15-million-to-bring-sound-and-voice-to-physical-ai/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-17",
+     "amount": "$18M",
+     "round": "Series A",
+     "title": "Treble raises $18M to scale acoustic simulation for physical AI",
+     "link": "https://tech.eu/2026/09/17/treble-raises-18m-to-scale-acoustic-simulation-for-physical-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "health-force": {
+   "name": "Health Force",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Health Force, a Barcelona-based HealthTech startup building enterprise-grade AI agents for hospital operations, has raised €4.2 million in Seed funding. The round was led by LUMO Labs, with participation from Step Venture, Next Tier Ventures, Target Global and Calm/Storm. “As hos",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "€4.2 million",
+     "round": "Seed",
+     "title": "Barcelona-based Health Force raises €4.2 million to streamline hospital operations with AI agents",
+     "link": "https://www.eu-startups.com/2026/09/barcelona-based-health-force-raises-e4-2-million-to-streamline-hospital-operations-with-ai-agents/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "magentic": {
+   "name": "Magentic",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Magentic, a provider of AI-powered digital workers for industrialcompanies, has raised $18 million in Series A funding, a year after its launch.The round was led by Felicis, with participation from ex...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$18M",
+     "round": "Series A",
+     "title": "Magentic raises $18M to automate industrial operations with AI agents",
+     "link": "https://tech.eu/2026/09/17/magentic-raises-18m-to-automate-industrial-operations-with-ai-agents/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "logibot": {
+   "name": "Logibot",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Logibot, the Belgian software platform that adds an intelligent layer to humanlike robots in logistics, has raised €1.4 million in a round led by BeamBerlin, the startup studio of German family group ...",
+   "audience": "Consumers",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "€1.4M",
+     "round": "",
+     "title": "Logibot bags €1.4M to build a ‘temp agency for robots’",
+     "link": "https://tech.eu/2026/09/17/logibot-bags-eur14m-to-build-a-temp-agency-for-robots/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "creem": {
+   "name": "Creem",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Creem, a billing and monetisationplatform for AI-native companies, has raised €5 million in seed funding todevelop its platform and expand its financial and revenue tools for softwarebusinesses. The r...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "€5M",
+     "round": "Seed",
+     "title": "Creem secures €5M to build financial infrastructure for AI-native startups",
+     "link": "https://tech.eu/2026/09/17/creem-secures-eur5m-to-build-financial-infrastructure-for-ai-native-startups/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "nearby-computing": {
+   "name": "Nearby Computing",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Nearby Computing, a deeptech company that orchestrates and automates distributed cloud-to-edge environments across networks, infrastructure, applications, and AI, has secured a €680,000 investment fro...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "€680K",
+     "round": "",
+     "title": "Nearby Computing secures €680K to scale cloud-to-edge orchestration platform",
+     "link": "https://tech.eu/2026/09/17/nearby-computing-secures-eur680k-to-scale-cloud-to-edge-orchestration-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "india": {
+   "name": "India",
+   "country": "India",
+   "region": "Asia",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Under the recently approved Semicon 2.0 mission, the Central government is seeing investment commitments worth approximately ₹1 Lakh Cr ($11-12…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "₹1",
+     "round": "",
+     "title": "India Gets ₹1 Lakh Cr Investment Commitments Under Semicon 2.0: Vaishnaw",
+     "link": "https://inc42.com/buzz/india-gets-%e2%82%b91-lakh-cr-investment-commitments-under-semicon-2-0-vaishnaw/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "dheyatech": {
+   "name": "DheyaTech",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Aerospace propulsion startup DheyaTech has raised ₹43 Cr (around $5.1 Mn) in a funding round led by Avaana Capital, with…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "₹43",
+     "round": "",
+     "title": "DheyaTech Bags ₹43 Cr To Scale Indigenous Gas Turbine Engine Production",
+     "link": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "cura": {
+   "name": "Cura",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Calgary startup is expanding its team and building a pilot plant near Taber, Alta. \n The post  Cura raises $10 million USD to scale low-carbon cement technology  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$10 million",
+     "round": "",
+     "title": "Cura raises $10 million USD to scale low-carbon cement technology",
+     "link": "https://betakit.com/cura-raises-10-million-usd-to-scale-low-carbon-cement-technology/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "workplace-psychological-safety-startup-refresh-plants-2-5-m": {
+   "name": "Workplace psychological safety startup ReFresh plants $2.5 m",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "ReFresh grabs $2.5m to make psychosocial safety more than limp surveys.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$2.5 million",
+     "round": "Seed",
+     "title": "Workplace psychological safety startup ReFresh plants $2.5 million Seed round",
+     "link": "https://www.startupdaily.net/topic/funding/workplace-psychological-safety-startup-refresh-plants-2-5-million-seed-round/",
      "source": "Startup Daily"
     }
    ]
