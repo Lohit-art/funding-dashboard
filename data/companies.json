@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T17:27:48+00:00",
+ "updated": "2026-09-18T16:56:08+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -37858,10 +37858,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "European satellite company Open Cosmos has secured €300million in funding to expand its satellite manufacturing capacity andaccelerate the deployment of its connectivity and Earth observation services...",
+   "summary": "This week, we tracked more than 70 tech funding deals worth over €1.7 billion and over 10 exits, M&A transactions, rumours, and related news stories across Europe.If email is more your thing, you ...",
    "audience": "General / mixed",
    "first_seen": "2026-09-14",
-   "last_seen": "2026-09-14",
+   "last_seen": "2026-09-18",
    "events": [
     {
      "date": "2026-09-14",
@@ -37869,6 +37869,14 @@
      "round": "",
      "title": "Open Cosmos secures €300M to expand satellite intelligence and connectivity",
      "link": "https://tech.eu/2026/09/14/open-cosmos-secures-eur300m-to-expand-satellite-intelligence-and-connectivity/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-18",
+     "amount": "€300M",
+     "round": "",
+     "title": "Open Cosmos secures €300M, Europe at \"acute risk of marginalisation, and Sweden’s evolving foodtech ecosystem",
+     "link": "https://tech.eu/2026/09/18/open-cosmos-secures-eur300m/",
      "source": "Tech.eu"
     }
    ]
@@ -39781,6 +39789,278 @@
      "round": "Seed",
      "title": "Workplace psychological safety startup ReFresh plants $2.5 million Seed round",
      "link": "https://www.startupdaily.net/topic/funding/workplace-psychological-safety-startup-refresh-plants-2-5-million-seed-round/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "crusoe": {
+   "name": "Crusoe",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The round values the data center giant at $30.9 billion.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$3.9B",
+     "round": "",
+     "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+     "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "zeal": {
+   "name": "Zeal",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Zeal, a London-based payments technology company that connects loyalty programs and merchant intelligence with payment terminals, has raised $10 million in new funding, bringing its total capital raised to $14 million. The company did not disclose the investors participating in t",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-09-18",
+   "events": [
+    {
+     "date": "2026-09-18",
+     "amount": "$10 Million",
+     "round": "",
+     "title": "Zeal Raises $10 Million To Bring Loyalty And Customer Intelligence To More Than 4 Million Payment Terminals",
+     "link": "https://pulse2.com/zeal-raises-10-million-to-bring-loyalty-and-customer-intelligence-to-more-than-4-million-payment-terminals/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "with-200-million-patients-covered-penelope-health": {
+   "name": "With 200 million patients covered, Penelope Health",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Penelope Health, a real-time provider and payer policy intelligence platform out of London, today announced a funding commitment of €87 million ($100 million), as well as a partnership with HealthTech infrastructure platform Thoreau – in order to create a shared layer for real-ti",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-09-18",
+   "events": [
+    {
+     "date": "2026-09-18",
+     "amount": "200 million",
+     "round": "",
+     "title": "With 200 million patients covered, Penelope Health secures a €87 million funding commitment",
+     "link": "https://www.eu-startups.com/2026/09/with-200-million-patients-covered-penelope-health-secures-e87-million-in-funding/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "cycloid-plugs-into-european-commission-s-180-million-sovere": {
+   "name": "Cycloid plugs into European Commission’s €180 million sovere",
+   "country": "France",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Cycloid, a French Internal Developer Portal and Platform company, will be used by the European Commission (EC) as the developer-facing portal for its new sovereign cloud framework, giving up to 5,000 developers across the EC unified access to cloud services from four European pro",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-09-18",
+   "events": [
+    {
+     "date": "2026-09-18",
+     "amount": "€180 million",
+     "round": "Series A",
+     "title": "Cycloid plugs into European Commission’s €180 million sovereign cloud framework following Series A",
+     "link": "https://www.eu-startups.com/2026/09/paris-based-cycloid-plugs-into-european-commissions-e180-million-sovereign-cloud-framework-following-series-a/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "big-picture-bio-emerges-from-stealth-with-2-55-million-to-d": {
+   "name": "Big Picture Bio emerges from stealth with €2.55 million to d",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Big Picture Bio, a London-based BioTech startup developing AI-designed combination therapies for cancer and other complex diseases, has emerged from stealth with a combined funding round of €2.55 million (£2.2 million). The funding comprises a €1.75 million (£1.5 million) pre-See",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-09-18",
+   "events": [
+    {
+     "date": "2026-09-18",
+     "amount": "€2.55 million",
+     "round": "Pre-Seed",
+     "title": "London-based Big Picture Bio emerges from stealth with €2.55 million to develop AI-designed cancer drug combinations",
+     "link": "https://www.eu-startups.com/2026/09/london-based-big-picture-bio-emerges-from-stealth-with-e2-55-million-to-develop-ai-designed-cancer-drug-combinations/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "arcos": {
+   "name": "Arcos",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "German security technology company Arcos has raised €5.5million in seed funding to expand its platform for monitoring and responding tosecurity incidents across critical infrastructure and other physi...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-09-18",
+   "events": [
+    {
+     "date": "2026-09-18",
+     "amount": "€5.5 million",
+     "round": "Seed",
+     "title": "Munich-based Arcos raises €5.5 million to build and operate civil safety infrastructure across Europe",
+     "link": "https://www.eu-startups.com/2026/09/munich-based-arcos-raises-e5-5-million-to-build-and-operate-civil-safety-infrastructure-across-europe/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-18",
+     "amount": "€5.5M",
+     "round": "Seed",
+     "title": "Arcos secures €5.5M to protect critical infrastructure from physical threats",
+     "link": "https://tech.eu/2026/09/18/arcos-secures-eur55m-to-protect-critical-infrastructure-from-physical-threats/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "amsterdam-s-phosphoenix": {
+   "name": "Amsterdam’s Phosphoenix",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Phosphoenix, an Amsterdam-based MedTech startup developing a neuroprosthetic system for people with profound blindness, has completed a €1.3 million financing round to support preparations for its first-in-human clinical study and the further development of its neurostimulation s",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-09-18",
+   "events": [
+    {
+     "date": "2026-09-18",
+     "amount": "€1.3 million",
+     "round": "",
+     "title": "Amsterdam’s Phosphoenix raises €1.3 million to advance neuroprosthesis for profound blindness",
+     "link": "https://www.eu-startups.com/2026/09/amsterdams-phosphoenix-raises-e1-3-million-to-advance-neuroprosthetic-system-for-people-with-profound-blindness/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "tusk-ic": {
+   "name": "TUSK IC",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "TUSK IC, an Antwerp-based fabless semiconductor company spun out of KU Leuven, has closed a €15 million Series A funding round. The round was led by Matterwave Ventures, FORWARD.one, and the Flanders Future Tech Fund, which is managed by PMV. The Schaubroeck family also participa",
+   "audience": "Consumers",
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-09-18",
+   "events": [
+    {
+     "date": "2026-09-18",
+     "amount": "€15 million",
+     "round": "Series A",
+     "title": "Antwerp-based TUSK IC secures €15 million to move its Ka-band satellite chips into mass production",
+     "link": "https://www.eu-startups.com/2026/09/antwerp-based-tusk-ic-secures-e15-million-to-move-its-ka-band-satellite-chips-into-mass-production/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "kissht": {
+   "name": "Kissht",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "₹832",
+     "round": "",
+     "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
+     "link": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "orbits": {
+   "name": "Orbits",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "A16z Speedrun, N49P, Garage back Orbits’ consumer launch of AI household assistant. \n The post  Orbits secures $2 million USD to manage home logistics with AI  first appeared on  BetaKit .",
+   "audience": "Consumers",
+   "first_seen": "2026-09-17",
+   "last_seen": "2026-09-17",
+   "events": [
+    {
+     "date": "2026-09-17",
+     "amount": "$2 million",
+     "round": "",
+     "title": "Orbits secures $2 million USD to manage home logistics with AI",
+     "link": "https://betakit.com/orbits-secures-2-million-usd-to-manage-home-logistics-with-ai/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "buildkite-quietly": {
+   "name": "Buildkite quietly",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Buildkite grabbed $21m after burning $23.4m and ousting its CEO, ahead of AI code demand surging.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-09-18",
+   "events": [
+    {
+     "date": "2026-09-18",
+     "amount": "$21 million",
+     "round": "",
+     "title": "Buildkite quietly raised $21 million earlier this year after posting massive losses",
+     "link": "https://www.startupdaily.net/topic/funding/buildkite-quietly-raised-21-million-earlier-this-year-after-posting-massive-losses/",
      "source": "Startup Daily"
     }
    ]
