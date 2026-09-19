@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T16:56:08+00:00",
+ "updated": "2026-09-19T16:13:28+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -39610,10 +39610,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Magentic, a provider of AI-powered digital workers for industrialcompanies, has raised $18 million in Series A funding, a year after its launch.The round was led by Felicis, with participation from ex...",
+   "summary": "Magentic has raised $18 million in Series A funding to expand its AI digital workers across procurement, supply chain and industrial operations. Felicis led the round, with existing investors Sequoia Capital and The Westly Group also participating. The financing comes approximate",
    "audience": "General / mixed",
    "first_seen": "2026-09-17",
-   "last_seen": "2026-09-17",
+   "last_seen": "2026-09-19",
    "events": [
     {
      "date": "2026-09-17",
@@ -39622,6 +39622,14 @@
      "title": "Magentic raises $18M to automate industrial operations with AI agents",
      "link": "https://tech.eu/2026/09/17/magentic-raises-18m-to-automate-industrial-operations-with-ai-agents/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-19",
+     "amount": "$18 Million",
+     "round": "Series A",
+     "title": "Magentic Raises $18 Million Series A To Expand AI Digital Workers For Global Manufacturers",
+     "link": "https://pulse2.com/magentic-raises-18-million-series-a-to-expand-ai-digital-workers-for-global-manufacturers/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -40062,6 +40070,30 @@
      "title": "Buildkite quietly raised $21 million earlier this year after posting massive losses",
      "link": "https://www.startupdaily.net/topic/funding/buildkite-quietly-raised-21-million-earlier-this-year-after-posting-massive-losses/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "dtcpay": {
+   "name": "dtcpay",
+   "country": "Singapore",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "dtcpay has completed a $25 million Series A round, adding Japan's SBI Group as a strategic investor as the Singapore-based payments company expands its regulated stablecoin infrastructure internationally. Vertex Ventures Southeast Asia & India led the initial tranche in April 202",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "events": [
+    {
+     "date": "2026-09-19",
+     "amount": "$25 Million",
+     "round": "Series A",
+     "title": "dtcpay Raises $25 Million Series A As SBI Group Backs Regulated Stablecoin Payments Platform",
+     "link": "https://pulse2.com/dtcpay-raises-25-million-series-a-as-sbi-group-backs-regulated-stablecoin-payments-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   }
