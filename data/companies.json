@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T16:41:07+00:00",
+ "updated": "2026-09-21T18:28:31+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -40214,6 +40214,446 @@
      "title": "One Biosciences Secures €3.3 Million To Develop AI-Powered Single-Cell Diagnostic For Triple-Negative Breast Cancer",
      "link": "https://pulse2.com/one-biosciences-secures-e3-3-million-to-develop-ai-powered-single-cell-diagnostic-for-triple-negative-breast-cancer/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "transient": {
+   "name": "Transient",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Transient.AI has secured a strategic investment from Nasdaq Ventures as part of its Series A financing, adding Nasdaq to a round led by NEXT Investors as the company expands its secure AI operating system for regulated financial markets. \n The post  Transient Secures Nasdaq Ventu",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "",
+     "round": "Series A",
+     "title": "Transient Secures Nasdaq Ventures Investment To Expand Bank-Grade AI Governance For Financial Institutions",
+     "link": "https://pulse2.com/transient-secures-nasdaq-ventures-investment-to-expand-bank-grade-ai-governance-for-financial-institutions/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "the-elmet-group": {
+   "name": "The Elmet Group",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The Elmet Group has secured a $450 million committed investment from the U.S. Department of War to expand domestic tungsten manufacturing and strengthen access to critical raw materials, while separately receiving a Defense Logistics Agency contract with a ceiling value of up to ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "$450 Million",
+     "round": "",
+     "title": "The Elmet Group Secures $450 Million Department Of War Investment And Up To $2 Billion DLA Contract To Expand U.S. Tungsten Supply Chain",
+     "link": "https://pulse2.com/the-elmet-group-secures-450-million-department-of-war-investment-and-up-to-2-billion-dla-contract-to-expand-u-s-tungsten-supply-chain/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fintechos": {
+   "name": "FintechOS",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Romania-founded startup FintechOS, which providesAI and software services for banks and insurance firms, has raised $28m in equity and debtfunding from its current investors, it said today.The 2017-fo...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "$28 Million",
+     "round": "Growth",
+     "title": "FintechOS Raises $28 Million To Expand AI-Native Financial Services Platform After 130% U.S. Growth",
+     "link": "https://pulse2.com/fintechos-raises-28-million/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-09-21",
+     "amount": "$28M",
+     "round": "Debt",
+     "title": "FintechOS raises $28M in equity and debt",
+     "link": "https://tech.eu/2026/09/21/fintechos-raises-28m-in-equity-and-debt/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "project-ventures-debuts-5-8-million-fund-targeting-deeptech": {
+   "name": "Project Ventures debuts €5.8 million fund targeting DeepTech",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Project Ventures, an early-stage VC firm rooted in the Imperial College London ecosystem, today announced the launch of its debut €5.8 million (£5 million) fund, backing pre-Seed and Seed-stage startups at the intersection of DeepTech and AI. According to the firm, they are the f",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "€5.8 million",
+     "round": "Pre-Seed",
+     "title": "Project Ventures debuts €5.8 million fund targeting DeepTech and AI startups linked to Imperial College London",
+     "link": "https://www.eu-startups.com/2026/09/project-ventures-debuts-e5-8-million-fund-targeting-deeptech-and-ai-startups-linked-to-imperial-college-london/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "belgium-s-newschool-vc": {
+   "name": "Belgium’s NewSchool VC",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "NewSchool VC, a Belgium-based venture capital fund that invests in B2B pre-Seed technology companies, has closed its first fund at its €10 million target. The firm announced a €6.1 million first close for NewSchool Fund I in September 2025. Around fifty investors back the fund, i",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "€10 million",
+     "round": "Pre-Seed",
+     "title": "Belgium’s NewSchool VC closes maiden fund at €10 million to back B2B technology startups",
+     "link": "https://www.eu-startups.com/2026/09/belgiums-newschool-vc-closes-maiden-fund-at-e10-million-at-to-back-b2b-technology-startups/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "belgium-s-novadip-biosciences": {
+   "name": "Belgium’s Novadip Biosciences",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Novadip Biosciences, a Belgian late-stage clinical BioTech company specialising in regenerative medicine, has closed a €10.4 million (roughly $12 million) convertible financing round. The round was led by US-based New Science Ventures, with participation from a syndicate of Novad",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "€10.4 million",
+     "round": "",
+     "title": "Belgium’s Novadip Biosciences raises €10.4 million to fund pivotal clinical trial and unlock EIB loan tranche",
+     "link": "https://www.eu-startups.com/2026/09/belgiums-novadip-biosciences-raises-e10-4-million-to-fund-pivotal-clinical-trial-and-unlock-eib-loan-tranche/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-metris-energy": {
+   "name": "London’s Metris Energy",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Metris Energy, a London-based AI‑native platform for managing energy assets at scale, has raised a €4.35 million ($5 million) Seed round and unveiled Metria AI, the company’s new AI interface that executes complex tasks previously performed manually by operations teams. The round",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "€4.35 million",
+     "round": "Seed",
+     "title": "London’s Metris Energy raises €4.35 million to scale AI platform for managing renewable energy assets",
+     "link": "https://www.eu-startups.com/2026/09/londons-metris-energy-raises-e4-35-million-to-scale-ai-platform-for-managing-renewable-energy-assets/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-unit1-studio": {
+   "name": "London’s Unit1 Studio",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Unit1 Studio, the London-based end-to-end avatar concert producer, has raised €23.3 million (£20 million) in new financing. The round combines an oversubscribed equity investment with additional production financing. The equity round was led by Balderton Capital. Existing investo",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "€23.3 million",
+     "round": "",
+     "title": "London’s Unit1 Studio secures €23.3 million to scale avatar concerts beyond the one-venue ABBA Voyage model",
+     "link": "https://www.eu-startups.com/2026/09/londons-unit1-studio-secures-e23-3-million-to-scale-avatar-concerts-beyond-the-one-venue-abba-voyage-model/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "newschool-vc": {
+   "name": "NewSchool VC",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Belgian venture capital firm NewSchool VC hasclosed its first fund at €10 million to invest in early-stage B2B technologycompanies. NewSchool Fund I reached its target after raising €6.1 million atits...",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "€10M",
+     "round": "",
+     "title": "NewSchool VC closes €10M Fund I to back early-stage B2B tech",
+     "link": "https://tech.eu/2026/09/21/newschool-vc-closes-eur10m-fund-i-to-back-early-stage-b2b-tech/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "project-ventures-launches-5m-fund-for-imperial-rooted-deept": {
+   "name": "Project Ventures launches £5M fund for Imperial-rooted deept",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Project Ventures, an independent early-stage venture capital fund rooted in theImperial College London ecosystem, has launched its debut £5 million fund toinvest in pre-seed and seed-stage startups wo...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "£5M",
+     "round": "Pre-Seed",
+     "title": "Project Ventures launches £5M fund for Imperial-rooted deeptech and AI startups",
+     "link": "https://tech.eu/2026/09/21/project-ventures-launches-ps5m-fund-for-imperial-rooted-deeptech-and-ai-startups/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "metris": {
+   "name": "Metris",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Metris Energy, an AI-native platform for managing energy assets, has raised $5 millionin a seed round led by PT1 Ventures, Octopus Ventures, AENU and Blackfinch Ventures, with participation from Plug ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "$5M",
+     "round": "Seed",
+     "title": "Metris secures $5M to build a unified data layer for energy assets",
+     "link": "https://tech.eu/2026/09/21/metris-secures-5m-to-build-a-unified-data-layer-for-energy-assets/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "unit1-studio": {
+   "name": "Unit1 Studio",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Unit1 Studio, a UKcompany producing mixed-reality avatar concerts, has secured £20 million in newfunding to expand its technology and grow its roster of avatar concertproductions. The funding includes...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "£20M",
+     "round": "",
+     "title": "Unit1 Studio raises £20M to scale avatar concert technology",
+     "link": "https://tech.eu/2026/09/21/unit1-studio-raises-ps20m-to-scale-avatar-concert-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "icelandic-audio-simulation-startup": {
+   "name": "Icelandic audio simulation startup",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Treble Technologies, an Icelandic company developing sound simulation and synthetic acoustic data technologies, has raised $18 million (€15 million) in a Series A-2 round led by Paladin Capital Group, with participation from existing investors KOMPAS VC, Frumtak Ventures and the ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "$18 million",
+     "round": "Series A",
+     "title": "Icelandic audio simulation startup lands $18 million to expand in the US",
+     "link": "https://arcticstartup.com/treble-raises-18m/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "estonian-creem": {
+   "name": "Estonian Creem",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Tallinn-based fintech Creem has raised a €5 million seed round led by Inovo VC, with participation from existing investors Practica Capital and Antler, as well as angel investors including Markus Villig (Bolt), Timmu Tõke and Kaspar Tiri (Ready Player Me), Fryd Wiatrowski (Viktor",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "€5 million",
+     "round": "Seed",
+     "title": "Estonian Creem raises €5 million seed to expand billing and monetisation platform",
+     "link": "https://arcticstartup.com/creem-raises-e5-million-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "kanin-energy": {
+   "name": "Kanin Energy",
+   "country": "USA",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Calgary- and Houston-based cleantech company received funding from S2G Investments and Canada Growth Fund. \n The post  Kanin Energy raises $138 million for waste heat to power development  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "$138 million",
+     "round": "Growth",
+     "title": "Kanin Energy raises $138 million for waste heat to power development",
+     "link": "https://betakit.com/kanin-energy-raises-138-million-for-waste-heat-to-power-development/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "altis-labs": {
+   "name": "Altis Labs",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "New funding will help build out a platform designed to detect treatment effects sooner. \n The post  Altis Labs raises $25 million USD Series A to expand AI for cancer trials  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "$25 million",
+     "round": "Series A",
+     "title": "Altis Labs raises $25 million USD Series A to expand AI for cancer trials",
+     "link": "https://betakit.com/altis-labs-raises-25-million-usd-series-a-to-expand-ai-for-cancer-trials/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "thri5": {
+   "name": "Thri5",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The startup, founded by former Loblaw Digital leaders, plans to expand across North America and Europe. \n The post  Thri5 raises $5.4 million USD to expand AI platform for retail businesses  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "$5.4 million",
+     "round": "",
+     "title": "Thri5 raises $5.4 million USD to expand AI platform for retail businesses",
+     "link": "https://betakit.com/thri5-raises-5-4-million-usd-to-expand-ai-platform-for-retail-businesses/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "power-play-amber-charges-up-on-78-5-million-series-e-for-g": {
+   "name": "Power play: Amber charges up on $78.5 million Series E for g",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Amber grabs $78.5m to take its battery/EV energy trading play global, starting with Europe.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "$78.5 million",
+     "round": "Series E",
+     "title": "Power play: Amber charges up on $78.5 million Series E for global push",
+     "link": "https://www.startupdaily.net/topic/funding/power-play-amber-charges-up-on-78-5-million-series-e-for-global-push/",
+     "source": "Startup Daily"
     }
    ]
   }
