@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T18:28:31+00:00",
+ "updated": "2026-09-22T17:31:37+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -40653,6 +40653,614 @@
      "round": "Series E",
      "title": "Power play: Amber charges up on $78.5 million Series E for global push",
      "link": "https://www.startupdaily.net/topic/funding/power-play-amber-charges-up-on-78-5-million-series-e-for-global-push/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "morphotonics": {
+   "name": "Morphotonics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Creative expression",
+   "sector": "Deep Tech",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Netherlands-based deeptech companyMorphotonics has raised more than €40 million in Series B funding to scale itsmanufacturing technology for AI glasses, augmented reality waveguides andadvanced photon...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "€40M",
+     "round": "",
+     "title": "Morphotonics raises €40M to expand its display tech into data centers",
+     "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+     "source": "TechCrunch Venture"
+    },
+    {
+     "date": "2026-09-22",
+     "amount": "€40M",
+     "round": "Series B",
+     "title": "Morphotonics closes €40M+ Series B to tackle AI devices’ hidden manufacturing bottleneck",
+     "link": "https://tech.eu/2026/09/22/morphotonics-closes-eur40m-series-b-to-tackle-ai-devices-hidden-manufacturing-bottleneck/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "can-you-trust-that-ai-agent-baselayer": {
+   "name": "Can You Trust That AI Agent? Baselayer",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Baselayer, an AI-powered startup that helps financial institutions verify businesses and assess fraud risk, has raised a $35 million M13-led Series A to expand its identity technology to AI agents.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "$35M",
+     "round": "Series A",
+     "title": "Exclusive: Can You Trust That AI Agent? Baselayer Raises $35M To Help Companies Decide",
+     "link": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "teal-health": {
+   "name": "Teal Health",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Teal Health has raised $22 million in Series A funding to expand access to its FDA-authorized at-home HPV cervical cancer screening platform as the women's healthcare company prepares for broader insurance coverage beginning in January 2027. \n The post  Teal Health Raises $22 Mil",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "$22 Million",
+     "round": "Series A",
+     "title": "Teal Health Raises $22 Million Series A To Expand FDA-Authorized At-Home Cervical Cancer Screening",
+     "link": "https://pulse2.com/teal-health-raises-22-million-series-a-to-expand-fda-authorized-at-home-cervical-cancer-screening/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nexstrom": {
+   "name": "Nexstrom",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Nexstrom has raised a $12 million seed round to commercialize its wafer-scale 2D semiconductor platform, which is being developed to help chipmakers move beyond the physical limitations of silicon for next-generation AI and high-performance computing systems. \n The post  Nexstrom",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "$12 Million",
+     "round": "Seed",
+     "title": "Nexstrom Raises $12 Million Seed Funding To Commercialize 12-Inch 2D Semiconductor Wafers For AI Chips",
+     "link": "https://pulse2.com/nexstrom-raises-12-million-seed-funding/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sela-s-ai-agents-help-originate-1-billion-in-loans-per-mont": {
+   "name": "Sela’s AI Agents Help Originate $1 Billion In Loans Per Mont",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Sela, the market-leading voice AI system for mortgage sales, has announced a total of $21 million in funding across Seed and Series A, led by Costanoa, with participation from Emergence Capital. Sela's AI agents currently help loan officers originate more than $1 billion in new m",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "$1 Billion",
+     "round": "Seed",
+     "title": "Sela’s AI Agents Help Originate $1 Billion In Loans Per Month, Company Raises $21 Million",
+     "link": "https://pulse2.com/selas-ai-agents-help-originate-1-billion-in-loans-per-month/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bird-be": {
+   "name": "Bird&Be",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Bird&Be, a fertility and wellness company providing supplements and at-home reproductive health tests for women and men, has raised $13 million in new funding to accelerate product development, clinical research, retail expansion and broader access to evidence-backed fertility ca",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "$13 Million",
+     "round": "",
+     "title": "Bird&Be Raises $13 Million To Expand Supplements, At-Home Testing, And Retail Distribution",
+     "link": "https://pulse2.com/birdbe-raises-13-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "blair-health": {
+   "name": "Blair Health",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Blair Health, a clinical infrastructure company that enables generalist healthcare providers to deliver specialist-level care, has raised C$4.24 million in pre-seed financing, marking the company's first institutional round and bringing total capital raised to date to C$4.5 milli",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "C$4.2 Million",
+     "round": "Pre-Seed",
+     "title": "Blair Health Raises C$4.2 Million Pre-Seed To Close Specialist Gap In Women’s Health",
+     "link": "https://pulse2.com/blair-health-raises-c4-2-million-pre-seed-to-close-specialist-gap-in-womens-health/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "h2site": {
+   "name": "H2SITE",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "H2SITE has secured €3.4 million (NOK 39.1 million) in funding from Enova for HydraNord Power, a project that will develop and validate a commercial-scale onboard ammonia-to-power system for the maritime sector. Enova is one of the Norwegian government's primary instruments for ac",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "€3.4 Million",
+     "round": "",
+     "title": "H2SITE Secures €3.4 Million In Enova Funding To Scale Onboard Ammonia-To-Power For Maritime",
+     "link": "https://pulse2.com/h2site-secures-e3-4-million-in-enova-funding-to-scale-onboard-ammonia-to-power-for-maritime/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "helsinki-s-verda-becomes-europe-s-latest-unicorn-after-raisi": {
+   "name": "Helsinki’s Verda becomes Europe’s latest unicorn after raisi",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Verda (formerly DataCrunch), a Helsinki-based AI infrastructure company, announced today that it has raised €164.8 million ($189 million) in fresh funding to scale its full-stack AI cloud. With this funding, the company has become Europe’s latest unicorn.  The financing includes ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "€164.8 million",
+     "round": "Series B",
+     "title": "Helsinki’s Verda becomes Europe’s latest unicorn after raising €164.8 million to scale its full-stack AI cloud",
+     "link": "https://www.eu-startups.com/2026/09/helsinkis-verda-becomes-europes-latest-unicorn-after-raising-e164-8-million-to-scale-its-full-stack-ai-cloud/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "lightspring": {
+   "name": "Lightspring",
+   "country": "France",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "French company Lightspring today announced the close of a €3.1 million seed round led by Atlantic and OVNI Capital, with participation from Concept Ventures, Ixcore, Plug and Play Ventures, and indust...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "€3.5 million",
+     "round": "Seed",
+     "title": "Besançon-based Lightspring raises over €3.5 million to industrialise photonic chip packaging",
+     "link": "https://www.eu-startups.com/2026/09/besancon-based-lightspring-raises-over-e3-5-million-to-industrialise-photonic-chip-packaging/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-22",
+     "amount": "€3.5M",
+     "round": "Seed",
+     "title": "Lightspring raises €3.5M to tackle photonic chip manufacturing bottleneck",
+     "link": "https://tech.eu/2026/09/22/lightspring-raises-eur35m-to-tackle-photonic-chip-manufacturing-bottleneck/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "primo": {
+   "name": "Primo",
+   "country": "France",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Primo, an AI platform for managing corporate IT, has raised$8 million in a funding round led by Headline and Global Founders Capital. The company’s investors also include Pennylane co-founder and CEO ...",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "€6.9 million",
+     "round": "",
+     "title": "Paris-based Primo raises €6.9 million to deploy autonomous AI agents for IT teams",
+     "link": "https://www.eu-startups.com/2026/09/paris-based-primo-raises-e6-9-million-to-deploy-autonomous-ai-agents-for-it-teams/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-22",
+     "amount": "$8M",
+     "round": "",
+     "title": "Primo raises $8M to bring autonomous AI agents to IT operations",
+     "link": "https://tech.eu/2026/09/22/primo-raises-8m-to-bring-autonomous-ai-agents-to-it-operations/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "spott": {
+   "name": "Spott",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Spott, an AI-native applicant tracking system (ATS) andcustomer relationship management (CRM) platform for recruitment agencies, hasraised $21 million in Series A funding. The round was led by Baldert...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "€18.3 million",
+     "round": "Series A",
+     "title": "Leuven-based Spott raises €18.3 million to build the AI-native operating system for recruitment agencies",
+     "link": "https://www.eu-startups.com/2026/09/leuven-based-spott-raises-e18-3-million-to-build-the-ai-native-operating-system-for-recruitment-agencies/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-22",
+     "amount": "$21M",
+     "round": "Series A",
+     "title": "Spott secures $21M Series A to expand its AI platform for recruitment agencies",
+     "link": "https://tech.eu/2026/09/22/spott-secures-21m-series-a-to-expand-its-ai-platform-for-recruitment-agencies/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "verda": {
+   "name": "Verda",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Europeantechnology company Verda has raised $189 million in new funding to scale itsfull-stack AI cloud and expand its compute capacity. The financing includes anoversubscribed Series B led by Emergen...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "$189M",
+     "round": "Series B",
+     "title": "Verda raises $189M to advance its AI cloud and expand compute capacity",
+     "link": "https://tech.eu/2026/09/22/verda-raises-189m-to-advance-its-ai-cloud-and-expand-compute-capacity/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "biolevate": {
+   "name": "Biolevate",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Life sciences AI company Biolevate hasraised €30 million in Series A funding to expand its platform for automatingscientific and regulatory workflows and support its international growth. Theround was...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "€30M",
+     "round": "Series A",
+     "title": "Biolevate lands €30M Series A to scale life sciences AI",
+     "link": "https://tech.eu/2026/09/22/biolevate-lands-eur30m-series-a-to-scale-life-sciences-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "zeliq": {
+   "name": "Zeliq",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Salesprospecting platform Zeliq has raised a €7 million seed extension led by The Moon Venture, with participation from Julien Jean (JJCapinvest) and SylvestreBlavet (Freelance.com). Existing investor...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "€7M",
+     "round": "Seed",
+     "title": "Zeliq raises €7M to build an agentic revenue workspace",
+     "link": "https://tech.eu/2026/09/22/zeliq-raises-eur7m-to-build-an-agentic-revenue-workspace/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "benford": {
+   "name": "Benford",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Fintech Benford announced today that it raised €5m in pre-seed funding to build a new-generation, tech-native financial audit firm that runs statutory audits end to end, from clients’ systems to the s...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "€5M",
+     "round": "Pre-Seed",
+     "title": "Benford raises €5M to rebuild financial audit from the ground up",
+     "link": "https://tech.eu/2026/09/22/benford-raises-eur5m-to-rebuild-financial-audit-from-the-ground-up/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "gamindo": {
+   "name": "Gamindo",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Corporate training platform Gamindo has raised €1.4 million Seed funding.   The platform developed by Gamindo allows any company, with no technical skills required, to turn corporate content into inte...",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "€1.4M",
+     "round": "Seed",
+     "title": "Gamindo raises €1.4M to make corporate training more interactive",
+     "link": "https://tech.eu/2026/09/22/gamindo-raises-eur14m-to-make-corporate-training-more-interactive/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "eevi": {
+   "name": "Eevi",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Eevi, a voice-first AI language tutor, has raised a pre-seed round led by Rockstart. The Amsterdam-based company is building a language-learning platform built around spoken conversation, using real-t...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Eevi raises pre-seed funding to get language learners speaking from day one",
+     "link": "https://tech.eu/2026/09/22/eevi-raises-pre-seed-funding-to-get-language-learners-speaking-from-day-one/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sol-foundry": {
+   "name": "Sol Foundry",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "So far, AI in the inbox has so far meant assistance in drafting.  Microsoft has pushed Copilot deeper into Outlook,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "$4 Mn",
+     "round": "",
+     "title": "Sol Foundry Raises $4 Mn To Automate Email Commitments With AI",
+     "link": "https://inc42.com/buzz/sol-foundry-raises-4-mn-to-automate-email-commitments-with-ai/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "meesho-surges-9-after-ubs": {
+   "name": "Meesho Surges 9% After UBS",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | September 22, 16:00 IST Shares of Meesho ended today’s trading session 9.66% higher at ₹240.20 on the BSE.…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "₹260",
+     "round": "",
+     "title": "Meesho Surges 9% After UBS Raises Target Price To ₹260",
+     "link": "https://inc42.com/buzz/meesho-surges-9-after-ubs-raises-target-price-to-%e2%82%b9260/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "of-the-year-turns-unicorn-after-140m-series-c": {
+   "name": "of the Year turns unicorn after $140m Series C",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Heidi rockets to $1.26bn valuation after a $140m Series C, arming its clinical-note AI for global expansion.",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "$140m",
+     "round": "Series C",
+     "title": "Best in Tech Scaleup of the Year turns unicorn after $140m Series C",
+     "link": "https://www.startupdaily.net/topic/funding/best-in-tech-scaleup-of-the-year-turns-unicorn-after-140m-series-c/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "opendebt": {
+   "name": "OpenDebt",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "OpenDebt secures a $2m pre-seed from Blackbird and Antler to scale AI-native debt recovery tech",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "$2 million",
+     "round": "Debt",
+     "title": "AI debt recovery fintech OpenDebt bags $2 million in pre-Seed",
+     "link": "https://www.startupdaily.net/topic/funding/ai-debt-recovery-fintech-opendebt-bags-2-million-in-pre-seed/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "firmus-gears-up-to": {
+   "name": "Firmus gears up to",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Firmus wants a $50bn ASX debut on AI data-centre dreams.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "$7 billion",
+     "round": "",
+     "title": "AI data centre startup Firmus gears up to raise $7 billion for an ASX IPO next month",
+     "link": "https://www.startupdaily.net/topic/asx/ai-data-centre-startup-firmus-gears-up-to-raise-7-billion-for-an-asx-ipo-next-month/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "best-in-tech-winner-hysata": {
+   "name": "Best in Tech winner Hysata",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hysata lands $49m for a Wollongong electrolyser plant chasing cheaper green hydrogen.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "events": [
+    {
+     "date": "2026-09-21",
+     "amount": "$49 million",
+     "round": "",
+     "title": "Best in Tech winner Hysata scores $49 million from ARENA for $98m electrolyser plant",
+     "link": "https://www.startupdaily.net/topic/funding/best-in-tech-winner-hysata-scores-49-million-from-arena-for-98m-electrolyser-plant/",
      "source": "Startup Daily"
     }
    ]
