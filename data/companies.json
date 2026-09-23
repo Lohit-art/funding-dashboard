@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T17:31:37+00:00",
+ "updated": "2026-09-23T17:42:15+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -37858,10 +37858,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "This week, we tracked more than 70 tech funding deals worth over €1.7 billion and over 10 exits, M&A transactions, rumours, and related news stories across Europe.If email is more your thing, you ...",
+   "summary": "Open Cosmos has secured €300 million in funding to expand satellite manufacturing and build out its intelligence and connectivity services. Lightrock led the round, according to the company’s release, with participation from investors including ETF Partners, Institut Català de Fi",
    "audience": "General / mixed",
    "first_seen": "2026-09-14",
-   "last_seen": "2026-09-18",
+   "last_seen": "2026-09-23",
    "events": [
     {
      "date": "2026-09-14",
@@ -37878,6 +37878,14 @@
      "title": "Open Cosmos secures €300M, Europe at \"acute risk of marginalisation, and Sweden’s evolving foodtech ecosystem",
      "link": "https://tech.eu/2026/09/18/open-cosmos-secures-eur300m/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-23",
+     "amount": "€300 Million",
+     "round": "",
+     "title": "Open Cosmos Raises €300 Million To Expand Satellite Intelligence And Connectivity",
+     "link": "https://pulse2.com/open-cosmos-raises-e300-million-to-expand-satellite-intelligence-and-connectivity/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -38290,10 +38298,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "EUCLYD, an Eindhoven-based semiconductor systems startup, has raised a Series A funding round of more than €200 million to accelerate development of “ultra-efficient” infrastructure for foundation AI models. The round was co-led by Samsung, Somerset Capital Partners, the EQT-mana",
+   "summary": "EUCLYD has signed a Series A financing round of more than €200 million to develop infrastructure for foundation AI models. The Eindhoven, Netherlands-based company said the funding will support its silicon and systems roadmap and preparations for commercial deployment. \n The post",
    "audience": "General / mixed",
    "first_seen": "2026-09-15",
-   "last_seen": "2026-09-15",
+   "last_seen": "2026-09-23",
    "events": [
     {
      "date": "2026-09-15",
@@ -38302,6 +38310,14 @@
      "title": "Dutch AI chip startup EUCLYD lands over €200 million Series A, taps ex-ASML chief Peter Wennink as Chairman",
      "link": "https://www.eu-startups.com/2026/09/dutch-ai-chip-startup-euclyd-lands-e200-million-series-a-taps-ex-asml-chief-peter-wennink-as-chairman/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-23",
+     "amount": "€200 Million",
+     "round": "Series A",
+     "title": "EUCLYD Raises Over €200 Million In Series A Funding For AI Infrastructure",
+     "link": "https://pulse2.com/euclyd-raises-over-e200-million-in-series-a-funding/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -40787,14 +40803,14 @@
   },
   "bird-be": {
    "name": "Bird&Be",
-   "country": "Unknown",
+   "country": "Canada",
    "region": "North America",
    "category": "Health & longevity",
    "sector": "HealthTech / Bio",
    "is_ai": false,
    "research_based": true,
-   "stage": "unspecified",
-   "summary": "Bird&Be, a fertility and wellness company providing supplements and at-home reproductive health tests for women and men, has raised $13 million in new funding to accelerate product development, clinical research, retail expansion and broader access to evidence-backed fertility ca",
+   "stage": "emerging",
+   "summary": "Toronto startup sells supplements and test kits for reproductive health. \n The post  Bird&Be raises $13-million USD Series A for fertility support platform    first appeared on  BetaKit .",
    "audience": "Healthcare providers & patients",
    "first_seen": "2026-09-22",
    "last_seen": "2026-09-22",
@@ -40806,6 +40822,14 @@
      "title": "Bird&Be Raises $13 Million To Expand Supplements, At-Home Testing, And Retail Distribution",
      "link": "https://pulse2.com/birdbe-raises-13-million/",
      "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-09-22",
+     "amount": "$13",
+     "round": "Series A",
+     "title": "Bird&Be raises $13-million USD Series A for fertility support platform",
+     "link": "https://betakit.com/birdbe-raises-13-million-usd-series-a-for-fertility-support-platform/",
+     "source": "BetaKit"
     }
    ]
   },
@@ -40818,10 +40842,10 @@
    "is_ai": false,
    "research_based": true,
    "stage": "new",
-   "summary": "Blair Health, a clinical infrastructure company that enables generalist healthcare providers to deliver specialist-level care, has raised C$4.24 million in pre-seed financing, marking the company's first institutional round and bringing total capital raised to date to C$4.5 milli",
+   "summary": "Toronto startup aims to power “specialist-level care without the specialist wait.” \n The post  Blair Health secures $4.2 million to make specialized women’s care more accessible  first appeared on  BetaKit .",
    "audience": "Healthcare providers & patients",
    "first_seen": "2026-09-22",
-   "last_seen": "2026-09-22",
+   "last_seen": "2026-09-23",
    "events": [
     {
      "date": "2026-09-22",
@@ -40830,6 +40854,14 @@
      "title": "Blair Health Raises C$4.2 Million Pre-Seed To Close Specialist Gap In Women’s Health",
      "link": "https://pulse2.com/blair-health-raises-c4-2-million-pre-seed-to-close-specialist-gap-in-womens-health/",
      "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-09-23",
+     "amount": "$4.2 million",
+     "round": "",
+     "title": "Blair Health secures $4.2 million to make specialized women’s care more accessible",
+     "link": "https://betakit.com/blair-health-secures-4-2-million-to-make-specialized-womens-care-more-accessible/",
+     "source": "BetaKit"
     }
    ]
   },
@@ -41261,6 +41293,782 @@
      "round": "",
      "title": "Best in Tech winner Hysata scores $49 million from ARENA for $98m electrolyser plant",
      "link": "https://www.startupdaily.net/topic/funding/best-in-tech-winner-hysata-scores-49-million-from-arena-for-98m-electrolyser-plant/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-r": {
+   "name": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing r",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$200",
+     "round": "",
+     "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+     "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "jumbo-sized-series-a-rounds-are-on-the-rise": {
+   "name": "Jumbo-Sized Series A Rounds Are On The Rise",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "So far this year, global startups have secured at least 114 Series A rounds of $100 million or more, per Crunchbase data. That’s the highest annual total in years and on track to top the all-time peak. We take a look at where the money is going.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$100 million",
+     "round": "Series A",
+     "title": "Jumbo-Sized Series A Rounds Are On The Rise",
+     "link": "https://news.crunchbase.com/venture/megaround-seriesa-ai-chips-robotics-2026/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "standardx": {
+   "name": "StandardX",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "StandardX, a UK-based deep technology company developing advanced isotope production systems, has raised £10 million in seed funding led by Vsquared Ventures and East X Ventures. Additional investors include firstminute capital, UK Innovation and Science Seed Fund (UKI2S), Brevan",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "£10 Million",
+     "round": "Seed",
+     "title": "StandardX Raises £10 Million Seed Round To Develop Rare Isotopes For Cancer Treatment And Fusion Energy",
+     "link": "https://pulse2.com/standardx-raises-10-million-seed-round/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "brahma-ai": {
+   "name": "Brahma AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Brahma AI, a developer of AI-powered technology for enterprise audiovisual content, has raised $150 million through the issuance of preferred shares, including a $100 million investment from Multiples Alternate Asset Management. The company has also received an additional $100 mi",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$150 Million",
+     "round": "",
+     "title": "Brahma AI Raises $150 Million To Expand Enterprise AI Platform",
+     "link": "https://pulse2.com/brahma-ai-raises-150-million-to-expand-enterprise-ai-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "snorkel-ai": {
+   "name": "Snorkel AI",
+   "country": "USA",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Snorkel AI, a San Francisco-based company developing advanced data infrastructure for artificial intelligence, has raised $350 million at a $3.5 billion valuation in a financing round co-led by Insight Partners and S32. Existing investor Addition also participated significantly. ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$350 Million",
+     "round": "",
+     "title": "Snorkel AI Raises $350 Million At $3.5 Billion Valuation To Expand Agentic Data Factory",
+     "link": "https://pulse2.com/snorkel-ai-raises-350-million-at-3-5-billion-valuation-to-expand-agentic-data-factory/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ande": {
+   "name": "Ande",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ande, a New York-based AI-powered corporate entertainment platform, has emerged from stealth with more than $52 million in combined seed and Series A funding from Lightspeed Venture Partners, Redpoint Ventures, Duration Ventures, and Sierra Ventures, with participation from Bain ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$52 Million",
+     "round": "Seed",
+     "title": "Ande Raises More Than $52 Million To Launch AI-Powered Corporate Entertainment Platform",
+     "link": "https://pulse2.com/ande-raises-more-than-52-million-to-launch-ai-powered-corporate-entertainment-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fever": {
+   "name": "Fever",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fever, a global technology platform for culture and live entertainment, has raised $250 million in a primary equity financing round led by EQT, with significant participation from Point72 Private Investments, Baillie Gifford, and other existing investors. Announced on September 1",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$250 Million",
+     "round": "",
+     "title": "Fever Raises $250 Million Led By EQT To Expand Global Live Entertainment Platform",
+     "link": "https://pulse2.com/fever-raises-250-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bessemer-venture-partners": {
+   "name": "Bessemer Venture Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bessemer Venture Partners has raised $5.75 billion in new capital in a single close, including $1.75 billion for seed and early-stage investments and $4 billion for growth investments. The financing will support the venture capital firm's strategy of backing technology companies ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$5.75 Billion",
+     "round": "Seed",
+     "title": "Bessemer Venture Partners Raises $5.75 Billion For Seed And Growth Investments",
+     "link": "https://pulse2.com/bessemer-venture-partners-raises-5-75-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "monetary-metals": {
+   "name": "Monetary Metals",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Monetary Metals, a Scottsdale, Arizona-based financial technology company operating a marketplace for precious metals financing, has raised $10.5 million in equity financing, exceeding its original $10 million target. The investment brings the company's total funding to nearly $2",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$10.5 Million",
+     "round": "",
+     "title": "Monetary Metals Raises $10.5 Million, Bringing Total Funding To Nearly $25 Million",
+     "link": "https://pulse2.com/monetary-metals-raises-10-5-million-bringing-total-funding-to-nearly-25-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "chamelio": {
+   "name": "Chamelio",
+   "country": "USA",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Chamelio, a New York-based developer of AI-powered software for corporate legal departments, has raised a $26 million Series A led by Entrée Capital, with participation from existing investors Work-Bench and Emerge Ventures, as well as Bright Pixel Capital. The financing follows ",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$26 Million",
+     "round": "Series A",
+     "title": "Chamelio Raises $26 Million Series A Led By Entrée Capital To Expand AI-Powered Legal Operations",
+     "link": "https://pulse2.com/chamelio-raises-26-million-series-a-led-by-entree-capital-to-expand-ai-powered-legal-operations/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "baselayer": {
+   "name": "Baselayer",
+   "country": "USA",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Baselayer, a New York-based identity verification and risk infrastructure company, has raised a $35 million Series A led by M13, with participation from Torch Capital, Picus Ventures, Afore Capital, and Matt Thompson of Socure. Alongside the financing, the company launched its Ag",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$35 Million",
+     "round": "Series A",
+     "title": "Baselayer Raises $35 Million Series A Led By M13 To Launch Identity Infrastructure For AI Agents",
+     "link": "https://pulse2.com/baselayer-raises-35-million-series-a/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "basecamp-research": {
+   "name": "Basecamp Research",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Basecamp Research, a London-based biotechnology company developing AI-designed medicines, has raised an oversubscribed $140 million Series C financing led by S32, with participation from NVIDIA, Anthropic's Anthology Fund, Catalio Capital Management, NATO Innovation Fund, The Roc",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$140 Million",
+     "round": "Series C",
+     "title": "Basecamp Research Raises $140 Million Series C Led By S32 To Advance AI-Designed Therapeutics",
+     "link": "https://pulse2.com/basecamp-research-raises-140-million-series-c-led-by-s32-to-advance-ai-designed-therapeutics/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "enveda": {
+   "name": "Enveda",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Enveda, a Boulder, Colorado-based clinical-stage biotechnology company using artificial intelligence to discover medicines from naturally occurring molecules, has raised a $311 million Series E financing led by Catalio Capital Management. The round brings the company's total fund",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$311 Million",
+     "round": "Series E",
+     "title": "Enveda Raises $311 Million Series E Led By Catalio Capital Management, Bringing Total Funding To Over $845 Million",
+     "link": "https://pulse2.com/enveda-raises-311-million-series-e-led-by-catalio-capital-management-bringing-total-funding-to-over-845-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "numeral": {
+   "name": "Numeral",
+   "country": "USA",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Numeral, a San Francisco-based AI-powered sales tax compliance platform, has raised a $100 million Series C led by Insight Partners, with participation from Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator, and Uncork. The financing brings Numeral's total fu",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$100 Million",
+     "round": "Series C",
+     "title": "Numeral Raises $100 Million Series C Led By Insight Partners, Bringing Total Funding To $157 Million",
+     "link": "https://pulse2.com/numeral-raises-100-million-series-c/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "stockholm-s-spiich": {
+   "name": "Stockholm’s Spiich",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Spiich, a Stockholm-based AI sales agent startup, has raised a €3 million Seed round. This announcement comes ten months after the company raised a €600k pre-Seed round, bringing its total funding to €3.6 million. The funding round was led by Ugly Duckling Ventures, a Copenhagen-",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "€3 million",
+     "round": "Seed",
+     "title": "Stockholm’s Spiich raises €3 million to let AI handle admin work while sales teams focus on customers",
+     "link": "https://www.eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-teams-focus-on-customers/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "mika": {
+   "name": "mika",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Berlin-basedvertical AI startup mika has raised €6 million in a seed round led bypan-European investor Smedvig Ventures. Basel-based family office Wecken &Cie. (Care4 AG) also participated, alongs...",
+   "audience": "Consumers",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "€6 million",
+     "round": "Seed",
+     "title": "Berlin-based mika raises €6 million to scale its AI-native alternative to traditional tax firms",
+     "link": "https://www.eu-startups.com/2026/09/berlin-based-mika-raises-e6-million-to-scale-its-ai-native-alternative-to-traditional-tax-firms/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-23",
+     "amount": "€6M",
+     "round": "Seed",
+     "title": "German AI startup mika raises €6M to simplify accounting and tax for SMEs",
+     "link": "https://tech.eu/2026/09/23/german-ai-startup-mika-raises-eur6m-to-simplify-accounting-and-tax-for-smes/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "bird": {
+   "name": "Bird",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Connection & community",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Bird, the business communications platform once seen as a European rival to the US's Twilio, has raised $450m in debt financing, as it underscored its repositioning as an AI business, a shift which ha...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$450M",
+     "round": "Debt",
+     "title": "Bird raises $450M in debt, headcount cut from 1,000 peak to 120",
+     "link": "https://tech.eu/2026/09/23/bird-raises-450m-in-debt-headcount-cut-from-1000-to-120/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "anthropic-and-nvidia-back-basecamp-research-in-140m-series": {
+   "name": "Anthropic and Nvidia back Basecamp Research in $140M Series ",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "A UK life sciences startup using AI to develop new medicines faster to treat diseases has raised $140m in funding, in an investmentround featuring AI powerhouses Nvidia and new investor Anthropic. Bas...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$140M",
+     "round": "Series C",
+     "title": "Anthropic and Nvidia back Basecamp Research in $140M Series C",
+     "link": "https://tech.eu/2026/09/23/anthropic-and-nvidia-back-basecamp-research-in-140m-series-c/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "london-traveltech-stasher": {
+   "name": "London traveltech Stasher",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "London-founded traveltech companyStasher has secured £3 million in new funding to expand its global luggagestorage marketplace and smart locker network. The funding comprisesapproximately £2 million i...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "£3M",
+     "round": "",
+     "title": "London traveltech Stasher secures £3M for global expansion",
+     "link": "https://tech.eu/2026/09/23/london-traveltech-stasher-secures-ps3m-for-global-expansion/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "connect-ventures-announces-first": {
+   "name": "Connect Ventures announces first",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Connect Ventures has announced the first $55 million close ofits $80 million fifth fund, which will invest in early-stage technologycompanies across Europe. The fund is anchored by British Business Ba...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$80M",
+     "round": "",
+     "title": "Connect Ventures announces first close of $80M Fund V to back Europe's technical founders",
+     "link": "https://tech.eu/2026/09/23/connect-ventures-announces-first-close-of-80m-fund-v-to-back-europes-technical-founders/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "tekever": {
+   "name": "TEKEVER",
+   "country": "Portugal",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "TEKEVER, provider of AI-powered autonomous systems, today announced the first close of its $580 million Series D financing, valuing the company at S$6.4 billion.TEKEVER is a Portuguese-founded defence...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$580M",
+     "round": "Series D",
+     "title": "TEKEVER raises $580M Series D at $6.4B valuation",
+     "link": "https://tech.eu/2026/09/23/tekever-raises-580m-series-d-at-6-4b-valuation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "standardx-launches-with-10m-to-expand-isotope-production-fo": {
+   "name": "StandardX launches with £10M to expand isotope production fo",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Deeptech company StandardX has raised £10million in seed funding to develop its accelerator-based isotope refinery andincrease production of rare isotopes used in medicine and energy. The round wasled...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "£10M",
+     "round": "Seed",
+     "title": "StandardX launches with £10M to expand isotope production for medicine and fusion",
+     "link": "https://tech.eu/2026/09/23/standardx-launches-with-ps10m-to-expand-isotope-production-for-medicine-and-fusion/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "palma-ai": {
+   "name": "Palma.ai",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Palma.ai, an enterprise platform for governing AI agents atruntime, has raised $1.8 million in pre-seed funding. The round was led byD11Z, with participation from Plug and Play Ventures, Deel, Scale N...",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$1.8M",
+     "round": "Pre-Seed",
+     "title": "Palma.ai raises $1.8M to bring governed AI agents to more enterprises",
+     "link": "https://tech.eu/2026/09/23/palmaai-raises-18m-to-bring-governed-ai-agents-to-more-enterprises/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "f13-emerges-from-stealth-with-5m-for-vector-graphics-ai": {
+   "name": "F13 emerges from stealth with $5M for vector graphics AI",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "F13, an AI company developingfoundation models for generating vector graphics, has emerged from stealth with$5 million in pre-seed funding. The round was led by Credo Ventures and Point Nine Capital, ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$5M",
+     "round": "Pre-Seed",
+     "title": "F13 emerges from stealth with $5M for vector graphics AI",
+     "link": "https://tech.eu/2026/09/23/f13-emerges-from-stealth-with-5m-for-vector-graphics-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cioc-energy": {
+   "name": "CIOC Energy",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Belgian energyoptimisation company CIOC Energy has raised €3 million from renewable energydeveloper CleverNett, which has taken a minority stake in the company. CIOCEnergy will remain independent.Foun...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "€3M",
+     "round": "",
+     "title": "CIOC Energy secures €3M for solar and battery optimisation",
+     "link": "https://tech.eu/2026/09/23/cioc-energy-secures-eur3m-for-solar-and-battery-optimisation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "noxtua": {
+   "name": "Noxtua",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Noxtua has closed its Series C funding round totaling more than €100 million. Founded in Berlin in 2017 and spun out of research at Oxford University and Imperial College London, the scale-up launched...",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "€100M",
+     "round": "Series C",
+     "title": "Noxtua raises more than €100M as C.H.BECK takes majority stake German legaltech",
+     "link": "https://tech.eu/2026/09/23/noxtua-raises-more-than-eur100m-as-chbeck-takes-majority-stake-german-legaltech/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ipo-bound-moneyview": {
+   "name": "IPO-Bound Moneyview",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Ahead of opening its initial public offering (IPO) for bidding, fintech unicorn Moneyview has raised ₹327.5 Cr from anchor investors…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "₹327.5",
+     "round": "",
+     "title": "IPO-Bound Moneyview Nets ₹327.5 Cr From Anchor Investors",
+     "link": "https://inc42.com/buzz/ipo-bound-moneyview-nets-%e2%82%b9327-5-cr-from-anchor-investors/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "zelio-e-mobility-to": {
+   "name": "Zelio E-Mobility To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Electric vehicle (EV) manufacturer Zelio E-Mobility’s board of directors approved a proposal today to raise up to ₹167.95 Cr via…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "₹168",
+     "round": "",
+     "title": "Zelio E-Mobility To Raise ₹168 Cr Via Preferential Issue",
+     "link": "https://inc42.com/buzz/zelio-e-mobility-to-raise-%e2%82%b9168-cr-via-preferential-issue/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "multiples-leads-150-mn-funding-round-in-brahma-ai": {
+   "name": "Multiples Leads $150 Mn Funding Round In Brahma AI",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Multiples Alternate Asset Management has led a $150 Mn funding round in Prime Focus-backed AI audiovisual content platform Brahma AI,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$150 Mn",
+     "round": "",
+     "title": "Multiples Leads $150 Mn Funding Round In Brahma AI",
+     "link": "https://inc42.com/buzz/multiples-leads-150-mn-funding-round-in-brahma-ai/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-ultraviolette": {
+   "name": "[Update] Ultraviolette",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | September 23, 13:10 IST Electric two-wheeler startup Ultraviolette Automotive has raised $85 Mn (about ₹813 Cr) in a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$85 Mn",
+     "round": "",
+     "title": "[Update] Ultraviolette Raises $85 Mn To Scale EV Production",
+     "link": "https://inc42.com/buzz/exclusive-ultraviolette-to-raise-inr-373-cr-as-manufacturing-facility-bigga-takes-shape/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "dementia-biotech-kinoxis": {
+   "name": "Dementia biotech Kinoxis",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Kinoxis pockets $9.25m to push dementia agitation drugs through trials, with results due in 2027.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "$6.75 million",
+     "round": "Grant",
+     "title": "Dementia biotech Kinoxis raises $6.75 million with a $2.5m grant as cherry on top",
+     "link": "https://www.startupdaily.net/topic/funding/dementia-biotech-kinoxis-raises-6-75-million-with-a-2-5m-grant-as-cherry-on-top/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "advanced-navigation": {
+   "name": "Advanced Navigation",
+   "country": "Poland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Advanced Navigation arms Poland’s drone shields with GPS-proof Boreas in a $26m Kongsberg deal—watch Aussie deep tech storm Europe’s defence boom.",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "events": [
+    {
+     "date": "2026-09-22",
+     "amount": "$26 million",
+     "round": "",
+     "title": "Advanced Navigation lands $26 million Polish drone defences deal",
+     "link": "https://www.startupdaily.net/topic/business/advanced-navigation-lands-26-million-polish-drone-defences-deal/",
      "source": "Startup Daily"
     }
    ]
