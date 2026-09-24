@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T17:42:15+00:00",
+ "updated": "2026-09-24T17:44:38+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -41698,10 +41698,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "Bird, the business communications platform once seen as a European rival to the US's Twilio, has raised $450m in debt financing, as it underscored its repositioning as an AI business, a shift which ha...",
-   "audience": "General / mixed",
+   "summary": "Bird, a global communications technology company, has secured $450 million in financing led by J.P. Morgan, alongside Capital One, Citi, and other lenders. The financing will provide liquidity to existing shareholders while allowing Bird to remain privately held and independent, ",
+   "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
    "events": [
     {
      "date": "2026-09-23",
@@ -41710,6 +41710,14 @@
      "title": "Bird raises $450M in debt, headcount cut from 1,000 peak to 120",
      "link": "https://tech.eu/2026/09/23/bird-raises-450m-in-debt-headcount-cut-from-1000-to-120/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-24",
+     "amount": "$450 Million",
+     "round": "",
+     "title": "Bird Secures $450 Million In Financing Led By JPMorgan, Capital One, And Citi",
+     "link": "https://pulse2.com/bird-secures-450-million-in-financing-led-by-jpmorgan-capital-one-and-citi/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -42070,6 +42078,550 @@
      "title": "Advanced Navigation lands $26 million Polish drone defences deal",
      "link": "https://www.startupdaily.net/topic/business/advanced-navigation-lands-26-million-polish-drone-defences-deal/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "from-booking-calls-to-late-check-ins-dextr-ai": {
+   "name": "From Booking Calls To Late Check-Ins, Dextr AI",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Dextr AI is emerging from stealth with $6.7 million in seed funding to build agents that handle reservations, guest requests, staff coordination and other hotel tasks.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "$6.7M",
+     "round": "Seed",
+     "title": "Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For Hotel AI Agents",
+     "link": "https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "funding-levels-up-a-bit-in-2026": {
+   "name": "Funding Levels Up A Bit In 2026",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Entertainment & play",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "So far this year, companies in the gaming space have raised around $2 billion in seed- through growth-stage funding. That's already ahead of the 2025 full-year total, driven in large part by big rounds for companies at the intersection of AI and gaming.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "$2 billion",
+     "round": "Seed",
+     "title": "Gaming Startup Funding Levels Up A Bit In 2026",
+     "link": "https://news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "bighat-biosciences": {
+   "name": "BigHat Biosciences",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "BigHat Biosciences, a San Mateo, California-based biotechnology company developing AI-designed protein therapeutics, has raised a $75 million Series C financing co-led by DFJ Growth and Premji Invest, bringing its total funding to $223 million. The financing will support the comp",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "$75 Million",
+     "round": "Series C",
+     "title": "BigHat Biosciences Raises $75 Million Series C Co-Led By DFJ Growth And Premji Invest",
+     "link": "https://pulse2.com/bighat-biosciences-raises-75-million-series-c/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "teamshares": {
+   "name": "Teamshares",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Teamshares, a New York-based technology-enabled acquirer of small and midsize businesses, has secured a $225 million preferred equity investment from accounts advised by T. Rowe Price Investment Management. The financing will primarily fund additional acquisitions as Teamshares e",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "$225 Million",
+     "round": "",
+     "title": "Teamshares Secures $225 Million Preferred Equity Investment From T. Rowe Price To Fund Acquisitions",
+     "link": "https://pulse2.com/teamshares-secures-225-million-preferred-equity-investment-from-t-rowe-price-to-fund-acquisitions/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "kingfisher": {
+   "name": "Kingfisher",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Kingfisher, the international home improvement retailer behind B&Q, Screwfix, Castorama, and Brico Dépôt, reported £404 million in adjusted profit before tax for the first half of fiscal 2026/27, representing a 9.9% increase from £368 million a year earlier. Following the results",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "£404 Million",
+     "round": "",
+     "title": "Kingfisher Raises Full-Year Profit Guidance After First-Half Adjusted Profit Rises 9.9% To £404 Million",
+     "link": "https://pulse2.com/kingfisher-raises-full-year-profit-guidance-after-first-half-adjusted-profit-rises-9-9-to-404-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "confido": {
+   "name": "Confido",
+   "country": "USA",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Confido, a New York-based developer of AI-powered software for consumer packaged goods companies, has raised a $55 million Series B led by Insight Partners, with participation from Trenches Capital, Watchfire, Barrel Ventures, Footwork, and Y Combinator. The financing brings the ",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "$55 Million",
+     "round": "Series B",
+     "title": "Confido Raises $55 Million Series B Led By Insight Partners To Develop AI-Based Software For CPG Companies",
+     "link": "https://pulse2.com/confido-raises-55-million-series-b-led-by-insight-partners-to-develop-ai-based-software-for-cpg-companies/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "duqu": {
+   "name": "Duqu",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Amsterdam-based fintech Duqu has raised €1.5million in pre-seed funding from Curiosity VC and No Such Ventures. The companyprovides short-term advances against outstanding B2B invoices and developsAI-...",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "€1.5 million",
+     "round": "Pre-Seed",
+     "title": "Amsterdam-based Duqu raises €1.5 million to unlock cash tied up in unpaid invoices",
+     "link": "https://www.eu-startups.com/2026/09/amsterdam-based-duqu-raises-e1-5-million-to-unlock-cash-tied-up-in-unpaid-invoices/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-24",
+     "amount": "€1.5M",
+     "round": "Pre-Seed",
+     "title": "Duqu raises €1.5M to give businesses faster access to working capital",
+     "link": "https://tech.eu/2026/09/24/duqu-raises-eur15m-to-give-businesses-faster-access-to-working-capital/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "italy-s-clastix": {
+   "name": "Italy’s Clastix",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Clastix, a Naples-based infrastructure software company helping enterprises run Kubernetes more efficiently at scale, has raised €2.9 million in a Seed round. This marks the company’s first external funding round. The round was led by CDP Venture Capital Sgr, with participation f",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "€2.9 million",
+     "round": "Seed",
+     "title": "Italy’s Clastix raises €2.9 million with Mistral backing to build sovereign Kubernetes infrastructure for Europe",
+     "link": "https://www.eu-startups.com/2026/09/italys-clastix-raises-e2-9-million-with-mistral-backing-to-build-sovereign-kubernetes-infrastructure-for-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "50skills": {
+   "name": "50skills",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "50skills, the AI operating systemfor people workflows, has raised $6 millionin funding to expand its platform for automating HR and people workflows. Theround was co-led by Frumtak Ventures, Swiss Pos...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "€5.3 million",
+     "round": "",
+     "title": "Reykjavík-based 50skills raises €5.3 million to scale its AI-powered HR workflow automation platform",
+     "link": "https://www.eu-startups.com/2026/09/reykjavik-based-50skills-raises-e5-3-million-to-scale-its-ai-powered-hr-workflow-automation-platform/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-24",
+     "amount": "$6M",
+     "round": "",
+     "title": "50skills raises $6M to scale its AI operating system for people workflows",
+     "link": "https://tech.eu/2026/09/24/50skills-raises-6m-to-scale-its-ai-operating-system-for-people-workflows/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "metycle": {
+   "name": "Metycle",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Metycle, a Cologne-based supplier of secondary copper and aluminium, has secured a €131.7 million ($150 million) credit facility. The credit facility was provided by Rivonia Road Capital, a California-headquartered private capital manager specialising in asset-backed lending. The",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "€131.7 million",
+     "round": "Series A",
+     "title": "Cologne-based Metycle secures €131.7 million credit facility to scale secondary copper and aluminium supply",
+     "link": "https://www.eu-startups.com/2026/09/cologne-based-metycle-secures-e131-7-million-credit-facility-to-scale-secondary-copper-and-aluminium-supply/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "europeans-in-japan": {
+   "name": "Europeans in Japan",
+   "country": "Japan",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "O-ID, a Tokyo-based company founded by two Europeans building one of the world’s first fully modular humanoid robots for industrial manufacturing and logistics, has raised $1.2 million in pre-seed fun...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "$1.2M",
+     "round": "Pre-Seed",
+     "title": "Europeans in Japan raise $1.2M to put modular humanoid robots to work",
+     "link": "https://tech.eu/2026/09/24/brits-in-japan-raise-1m-to-put-modular-humanoid-robots-to-work/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "owow-venture-studio": {
+   "name": "OWOW Venture Studio",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Eindhoven-based OWOW Venture Studio hassecured €2.65 million from eight family offices and angel investors to buildand accelerate early-stage B2B startups, with a focus on manufacturing andoriginal eq...",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "€2.65M",
+     "round": "Angel",
+     "title": "OWOW Venture Studio lands €2.65M to build B2B startups for traditional industries",
+     "link": "https://tech.eu/2026/09/24/owow-venture-studio-lands-eur265m-to-build-b2b-startups-for-traditional-industries/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "kontext": {
+   "name": "Kontext",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI security company Kontext has raised $4million in funding to expand its runtime security platform for AI agents. Thefinancing was led by 42CAP, with backing from a16z CSX and HTGF.Founded by Jens Er...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "$4M",
+     "round": "",
+     "title": "Kontext raises $4M for runtime security platform for AI agents",
+     "link": "https://tech.eu/2026/09/24/kontext-raises-4m-for-runtime-security-platform-for-ai-agents/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "reply-next": {
+   "name": "Reply Next",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Reply Next, an AIplatform for managing the digital presence of businesses with multiplelocations, has raised €400,000 in pre-seed funding. The round was led byindependent investment firm 4Founders Cap...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "€400K",
+     "round": "Pre-Seed",
+     "title": "AI platform Reply Next secures €400K pre-seed funding",
+     "link": "https://tech.eu/2026/09/24/ai-platform-reply-next-secures-eur400k-pre-seed-funding/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "switzerland-s-top-funded-tech-companies-in-h1-2026": {
+   "name": "Switzerland's top-funded tech companies in H1 2026",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Swiss tech companies raised more than €1.1 billion duringthe first half of 2026. Capital was relatively concentrated, with the tenlargest funding rounds accounting for around two-thirds of the total.L...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "€1.1 billion",
+     "round": "",
+     "title": "Switzerland's top-funded tech companies in H1 2026",
+     "link": "https://tech.eu/2026/09/24/switzerlands-top-funded-tech-companies-in-h1-2026/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "crux-analytics": {
+   "name": "Crux Analytics",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Crux Analytics, a fintech fixing the relationship between financial services companies and the small businesses they serve, has raised €1.9 million in seed funding to help institutions engage, acquire...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "€1.9M",
+     "round": "Seed",
+     "title": "Crux Analytics raises €1.9M to help banks win and retain small business customers",
+     "link": "https://tech.eu/2026/09/24/crux-analytics-raises-eur19m-to-help-banks-win-and-retain-small-business-customers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "clastix": {
+   "name": "Clastix",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Italy-based Clastix, a company developingtechnology for managing Kubernetes operations at scale, has raised €2.9 millionin seed funding to expand its team and accelerate the development of itsplatform...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "€2.9M",
+     "round": "Seed",
+     "title": "Clastix bags €2.9M to tackle the complexity of Kubernetes at scale",
+     "link": "https://tech.eu/2026/09/24/clastix-bags-eur29m-to-tackle-the-complexity-of-kubernetes-at-scale/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "dtcp": {
+   "name": "DTCP",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Defencetech fund DTCP today closed DTCP Defence Fund I, securing €455 million in commitments.  The Fund brings together a strong group of European institutional and strategic investors, including Deut...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "€455M",
+     "round": "",
+     "title": "DTCP closes €455M defence fund to scale Europe’s strategic tech capabilities",
+     "link": "https://tech.eu/2026/09/24/dtcp-closes-eur455m-defence-fund-to-scale-europes-strategic-tech-capabilities/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ipo-bound-acevector": {
+   "name": "IPO-Bound AceVector",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Snapdeal parent AceVector has raised ₹189 Cr from anchor investors ahead of the opening of its initial public offering (IPO)…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "₹189",
+     "round": "",
+     "title": "IPO-Bound AceVector Nets ₹189 Cr From Anchor Investors",
+     "link": "https://inc42.com/buzz/ipo-bound-acevector-nets-%e2%82%b9189-cr-from-anchor-investors/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ema": {
+   "name": "Ema",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Agentic AI startup Ema has raised $77 Mn (over ₹738 Cr) in a Series B funding round led by Bengaluru-based…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "$77 Mn",
+     "round": "Series B",
+     "title": "Ema Raises $77 Mn To Scale Its Universal AI Employee Platform Globally",
+     "link": "https://inc42.com/buzz/ema-raises-77-mn-to-scale-its-universal-ai-employee-platform-globally/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-ola-electric-to-seek-board-nod-for-proposed-rights": {
+   "name": "[Update] Ola Electric To Seek Board Nod For Proposed Rights ",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | September 24, 00:19 IST Days after Ola Electric received board nod to raise up to ₹1,500 Cr via…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "events": [
+    {
+     "date": "2026-09-23",
+     "amount": "₹1,500",
+     "round": "",
+     "title": "[Update] Ola Electric To Seek Board Nod For Proposed Rights Issue",
+     "link": "https://inc42.com/buzz/ola-electric-board-approves-fresh-%e2%82%b91500-cr-fundraise-after-%e2%82%b9780-cr-qip/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "axya": {
+   "name": "Axya",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "McRock, Yamaha, CIBC back Axya’s plan to help manufacturers automate sourcing and purchasing. \n The post  Axya closes $17-million Series A to modernize manufacturing procurement  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "$17",
+     "round": "Series A",
+     "title": "Axya closes $17-million Series A to modernize manufacturing procurement",
+     "link": "https://betakit.com/axya-closes-17-million-series-a-to-modernize-manufacturing-procurement/",
+     "source": "BetaKit"
     }
    ]
   }
