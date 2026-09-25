@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T17:44:38+00:00",
+ "updated": "2026-09-25T17:45:51+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -41802,10 +41802,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "TEKEVER, provider of AI-powered autonomous systems, today announced the first close of its $580 million Series D financing, valuing the company at S$6.4 billion.TEKEVER is a Portuguese-founded defence...",
+   "summary": "This week, we tracked more than 65 tech funding deals worth over €2 billion and over 4 exits, M&A transactions, rumours, and related news stories across Europe.    If email is more your thing, you...",
    "audience": "Government & public sector",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-09-23",
+   "last_seen": "2026-09-25",
    "events": [
     {
      "date": "2026-09-23",
@@ -41813,6 +41813,14 @@
      "round": "Series D",
      "title": "TEKEVER raises $580M Series D at $6.4B valuation",
      "link": "https://tech.eu/2026/09/23/tekever-raises-580m-series-d-at-6-4b-valuation/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-09-25",
+     "amount": "$580M",
+     "round": "Series D",
+     "title": "TEKEVER raises $580M Series D, DTCP closes €455M defence fund, and the challenge to reinvent chip design",
+     "link": "https://tech.eu/2026/09/25/tekever-raises-580m-series-d-dtcp-closes-455m-defence-fund-and-the-challenge-to-reinvent-chip-design/",
      "source": "Tech.eu"
     }
    ]
@@ -42622,6 +42630,198 @@
      "title": "Axya closes $17-million Series A to modernize manufacturing procurement",
      "link": "https://betakit.com/axya-closes-17-million-series-a-to-modernize-manufacturing-procurement/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "csignum": {
+   "name": "CSignum",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Connection & community",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "CSignum, a Scottish wireless communications technology company, has raised £2.6 million to accelerate commercial deployment of its EM2 product portfolio across water quality monitoring and other infrastructure applications. The financing will also support manufacturing expansion ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-25",
+   "last_seen": "2026-09-25",
+   "events": [
+    {
+     "date": "2026-09-25",
+     "amount": "£2.6 Million",
+     "round": "",
+     "title": "CSignum Raises £2.6 Million To Scale Underwater And Through-Ground Infrastructure Monitoring Technology",
+     "link": "https://pulse2.com/csignum-raises-2-6-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "outerlimit": {
+   "name": "Outerlimit",
+   "country": "USA",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Outerlimit, a New York-based cybersecurity startup, has emerged from stealth with $16 million in pre-seed funding from AlbionVC, Evolution Equity Partners, and Crane Venture Partners. The company is developing a decentralized security and authorization platform designed to give e",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-25",
+   "last_seen": "2026-09-25",
+   "events": [
+    {
+     "date": "2026-09-25",
+     "amount": "$16 Million",
+     "round": "Pre-Seed",
+     "title": "Outerlimit Raises $16 Million Pre-Seed To Launch Zero Trust Security Platform For AI Agents",
+     "link": "https://pulse2.com/outerlimit-raises-16-million-pre-seed/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "galaxeye": {
+   "name": "GalaxEye",
+   "country": "India",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Spacetech startup GalaxEye has secured ₹63.84 Cr in financial support under the Centre’s Research, Development and Innovation (RDI) Fund to…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-25",
+   "last_seen": "2026-09-25",
+   "events": [
+    {
+     "date": "2026-09-25",
+     "amount": "₹63.8",
+     "round": "",
+     "title": "GalaxEye Gets ₹63.8 Cr RDI Support For Multisensor Satellite Tech",
+     "link": "https://inc42.com/buzz/galaxeye-gets-%e2%82%b963-8-cr-rdi-support-for-multisensor-satellite-tech/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "dextr-ai": {
+   "name": "Dextr AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Hospitality-focused AI startup Dextr AI has raised $6.7 Mn (about ₹64.2 Cr) in a seed funding round led by Elevation…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-25",
+   "last_seen": "2026-09-25",
+   "events": [
+    {
+     "date": "2026-09-25",
+     "amount": "$6.7 Mn",
+     "round": "Seed",
+     "title": "Dextr AI Raises $6.7 Mn To Build AI Agents For Hospitality Industry",
+     "link": "https://inc42.com/buzz/dextr-ai-raises-6-7-mn-to-build-ai-agents-for-hospitality-industry/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "rivet": {
+   "name": "Rivet",
+   "country": "India",
+   "region": "Asia",
+   "category": "Connection & community",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Dating startup Rivet has raised $10.5 Mn (about ₹100.6 Cr) in seed funding from Peak XV Partners, Shine Capital, and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-25",
+   "last_seen": "2026-09-25",
+   "events": [
+    {
+     "date": "2026-09-25",
+     "amount": "$10.5 Mn",
+     "round": "Seed",
+     "title": "Rivet Bags $10.5 Mn From Peak XV, Others To Scale Dating Platform In US",
+     "link": "https://inc42.com/buzz/rivet-bags-10-5-mn-from-peak-xv-others-to-scale-dating-platform-in-us/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "codekarma-in-talks-to": {
+   "name": "CodeKarma In Talks To",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Enterprise tech startup CodeKarma is in talks to raise $5 Mn to $6 Mn in a fresh funding round, sources…",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-25",
+   "last_seen": "2026-09-25",
+   "events": [
+    {
+     "date": "2026-09-25",
+     "amount": "$6 Mn",
+     "round": "",
+     "title": "Exclusive: CodeKarma In Talks To Raise $6 Mn From Prosus, Accel",
+     "link": "https://inc42.com/buzz/codekarma-in-talks-to-raise-6-mn-from-prosus-accel/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "rio-health": {
+   "name": "Rio Health",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Pharmacy-focused quick commerce startup Rio Health has raised $4.5 Mn (around ₹43 Cr) in a pre-Series A funding round led…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "events": [
+    {
+     "date": "2026-09-24",
+     "amount": "$4.5 Mn",
+     "round": "Pre-Series A",
+     "title": "Rio Health Raises $4.5 Mn To Scale Its Quick Pharmacy Network",
+     "link": "https://inc42.com/buzz/rio-health-raises-4-5-mn-to-scale-its-quick-pharmacy-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "proptech-play-rentbetter-moves-in-on-5-million": {
+   "name": "Proptech play RentBetter moves in on $5 million",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "RentBetter bags $5m to help landlords ditch pricey agents with AI-powered self-management.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-25",
+   "last_seen": "2026-09-25",
+   "events": [
+    {
+     "date": "2026-09-25",
+     "amount": "$5 million",
+     "round": "",
+     "title": "Proptech play RentBetter moves in on $5 million",
+     "link": "https://www.startupdaily.net/topic/funding/proptech-play-rentbetter-moves-in-on-5-million/",
+     "source": "Startup Daily"
     }
    ]
   }
