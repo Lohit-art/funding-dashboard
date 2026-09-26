@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T17:45:51+00:00",
+ "updated": "2026-09-26T16:52:08+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -42822,6 +42822,102 @@
      "title": "Proptech play RentBetter moves in on $5 million",
      "link": "https://www.startupdaily.net/topic/funding/proptech-play-rentbetter-moves-in-on-5-million/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "ahead-of-us-ipo-british-ai-neocloud-nscale": {
+   "name": "Ahead of US IPO, British AI neocloud Nscale",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-25",
+   "last_seen": "2026-09-25",
+   "events": [
+    {
+     "date": "2026-09-25",
+     "amount": "$3.36B",
+     "round": "",
+     "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+     "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "endra-launches-ai-powered-electrical-engineering-platform-an": {
+   "name": "Endra Launches AI-Powered Electrical Engineering Platform An",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Endra, a Stockholm-based artificial intelligence company developing software for mechanical, electrical, and plumbing (MEP) engineering, has launched Endra Power Studio, an AI-powered platform designed to automate electrical engineering workflows. The company also announced the a",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-26",
+   "last_seen": "2026-09-26",
+   "events": [
+    {
+     "date": "2026-09-26",
+     "amount": "$50 Million",
+     "round": "Series A",
+     "title": "Endra Launches AI-Powered Electrical Engineering Platform And Acquires Planlabs Following $50 Million Series A",
+     "link": "https://pulse2.com/endra-launches-ai-powered-electrical-engineering-platform-and-acquires-planlabs-following-50-million-series-a/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "iit-madras-unicorn-india-ventures-mark-first": {
+   "name": "IIT Madras, Unicorn India Ventures Mark First",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "IIT Madras, IIT Madras Research Park (IITMRP), and Unicorn India Ventures have announced the first close of their deeptech-focused IITM…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-26",
+   "last_seen": "2026-09-26",
+   "events": [
+    {
+     "date": "2026-09-26",
+     "amount": "₹450",
+     "round": "",
+     "title": "IIT Madras, Unicorn India Ventures Mark First Close Of Fund I At ₹450 Cr",
+     "link": "https://inc42.com/buzz/iit-madras-unicorn-india-ventures-mark-first-close-of-fund-i-at-%e2%82%b9450-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "aequs-to": {
+   "name": "Aequs To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Contract manufacturing company Aequs’ board has approved a fund raise of up to ₹650 Cr via a preferential issue of…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-26",
+   "last_seen": "2026-09-26",
+   "events": [
+    {
+     "date": "2026-09-26",
+     "amount": "₹650",
+     "round": "",
+     "title": "Aequs To Raise ₹650 Cr Via Preferential Issue To Bolster Manufacturing Capacity",
+     "link": "https://inc42.com/buzz/aequs-to-raise-%e2%82%b9650-cr-via-preferential-issue-to-bolster-manufacturing-capacity/",
+     "source": "Inc42"
     }
    ]
   }
