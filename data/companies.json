@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T16:52:08+00:00",
+ "updated": "2026-09-27T17:29:34+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -42918,6 +42918,78 @@
      "title": "Aequs To Raise ₹650 Cr Via Preferential Issue To Bolster Manufacturing Capacity",
      "link": "https://inc42.com/buzz/aequs-to-raise-%e2%82%b9650-cr-via-preferential-issue-to-bolster-manufacturing-capacity/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "overlord-labs": {
+   "name": "Overlord Labs",
+   "country": "USA",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Overlord Labs, a San Jose, California-based semiconductor company developing intelligent battery management technology, has closed an oversubscribed $4.35 million seed extension, bringing its total capital raised to $10 million. The financing was led by Band of Angels, with parti",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-27",
+   "last_seen": "2026-09-27",
+   "events": [
+    {
+     "date": "2026-09-27",
+     "amount": "$4.35 Million",
+     "round": "Seed",
+     "title": "Overlord Labs Raises $4.35 Million Seed Extension, Bringing Total Funding To $10 Million",
+     "link": "https://pulse2.com/overlord-labs-raises-4-35-million-seed-extension-bringing-total-funding-to-10-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "goldgroup-mining": {
+   "name": "Goldgroup Mining",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Goldgroup Mining has completed an approximately $121.8 million nonbrokered private placement, substantially exceeding its initial $75 million fundraising target. \n The post  Goldgroup Mining Raises $121.8 Million In Oversubscribed Private Placement To Fund Mining Expansion  appea",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-27",
+   "last_seen": "2026-09-27",
+   "events": [
+    {
+     "date": "2026-09-27",
+     "amount": "$121.8 Million",
+     "round": "",
+     "title": "Goldgroup Mining Raises $121.8 Million In Oversubscribed Private Placement To Fund Mining Expansion",
+     "link": "https://pulse2.com/goldgroup-mining-raises-121-8-million-in-oversubscribed-private-placement-to-fund-mining-expansion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "precision-neuroscience": {
+   "name": "Precision Neuroscience",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Precision Neuroscience has raised $250 million in an oversubscribed Series D financing, bringing its total funding to $430 million as it advances its brain-computer interface technology toward broader clinical use and commercialization. The round was co-led by Pershing Square Inc",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-09-27",
+   "last_seen": "2026-09-27",
+   "events": [
+    {
+     "date": "2026-09-27",
+     "amount": "$250 Million",
+     "round": "Series D",
+     "title": "Precision Neuroscience Raises $250 Million Series D To Advance Brain-Computer Interface Technology",
+     "link": "https://pulse2.com/precision-neuroscience-raises-250-million-series-d-to-advance-brain-computer-interface-technology/",
+     "source": "Pulse 2.0"
     }
    ]
   }
