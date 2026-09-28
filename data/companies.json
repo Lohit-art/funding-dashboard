@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T17:29:34+00:00",
+ "updated": "2026-09-28T19:59:12+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -31947,17 +31947,17 @@
   },
   "instinct": {
    "name": "Instinct",
-   "country": "Unknown",
+   "country": "USA",
    "region": "North America",
    "category": "Time freedom",
    "sector": "Semiconductors",
    "is_ai": true,
    "research_based": false,
-   "stage": "emerging",
-   "summary": "Instinct, an AI assistant developed by Spear Street Technology, is raising $250 million in Series B funding at a $2.5 billion valuation as the product gains traction among Silicon Valley technologists, according to a Wall Street Journal report. The round is being co-led by Index ",
-   "audience": "General / mixed",
+   "stage": "established",
+   "summary": "Instinct raised $1 billion in Series C funding from Sequoia Capital, Benchmark Capital, and Coatue at a $10 billion valuation, giving the San Francisco-based company additional capital to expand its personal AI agent for everyday tasks.  \n The post  Instinct Raises $1 Billion Ser",
+   "audience": "Consumers",
    "first_seen": "2026-08-27",
-   "last_seen": "2026-08-27",
+   "last_seen": "2026-09-28",
    "events": [
     {
      "date": "2026-08-27",
@@ -31965,6 +31965,14 @@
      "round": "Series B",
      "title": "Instinct Raises $250 Million At $2.5 Billion Valuation As AI Assistant Goes Viral In Silicon Valley",
      "link": "https://pulse2.com/instinct-raises-250-million-at-2-5-billion-valuation-as-ai-assistant-goes-viral-in-silicon-valley/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-09-28",
+     "amount": "$1 Billion",
+     "round": "Series C",
+     "title": "Instinct Raises $1 Billion Series C At $10 Billion Valuation To Expand Personal AI Agent",
+     "link": "https://pulse2.com/instinct-raises-1-billion-series-c-at-10-billion-valuation/",
      "source": "Pulse 2.0"
     }
    ]
@@ -42990,6 +42998,518 @@
      "title": "Precision Neuroscience Raises $250 Million Series D To Advance Brain-Computer Interface Technology",
      "link": "https://pulse2.com/precision-neuroscience-raises-250-million-series-d-to-advance-brain-computer-interface-technology/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "amprius": {
+   "name": "Amprius",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Amprius Technologies has been awarded a grant of up to $75 million from the U.S. Department of War to convert an existing domestic electric vehicle battery production line into manufacturing capacity for high-energy-density cells used in unmanned aerial systems. \n The post  Ampri",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "$75 Million",
+     "round": "Grant",
+     "title": "Amprius Secures Up To $75 Million U.S. Government Grant For High-Energy Battery Production",
+     "link": "https://pulse2.com/amprius-secures-up-to-75-million-u-s-government-grant-for-high-energy-battery-production/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "hiringcafe": {
+   "name": "HiringCafe",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "HiringCafe has raised $6.8 million in pre-seed funding led by Spark Capital, with participation from Nonfiction Capital, Silicon Gardens, and angel investors from ZipRecruiter and Indeed. The company is also launching an AI Talent Agent designed to search millions of open jobs on",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "$6.8 Million",
+     "round": "Pre-Seed",
+     "title": "HiringCafe Raises $6.8 Million Pre-Seed And Launches Free AI Talent Agent For Job Seekers",
+     "link": "https://pulse2.com/hiringcafe-raises-6-8-million-pre-seed-and-launches-free-ai-talent-agent-for-job-seekers/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sima-ai": {
+   "name": "SiMa.ai",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "SiMa.ai has raised $150 million in an oversubscribed Series C financing, bringing its total capital raised to $500 million and valuing the company at $1.45 billion. The round was co-led by Fidelity Management & Research Company and Amplify, with participation from Alter Venture P",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "$150 Million",
+     "round": "Series C",
+     "title": "SiMa.ai Raises $150 Million Series C At $1.45 Billion Valuation To Scale Physical AI Platform",
+     "link": "https://pulse2.com/sima-ai-raises-150-million-series-c-at-1-45-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ibex-investors": {
+   "name": "Ibex Investors",
+   "country": "Israel",
+   "region": "Middle East",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ibex Investors has closed $87 million for its second secondary fund, expanding its Israel-focused investment platform with a vehicle targeting high-performing, mature Israeli technology companies. \n The post  Ibex Investors Closes $87 Million Secondary II Fund Focused On Israeli ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "$87 Million",
+     "round": "",
+     "title": "Ibex Investors Closes $87 Million Secondary II Fund Focused On Israeli Technology Companies",
+     "link": "https://pulse2.com/ibex-investors-closes-87-million-secondary-ii-fund-focused-on-israeli-technology-companies/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "modulate-audio-native-ai-company": {
+   "name": "Modulate: Audio-Native AI Company",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Modulate, an audio-native AI company developing models that help machines understand emotion, tone, intent, synthetic speech and other signals in human conversations, has raised $25 million in new funding led by Future Ventures, with participation from Hyperplane and Lakestar. Th",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "$25 Million",
+     "round": "",
+     "title": "Modulate: Audio-Native AI Company Raises $25 Million Led By Future Ventures",
+     "link": "https://pulse2.com/modulate-audio-native-ai-company-raises-25-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "combat-tested-in-ukraine-dod-solution": {
+   "name": "Combat-tested in Ukraine, DOD Solution",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "DOD Solution, an Estonian-Ukrainian DefenceTech company developing onboard autonomy for unmanned systems, has closed a €1.8 million ($2.1 million) pre-Seed funding round to accelerate the development and scaling of its AURA AI autonomy platform. The round includes participation f",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€1.8 million",
+     "round": "Pre-Seed",
+     "title": "Combat-tested in Ukraine, DOD Solution raises €1.8 million to scale AI autonomy for unmanned systems",
+     "link": "https://www.eu-startups.com/2026/09/combat-tested-in-ukraine-dod-solution-raises-e1-8-million-to-scale-ai-autonomy-for-unmanned-systems/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "helsingborg-s-conversation-ai-startup-klang": {
+   "name": "Helsingborg’s conversation AI startup Klang",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Klang, a Helsingborg-based AI company that transcribes, summarises and analyses interviews, meetings and dialogues, has raised €1.32 million (SEK 15 million) in fresh capital at a valuation of €13.2 million (SEK 150 million). The round was backed by existing owners and led by Joh",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€1.32 million",
+     "round": "",
+     "title": "Helsingborg’s conversation AI startup Klang raises €1.32 million and releases open speech-to-text model for Swedish",
+     "link": "https://www.eu-startups.com/2026/09/helsingborgs-conversation-ai-startup-klang-raises-e1-32-million-and-releases-open-speech-to-text-model-for-swedish/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "eureka-venture-launches-20-million-fund-to-back-deeptech-s": {
+   "name": "Eureka! Venture launches €20 million fund to back DeepTech s",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Milan and Rome-based Eureka! Venture today announces the launch of Eureka! Fund II – Deep Tech Lazio, a €20 million early-stage fund investing from PoC and pre-Seed through Seed and other early-stage rounds. The fund is managed by Eureka! Venture, with Lazio Innova participating ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€20 million",
+     "round": "Pre-Seed",
+     "title": "Eureka! Venture launches €20 million fund to back DeepTech startups in Italy",
+     "link": "https://www.eu-startups.com/2026/09/eureka-venture-launches-e20-million-fund-to-back-deeptech-startups-in-italy/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "sofinnova-partners": {
+   "name": "Sofinnova Partners",
+   "country": "France",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "European life sciences venture capital firmSofinnova Partners has closed its fourth medtech fund, Sofinnova MD Start IV,at €82 million. The oversubscribed fund will expand Sofinnova’s medtechcompany-c...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€82 million",
+     "round": "",
+     "title": "Sofinnova Partners closes oversubscribed €82 million MD Start IV fund to build new MedTech startups",
+     "link": "https://www.eu-startups.com/2026/09/sofinnova-partners-closes-oversubscribed-e82-million-md-start-iv-fund-to-build-new-medtech-startups/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-28",
+     "amount": "€82M",
+     "round": "",
+     "title": "Sofinnova Partners closes oversubscribed €82M Sofinnova MD Start IV fund",
+     "link": "https://tech.eu/2026/09/28/sofinnova-partners-closes-oversubscribed-eur82m-sofinnova-md-start-iv-fund/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "london-s-reactive-technologies": {
+   "name": "London’s Reactive Technologies",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Reactive Technologies, a London-based power-grid technology company, has secured €19 million in financing from the European Investment Bank (EIB) to promote its platform, which aims to reduce the risk of electricity outages, lower grid operating costs, and increase the supply of ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€19 million",
+     "round": "",
+     "title": "London’s Reactive Technologies secures €19 million EIB financing to strengthen Europe’s power grids",
+     "link": "https://www.eu-startups.com/2026/09/londons-reactive-technologies-secures-e19-million-eib-financing-to-strengthen-europes-power-grids/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "estonia-s-bilt-me": {
+   "name": "Estonia’s bilt.me",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "bilt.me, a Tallinn-based AI-native mobile app builder, has raised €614.9k ($700k) in a pre-Seed funding round. The round was led by Superhero Capital, a Seed-stage VC backing software-driven startups across Finland, Estonia, Latvia, and Lithuania. The round also saw backing from ",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€615k",
+     "round": "Pre-Seed",
+     "title": "Estonia’s bilt.me raises €615k with backing from Bolt and Lightyear founders to scale its AI-native mobile app builder",
+     "link": "https://www.eu-startups.com/2026/09/estonias-bilt-me-raises-e615k-with-backing-from-bolt-and-lightyear-founders-to-scale-its-ai-native-mobile-app-builder/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "granite": {
+   "name": "Granite",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI infrastructure company Granite has secured €4million in funding in a round led by Bifrost Studios, alongside private investors, to commercialise itstechnology and bring its software and hardware to...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€4M",
+     "round": "",
+     "title": "Granite raises €4M to bring its agentic cloud infrastructure to market",
+     "link": "https://tech.eu/2026/09/28/granite-raises-eur4m-to-bring-its-agentic-cloud-infrastructure-to-market/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "complaion": {
+   "name": "Complaion",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Complaion, an Italian company helping SMEsmanage certifications and regulatory compliance, has raised €13.5 million infunding to expand its team, develop its technology and support itsinternational gr...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€13.5M",
+     "round": "",
+     "title": "Complaion raises €13.5M to simplify compliance for European SMEs",
+     "link": "https://tech.eu/2026/09/28/complaion-raises-eur135m-to-simplify-compliance-for-european-smes/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "shopify-of-mobile-apps-bilt-me": {
+   "name": "‘Shopify of mobile apps’ bilt.me",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Estonian AI app-building platform bilt.mehas raised $700,000 in pre-seed funding in a round led by Superhero Capital,with backing from Bolt founder Markus Villig and Lightyear founder Martin Sokk.Foun...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "$700K",
+     "round": "Pre-Seed",
+     "title": "‘Shopify of mobile apps’ bilt.me raises $700K to turn ideas into mobile businesses",
+     "link": "https://tech.eu/2026/09/28/shopify-of-mobile-apps-biltme-raises-700k-to-turn-ideas-into-mobile-businesses/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "lithuanian-legaltech-startup": {
+   "name": "Lithuanian legaltech startup",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Connection & community",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Vilnius-based legaltech startup EnforceShield has raised €1.7 million in a seed round led by Vendep Capital, with participation from FIRSTPICK VC, to expand its autonomous intellectual property enforcement platform. EnforceShield uses AI agents to automate the IP enforcement proc",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€1.7 million",
+     "round": "Seed",
+     "title": "Lithuanian legaltech startup secures €1.7 million seed to automate takedowns and IP enforcement workflows",
+     "link": "https://arcticstartup.com/enforceshield-raises-e1-7-million-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "estonian-ai-startup": {
+   "name": "Estonian AI startup",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI startup bilt.me has raised €615,000 in pre-seed funding in a round led by Superhero Capital, with backing from Bolt founder Markus Villig and Lightyear founder Martin Sokk. Founded in Tallinn in 2025, bilt.me develops an AI-native platform that lets users build, deploy and sel",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€615K",
+     "round": "Pre-Seed",
+     "title": "Estonian AI startup gets €615K to expand no-code mobile app platform",
+     "link": "https://arcticstartup.com/bilt-me-raises-e615k/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "swedish-company": {
+   "name": "Swedish company",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swedish AI company Klang has raised €1.32 million (SEK 15 million) at a €13.2 million (SEK 150 million) valuation in a round led by entrepreneur and tech investor Johan Lenander, together with Refined founder Emil Sjödin and Position Green co-founder Daniel Gadd, alongside existi",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "€1.32 million",
+     "round": "",
+     "title": "Swedish company raises €1.32 million to develop searchable AI memory for conversations",
+     "link": "https://arcticstartup.com/klang-raises-e1-32-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "icelandic-startup": {
+   "name": "Icelandic startup",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Reykjavík-founded HR technology company 50skills has raised $6 million in a funding round co-led by Frumtak Ventures, Swiss Post Ventures, Avant and US family office DRD Investments. The company develops an operating system for people workflows that combines automated processes, ",
+   "audience": "Consumers",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "$6 million",
+     "round": "",
+     "title": "Icelandic startup secures $6 million to build out Its AI operating system for people workflows",
+     "link": "https://arcticstartup.com/50skills-raises-6-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "update-moneyview-ipo": {
+   "name": "[Update] Moneyview IPO",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | September 28, 18:58 IST Moneyview’s ₹1,092 Cr IPO closed today with an oversubscription of 98.46X. Investors across categories…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "₹1,092",
+     "round": "",
+     "title": "[Update] Moneyview IPO Closes With 98.46X Oversubscription",
+     "link": "https://inc42.com/buzz/moneyview-ipo-oversubscribed-31-41x-on-day-3-so-far/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "balwaan-krishi": {
+   "name": "Balwaan Krishi",
+   "country": "India",
+   "region": "Asia",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Agritech startup Balwaan Krishi has raised ₹100 Cr (around $10 Mn) in its Series B funding round led by First…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "₹100",
+     "round": "Series B",
+     "title": "Balwaan Krishi Bags ₹100 Cr To Scale Farm Equipment Manufacturing",
+     "link": "https://inc42.com/buzz/balwaan-krishi-bags-%e2%82%b9100-cr-to-scale-farm-equipment-manufacturing/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "status-with-new-openai-led-financing": {
+   "name": "status with new OpenAI-led financing",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Toronto-based biotech raises $153 million USD to give discarded drug candidates an AI-assisted second chance. \n The post  Biossil hits unicorn status with new OpenAI-led financing  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "events": [
+    {
+     "date": "2026-09-28",
+     "amount": "$153 million",
+     "round": "",
+     "title": "Biossil hits unicorn status with new OpenAI-led financing",
+     "link": "https://betakit.com/biossil-hits-unicorn-status-with-new-openai-led-financing/",
+     "source": "BetaKit"
     }
    ]
   }
