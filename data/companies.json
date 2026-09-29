@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T19:59:12+00:00",
+ "updated": "2026-09-29T18:27:20+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -38503,13 +38503,13 @@
    "region": "Europe",
    "category": "Climate & sustainability",
    "sector": "Climate / Energy",
-   "is_ai": false,
-   "research_based": false,
-   "stage": "new",
-   "summary": "Swedish energy technology company Rebaba has raised $4.6 million (SEK 44.1 million) in an oversubscribed seed round led by Sistafund, alongside EIT Urban Mobility, with participation from existing shareholders and new European investors. Founded around the reuse of electric vehic",
-   "audience": "General / mixed",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Stockholm-based IPercept has raised $16.5 million in a Series A round co-led by Isogon Ventures and 2150, with existing investors Luminar Ventures, RunwayFBU, J12 Ventures, and AI.Fund also participating. Spun out of KTH Royal Institute of Technology, IPercept develops patented p",
+   "audience": "Researchers & scientists",
    "first_seen": "2026-09-15",
-   "last_seen": "2026-09-15",
+   "last_seen": "2026-09-29",
    "events": [
     {
      "date": "2026-09-15",
@@ -38517,6 +38517,22 @@
      "round": "Seed",
      "title": "Swedish startup raises $4.6 million seed to turn retired EV batteries into energy storage systems",
      "link": "https://arcticstartup.com/rebaba-closes-4-6-million-seed/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-09-29",
+     "amount": "€3 million",
+     "round": "Seed",
+     "title": "Swedish startup secures €3 million to take prospecting and sales admin off reps’ plates",
+     "link": "https://arcticstartup.com/spiich-raises-e3m-seed/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-09-29",
+     "amount": "$16.5 million",
+     "round": "Series A",
+     "title": "Swedish startup raises $16.5 million to make CNC machines more intelligent",
+     "link": "https://arcticstartup.com/ipercept-raises-16-5m-series-a/",
      "source": "ArcticStartup"
     }
    ]
@@ -43509,6 +43525,382 @@
      "round": "",
      "title": "Biossil hits unicorn status with new OpenAI-led financing",
      "link": "https://betakit.com/biossil-hits-unicorn-status-with-new-openai-led-financing/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "protego-ventures": {
+   "name": "Protego Ventures",
+   "country": "Israel",
+   "region": "Middle East",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "$125 million",
+     "round": "",
+     "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+     "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "tiny-health": {
+   "name": "Tiny Health",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Tiny Health, a microbiome intelligence platform focused on scientifically validated gut and vaginal microbiome testing across the lifespan, announced that it has raised an oversubscribed $33 million Series B round led by B Capital, bringing the company’s total funding to $46 mill",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "$33M",
+     "round": "Series B",
+     "title": "Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future Health",
+     "link": "https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/",
+     "source": "Crunchbase News"
+    },
+    {
+     "date": "2026-09-29",
+     "amount": "$33 Million",
+     "round": "Series B",
+     "title": "Tiny Health Raises $33 Million Series B To Expand Microbiome Intelligence Platform",
+     "link": "https://pulse2.com/tiny-health-raises-33-million-series-b-to-expand-microbiome-intelligence-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "remotethreat": {
+   "name": "RemoteThreat",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "RemoteThreat has emerged from stealth with $7 million in pre-seed funding and the launch of its O/C/O Platform, an AI-enabled platform designed for offensive cyber operations. The company is targeting enterprise and critical infrastructure red teams, U.S. government mission teams",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "$7 Million",
+     "round": "Pre-Seed",
+     "title": "RemoteThreat Raises $7 Million In Pre-Seed Funding And Emerges From Stealth With O/C/O Platform",
+     "link": "https://pulse2.com/remotethreat-raises-7-million-in-pre-seed-funding/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "germany-s-reverion": {
+   "name": "Germany’s Reverion",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Reverion, an Eresing-based EnergyTech company that builds reversible fuel cell power plants for decentralised energy supply, today announced the closing of a €154.2 million ($175 million) Series B funding round to scale production of its dispatchable, carbon-negative power plants",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "€154.2 million",
+     "round": "Series B",
+     "title": "Germany’s Reverion raises €154.2 million to scale production of power plants that generate electricity from gas",
+     "link": "https://www.eu-startups.com/2026/09/germanys-reverion-raises-e154-2-million-to-scale-production-of-power-plants-that-generate-electricity-from-gas/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "rayon": {
+   "name": "Rayon",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Rayon, a browser-based drawingsoftware platform for interior designers, has raised €10 million in Series Afunding to further develop its platform and expand its go-to-market activities.The round was l...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "€10 million",
+     "round": "Series A",
+     "title": "Paris-based Rayon raises €10 million to build the drawing layer for interior design’s AI era",
+     "link": "https://www.eu-startups.com/2026/09/paris-based-rayon-raises-e10-million-to-build-the-drawing-layer-for-interior-designs-ai-era/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-29",
+     "amount": "€10M",
+     "round": "Series A",
+     "title": "Rayon raises €10M Series A to expand AI-powered interior design platform",
+     "link": "https://tech.eu/2026/09/29/rayon-raises-eur10m-series-a-to-expand-ai-powered-interior-design-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "luxembourg-s-anote-music": {
+   "name": "Luxembourg’s ANote Music",
+   "country": "Luxembourg",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "ANote Music, a Luxembourg-based marketplace for buying, selling and earning music royalties, today announced the closing of a €2 million funding round. The round was led by Seventure Partners alongside ScaleFund, with participation from existing investors and shareholders. The co",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "€2 million",
+     "round": "",
+     "title": "Luxembourg’s ANote Music raises €2 million to transform music royalties into an accessible asset class",
+     "link": "https://www.eu-startups.com/2026/09/luxembourgs-anote-music-raises-e2-million-to-transform-music-royalties-into-an-accessible-asset-class/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "marble": {
+   "name": "Marble",
+   "country": "France",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Marble, a Paris-based open-source platform for fraud detection and anti-money laundering (AML) compliance, has raised €6.5 million in Series A funding. The round was led by Smartfin, a European venture capital and private equity firm that invests in high-growth B2B technology com",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "€6.5 million",
+     "round": "Series A",
+     "title": "Paris-based Marble raises €6.5 million to automate fraud and AML compliance with its no-code, open-source platform",
+     "link": "https://www.eu-startups.com/2026/09/paris-based-marble-raises-e6-5-million-to-automate-fraud-and-aml-compliance-with-its-no-code-open-source-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "belgian-construction-tech-spotable": {
+   "name": "Belgian construction tech Spotable",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ghent-based construction tech company Spotablehas raised €4 million in seed funding to further develop its platform andaccelerate its expansion across Europe and the United States. The round wasarrang...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "€4M",
+     "round": "Seed",
+     "title": "Belgian construction tech Spotable raises €4M for international expansion",
+     "link": "https://tech.eu/2026/09/29/belgian-construction-tech-spotable-raises-eur4m-for-international-expansion/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cotierra": {
+   "name": "Cotierra",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Zurich-based climate technology company Cotierra has raised $3 million to take its technology from successful field deployments to repeatable commercial scale. The company has raised $4.75 million sin...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "$3M",
+     "round": "",
+     "title": "Cotierra raises $3M to scale decentralised biochar across tropical agriculture",
+     "link": "https://tech.eu/2026/09/29/cotierra-raises-3m-to-scale-decentralised-biochar-across-tropical-agriculture/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "romania-s-kyndred": {
+   "name": "Romania’s Kyndred",
+   "country": "Romania",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Kyndred, a Romanian startup developing AI companions designedto support users with everyday tasks, has raised €500,000 in a pre-seed roundfrom Early Game Ventures.Founded by serial entrepreneurs Alex ...",
+   "audience": "Consumers",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "€500K",
+     "round": "Pre-Seed",
+     "title": "Romania’s Kyndred raises €500K from Early Game Ventures to build AI companions",
+     "link": "https://tech.eu/2026/09/29/romanias-kyndred-raises-eur500k-from-early-game-ventures-to-build-ai-companions/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sovera-security": {
+   "name": "Sovera Security",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Danish cybersecurity company Sovera Security has secured €535,000 (4 million DKK) from the Danish Export and Investment Fund (EIFO). As geopolitical tensions rise, new regulation and the rapid adoptio...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "€535K",
+     "round": "",
+     "title": "Sovera Security secures €535K from EIFO to build sovereign AI cybersecurity",
+     "link": "https://tech.eu/2026/09/29/sovera-security-secures-eur535k-from-eifo-to-build-sovereign-ai-cybersecurity/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "biotech-aptadir-therapeutics": {
+   "name": "biotech Aptadir Therapeutics",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AMilan-based biotech company developing novel treatments for difficult to treat genetic conditions has raised a $45m seed round, it said today.Theseed round investment in Aptadir Therapeutics is one o...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "$45M",
+     "round": "Seed",
+     "title": "Milan-based biotech Aptadir Therapeutics raises $45M seed round",
+     "link": "https://tech.eu/2026/09/29/milan-based-biotech-aptadir-therapeutics-raises-45m-seed-round/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "swedish-machine-fitness-tracker-ipercept": {
+   "name": "Swedish machine fitness tracker IPercept",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Swedish machine fitness tracker IPercepthas raised $16.5m in a Series A funding round, it said today.The funding round was co-led by IsogonVentures, the early-stage VC, and London-headquartered VC 215...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "$16.5M",
+     "round": "Series A",
+     "title": "Swedish machine fitness tracker IPercept raises $16.5M",
+     "link": "https://tech.eu/2026/09/29/swedish-machine-fitness-tracker-ipercept-raises-165m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "dtcp-backs-norwegian-defence-tech-as-new-455m-fund-expands": {
+   "name": "DTCP backs Norwegian defence tech as new €455M fund expands ",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "German investment firm DTCP has closed the first €455 million of its DTCP Defence Fund I, with backing from European institutional and strategic investors including Nordic investors EIFO, Danica and SmartCap, alongside Deutsche Telekom and Porsche SE. The fund will invest in earl",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "€455M",
+     "round": "Growth",
+     "title": "DTCP backs Norwegian defence tech as new €455M fund expands across Nordics",
+     "link": "https://arcticstartup.com/dtcp-closes-first-e455m-of-its-dtcp-defence-fund-i/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "ex-general-fusion-employee": {
+   "name": "Ex-General Fusion employee",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Toronto-based firm provides plasma measurement systems for fusion companies. \n The post  Ex-General Fusion employee raises $4 million USD for fusion diagnostics startup Daedal  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "$4 million",
+     "round": "",
+     "title": "Ex-General Fusion employee raises $4 million USD for fusion diagnostics startup Daedal",
+     "link": "https://betakit.com/ex-general-fusion-employee-raises-4-million-usd-for-fusion-diagnostics-startup-daedal/",
      "source": "BetaKit"
     }
    ]
