@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T18:27:20+00:00",
+ "updated": "2026-09-30T18:16:35+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -43902,6 +43902,542 @@
      "title": "Ex-General Fusion employee raises $4 million USD for fusion diagnostics startup Daedal",
      "link": "https://betakit.com/ex-general-fusion-employee-raises-4-million-usd-for-fusion-diagnostics-startup-daedal/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "two-google-alumni": {
+   "name": "Two Google alumni",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+   "audience": "Enterprises",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$11.3M",
+     "round": "",
+     "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+     "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "a16z-backed-eliseai": {
+   "name": "a16z-backed EliseAI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "EliseAI raises $350M, doubles valuation in a year.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "$350M",
+     "round": "",
+     "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+     "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "oura-hits-pause-on-ipo-while-anthropic-s-prospectus-reveals": {
+   "name": "Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals ",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Although Oura has postponed its planned offering that could have raised as much as $2.2 billion, Anthropic is still making a move toward the public markets along with AI cloud provider Nscale and other companies lining up potential fourth-quarter listings.",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "events": [
+    {
+     "date": "2026-09-29",
+     "amount": "$2.2 billion",
+     "round": "",
+     "title": "Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions",
+     "link": "https://news.crunchbase.com/public/oura-pauses-ipo-anthropics-ai-openai/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "arbe-robotics": {
+   "name": "Arbe Robotics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Arbe Robotics has closed a $15 million underwritten registered direct offering, providing additional capital as the radar technology company scales commercial opportunities in automotive, defense, and counter-drone markets. \n The post  Arbe Robotics Closes $15 Million Registered ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$15 Million",
+     "round": "",
+     "title": "Arbe Robotics Closes $15 Million Registered Direct Offering To Support Automotive And Defense Expansion",
+     "link": "https://pulse2.com/arbe-robotics-closes-15-million-registered-direct-offering-to-support-automotive-and-defense-expansion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "addex-therapeutics": {
+   "name": "Addex Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Addex Therapeutics reported its first-half 2026 results while outlining progress across its neurological drug portfolio, including $2.8 million raised through an at-the-market offering and the return of rights to its GABAB positive allosteric modulator program from Indivior. \n Th",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$2.8 Million",
+     "round": "",
+     "title": "Addex Therapeutics Raises $2.8 Million As GABAB Programs Advance",
+     "link": "https://pulse2.com/addex-therapeutics-raises-2-8-million-as-gabab-programs-advance/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "openai-reportedly-targets-at-least-30-billion-funding-at-1": {
+   "name": "OpenAI Reportedly Targets At Least $30 Billion Funding At $1",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "OpenAI is seeking to raise at least $30 billion in a new funding round at a valuation of approximately $1.4 trillion, excluding the new capital, according to Bloomberg. The fundraising discussions are still at an early stage, and the final terms could change. Investor demand is r",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$30 Billion",
+     "round": "",
+     "title": "OpenAI Reportedly Targets At Least $30 Billion Funding At $1.4 Trillion Valuation",
+     "link": "https://pulse2.com/openai-reportedly-targets-at-least-30-billion-funding-at-1-4-trillion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "everphone": {
+   "name": "Everphone",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Berlin-based Everphone, a Device-as-a-Service provider, today secured €15 million in refinancing in order to issue employees of client companies new workplace devices as part of long-term leases. The financing was lended from Commerzbank and the development bank KfW, and follows ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "€15 million",
+     "round": "Series D",
+     "title": "Everphone secures €15 million to finance new devices for corporate customers",
+     "link": "https://www.eu-startups.com/2026/09/everphone-secures-e15-million-to-finance-new-devices-for-corporate-customers/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "inbolt": {
+   "name": "Inbolt",
+   "country": "France",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Paris-based industrial roboticscompany Inbolt has raised €11 million in funding to support its internationalgrowth and entry into the data centre and electronics manufacturing sectors.The round was le...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "€11 million",
+     "round": "",
+     "title": "Paris-based Inbolt raises €11 million to give industrial robots real-time vision and intelligence",
+     "link": "https://www.eu-startups.com/2026/09/paris-based-inbolt-raises-e11-million-to-give-industrial-robots-real-time-vision-and-intelligence/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-09-30",
+     "amount": "€11M",
+     "round": "",
+     "title": "Inbolt raises €11M to bring real-time vision and intelligence to industrial robots",
+     "link": "https://tech.eu/2026/09/30/inbolt-raises-eur11m-to-bring-real-time-vision-and-intelligence-to-industrial-robots/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "swedish-micromobility-company-voi": {
+   "name": "Swedish micromobility company Voi",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Voi Technology, the Stockholm-based e-scooter and e-bike sharing company, has signed a €150 million revolving credit facility (RCF) with three Nordic banks. The Swedish micromobility startup has entered into the new RCF (new facility) with Danske Bank, Swedbank and DNB Sweden. Ac",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "€150 million",
+     "round": "",
+     "title": "Swedish micromobility company Voi secures €150 million RCF to redeem outstanding bonds and scale its fleet",
+     "link": "https://www.eu-startups.com/2026/09/swedish-micromobility-company-voi-secures-e150-million-rcf-to-redeem-outstanding-bonds-and-scale-its-fleet/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "amsterdam-s-preventive-healthtech-blue-health-intelligence": {
+   "name": "Amsterdam’s preventive HealthTech Blue Health Intelligence",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Blue Health Intelligence, an Amsterdam-based preventive health care startup, has secured €3.4 million in funding for international expansion and further product development. The round was led by Knop Investments, with participation from entrepreneurs such as Jeroen Tas, former Ch",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "€3.4 million",
+     "round": "",
+     "title": "Amsterdam’s preventive HealthTech Blue Health Intelligence raises €3.4 million to expand across Europe",
+     "link": "https://www.eu-startups.com/2026/09/amsterdam-based-preventive-healthtech-blue-health-intelligence-raises-e3-4-million-to-expand-across-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "khoy": {
+   "name": "KHOY",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "KHOY Company, a Helsinki-based direct-to-consumer design and furniture company, has raised €2 million in growth funding. The round was led by Finnish private equity investor Virta Equity, with participation from Innovestor and several angel investors. “KHOY has solved something t",
+   "audience": "Consumers",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "€2 million",
+     "round": "Growth",
+     "title": "Helsinki-based KHOY raises €2 million to take its vacuum-packed sofa beds across Europe and the US",
+     "link": "https://www.eu-startups.com/2026/09/helsinki-based-khoy-raises-e2-million-to-take-its-vacuum-packed-sofa-beds-across-europe-and-the-us/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "restate": {
+   "name": "Restate",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "The team behind a technology that underpins real-time data use inbanking has raised $20m in a Series A funding round for a startup, which carries outthe plumbing work behind AI agents.Thefunding round...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$20M",
+     "round": "Series A",
+     "title": "Berlin-based Restate raises $20M",
+     "link": "https://tech.eu/2026/09/30/berlin-based-restate-raises-20m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "blackswan-space": {
+   "name": "Blackswan Space",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Lithuania’s Blackswan Space, has successfully closed its second investment round, led by Iron Wolf Capital, raising €2.5 million. Together with the company’s pre-seed round, its total funding now amou...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "€2.5M",
+     "round": "Pre-Seed",
+     "title": "Blackswan Space raises €2.5M to take autonomous spacecraft navigation into orbit",
+     "link": "https://tech.eu/2026/09/30/blackswan-space-raises-eur25m-to-take-autonomous-spacecraft-navigation-into-orbit/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "from-six-engineering-students-to-10m-users-tryp-com": {
+   "name": "From six engineering students to 10M users: Tryp.com",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Traveltech Tryp.com has raised €1.9 million in funding in a round led by Point Capital Partners. Iberis Capital, which led Tryp.com’s previous round, also participated alongside angel investors. The c...",
+   "audience": "Consumers",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "€1.9M",
+     "round": "Angel",
+     "title": "From six engineering students to 10M users: Tryp.com raises €1.9M",
+     "link": "https://tech.eu/2026/09/30/from-six-engineering-students-to-10m-users-trypcom-raises-eur19m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "zenithon": {
+   "name": "Zenithon",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "UK AI startup Zenithon has raised $10 million to build what it describes as the first world models for extreme physics and accelerate the development of technologies that will define the 21st century....",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$10M",
+     "round": "",
+     "title": "Zenithon raises $10M to build world models for extreme physics",
+     "link": "https://tech.eu/2026/09/30/zenithon-raises-10m-to-build-world-models-for-extreme-physics/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "onomondo": {
+   "name": "Onomondo",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Copenhagen-based IoT infrastructure and connectivity company Onomondo has raised more than €100 million in a combined investment led by Aspirity Partners, which has signed a definitive agreement to ac...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "€100M",
+     "round": "",
+     "title": "Onomondo raises €100M+ to scale its global IoT infrastructure",
+     "link": "https://tech.eu/2026/09/30/onomondo-raises-eur100m-to-scale-its-global-iot-infrastructure/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ahron": {
+   "name": "Ahron",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Munich-basedHR tech startup Ahron has raised €2.2 million in a funding round led by Cusp Capital, with participation from superangels and a group of business angelsfrom the HR sector, including Sabine...",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "€2.2M",
+     "round": "",
+     "title": "Ahron raises €2.2M to automate HR processes with AI",
+     "link": "https://tech.eu/2026/09/30/ahron-raises-eur22m-to-automate-hr-processes-with-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "estonian-ukrainian-defensetech-startup": {
+   "name": "Estonian-Ukrainian defensetech startup",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Estonian-Ukrainian defence technology company DOD Solution has raised $2.1 million in a pre-seed round to scale its AURA AI onboard autonomy platform for unmanned systems. The round includes Angel One Fund, Better Angle, Defence Builder Fund, Network VC, Newfund, UAID Fund, WildF",
+   "audience": "Government & public sector",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$2.1 million",
+     "round": "Pre-Seed",
+     "title": "Estonian-Ukrainian defensetech startup lands $2.1 million pre-seed to advance onboard autonomy for unmanned systems",
+     "link": "https://arcticstartup.com/dod-solution-raises-2-1-m-pre-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "simple-energy": {
+   "name": "Simple Energy",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Electric two-wheeler (E2W) manufacturer Simple Energy has raised $180 Mn (₹1,750 Cr) in its Series C funding round. The round…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$180 Mn",
+     "round": "Growth",
+     "title": "Simple Energy Raises $180 Mn To Unlock Next Growth Phase",
+     "link": "https://inc42.com/buzz/simple-energy-raises-180-mn-to-unlock-next-growth-phase/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-home-interior-startup-gravity": {
+   "name": "[Update] Home Interior Startup Gravity",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | September 30, 15:53 IST Home interior materials platform Gravity has raised around $15 Mn (around ₹142.7 Cr) in…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$15 Mn",
+     "round": "",
+     "title": "[Update] Home Interior Startup Gravity Nets $15 Mn To Expand Into New Categories",
+     "link": "https://inc42.com/buzz/ex-livspace-cofounder-cbo-launch-home-interior-materials-venture-gravity/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "edt": {
+   "name": "EDT",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Mumbai-based consumer appliance startup EDT has raised $2.4 Mn (over ₹23 Cr) in its pre-Series A round led by existing…",
+   "audience": "Consumers",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$2.4 Mn",
+     "round": "Pre-Series A",
+     "title": "Consumer Appliance Startup EDT Raises $2.4 Mn To Expand Product Portfolio",
+     "link": "https://inc42.com/buzz/consumer-appliance-startup-edt-raises-2-4-mn-to-expand-product-portfolio/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "arivihan": {
+   "name": "Arivihan",
+   "country": "India",
+   "region": "Asia",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI-driven edtech startup Arivihan raised $10.2 Mn (about ₹98 Cr) in its Series A funding round co-led by existing backers…",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$10.2 Mn",
+     "round": "Series A",
+     "title": "Arivihan Nets $10.2 Mn To Scale Its AI Tutoring Platform",
+     "link": "https://inc42.com/buzz/arivihan-nets-10-2-mn-to-scale-its-ai-tutoring-platform/",
+     "source": "Inc42"
     }
    ]
   }
