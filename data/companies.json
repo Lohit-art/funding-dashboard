@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T18:16:35+00:00",
+ "updated": "2026-10-01T18:41:41+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -44438,6 +44438,462 @@
      "title": "Arivihan Nets $10.2 Mn To Scale Its AI Tutoring Platform",
      "link": "https://inc42.com/buzz/arivihan-nets-10-2-mn-to-scale-its-ai-tutoring-platform/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "a-neko-health-investor-on-the-700m-bet-to-scan-your-whole-b": {
+   "name": "A Neko Health investor on the $700M bet to scan your whole b",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also",
+   "audience": "General / mixed",
+   "first_seen": "2026-09-30",
+   "last_seen": "2026-09-30",
+   "events": [
+    {
+     "date": "2026-09-30",
+     "amount": "$700M",
+     "round": "",
+     "title": "A Neko Health investor on the $700M bet to scan your whole body",
+     "link": "https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scanning-your-whole-body/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "homeward": {
+   "name": "Homeward",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Homeward, a startup that helps homeowners buy before selling their existing homes or get cash offers for their properties, has raised a $120 million Series D round, Crunchbase News reports exclusively.",
+   "audience": "Consumers",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "$120M",
+     "round": "Series D",
+     "title": "Exclusive: Homeward Raises $120M To Help Homeowners Buy And Sell More Quickly As Housing Market Stalls",
+     "link": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "perptools": {
+   "name": "PERPTools",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "PERPTools has raised a $5 million seed round at an $80 million fully diluted valuation, bringing the AI-native perpetuals trading platform's total funding to $8 million across two token rounds. The seed round brought in BigBrain Holdings, NEAR, Animoca Brands, Sfermion and Shima ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "$5 Million",
+     "round": "Seed",
+     "title": "PERPTools Raises $5 Million Seed Round At $80 Million Valuation For Decentralized Perpetual Futures Trading Platform",
+     "link": "https://pulse2.com/perptools-raises-5-million-seed-round-at-80-million-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "revnu": {
+   "name": "Revnu",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Manchester-based Revnu, an AI platform helping business find customers and build their sales pipeline, has raised €2.6 million ($3 million) in order to build their team, accelerate its growth in the UK and US, and support expansion into further international markets. The round wa",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "€2.6 million",
+     "round": "Growth",
+     "title": "AI sales startup Revnu raises €2.6 million to build team and accelerate international growth",
+     "link": "https://www.eu-startups.com/2026/10/ai-sales-startup-revnu-raises-e2-6-million-to-build-team-and-accelerate-international-growth/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-metaview": {
+   "name": "London’s Metaview",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Metaview, a London-based agentic recruiting platform that automates sourcing, application review, interviewing, reporting and hiring workflows, has raised €53.1 million ($60 million) in Series C funding. The round was led by Insight Partners, with participation from GV, Intrepid ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "€53.1 million",
+     "round": "Series C",
+     "title": "London’s Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform",
+     "link": "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "launchub-ventures": {
+   "name": "LAUNCHub Ventures",
+   "country": "Bulgaria",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "LAUNCHub Ventures, a Sofia-based venture capital firm, has announced the first close of its third fund, targeting more than €75 million. The first close has already secured €65 million in commitments from leading international financial institutions, regional entrepreneurs, famil",
+   "audience": "Consumers",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "€65 million",
+     "round": "",
+     "title": "Sofia-based LAUNCHub Ventures secures €65 million first close of Fund III; targets €75 million+",
+     "link": "https://www.eu-startups.com/2026/10/sofia-based-launchub-ventures-secures-e65-million-first-close-of-fund-iii-targets-e75-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-foundational-exits-stealth-with-9-6-million-to-tra": {
+   "name": "London’s Foundational exits stealth with €9.6 million to tra",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Foundational, a London-based SpaceTech startup developing infrastructure for a more precise understanding of Earth and orbit, has emerged from stealth with €9.6 million (£8.2 million) in pre-Seed funding. Participants in the round include early-stage VC Inflection, London-based e",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "€9.6 million",
+     "round": "Pre-Seed",
+     "title": "London’s Foundational exits stealth with €9.6 million to track satellites and debris with “millimetre-level” precision",
+     "link": "https://www.eu-startups.com/2026/10/londons-foundational-exits-stealth-with-e9-6-million-to-track-satellites-and-debris-with-millimetre-level-precision/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "mulesoft-founder-s-dig-ventures": {
+   "name": "MuleSoft founder’s DIG Ventures",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "DIG Ventures, the London-based venture capital firm backing the enterprise and cloud infrastructure companies underpinning the future of AI, has announced the close of its third fund at €106 million ($120 million). Fund III is backed by institutional LPs including Horsley Bridge,",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "€106 million",
+     "round": "Bridge",
+     "title": "MuleSoft founder’s DIG Ventures closes €106 million Fund III to back Europe’s AI and cloud infrastructure startups",
+     "link": "https://www.eu-startups.com/2026/10/mulesoft-founders-dig-ventures-closes-e106-million-fund-iii-to-back-europes-ai-and-cloud-infrastructure-startups/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "voltaback": {
+   "name": "Voltaback",
+   "country": "France",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "French fleet management software startup Voltaback hasraised €2.8 million from European investment fund Serena and several businessangels, including Aurélien de Meaux, co-founder of Electra, and Maxim...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "€2.8M",
+     "round": "",
+     "title": "Voltaback raises €2.8M to scale EV charging reimbursement across Europe",
+     "link": "https://tech.eu/2026/10/01/voltaback-raises-eur28m-to-scale-ev-charging-reimbursement-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "belgium-s-top-funded-tech-companies-in-h1-2026": {
+   "name": "Belgium’s top-funded tech companies in H1 2026",
+   "country": "Belgium",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Belgian tech companies raised €1.09 billion in H1 2026,although funding was highly concentrated at the top of the market, with Kpleraccounting for around 79 per cent of the total capital raised.Early-...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "€1.09 billion",
+     "round": "",
+     "title": "Belgium’s top-funded tech companies in H1 2026",
+     "link": "https://tech.eu/2026/10/01/belgiums-top-funded-tech-companies-in-h1-2026/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "hostile-threat-warning-startup-osavul": {
+   "name": "Hostile threat warning startup Osavul",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "A startup launched in light of Russia’s invasion of Ukrainewhose tech helps NATO and governments detect hostile threats before theyescalate has raised €8.5m in a Series A funding round, it said today....",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "€8.5M",
+     "round": "Series A",
+     "title": "Hostile threat warning startup Osavul raises €8.5M",
+     "link": "https://tech.eu/2026/10/01/hostile-threat-warning-startup-osavul-raises-8-5m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "mistral-and-black-forest-labs-backer-headline": {
+   "name": "Mistral and Black Forest Labs backer Headline",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Global VC Headline today announced the close of Headline EU VIII, its eighth early-stage fund dedicated to European founders. The $400 million fund will back Seed and Series A companies across Europe,...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "$400M",
+     "round": "Seed",
+     "title": "Mistral and Black Forest Labs backer Headline closes $400M European fund",
+     "link": "https://tech.eu/2026/10/01/mistral-and-black-forest-labs-backer-headline-closes-400m-european-fund/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "deepslate": {
+   "name": "Deepslate",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Berlin-based voice AI company Deepslate has raised €7.7million in a seed round led by Munich-based technology investor 42CAP, withparticipation from Alstin Capital, existing investor SIVentures and se...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "€7.7M",
+     "round": "Seed",
+     "title": "Deepslate secures €7.7M for its European voice AI platform",
+     "link": "https://tech.eu/2026/10/01/deepslate-secures-eur77m-for-its-european-voice-ai-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "dig-ventures": {
+   "name": "DIG Ventures",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "European venture capital firm DIG Ventures has closed its third fund at $120 million to invest in early-stagecompanies building AI-native enterprise and cloud infrastructure. Fund III isbacked by limi...",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "$120M",
+     "round": "",
+     "title": "DIG Ventures closes $120M Fund III to back Europe’s AI infrastructure startups",
+     "link": "https://tech.eu/2026/10/01/dig-ventures-closes-120m-fund-iii-to-back-europes-ai-infrastructure-startups/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "foundational": {
+   "name": "Foundational",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "London-based space technology companyFoundational has emerged from stealth with £8.2 million in pre-seed funding toexpand its satellite positioning infrastructure and further develop its dataplatform....",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "£8.2M",
+     "round": "Pre-Seed",
+     "title": "Foundational secures £8.2M pre-seed as it emerges from stealth",
+     "link": "https://tech.eu/2026/10/01/foundational-secures-ps82m-pre-seed-as-it-emerges-from-stealth/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "frank": {
+   "name": "FRANK",
+   "country": "Portugal",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Portuguese insurtech FRANK hasraised €2.9 million in a funding round led by Armilar and Start Ventures to further develop its AI-powered platform for insurance brokers and prepare for international ex...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "€2.9M",
+     "round": "",
+     "title": "FRANK raises €2.9M to cut paperwork for insurance brokers",
+     "link": "https://tech.eu/2026/10/01/frank-raises-eur29m-to-cut-paperwork-for-insurance-brokers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "seeds-fincap": {
+   "name": "Seeds Fincap",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Delhi NCR-based NBFC Seeds Fincap raised more than ₹100 Cr ($10.4 Mn) in a Series B funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "₹100",
+     "round": "Series B",
+     "title": "Seeds Fincap Raises ₹100 Cr To Scale Lending Tech Capabilities",
+     "link": "https://inc42.com/buzz/seeds-fincap-raises-%e2%82%b9100-cr-to-scale-lending-tech-capabilities/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-moneyview-shares-end-market-debut-59-above-issue-p": {
+   "name": "[UPDATE] Moneyview Shares End Market Debut 59% Above Issue P",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | October 1, 2026 17:00 IST Digital lending platform Moneyview’s stock closed its maiden trading session at ₹54.03 on…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "₹54.03",
+     "round": "",
+     "title": "[UPDATE] Moneyview Shares End Market Debut 59% Above Issue Price",
+     "link": "https://inc42.com/buzz/moneyview-makes-bumper-debut-lists-at-64-premium-on-the-bse/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "melbourne-uni-concrete-recycling-spinout-cements-750-000-pr": {
+   "name": "Melbourne Uni concrete recycling spinout cements $750,000 pr",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "R2Crete turns landfill concrete into low-carbon building material with a $750k pre-seed and pilot plant underway.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "$750,000",
+     "round": "Pre-Seed",
+     "title": "Melbourne Uni concrete recycling spinout cements $750,000 pre-Seed",
+     "link": "https://www.startupdaily.net/topic/funding/melbourne-uni-concrete-recycling-spinout-cements-750000-pre-seed/",
+     "source": "Startup Daily"
     }
    ]
   }
