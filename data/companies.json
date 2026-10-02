@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T18:41:41+00:00",
+ "updated": "2026-10-02T18:12:31+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -44894,6 +44894,294 @@
      "title": "Melbourne Uni concrete recycling spinout cements $750,000 pre-Seed",
      "link": "https://www.startupdaily.net/topic/funding/melbourne-uni-concrete-recycling-spinout-cements-750000-pre-seed/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "nautical-and-marine-startups-see-stepped-up-funding": {
+   "name": "Nautical And Marine Startups See Stepped-Up Funding",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Over the past year, venture backers have poured close to $3 billion into good-sized rounds for marine-related startups in sectors ranging from defense tech to clean energy, per Crunchbase data. Top areas for investment include autonomous sea vessels, water robots, electric waterc",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "$3 billion",
+     "round": "",
+     "title": "Nautical And Marine Startups See Stepped-Up Funding",
+     "link": "https://news.crunchbase.com/venture/nautical-marine-startups-funding-grows-defense-robots-clean-energy-saronic/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "nn": {
+   "name": "NN",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "NN has entered into a securities purchase agreement for a private investment in public equity financing expected to generate approximately $50 million in net proceeds after placement agent fees and offering expenses. \n The post  NN Raises $50 Million Through Private Placement To ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "$50 Million",
+     "round": "Growth",
+     "title": "NN Raises $50 Million Through Private Placement To Eliminate Preferred Stock And Fund Growth",
+     "link": "https://pulse2.com/nn-raises-50-million-through-private-placement-to-eliminate-preferred-stock-and-fund-growth/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "xiver": {
+   "name": "XIVER",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "ABN AMRO is providing €28 million in senior debt financing to Dutch semiconductor company XIVER as part of a €55 million investment program designed to expand manufacturing capacity and technological capabilities. \n The post  XIVER Secures €28 Million Senior Debt Financing From A",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "€28 Million",
+     "round": "Debt",
+     "title": "XIVER Secures €28 Million Senior Debt Financing From ABN AMRO For €55 Million Investment Program",
+     "link": "https://pulse2.com/xiver-secures-e28-million-senior-debt-financing-from-abn-amro-for-e55-million-investment-program/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "breye-therapeutics": {
+   "name": "Breye Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Breye Therapeutics has raised an oversubscribed €67.5 million Series A financing to advance its lead retinal disease candidate danegaptide into a randomized Phase 2 clinical trial. The round was co-led by new investor Mission BioCapital and existing investor Novo Holdings. \n The ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "€67.5 Million",
+     "round": "Series A",
+     "title": "Breye Therapeutics Raises €67.5 Million Series A To Advance Danegaptide Into Phase 2",
+     "link": "https://pulse2.com/breye-therapeutics-raises-e67-5-million-series-a-to-advance-danegaptide-into-phase-2/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "walapay": {
+   "name": "Walapay",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Walapay has raised $4.6 million in seed financing to expand its licensing footprint, deepen banking relationships and grow its team as it builds cross-border payments infrastructure across emerging markets. \n The post  Walapay Raises $4.6 Million Seed Round To Expand Global Payme",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "$4.6 Million",
+     "round": "Seed",
+     "title": "Walapay Raises $4.6 Million Seed Round To Expand Global Payments Infrastructure",
+     "link": "https://pulse2.com/walapay-raises-4-6-million-seed-round-to-expand-global-payments-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "permacold-logistics": {
+   "name": "PermaCold Logistics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "UB Community Development has provided $10 million in New Markets Tax Credit financing to support development of a new cold storage and refrigerated logistics facility for PermaCold Logistics in Albertville, Alabama. \n The post  PermaCold Logistics Secures $10 Million In New Marke",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "$10 Million",
+     "round": "",
+     "title": "PermaCold Logistics Secures $10 Million In New Markets Tax Credit Financing From UB Community Development",
+     "link": "https://pulse2.com/permacold-logistics-secures-10-million-in-new-markets-tax-credit-financing-from-ub-community-development/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "denmark-s-breye-therapeutics": {
+   "name": "Denmark’s Breye Therapeutics",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Breye Therapeutics (Breye), a Danish clinical-stage biopharmaceutical company developing oral therapeutics for the early treatment of retinal diseases, has closed an oversubscribed €67.5 million Series A financing round. The round was co-led by new investor Mission BioCapital and",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "€67.5 million",
+     "round": "Series A",
+     "title": "Denmark’s Breye Therapeutics raises €67.5 million to advance oral therapies for early treatment of retinal diseases",
+     "link": "https://www.eu-startups.com/2026/10/denmarks-breye-therapeutics-raises-e67-5-million-to-advance-oral-therapies-for-early-treatment-of-retinal-diseases/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "kuro": {
+   "name": "Kuro",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Kuro Technology, a Berlin-based ConTech startup that builds AI software to help general contractors, has raised €10 million in a funding round. The round was led by UVC Partners, a Munich- and Berlin-based venture capital firm with more than €800 million in assets under managemen",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "€10 million",
+     "round": "",
+     "title": "Berlin-based Kuro raises €10 million to build the AI ​​foundation for general contractors",
+     "link": "https://www.eu-startups.com/2026/10/berlin-based-kuro-raises-e10-million-to-build-the-ai-foundation-for-general-contractors/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "sweden-s-omnio": {
+   "name": "Sweden’s Omnio",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Omnio, a Umeå-based BioTech startup, has raised an oversubscribed €2.9 million round from existing investors and shareholders to advance its plasminogen-based therapy for hard-to-heal chronic wounds toward clinical studies.  This funding follows a €4.3 million financing round com",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "€2.9 million",
+     "round": "",
+     "title": "Sweden’s Omnio raises €2.9 million to advance its plasminogen-based therapy for hard-to-heal chronic wounds",
+     "link": "https://www.eu-startups.com/2026/10/swedens-omnio-raises-e2-9-million-to-advance-its-plasminogen-based-therapy-for-hard-to-heal-chronic-wounds/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "copenhagen-s-good-tape": {
+   "name": "Copenhagen’s Good Tape",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Good Tape, the Copenhagen-based AI transcription company, has raised €600k from Nordic Makers, an investment group founded by former unicorn founders that invests its own capital in early-stage Nordic startups, with an average ticket size of €500k. Zendesk co-founder Alexander Ag",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "€600k",
+     "round": "",
+     "title": "Copenhagen’s Good Tape raises €600k and becomes independent from Zetland; Zendesk co-founder joins board",
+     "link": "https://www.eu-startups.com/2026/10/copenhagens-good-tape-raises-e600k-from-nordic-makers-to-complete-management-buy-out-zendesk-co-founder-joins-board/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "headline": {
+   "name": "Headline",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "This week, we tracked more than 70 tech funding deals worth over €3.9 billion and over 5 exits, M&A transactions, rumours, and related news stories across Europe.This week took me from Bilbao to A...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "$400M",
+     "round": "",
+     "title": "Headline closes $400M fund, Oura delays IPO, and Fedorov launches Army of Robots",
+     "link": "https://tech.eu/2026/10/02/headline-closes-400m-fund-oura-delays-ipo-and-fedorov-launches-army-of-robots/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "h2-analytics": {
+   "name": "H2 Analytics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Learning & growth",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "CEO says repayable funding will help the platform integrate new AI features and expand internationally. \n The post  H2 Analytics secures $800,000 in FedDev funding to improve defence training platform  first appeared on  BetaKit .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "events": [
+    {
+     "date": "2026-10-01",
+     "amount": "$800,000",
+     "round": "",
+     "title": "H2 Analytics secures $800,000 in FedDev funding to improve defence training platform",
+     "link": "https://betakit.com/h2-analytics-secures-800000-in-feddev-funding-to-improve-defence-training-platform/",
+     "source": "BetaKit"
     }
    ]
   }
