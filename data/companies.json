@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T18:12:31+00:00",
+ "updated": "2026-10-03T16:59:34+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -45181,6 +45181,78 @@
      "round": "",
      "title": "H2 Analytics secures $800,000 in FedDev funding to improve defence training platform",
      "link": "https://betakit.com/h2-analytics-secures-800000-in-feddev-funding-to-improve-defence-training-platform/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "leslie-s-files-chapter-11-to-cut-debt-by-about-685-million": {
+   "name": "Leslie’s Files Chapter 11 To Cut Debt By About $685 Million ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Leslie's has entered into a restructuring support agreement with a group representing more than 80% of its existing lenders and filed for Chapter 11 bankruptcy protection as the pool and spa retailer seeks to substantially reduce its debt and strengthen its financial position. \n ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "events": [
+    {
+     "date": "2026-10-03",
+     "amount": "$685 Million",
+     "round": "Debt",
+     "title": "Leslie’s Files Chapter 11 To Cut Debt By About $685 Million And Secure $150 Million In New Capital",
+     "link": "https://pulse2.com/leslies-files-chapter-11-to-cut-debt-by-about-685-million-and-secure-150-million-in-new-capital/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs": {
+   "name": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Rogo, a US-based financial-services AI startup, raised $30 Mn this month. What made this unique was that some of the…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "events": [
+    {
+     "date": "2026-10-03",
+     "amount": "$30 Mn",
+     "round": "",
+     "title": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
+     "link": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "oscp": {
+   "name": "OSCP",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Creative expression",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Montréal photonics startup aims to disrupt the IMU market with a smaller, more accurate alternative. \n The post  OSCP closes $6-million USD Series A round to power navigation without GPS  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-02",
+   "last_seen": "2026-10-02",
+   "events": [
+    {
+     "date": "2026-10-02",
+     "amount": "$6",
+     "round": "Series A",
+     "title": "OSCP closes $6-million USD Series A round to power navigation without GPS",
+     "link": "https://betakit.com/oscp-closes-6-million-usd-series-a-round-to-power-navigation-without-gps/",
      "source": "BetaKit"
     }
    ]
