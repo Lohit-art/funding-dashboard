@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T16:59:34+00:00",
+ "updated": "2026-10-04T17:17:32+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -45254,6 +45254,54 @@
      "title": "OSCP closes $6-million USD Series A round to power navigation without GPS",
      "link": "https://betakit.com/oscp-closes-6-million-usd-series-a-round-to-power-navigation-without-gps/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "megaport": {
+   "name": "Megaport",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Megaport has secured approximately A$1 billion in new AI infrastructure contracts as the network and computing company continues expanding its AI infrastructure business. \n The post  Megaport Secures About A$1 Billion In New AI Infrastructure Contracts And Raises FY2027 Guidance ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "events": [
+    {
+     "date": "2026-10-03",
+     "amount": "A$1 Billion",
+     "round": "",
+     "title": "Megaport Secures About A$1 Billion In New AI Infrastructure Contracts And Raises FY2027 Guidance",
+     "link": "https://pulse2.com/megaport-secures-about-a1-billion-in-new-ai-infrastructure-contracts-and-raises-fy2027-guidance/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "certified-origins": {
+   "name": "Certified Origins",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Certified Origins has secured a $60 million asset-based revolving credit facility from CIT Northbridge to support the food company's continued growth and investment in North America. \n The post  Certified Origins Secures $60 Million Revolver From CIT Northbridge  appeared first o",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "events": [
+    {
+     "date": "2026-10-03",
+     "amount": "$60 Million",
+     "round": "Growth",
+     "title": "Certified Origins Secures $60 Million Revolver From CIT Northbridge",
+     "link": "https://pulse2.com/certified-origins-secures-60-million-revolver-from-cit-northbridge-2/",
+     "source": "Pulse 2.0"
     }
    ]
   }
