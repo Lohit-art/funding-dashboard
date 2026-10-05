@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T17:17:32+00:00",
+ "updated": "2026-10-05T20:57:44+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -45302,6 +45302,374 @@
      "title": "Certified Origins Secures $60 Million Revolver From CIT Northbridge",
      "link": "https://pulse2.com/certified-origins-secures-60-million-revolver-from-cit-northbridge-2/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "at-19-founder": {
+   "name": "At 19, founder",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "$11M",
+     "round": "",
+     "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+     "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "battlefield-200-judges-who-ll-decide-the-winner-at-techcrunc": {
+   "name": "Battlefield 200 judges who’ll decide the winner at TechCrunc",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "$100",
+     "round": "",
+     "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+     "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "consano-bio": {
+   "name": "Consano Bio",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Consano Bio has raised more than $15 million in an oversubscribed financing to advance C-1101, its investigational multi-protein biologic therapy for chronic painful lumbosacral radiculopathy, also known as chronic sciatica. \n The post  Consano Bio Raises More Than $15 Million To",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "$15 Million",
+     "round": "",
+     "title": "Consano Bio Raises More Than $15 Million To Advance C-1101 For Chronic Sciatica",
+     "link": "https://pulse2.com/consano-bio-raises-more-than-15-million-to-advance-c-1101-for-chronic-sciatica/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "axiom": {
+   "name": "Axiom",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Axiom Solutions International has secured a $2 billion convertible preferred equity investment led by General Catalyst and Koch Equity Development, along with co-investors, at an initial enterprise value of $37.5 billion. \n The post  Axiom Secures $2 Billion Convertible Preferred",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "$2 Billion",
+     "round": "",
+     "title": "Axiom Secures $2 Billion Convertible Preferred Investment At $37.5 Billion Enterprise Value",
+     "link": "https://pulse2.com/axiom-secures-2-billion-convertible-preferred-investment-at-37-5-billion-enterprise-value/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "energy-capital-partners": {
+   "name": "Energy Capital Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Energy Capital Partners has closed an $834 million single-asset continuation vehicle for Next Wave Energy Partners, providing existing ECP IV investors with a liquidity option while bringing new capital into the energy infrastructure company. \n The post  Energy Capital Partners C",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "$834 Million",
+     "round": "",
+     "title": "Energy Capital Partners Closes $834 Million Continuation Vehicle For Next Wave Energy Partners",
+     "link": "https://pulse2.com/energy-capital-partners-closes-834-million-continuation-vehicle-for-next-wave-energy-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "niobrara-capital-partners": {
+   "name": "Niobrara Capital Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Niobrara Capital Partners has closed its inaugural Founders Fund and related vehicles with more than $1.5 billion in committed capital. \n The post  Niobrara Capital Partners Raises More Than $1.5 Billion Across Founders Fund And Related Vehicles  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "$1.5 Billion",
+     "round": "",
+     "title": "Niobrara Capital Partners Raises More Than $1.5 Billion Across Founders Fund And Related Vehicles",
+     "link": "https://pulse2.com/niobrara-capital-partners-raises-more-than-1-5-billion-across-founders-fund-and-related-vehicles/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "curaleaf": {
+   "name": "Curaleaf",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Curaleaf has increased its offer to acquire Aurora Cannabis, raising the implied consideration by 25% to $5 per Aurora share as it continues pursuing a combination of the two cannabis companies. \n The post  Curaleaf Raises Aurora Cannabis Takeover Offer To $5 Per Share  appeared ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "$5",
+     "round": "",
+     "title": "Curaleaf Raises Aurora Cannabis Takeover Offer To $5 Per Share",
+     "link": "https://pulse2.com/curaleaf-raises-aurora-cannabis-takeover-offer-to-5-per-share/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "clockwork-io": {
+   "name": "Clockwork.io",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Clockwork.io has raised $31 million in new funding to expand its fault-tolerance software for artificial intelligence infrastructure, bringing total funding to $73 million. \n The post  Clockwork.io Raises $31 Million To Expand AI Infrastructure Fault-Tolerance Platform  appeared ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "$31 Million",
+     "round": "",
+     "title": "Clockwork.io Raises $31 Million To Expand AI Infrastructure Fault-Tolerance Platform",
+     "link": "https://pulse2.com/clockwork-io-raises-31-million-to-expand-ai-infrastructure-fault-tolerance-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "rodinia-generation-aims-to-save-100-billion-litres-of-water": {
+   "name": "Rodinia Generation aims to save 100 billion litres of water ",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Danish FashionTech startup Rodinia Generation, a developer of clothing production technology, has raised €4 million to finance their industrial phase, including the establishment of a first commercial-scale facility in Portugal, planned for 2027. The round was led by Vitamin°C, w",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "100 billion",
+     "round": "",
+     "title": "FashionTech startup Rodinia Generation aims to save 100 billion litres of water annually, secures €4 million",
+     "link": "https://www.eu-startups.com/2026/10/fashiontech-startup-rodinia-generation-aims-to-save-100-billion-litres-of-water-annually-secures-e4-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "namespace": {
+   "name": "Namespace",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "A Zurich-foundeddeveloper infrastructure startup has raised $42m in a Series B financing round,just seven months after completing its Series A. Namespace is a platform that increasesthe pace of softwa...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "€37 million",
+     "round": "Series B",
+     "title": "Namespace secures €37 million to scale coding, build and test infrastructure across Mac, Windows and Linux",
+     "link": "https://www.eu-startups.com/2026/10/namespace-secures-e37-million-to-scale-coding-build-and-test-infrastructure-across-mac-windows-and-linux/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-05",
+     "amount": "$42M",
+     "round": "Series B",
+     "title": "Namespace raises $42M Series B, seven months after Series A",
+     "link": "https://tech.eu/2026/10/05/namespace-raises-42m-ssries-b-seven-months-after-series-a/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "french-cybersecurity-startup-fleuret-ai": {
+   "name": "French cybersecurity startup Fleuret AI",
+   "country": "France",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Fleuret AI, a Paris-based cybersecurity startup automating penetration testing with agentic AI, has closed a €4 million pre-Seed round to hire AI, software engineering, and offensive security talent and accelerate platform development.  The round was led by RAISE Ventures, with p",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "€4 million",
+     "round": "Pre-Seed",
+     "title": "French cybersecurity startup Fleuret AI raises €4 million to automate penetration testing with AI agents",
+     "link": "https://www.eu-startups.com/2026/10/french-cybersecurity-startup-fleuret-ai-raises-e4-million-to-automate-penetration-testing-with-ai-agents/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "copenhagen-s-pandektes": {
+   "name": "Copenhagen’s Pandektes",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Pandektes, a Copenhagen-based LegalTech company specialising in legal research, has raised €13.5 million in a Series A funding round. The round was led by Alstin Capital, a Munich-based early-stage venture capital firm with a focus on B2B software companies. The round also saw pa",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "€13.5 million",
+     "round": "Series A",
+     "title": "Copenhagen’s Pandektes raises €13.5 million to build the data infrastructure for AI-powered legal research",
+     "link": "https://www.eu-startups.com/2026/10/copenhagens-pandektes-raises-e13-5-million-to-build-the-data-infrastructure-for-ai-powered-legal-research/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "buntar-aerospace": {
+   "name": "Buntar Aerospace",
+   "country": "Ukraine",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Ukrainian defencetech company Buntar Aerospace has closed a $16 million funding round. The round was led by Freedom Fund and an international growth equity investor, with participation from Gardar, Ir...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "$16M",
+     "round": "Growth",
+     "title": "Buntar Aerospace raises $16M to scale Ukrainian defence autonomy",
+     "link": "https://tech.eu/2026/10/05/buntar-aerospace-raises-16m-to-scale-ukrainian-defence-autonomy/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "fleuret-ai": {
+   "name": "Fleuret AI",
+   "country": "France",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "French cybersecurity startup Fleuret AIhas raised €4 million in a pre-seed funding round to develop its platform forautomating penetration testing using agentic AI. The round was led by RAISE Ventures...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "€4M",
+     "round": "Pre-Seed",
+     "title": "Fleuret AI raises €4M to advance AI-powered offensive cybersecurity in Europe",
+     "link": "https://tech.eu/2026/10/05/fleuret-ai-raises-eur4m-to-advance-ai-powered-offensive-cybersecurity-in-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "update-snapdeal-parent-acevector-ends-market-debut-18-5-b": {
+   "name": "[Update] Snapdeal Parent AceVector Ends Market Debut 18.5% B",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | October 5, 2026 16:40 IST  Snapdeal parent AceVector’s shares closed their maiden trading session at ₹26.10 on the…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "events": [
+    {
+     "date": "2026-10-05",
+     "amount": "₹26.10",
+     "round": "",
+     "title": "[Update] Snapdeal Parent AceVector Ends Market Debut 18.5% Below Issue Price",
+     "link": "https://inc42.com/buzz/snapdeal-parent-acevector-lists-at-11-6-discount-on-bse/",
+     "source": "Inc42"
     }
    ]
   }
