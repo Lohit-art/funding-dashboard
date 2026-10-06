@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T20:57:44+00:00",
+ "updated": "2026-10-06T18:46:17+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -45670,6 +45670,542 @@
      "title": "[Update] Snapdeal Parent AceVector Ends Market Debut 18.5% Below Issue Price",
      "link": "https://inc42.com/buzz/snapdeal-parent-acevector-lists-at-11-6-discount-on-bse/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "chiplytics": {
+   "name": "Chiplytics",
+   "country": "USA",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Chiplytics has raised $4.5 million in funding led by Scout Ventures and Waypoint Ventures and opened a new microelectronics inspection laboratory in Bellport, New York. The financing includes an Air Force Tactical Funding Increase, or TACFI, award supporting further development o",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "$4.5 Million",
+     "round": "",
+     "title": "Chiplytics Raises $4.5 Million To Strengthen U.S. Electronics Supply Chain",
+     "link": "https://pulse2.com/chiplytics-raises-4-5-million-to-strengthen-u-s-electronics-supply-chain/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "outer-spaces": {
+   "name": "Outer Spaces",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Outer Spaces has launched with an $8 million pre-seed financing round and unveiled OS1, a modular outdoor structure that integrates residential solar generation and battery storage into a backyard pavilion and deck. Upfront Ventures led the funding, with participation from Unlock",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "$8 Million",
+     "round": "Pre-Seed",
+     "title": "Outer Spaces Raises $8 Million Pre-Seed To Combine Outdoor Living With Home Energy",
+     "link": "https://pulse2.com/outer-spaces-raises-8-million-pre-seed-to-combine-outdoor-living-with-home-energy/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bradbury-capital-completes-business-combination-and": {
+   "name": "Bradbury Capital Completes Business Combination And",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Connection & community",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bradbury Capital Holdings has completed its previously announced business combination with Technology & Telecommunication Acquisition Corporation and will begin trading on Nasdaq under the BBCI ticker. Following completion, the combined company has changed its name to Bradbury Ca",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "$5 Million",
+     "round": "",
+     "title": "Bradbury Capital Completes Business Combination And Raises $5 Million PIPE Ahead Of Nasdaq Debut",
+     "link": "https://pulse2.com/bradbury-capital-completes-business-combination-and-raises-5-million-pipe-ahead-of-nasdaq-debut/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "avarra": {
+   "name": "Avarra",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Avarra has raised $17 million in Series A funding following a year in which the AI company increased annual recurring revenue by more than 400% and expanded its product from sales-training simulations into a broader AI avatar platform for go-to-market organizations. Duration Vent",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "$17 Million",
+     "round": "Series A",
+     "title": "Avarra Raises $17 Million Series A To Scale AI Avatar Platform For Go-To-Market Teams",
+     "link": "https://pulse2.com/avarra-raises-17-million-series-a/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "up-to-27-times-lower-carbon-footprint-than-beef-edonia": {
+   "name": "Up to 27 times lower carbon footprint than beef – Edonia",
+   "country": "France",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "French FoodTech startup Edonia, a B2B ingredient supplier specialised in ready-to-eat-protein ingredients, has raised €15 million to expand the commercial use of its microalgae-based ingredients. The round was led by SWEN Blue Ocean 2, Asterion Ventures, EIT Food, and Bpifrance. ",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€15 million",
+     "round": "",
+     "title": "Up to 27 times lower carbon footprint than beef – Edonia raises €15 million for their meat-alternative",
+     "link": "https://www.eu-startups.com/2026/10/up-to-27-times-lower-carbon-footprint-than-beef-edonia-raises-e15-million-for-their-meat-alternative/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "nvm-ventures-launches-with-23-6-million-fund-targeting-dual": {
+   "name": "NVM Ventures launches with €23.6 million fund targeting dual",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "NVM Ventures has officially launched with the announcement of a €23.6 million first close for the NVM Venture Lazio compartment. The compartment aims to build a portfolio of 10–15 dual-use companies at pre-Seed and Seed stage working in STEP Technologies. The fund was established",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€23.6 million",
+     "round": "Pre-Seed",
+     "title": "NVM Ventures launches with €23.6 million fund targeting dual-use companies",
+     "link": "https://www.eu-startups.com/2026/10/nvm-ventures-launches-with-e23-6-million-fund-targeting-dual-use-companies/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "spiko": {
+   "name": "Spiko",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Spiko, a tokenised cash fund platform with headquarters in Paris and London, has raised €80.03 million ($90 million) in a Series B funding round. The round follows an €18.9 million Series A in July 2025, bringing its total funding raised to date to roughly €106.7 million ($120 mi",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€80 million",
+     "round": "Series B",
+     "title": "Paris- and London-based Spiko raises nearly €80 million to help businesses and individuals put idle cash to work",
+     "link": "https://www.eu-startups.com/2026/10/paris-and-london-based-spiko-raises-nearly-e80-million-to-help-businesses-and-individuals-put-idle-cash-to-work/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "personio-acquires-spend-management-platform-circula": {
+   "name": "Personio acquires spend management platform Circula",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "HRTech unicorn Personio today announced it has acquired Circula, a German spend management platform, to reportedly become the first European platform to unite HR, payroll, and spend management. This follows Circula’s €15 million Series A in 2025 – as covered by EU-Startups. “Spen",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€15 million",
+     "round": "Series A",
+     "title": "German unicorn Personio acquires spend management platform Circula",
+     "link": "https://www.eu-startups.com/2026/10/german-unicorn-personio-acquires-spend-management-platform-circula/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "hamburg-s-procuros": {
+   "name": "Hamburg’s Procuros",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Procuros, a Hamburg-based supply chain connectivity platform, has raised a €20 million Series A funding round. The round was led by XAnge, a European venture capital firm based in Paris and Berlin with around €600 million in assets under management and part of the Siparex Group. ",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€20 million",
+     "round": "Series A",
+     "title": "Hamburg’s Procuros raises €20 million Series A to build AI-native infrastructure for autonomous B2B trade",
+     "link": "https://www.eu-startups.com/2026/10/hamburgs-procuros-raises-e20-million-series-a-to-build-ai-native-infrastructure-for-autonomous-b2b-trade/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "hadrian": {
+   "name": "Hadrian",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hadrian, an agentic AI offensive securityplatform, has raised $40 million in a funding round co-led by Forgepoint Capital International and Smart Fin. Existing investors HV Capital, Motive Partners, P...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€35.68 million",
+     "round": "",
+     "title": "Cybersecurity startup Hadrian raises €35.68 million to scale its agentic AI offensive security platform",
+     "link": "https://www.eu-startups.com/2026/10/london-amsterdam-based-hadrian-raises-e35-68-million-to-scale-its-agentic-ai-offensive-security-platform/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-06",
+     "amount": "$40M",
+     "round": "",
+     "title": "Hadrian raises $40M to tackle AI-driven cyber threats",
+     "link": "https://tech.eu/2026/10/06/hadrian-raises-40m-to-tackle-ai-driven-cyber-threats/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "whitelab-genomics": {
+   "name": "WhiteLab Genomics",
+   "country": "France",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "WhiteLab Genomics, a Paris-based BioTech company that uses AI to design the building blocks of genomic medicines, has closed a €23.2 million ($26 million) Series B funding round. The round was led by AVP, an independent global investment platform managing over €2.5 billion in ass",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€23.2 million",
+     "round": "Series B",
+     "title": "Paris-based WhiteLab Genomics raises €23.2 million to accelerate AI-driven genomic medicine development",
+     "link": "https://www.eu-startups.com/2026/10/paris-based-whitelab-genomics-raises-e23-2-million-to-accelerate-ai-driven-genomic-medicine-development/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "edonia": {
+   "name": "Edonia",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Foodtech Edonia has raised €15 million in funding.  In recent years, plant-based alternatives have focused mostly on mimicking meat in taste, look and texture. However, the food market is now facing h...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€15M",
+     "round": "",
+     "title": "Edonia raises €15M to scale microalgae protein as an alternative to meat",
+     "link": "https://tech.eu/2026/10/06/edonia-raises-eur15m-to-scale-microalgae-protein-as-an-alternative-to-meat/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "iris-and-bpifrance-back-vates-with-30m-for-global-expansion": {
+   "name": "IRIS and Bpifrance back Vates with €30M for global expansion",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "French virtualization company Vateshas raised €30 million from IRIS’ Growth fund and Bpifrance, through its LargeVenture fund, amid shifts in the global virtualization market.Changes to licensing mode...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€30M",
+     "round": "Growth",
+     "title": "IRIS and Bpifrance back Vates with €30M for global expansion",
+     "link": "https://tech.eu/2026/10/06/iris-and-bpifrance-back-vates-with-eur30m-for-global-expansion/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "italian-simpl": {
+   "name": "Italian SimpL",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Italianstartup SimpL has raised €1.2 million in a pre-seed funding round to developits AI-powered operating system for generating B2B sales opportunities. Theround was led by Techshop Capital, with pa...",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€1.2M",
+     "round": "Pre-Seed",
+     "title": "Italian SimpL raises €1.2M to power B2B sales with AI",
+     "link": "https://tech.eu/2026/10/06/italian-simpl-raises-eur12m-to-power-b2b-sales-with-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "nea-leads-spiko-s-90m-series-b-to-expand-access-to-cash-yie": {
+   "name": "NEA leads Spiko’s $90M Series B to expand access to cash yie",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Spiko, a provider of tokenised cash funds, has raised $90million in a Series B funding round led by New Enterprise Associates (NEA),bringing its total funding to $120 million. The round also includedp...",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "$90M",
+     "round": "Series B",
+     "title": "NEA leads Spiko’s $90M Series B to expand access to cash yield",
+     "link": "https://tech.eu/2026/10/06/nea-leads-spikos-90m-series-b-to-expand-access-to-cash-yield/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "comparables-ai": {
+   "name": "Comparables.ai",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Comparables.ai,an AI platform for private and public market intelligence, has raised $6million in seed funding to support its expansion across multiple markets andfurther develop its core AI engine. T...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "$6M",
+     "round": "Seed",
+     "title": "Comparables.ai secures $6M seed to scale its AI platform for dealmakers",
+     "link": "https://tech.eu/2026/10/06/comparablesai-secures-6m-seed-to-scale-its-ai-platform-for-dealmakers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "nettle": {
+   "name": "Nettle",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Nettle, an AI platform for commercialinsurance loss control, has raised $4.8 million in an oversubscribed seedround. The round was led by MTech, with Project A Ventures following on with asuper pro ra...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "$4.8M",
+     "round": "",
+     "title": "Nettle raises $4.8M to expand its AI workspace for insurers",
+     "link": "https://tech.eu/2026/10/06/nettle-raises-48m-to-expand-its-ai-workspace-for-insurers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cleavr": {
+   "name": "Cleavr",
+   "country": "France",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "French fintech Cleavr has raised €8 million in aseed round to expand its accounts receivable automation platform across Europe.The round was led by Varsity, with participation from existing investors ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€8M",
+     "round": "",
+     "title": "Cleavr bags €8M to scale AI-powered invoice collection across Europe",
+     "link": "https://tech.eu/2026/10/06/cleavr-bags-eur8m-to-scale-ai-powered-invoice-collection-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "finches": {
+   "name": "Finches",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bavaria-based agritech Finches has raised €2 million in a pre-seedfunding round led by High-Tech Gründerfonds (HTGF), with Vanagon Venturesjoining as co-lead. Bayern Kapital participated as a new inve...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€2M",
+     "round": "",
+     "title": "Finches lands €2M to help food producers spot supply risks earlier",
+     "link": "https://tech.eu/2026/10/06/finches-lands-eur2m-to-help-food-producers-spot-supply-risks-earlier/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "autonomous-b2b-trade": {
+   "name": "Autonomous B2B trade",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hamburg-based software company Procuros has raised €20 million in aSeries A funding round to further develop its AI-native supply chainconnectivity platform and expand internationally. The round was l...",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€20M",
+     "round": "",
+     "title": "Autonomous B2B trade gets a boost as Procuros raises €20M",
+     "link": "https://tech.eu/2026/10/06/autonomous-b2b-trade-gets-a-boost-as-procuros-raises-eur20m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "n26-founder-backed-finmid": {
+   "name": "N26 founder-backed Finmid",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "A Berlin-based fintech backed by one of the founders of German challenger bank N26 has raised a €17m Series A extension round and says it has sealed a deal with Estonian ride-hailing firm Bolt, which ...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "€17M",
+     "round": "Series A",
+     "title": "N26 founder-backed Finmid raises €17M Series A extension, strikes Bolt deal",
+     "link": "https://tech.eu/2026/10/06/n26-founder-backed-finmid-raises-eur17m-series-a-extension-strikes-bolt-deal/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cyberworks": {
+   "name": "CyberWorks",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "GTA startup inks agreement to provide autonomous vehicles to Canada’s military. \n The post  CyberWorks lands $1-million Canadian Armed Forces contract  first appeared on  BetaKit .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "events": [
+    {
+     "date": "2026-10-06",
+     "amount": "$1",
+     "round": "",
+     "title": "CyberWorks lands $1-million Canadian Armed Forces contract",
+     "link": "https://betakit.com/cyberworks-lands-1-million-canadian-armed-forces-contract/",
+     "source": "BetaKit"
     }
    ]
   }
