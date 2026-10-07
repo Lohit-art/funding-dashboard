@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T18:46:17+00:00",
+ "updated": "2026-10-07T19:12:11+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -46206,6 +46206,486 @@
      "title": "CyberWorks lands $1-million Canadian Armed Forces contract",
      "link": "https://betakit.com/cyberworks-lands-1-million-canadian-armed-forces-contract/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "from-ballet-to-breach-prevention-how-a-magician-s-son": {
+   "name": "From Ballet To Breach Prevention: How A Magician’s Son",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "The latest in our series of articles on venture funding to non-tech founders features a former magician's assistant and ballet dancer who's building cybersecurity software with $4.2 million in seed funding.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$4.2M",
+     "round": "Seed",
+     "title": "From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed Funding For His Cybersecurity Startup",
+     "link": "https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "guardrail-technologies": {
+   "name": "Guardrail Technologies",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Guardrail Technologies has closed two seed funding rounds totaling nearly $3 million, led by Filter Fund Venture Capital with participation from strategic angel investors with senior-level backgrounds at major global technology companies. \n The post  Guardrail Technologies Raises",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$3 Million",
+     "round": "Seed",
+     "title": "Guardrail Technologies Raises Nearly $3 Million In Seed Funding Led By Filter Fund",
+     "link": "https://pulse2.com/guardrail-technologies-raises-nearly-3-million-in-seed-funding-led-by-filter-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "rocket-pharmaceuticals": {
+   "name": "Rocket Pharmaceuticals",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Rocket Pharmaceuticals has secured a credit facility of up to $150 million from Hercules Capital to strengthen its financial position and support the development of its cardiovascular genetic medicine pipeline. \n The post  Rocket Pharmaceuticals Secures Up To $150 Million Credit ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$150 Million",
+     "round": "",
+     "title": "Rocket Pharmaceuticals Secures Up To $150 Million Credit Facility From Hercules Capital",
+     "link": "https://pulse2.com/rocket-pharmaceuticals-secures-up-to-150-million-credit-facility-from-hercules-capital/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "teddyholdings-ai": {
+   "name": "TeddyHoldings.AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "TeddyHoldings.AI, or Teddy AI, has raised $60 million in seed funding and surpassed $25 million in revenue as it builds a compliance and client-focused legal services platform. The company is keeping details about its specific focus, leadership team and capitalization confidentia",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$60 Million",
+     "round": "Seed",
+     "title": "TeddyHoldings.AI Raises $60 Million Seed Round And Surpasses $25 Million In Revenue",
+     "link": "https://pulse2.com/teddyholdings-ai-raises-60-million-seed-round-and-surpasses-25-million-in-revenue/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "parallel-systems": {
+   "name": "Parallel Systems",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Parallel Systems has raised $100 million in Series C funding to scale production and commercialization of its battery-electric autonomous freight rail technology. AVP led the round, with new investors Hillspire, Agility Global and Cobalt Capital also participating. Existing inves",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$100 Million",
+     "round": "Series C",
+     "title": "Parallel Systems Raises $100 Million Series C To Commercialize Autonomous Freight Rail",
+     "link": "https://pulse2.com/parallel-systems-raises-100-million-series-c/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sante": {
+   "name": "Santé",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Santé has raised $15 million in Series A funding to expand its AI and fintech operating system for wine and spirits retailers, six months after announcing a $7.6 million seed round. The financing was led by FINTOP, with participation from returning investors Bonfire Ventures, Ope",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$15 Million",
+     "round": "Series A",
+     "title": "Santé Raises $15 Million Series A To Expand AI Operating System For Wine And Spirits Retail",
+     "link": "https://pulse2.com/sante-raises-15-million-series-a-to-expand-ai-operating-system-for-wine-and-spirits-retail/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "france-s-rivercell-emerges-from-stealth-with-22-million-for": {
+   "name": "France’s Rivercell emerges from stealth with €22 million for",
+   "country": "France",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Rivercell, a Paris-based BioTech and AI company building proprietary cell-response data infrastructure and a world model that predicts how human cells respond to treatment, has launched today out of stealth with a €22 million ($25 million) Seed round. The round was led by HV, wit",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "€22 million",
+     "round": "Seed",
+     "title": "France’s Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure",
+     "link": "https://www.eu-startups.com/2026/10/frances-rivercell-emerges-from-stealth-with-e22-million-for-ai-powered-drug-discovery-infrastructure/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "voltr": {
+   "name": "VoltR",
+   "country": "France",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "VoltR, a French manufacturer of eco-designed lithium batteries, has secured €22 million to accelerate its industrialisation. This financing combines a €16 million equity investment and €6 million in grants secured through the “Première Usine” programme. The equity investment was ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "€22 million",
+     "round": "",
+     "title": "French startup VoltR secures €22 million to scale lithium battery remanufacturing in Europe",
+     "link": "https://www.eu-startups.com/2026/10/french-startup-voltr-secures-e22-million-to-scale-lithium-battery-remanufacturing-in-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "netsec": {
+   "name": "Netsec",
+   "country": "France",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Netsec, the European provider of cybersecurity and managed IT services, has raised more than €8.93 million ($10 million) in equity funding. The round was led by Paris-based venture capital firm Partech, with additional participation from Primo Capital and View Different, the inve",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "€8.93 million",
+     "round": "",
+     "title": "France- and Italy-based Netsec raises over €8.93 million to scale its AI-native solution for cybersecurity and IT",
+     "link": "https://www.eu-startups.com/2026/10/france-and-italy-based-netsec-raises-over-e8-93-million-to-scale-its-ai-native-solution-for-cybersecurity-and-it/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "insurtech-konsileo": {
+   "name": "InsurTech Konsileo",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Konsileo, a UK-based chartered insurance broker, has closed a €5.9 million (£5 million) equity round to support its continued growth.  The equity financing was led by long-term shareholders Committed Capital, together with ACF Investors. The round follows a €3.2 million (£2.7 mil",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "€5.9 million",
+     "round": "Growth",
+     "title": "UK-based InsurTech Konsileo raises €5.9 million to expand its team and integrate AI",
+     "link": "https://www.eu-startups.com/2026/10/uk-based-insurtech-konsileo-raises-e5-9-million-to-expand-its-team-and-integrate-ai/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-cori-clinical": {
+   "name": "London’s Cori Clinical",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Cori Clinical, a London-based startup that acts as the intelligence layer to accelerate clinical trials, has closed a €3.8 million Seed round led by Breega, with participation from Enzo, Heartfelt, Together Ventures, and Bynd. The company plans to use this capital to expand deliv",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "€3.8 million",
+     "round": "Seed",
+     "title": "London’s Cori Clinical raises €3.8 million to accelerate clinical trials and reduce delays",
+     "link": "https://www.eu-startups.com/2026/10/londons-cori-clinical-raises-e3-55-million-to-accelerate-clinical-trials-and-reduce-delays/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "uk-stablecoin-infrastructure-startup-noah": {
+   "name": "UK stablecoin infrastructure startup Noah",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK stablecoin infrastructure startup Noahhas closed a $38m seed funding round, it said today, after bagging another $16m to the round.Noah, founded in 2020, said last year it had raised $22m in seed f...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$38M",
+     "round": "Seed",
+     "title": "UK stablecoin infrastructure startup Noah closes $38M seed round",
+     "link": "https://tech.eu/2026/10/07/uk-stablecoin-infrastructure-startup-noah-closes-38m-seed-round/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "mintneuro": {
+   "name": "MintNeuro",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "MintNeuro, an Imperial College London spinout developing specialised chips for neural devices from implants to wearables, has raised $5 million to drive its commercial scale-up. The company is develop...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$5M",
+     "round": "",
+     "title": "MintNeuro raises $5M to scale chips purpose-built for neural devices",
+     "link": "https://tech.eu/2026/10/07/mintneuro-raises-5m-to-scale-chips-purpose-built-for-neural-devices/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cori-clinical": {
+   "name": "Cori Clinical",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Cori Clinical, an AI platform forclinical trials, has raised $4 million in a seed funding round led by Breega,with participation from Enzo, Heartfelt, Together Ventures and Bynd.The company is targeti...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$4M",
+     "round": "Seed",
+     "title": "Cori Clinical secures $4M seed to improve clinical trial design and cut delays",
+     "link": "https://tech.eu/2026/10/07/cori-clinical-secures-4m-seed-to-improve-clinical-trial-design-and-cut-delays/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "lumio": {
+   "name": "Lumio",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Consumer electronics manufacturer Lumio raised $12 Mn (around ₹102.5 Cr) in a Series A funding round led by Blume Ventures,…",
+   "audience": "Consumers",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$12 Mn",
+     "round": "Series A",
+     "title": "Lumio Raises $12 Mn To Scale Consumer Electronics Portfolio",
+     "link": "https://inc42.com/buzz/lumio-raises-12-mn-to-scale-consumer-electronics-portfolio/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "desible-ai": {
+   "name": "Desible.ai",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Voice AI startup Desible.ai has raised ₹32 Cr (around $3.7 Mn) in a seed funding round led by Prime Venture…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "₹32",
+     "round": "Seed",
+     "title": "Desible.ai Raises ₹32 Cr To Build AI Operating Layer For BFSI",
+     "link": "https://inc42.com/buzz/desible-ai-raises-%e2%82%b932-cr-to-build-ai-operating-layer-for-bfsi/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "sunfox-technologies": {
+   "name": "Sunfox Technologies",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Dehradun-based medtech startup Sunfox Technologies has raised $7 Mn (around ₹67 Cr) in a Series A funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$7 Mn",
+     "round": "Series A",
+     "title": "Sunfox Technologies Bags $7 Mn To Scale Cardiac Diagnostics Platform Spandan",
+     "link": "https://inc42.com/buzz/sunfox-technologies-bags-7-mn-to-scale-cardiac-diagnostics-platform-spandan/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "zomint": {
+   "name": "Zomint",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Wealthtech startup Zomint has raised ₹36 Cr (about $3.7 Mn) in a seed funding round from Lightspeed and Prime Venture…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "₹36",
+     "round": "Seed",
+     "title": "Zomint Raises ₹36 Cr To Scale Wealth Management Platform",
+     "link": "https://inc42.com/buzz/zomint-raises-%e2%82%b936-cr-to-scale-wealth-management-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "bytexl": {
+   "name": "byteXL",
+   "country": "India",
+   "region": "Asia",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hyderabad-based B2B edtech startup byteXL has raised $9 Mn (about ₹86.7 Cr) in a funding round led by Elevar Equity,…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$9 Mn",
+     "round": "",
+     "title": "byteXL Raises $9 Mn To Take Tech, AI Skilling To More Engineering Colleges",
+     "link": "https://inc42.com/buzz/bytexl-raises-9-mn-to-take-tech-ai-skilling-to-more-engineering-colleges/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "quanfluence": {
+   "name": "Quanfluence",
+   "country": "India",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Bengaluru-based quantum compute startup Quanfluence has raised $10 Mn (around ₹92 Cr) in a funding round led by Chiratae Ventures,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$10 Mn",
+     "round": "",
+     "title": "Quanfluence Raises $10 Mn To Build Full-Stack Photonic Quantum Computer",
+     "link": "https://inc42.com/buzz/quanfluence-raises-10-mn-to-build-full-stack-photonic-quantum-computer/",
+     "source": "Inc42"
     }
    ]
   }
