@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T19:12:11+00:00",
+ "updated": "2026-10-08T19:08:32+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -46686,6 +46686,590 @@
      "title": "Quanfluence Raises $10 Mn To Build Full-Stack Photonic Quantum Computer",
      "link": "https://inc42.com/buzz/quanfluence-raises-10-mn-to-build-full-stack-photonic-quantum-computer/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "5-days-to-techcrunch-disrupt-2026-don-t-pay-more-at-the-doo": {
+   "name": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the doo",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$100",
+     "round": "",
+     "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+     "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "vesta": {
+   "name": "Vesta",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$30M",
+     "round": "",
+     "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+     "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "mecka-ai": {
+   "name": "Mecka AI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+   "audience": "Consumers",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$60M",
+     "round": "",
+     "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+     "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "while-vcs-crowd-into-san-francisco-endeavor-catalyst": {
+   "name": "While VCs crowd into San Francisco, Endeavor Catalyst",
+   "country": "USA",
+   "region": "North America",
+   "category": "Societal transformation",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$320M",
+     "round": "",
+     "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+     "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "gudea": {
+   "name": "Gudea",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Gudea has raised $7 million in seed funding, co-led by Mudita Venture Partners and Silicon Road Ventures, to help companies anticipate which online narratives will go viral and understand who is driving them, the startup tells Crunchbase News exclusively.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$7M",
+     "round": "Seed",
+     "title": "Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral",
+     "link": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "catalyst": {
+   "name": "Catalyst",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Catalyst raised a seed round led by Sequoia Capital to expand its AI-powered investing platform, which is designed to help users turn investment ideas into executable strategies. The company was founded by Dylan Iskandar and Justin Zheng. \n The post  Catalyst Raises $30 Million S",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$30 Million",
+     "round": "Seed",
+     "title": "Catalyst Raises $30 Million Seed Round Led By Sequoia Capital To Build AI-Powered Investing Platform",
+     "link": "https://pulse2.com/catalyst-raises-seed-round-led-by-sequoia-capital-to-build-ai-powered-investing-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "arena": {
+   "name": "Arena",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Arena raised $200 million in Series B funding at a $3.1 billion valuation to expand its platform for evaluating frontier AI models and agents in real-world environments. The round was co-led by Lightspeed Venture Partners and Khosla Ventures, with participation from Salesforce Ve",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$200 Million",
+     "round": "Series B",
+     "title": "Arena Raises $200 Million Series B At $3.1 Billion Valuation To Evaluate Frontier AI Models And Agents",
+     "link": "https://pulse2.com/arena-raises-200-million-series-b-at-3-1-billion-valuation-to-evaluate-frontier-ai-models-and-agents/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "healthleap": {
+   "name": "Healthleap",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Healthleap raised $38 million in combined seed and Series A funding to expand its clinical AI platform, which helps hospitals identify patients with conditions that may otherwise go undiagnosed. The financing came from Sequoia Capital, First Round Capital, and Hummingbird Venture",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$38 Million",
+     "round": "Seed",
+     "title": "Healthleap Raises $38 Million To Expand AI Platform For Detecting Undiagnosed Conditions",
+     "link": "https://pulse2.com/healthleap-raises-38-million-to-expand-ai-platform-for-detecting-undiagnosed-conditions/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "seva": {
+   "name": "SEVA",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "SEVA Growth closed its second fund, SEVA II, with $160 million in capital commitments after raising the fund in less than one month. The fund was multiple-times oversubscribed and exceeded its original $125 million target. \n The post  SEVA Closes Oversubscribed $160 Million Fund ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$160 Million",
+     "round": "Growth",
+     "title": "SEVA Closes Oversubscribed $160 Million Fund II",
+     "link": "https://pulse2.com/seva-closes-oversubscribed-160-million-fund-ii/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "egoist-machines": {
+   "name": "Egoist Machines",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Egoist Machines raised $3 million in seed funding and officially launched AI Passport, a permission-based identity and context layer designed to make personal AI data portable across different assistants and applications. The seed round included participation from Y Combinator, G",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$3 Million",
+     "round": "Seed",
+     "title": "Egoist Machines Raises $3 Million Seed Round And Launches AI Passport",
+     "link": "https://pulse2.com/egoist-machines-raises-3-million-seed-round-and-launches-ai-passport/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sabey-data-center-properties": {
+   "name": "Sabey Data Center Properties",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Sabey Corporation and National Real Estate Advisors announced that Ares Secondaries funds have expanded their investment in Sabey Data Center Properties, bringing Ares’ total commitment to the data center platform to more than $500 million. \n The post  Sabey Data Center Propertie",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$500 Million",
+     "round": "",
+     "title": "Sabey Data Center Properties Secures Additional Ares Investment, Bringing Total Commitment Above $500 Million",
+     "link": "https://pulse2.com/sabey-data-center-properties-secures-additional-ares-investment-bringing-total-commitment-above-500-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "universal-quantum": {
+   "name": "Universal Quantum",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Brighton-based Universal Quantum, a company building large-scale quantum computing systems for real-world use, today announced it has secured over €89 million ($100 million) in Series A funding – reprotedly marking the largest Series A ever raised by a quantum firm in the UK. The",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "€89 million",
+     "round": "Series A",
+     "title": "Universal Quantum secures UK’s largest quantum Series A with €89 million to scale modular quantum computers",
+     "link": "https://www.eu-startups.com/2026/10/universal-quantum-secures-uks-largest-quantum-series-a-with-e89-million-to-scale-modular-quantum-computers/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "building-on-fund-i-s-success-psv-tech": {
+   "name": "Building on Fund I’s success, PSV Tech",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Copenhagen-based VC firm PSV has today announced the final close of PSV Tech Fund II at €56 million in order to back early-stage tech startups across the Nordics, often as their first investor – building on the first Fund’s success of 47 investments. Chr. Augustinus Fabrikker and",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "€56 million",
+     "round": "",
+     "title": "Building on Fund I’s success, PSV Tech closes Fund II at €56 million with 19 investments already made",
+     "link": "https://www.eu-startups.com/2026/10/building-on-fund-is-success-psv-tech-announces-close-of-fund-ii-at-e56-million-with-19-investments-already-made/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "neofleet-capital": {
+   "name": "NeoFleet Capital",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "NeoFleet Capital, a Limassol-based investment and technology platform that finances professional taxi fleets, has raised €3.5 million in pre-Seed funding. The round was backed by Mark Loughran, former President and CFO of global ride-hailing operator inDrive, along with other pri",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "€3.5 million",
+     "round": "Pre-Seed",
+     "title": "Limassol-based NeoFleet Capital raises €3.5 million to finance taxi fleets across emerging markets",
+     "link": "https://www.eu-startups.com/2026/10/limassol-based-neofleet-capital-raises-e3-5-million-to-finance-taxi-fleets-across-emerging-markets/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-immix": {
+   "name": "London’s IMMIX",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "IMMIX, a London-based AI-native trading firm that helps payment companies exchange stablecoins between currencies, has raised €3.12 million ($3.5 million) in funding. The round was backed by Crane Venture Partners, BTSE, and Portfolio Ventures. The funding follows the company’s €",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "€3.12 million",
+     "round": "Seed",
+     "title": "London’s IMMIX secures €3.12 million to build FX infrastructure for stablecoin payments beyond the US dollar",
+     "link": "https://www.eu-startups.com/2026/10/londons-immix-secures-e3-12-million-to-build-fx-infrastructure-for-stablecoin-payments-beyond-the-us-dollar/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "copenhagen-s-today": {
+   "name": "Copenhagen’s TODAY",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "TODAY, a Copenhagen-based startup offering an AI sales operating system for financial and insurance advisors has secured €2.8 million in Seed funding. The round was co-led by High-Tech Gründerfonds (HTGF) and InsurTech Gateway. They were joined by SeedX, Lucid Capital, former HDI",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "€2.8 million",
+     "round": "Seed",
+     "title": "Copenhagen’s TODAY raises €2.8 million to bring compliant AI agents to financial and insurance advisors",
+     "link": "https://www.eu-startups.com/2026/10/copenhagens-today-raises-e2-8-million-to-bring-compliant-ai-agents-to-financial-and-insurance-advisors/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "university-of-sussex-spinout-universal-quantum": {
+   "name": "University of Sussex spinout Universal Quantum",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "A UK university spinout building large scale quantum computing systems for real-world use has raised $100m in funding, which it says it the largest Series A raised by a UK-headquartered quantum firm.F...",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$100M",
+     "round": "Series A",
+     "title": "University of Sussex spinout Universal Quantum raises “record” $100M Series A",
+     "link": "https://tech.eu/2026/10/08/university-of-sussex-quantum-spinout-raises-record-ps100m-series-a/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "innercrowd": {
+   "name": "Innercrowd",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Innercrowd has raised €750,000 in fundingto accelerate its international expansion as festivals across Europe look fornew ways to drive ticket sales. The company already works with more than ahundred ...",
+   "audience": "Consumers",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "€750K",
+     "round": "",
+     "title": "Dutch startup Innercrowd raises €750K to turn festival fans into marketers",
+     "link": "https://tech.eu/2026/10/08/dutch-startup-innercrowd-raises-eur750k-to-turn-festival-fans-into-marketers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "today": {
+   "name": "TODAY",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "TODAY, an AI startuphelping financial and insurance advisors automate their work has raised €2.8million in seed funding. The round was co-led by High-Tech Gründerfonds (HTGF)and Insurtech Gateway, wit...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "€2.8M",
+     "round": "Seed",
+     "title": "TODAY lands €2.8M to scale its AI platform for financial advisors",
+     "link": "https://tech.eu/2026/10/08/today-lands-eur28m-to-scale-its-ai-platform-for-financial-advisors/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "psv-tech": {
+   "name": "PSV Tech",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "DTU-born venture firm PSV Tech has closed its second fund at €56 million, bringing new capital from Chr. Augustinus Fabrikker and Nordea-fonden alongside existing investors including ATP, EIFO and IDA. PSV Tech backs Nordic technology startups at the pre-seed stage, often before ",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "€56M",
+     "round": "",
+     "title": "PSV Tech closes €56M Fund II to back Nordic startups before product-market fit",
+     "link": "https://tech.eu/2026/10/08/psv-tech-closes-eur55m-fund-ii-to-back-nordic-startups-before-product-market-fit/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-10-08",
+     "amount": "€56 million",
+     "round": "Pre-Seed",
+     "title": "PSV Tech closes its second fund to double down on Nordic pre-seed investing",
+     "link": "https://arcticstartup.com/psv-tech-closes-e56m-fund-ii/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "verso": {
+   "name": "Verso",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Verso, an AI-poweredconsumer intelligence platform, has raised $6 million in seed funding. Theround was led by Angular Ventures, with participation from 100in, KimaVentures, Olympe Capital, Sharpstone...",
+   "audience": "Consumers",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "$6M",
+     "round": "Seed",
+     "title": "Verso raises $6M to bring consumer intelligence into business decision-making",
+     "link": "https://tech.eu/2026/10/08/verso-raises-6m-to-bring-consumer-intelligence-into-business-decision-making/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "golbriak-space": {
+   "name": "Golbriak Space",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Estonia’s Golbriak Space has secured €4 million in fresh financing to accelerate the industrialisation of its technology and expand production capacity as customers move towards embedding optical term...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "€4M",
+     "round": "",
+     "title": "Golbriak Space raises €4M to scale laser communications for satellite constellations",
+     "link": "https://tech.eu/2026/10/08/golbriak-space-raises-eur4m-to-scale-laser-communications-for-satellite-constellations/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "danish-startup": {
+   "name": "Danish startup",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Fashion manufacturing technology company Rodinia Generation has raised €4 million in a funding round led by Swiss-US venture fund Vitamin°C, with existing investors Climentum Capital and EIFO also participating. Rodinia has developed its patented O-FACTORY® technology for onshore",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "events": [
+    {
+     "date": "2026-10-08",
+     "amount": "€4 million",
+     "round": "",
+     "title": "Danish startup secures €4 million to scale tech-powered apparel manufacturing in Portugal",
+     "link": "https://arcticstartup.com/rodinia-generation-raises-e4m/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "mecka-ai-reveals-60-million-usd-series-b-round-backed-by-se": {
+   "name": "Mecka AI reveals $60-million USD Series B round backed by Se",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Startup aims to provide the real-world training data required to deploy robots. \n The post  Mecka AI reveals $60-million USD Series B round backed by Sequoia, Nvidia  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-07",
+   "last_seen": "2026-10-07",
+   "events": [
+    {
+     "date": "2026-10-07",
+     "amount": "$60",
+     "round": "Series B",
+     "title": "Mecka AI reveals $60-million USD Series B round backed by Sequoia, Nvidia",
+     "link": "https://betakit.com/mecka-ai-reveals-60-million-usd-series-b-round-backed-by-sequoia-nvidia/",
+     "source": "BetaKit"
     }
    ]
   }
