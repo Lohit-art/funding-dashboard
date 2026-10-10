@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T18:38:58+00:00",
+ "updated": "2026-10-10T17:38:33+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -47517,6 +47517,174 @@
      "round": "Series A",
      "title": "Menswear Brand KISAH Nets ₹35.9 Cr To Scale Retail Footprint",
      "link": "https://inc42.com/buzz/menswear-brand-kisah-nets-%e2%82%b935-9-cr-to-scale-retail-footprint/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "veir": {
+   "name": "VEIR",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "VEIR raised an oversubscribed $110 million Series C round to accelerate commercialization of its superconducting power delivery systems for AI data centers.  The round was co-led by Matter Venture Partners and Tyche Partners. LG Technology Ventures, Gates Frontier, Sabanci Climat",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10",
+   "events": [
+    {
+     "date": "2026-10-10",
+     "amount": "$110 Million",
+     "round": "Series C",
+     "title": "VEIR Raises $110 Million Series C Co-Led By Matter Venture Partners And Tyche Partners",
+     "link": "https://pulse2.com/veir-raises-110-million-series-c-co-led-by-matter-venture-partners-and-tyche-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "msiv-fund-ii": {
+   "name": "MSIV Fund II",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Marin Sonoma Impact Ventures closed MSIV Fund II with more than $11 million to invest in startups across Marin and Sonoma counties. The new fund more than doubles MSIV's assets under management to over $17.7 million. \n The post  MSIV Fund II Raises More Than $11 Million To Invest",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10",
+   "events": [
+    {
+     "date": "2026-10-10",
+     "amount": "$11 Million",
+     "round": "",
+     "title": "MSIV Fund II Raises More Than $11 Million To Invest In North Bay Area Startups",
+     "link": "https://pulse2.com/msiv-fund-ii-raises-more-than-11-million-to-invest-in-north-bay-area-startups/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fortastra": {
+   "name": "Fortastra",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Fortastra raised $30 million in Series A funding to expand development and production of maneuverable spacecraft designed for on-orbit security and national defense. The round was led by First In. Upfront Ventures, Space Capital, Rsquared, Side Door Ventures, ATX Ventures, existi",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10",
+   "events": [
+    {
+     "date": "2026-10-10",
+     "amount": "$30 Million",
+     "round": "Series A",
+     "title": "Fortastra Raises $30 Million Series A Led By First In",
+     "link": "https://pulse2.com/fortastra-raises-30-million-series-a-led-by-first-in/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "welltory": {
+   "name": "Welltory",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Welltory secured an additional $2 million in growth financing from Braavo Capital to expand Welltory Care, its service for people living with chronic health conditions. The financing extends the companies' long-running partnership. \n The post  Welltory Secures $2 Million Growth F",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10",
+   "events": [
+    {
+     "date": "2026-10-10",
+     "amount": "$2 Million",
+     "round": "Growth",
+     "title": "Welltory Secures $2 Million Growth Financing From Braavo Capital",
+     "link": "https://pulse2.com/welltory-secures-2-million-growth-financing-from-braavo-capital/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "atrium-therapeutics": {
+   "name": "Atrium Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Atrium Therapeutics entered into a securities purchase agreement with institutional investors for a $50 million private placement to support development of its precision cardiology pipeline. \n The post  Atrium Therapeutics Raises $50 Million Private Placement To Advance Precision",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10",
+   "events": [
+    {
+     "date": "2026-10-10",
+     "amount": "$50 Million",
+     "round": "",
+     "title": "Atrium Therapeutics Raises $50 Million Private Placement To Advance Precision Cardiology Pipeline",
+     "link": "https://pulse2.com/atrium-therapeutics-raises-50-million-private-placement-to-advance-precision-cardiology-pipeline/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "vinci-pharmaceuticals": {
+   "name": "Vinci Pharmaceuticals",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Vinci Pharmaceuticals closed a Series A financing of more than $8 million to advance development of its EPIPLANT sustained-release drug delivery platform for retinal diseases. The financing was led by Dynagrow Capital, with additional support from MintPharma Capital. \n The post  ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10",
+   "events": [
+    {
+     "date": "2026-10-10",
+     "amount": "$8 Million",
+     "round": "Series A",
+     "title": "Vinci Pharmaceuticals Raises More Than $8 Million Series A To Advance EPIPLANT Platform",
+     "link": "https://pulse2.com/vinci-pharmaceuticals-raises-more-than-8-million-series-a-to-advance-epiplant-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nat-habit": {
+   "name": "Nat Habit",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "D2C personal care brand Nat Habit has raised ₹142 Cr (around $14.7 Mn) in an all-primary  Series C funding round…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10",
+   "events": [
+    {
+     "date": "2026-10-10",
+     "amount": "₹142",
+     "round": "Series C",
+     "title": "D2C Brand Nat Habit Raises ₹142 Cr To Scale Offline Expansion",
+     "link": "https://inc42.com/buzz/d2c-brand-nat-habit-raises-%e2%82%b9142-cr-to-scale-offline-expansion/",
      "source": "Inc42"
     }
    ]
