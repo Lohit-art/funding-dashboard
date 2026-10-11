@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T17:38:33+00:00",
+ "updated": "2026-10-11T17:54:08+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -47686,6 +47686,78 @@
      "title": "D2C Brand Nat Habit Raises ₹142 Cr To Scale Offline Expansion",
      "link": "https://inc42.com/buzz/d2c-brand-nat-habit-raises-%e2%82%b9142-cr-to-scale-offline-expansion/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "preference-model": {
+   "name": "Preference Model",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Preference Model raised $16 million in seed funding led by Andreessen Horowitz, with participation from SignalFire, South Park Commons, Scale Angel Group, and researchers including Fei-Fei Li, Ian Goodfellow, and Julian Schrittwieser. Pasted text \n The post  Preference Model Rais",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-11",
+   "last_seen": "2026-10-11",
+   "events": [
+    {
+     "date": "2026-10-11",
+     "amount": "$16 Million",
+     "round": "Seed",
+     "title": "Preference Model Raises $16 Million Seed Round Led By Andreessen Horowitz",
+     "link": "https://pulse2.com/preference-model-raises-16-million-seed-round-led-by-andreessen-horowitz/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "atlas-atomics": {
+   "name": "Atlas Atomics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Atlas Atomics raised approximately $400 million in a Series A financing at a valuation of around $1.9 billion, according to Bloomberg. General Catalyst is leading the financing, while Andreessen Horowitz is participating in the round, according to people familiar with the private",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-11",
+   "last_seen": "2026-10-11",
+   "events": [
+    {
+     "date": "2026-10-11",
+     "amount": "$400 Million",
+     "round": "Series A",
+     "title": "Atlas Atomics Raises About $400 Million Series A At $1.9 Billion Valuation",
+     "link": "https://pulse2.com/atlas-atomics-raises-about-400-million-series-a-at-1-9-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "kopin": {
+   "name": "Kopin",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Kopin Corporation secured an additional $18.6 million sole-source award from the Office of the Secretary of War through U.S. Army Contracting Command under the Industrial Base Analysis and Sustainment program.  \n The post  Kopin Secures Additional $18.6 Million U.S. Army Award Fo",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-11",
+   "last_seen": "2026-10-11",
+   "events": [
+    {
+     "date": "2026-10-11",
+     "amount": "$18.6 Million",
+     "round": "",
+     "title": "Kopin Secures Additional $18.6 Million U.S. Army Award For Color MicroLED Technology",
+     "link": "https://pulse2.com/kopin-secures-additional-18-6-million-u-s-army-award-for-color-microled-technology/",
+     "source": "Pulse 2.0"
     }
    ]
   }
