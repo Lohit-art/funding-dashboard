@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T21:33:09+00:00",
+ "updated": "2026-10-13T19:44:34+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -33266,10 +33266,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "established",
-   "summary": "Fintech company ID Financehas secured a €21 million debt facility from German asset manager nordIX tosupport the continued growth of its consumer lending business in Spain.Founded in Barcelona in2015,...",
+   "summary": "Spanish fintech ID Finance has raised €545 million in debt and equity, it said today, as it looks to make its consumer fintech app Plazo Spain’s “go-to” credit platform.Barcelona-headquartered ID Fina...",
    "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-09-01",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-10-13",
    "events": [
     {
      "date": "2026-09-01",
@@ -33277,6 +33277,14 @@
      "round": "Debt",
      "title": "ID Finance secures €21M from nordIX to grow its Spanish lending business",
      "link": "https://tech.eu/2026/09/01/id-finance-secures-eur21m-from-nordix-to-grow-its-spanish-lending-business/",
+     "source": "Tech.eu"
+    },
+    {
+     "date": "2026-10-13",
+     "amount": "€545M",
+     "round": "Debt",
+     "title": "Spanish fintech ID Finance lands €545M  in debt and equity",
+     "link": "https://tech.eu/2026/10/13/spanish-fintech-id-finance-lands-545m-in-debt-and-equity/",
      "source": "Tech.eu"
     }
    ]
@@ -46505,11 +46513,11 @@
    "sector": "Semiconductors",
    "is_ai": true,
    "research_based": true,
-   "stage": "unspecified",
-   "summary": "MintNeuro, an Imperial College London spinout developing specialised chips for neural devices from implants to wearables, has raised $5 million to drive its commercial scale-up. The company is develop...",
+   "stage": "established",
+   "summary": "MintNeuro raised $5 million from European and U.S. investors to accelerate product launches, expand commercial partnerships, and support international growth for its semiconductor platform designed for neural devices. The round was led by Odyssey Ventures. Additional investors in",
    "audience": "General / mixed",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-07",
+   "last_seen": "2026-10-13",
    "events": [
     {
      "date": "2026-10-07",
@@ -46518,6 +46526,14 @@
      "title": "MintNeuro raises $5M to scale chips purpose-built for neural devices",
      "link": "https://tech.eu/2026/10/07/mintneuro-raises-5m-to-scale-chips-purpose-built-for-neural-devices/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-10-13",
+     "amount": "$5 Million",
+     "round": "Growth",
+     "title": "MintNeuro Raises $5 Million To Scale Semiconductor Platform For Neural Devices",
+     "link": "https://pulse2.com/mintneuro-raises-5-million-to-scale-semiconductor-platform-for-neural-devices/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -46961,11 +46977,11 @@
    "sector": "Deep Tech",
    "is_ai": false,
    "research_based": true,
-   "stage": "established",
-   "summary": "This week, we tracked more than 70 tech funding deals worth over €818 million and over 10 exits, M&A transactions, rumours, and related news stories across Europe.It’s been another busy week for E...",
-   "audience": "General / mixed",
+   "stage": "emerging",
+   "summary": "Universal Quantum, a University of Sussex spin-out developing large-scale quantum computers, raised more than $100 million in Series A funding. \n The post  Universal Quantum Raises More Than $100 Million Series A To Scale Quantum Computing Technology  appeared first on  Pulse 2.0",
+   "audience": "Researchers & scientists",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-09",
+   "last_seen": "2026-10-13",
    "events": [
     {
      "date": "2026-10-08",
@@ -46982,6 +46998,14 @@
      "title": "Universal Quantum raises $100M,  SAP buys TechWolf, and European startups raise five times more funding in September than August",
      "link": "https://tech.eu/2026/10/09/universal-quantum-raises-100m-sap-buys-techwolf-and-european-startups-raise-five-times-more-funding-in-september-than-august/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-10-13",
+     "amount": "$100 Million",
+     "round": "Series A",
+     "title": "Universal Quantum Raises More Than $100 Million Series A To Scale Quantum Computing Technology",
+     "link": "https://pulse2.com/universal-quantum-raises-more-than-100-million-series-a-to-scale-quantum-computing-technology/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -48141,6 +48165,670 @@
      "round": "",
      "title": "Kiwi open banking fintech Qippay pockets NZ$5 million for 25% stake",
      "link": "https://www.startupdaily.net/topic/funding/kiwi-open-banking-fintech-qippay-pockets-nz5-million-for-25-stake/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "unitedhealth-group": {
+   "name": "UnitedHealth Group",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "UnitedHealth Group reported third-quarter 2026 revenue of $112.7 billion and earnings from operations of $6.6 billion, while raising its full-year earnings outlook as profitability improved across UnitedHealthcare and Optum.  \n The post  UnitedHealth Group Raises 2026 Outlook As ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "$6.6 Billion",
+     "round": "",
+     "title": "UnitedHealth Group Raises 2026 Outlook As Q3 Operating Earnings Rise To $6.6 Billion",
+     "link": "https://pulse2.com/unitedhealth-group-raises-2026-outlook-as-q3-operating-earnings-rise-to-6-6-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "matter-machine": {
+   "name": "Matter Machine",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Matter Machine, a University of Liverpool spin-out focused on AI-enabled materials discovery, raised £4 million in an oversubscribed pre-Series A funding round. The round was led by IP Group and supported by Northern Gritstone, the University of Liverpool Enterprise Fund, Norrske",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "£4 Million",
+     "round": "Pre-Series A",
+     "title": "Matter Machine Raises £4 Million Pre-Series A To Accelerate AI-Powered Materials Discovery",
+     "link": "https://pulse2.com/matter-machine-raises-4-million-pre-series-a-to-accelerate-ai-powered-materials-discovery/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "taurus-private-markets": {
+   "name": "Taurus Private Markets",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Taurus Private Markets closed Taurus Private Markets Fund III with approximately $301 million in commitments, exceeding its original $225 million target. \n The post  Taurus Private Markets Closes $301 Million Fund III  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "$301 Million",
+     "round": "",
+     "title": "Taurus Private Markets Closes $301 Million Fund III",
+     "link": "https://pulse2.com/taurus-private-markets-closes-301-million-fund-iii/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "reach-security": {
+   "name": "Reach Security",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Reach Security has raised more than $50 million in Series B funding to accelerate product innovation, expand integration partnerships, support international growth, and continue scaling across U.S. enterprise and federal markets. The round was led by Top Tier Capital Partners, wi",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "$50 Million",
+     "round": "Series B",
+     "title": "Reach Security Raises More Than $50 Million Series B To Expand AI-Powered Security Platform",
+     "link": "https://pulse2.com/reach-security-raises-more-than-50-million-series-b/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "london-s-obsero": {
+   "name": "London’s Obsero",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Obsero, a British AI Search platform and consultancy, has raised €1 million ($1.2 million) in Seed funding to develop their first specialist AI agents (trained on their GEO playbook), double its engineering team, and accelerate GTM. The round was led by SFC Capital alongside seve",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€1 million",
+     "round": "Seed",
+     "title": "London’s Obsero raises €1 million to help brands improve visibility in AI-powered search",
+     "link": "https://www.eu-startups.com/2026/10/londons-obsero-raises-e1-million-to-help-brands-improve-visibility-in-ai-powered-search/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "undecimal-bio": {
+   "name": "Undecimal Bio",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Cambridge-based Undecimal Bio, a spin-out from Eleven Therapeutics advancing targeted delivery of siRNA therapeutics, today announced a €16 million ($18 million) Seed financing round to expand DELiveri, its proprietary AI-enabled platform for identifying conjugates that can direc",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€16 million",
+     "round": "Seed",
+     "title": "Undecimal Bio lands €16 million to develop targeted RNA medicines beyond the liver",
+     "link": "https://www.eu-startups.com/2026/10/undecimal-bio-lands-e16-million-to-develop-targeted-rna-medicines-beyond-the-liver/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "one-of-spain-s-largest-recent-fintech-deals-sees-id-finance": {
+   "name": "One of Spain’s largest recent FinTech deals sees ID Finance",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "ID Finance, a Barcelona-based FinTech group, has announced €545 million of debt and equity funding to support further growth for their flagship consumer finance app; Plazo. This funding saw participation from Spice Expeditions, WashU, Kingsway Capital and global investment firm i",
+   "audience": "Consumers",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€545 million",
+     "round": "Debt",
+     "title": "One of Spain’s largest recent FinTech deals sees ID Finance secure €545 million to scale Plazo",
+     "link": "https://www.eu-startups.com/2026/10/one-of-spains-largest-recent-fintech-deals-sees-id-finance-secure-e545-million-to-scale-plazo/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "reebuild": {
+   "name": "reebuild",
+   "country": "Austria",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Vienna-based constructiontechnology startup reebuild has raised €3 million in seed funding to expand itsAI-powered back-office automation platform for construction and real estatecompanies. The round ...",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€3 million",
+     "round": "Seed",
+     "title": "Vienna-based reebuild raises €3 million to build the AI operating system for construction and real estate",
+     "link": "https://www.eu-startups.com/2026/10/vienna-based-reebuild-raises-e3-million-to-build-the-ai-operating-system-for-construction-and-real-estate/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-13",
+     "amount": "€3M",
+     "round": "Seed",
+     "title": "reebuild secures €3M to automate financial workflows in construction",
+     "link": "https://tech.eu/2026/10/13/reebuild-secures-eur3m-to-automate-financial-workflows-in-construction/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "carbonfarm": {
+   "name": "CarbonFarm",
+   "country": "France",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "CarbonFarm, adigital monitoring, reporting and verification (MRV) provider specialising inrice decarbonisation, has raised €7 million in an oversubscribed Series Afunding round to expand its technolog...",
+   "audience": "Consumers",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€7 million",
+     "round": "Series A",
+     "title": "Paris-based CarbonFarm raises €7 million to tackle methane emissions from rice farming",
+     "link": "https://www.eu-startups.com/2026/10/paris-based-carbonfarm-raises-e7-million-to-tackle-methane-emissions-from-rice-farming/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-13",
+     "amount": "€7M",
+     "round": "",
+     "title": "CarbonFarm raises €7M to tackle methane emissions from rice cultivation",
+     "link": "https://tech.eu/2026/10/13/carbonfarm-raises-eur7m-to-tackle-methane-emissions-from-rice-cultivation/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "causa-prima": {
+   "name": "Causa Prima",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Causa Prima, a companydeveloping an autonomous finance platform for businesses, has raised $20million in a seed funding round led by Base10 Partners. The round also sawparticipation from QED Investors...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "$20M",
+     "round": "Seed",
+     "title": "Causa Prima lands $20M seed just three months after pre-seed round",
+     "link": "https://tech.eu/2026/10/13/causa-prima-lands-20m-seed-just-three-months-after-pre-seed/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "french-deeptech-hylight": {
+   "name": "French deeptech HyLight",
+   "country": "France",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "HyLight, the French startup specialising in aerial inspection of critical infrastructure using autonomous hydrogen-powered airships, has raised €13 million from Rubio Impact Ventures, DRW, and Teampac...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€13M",
+     "round": "",
+     "title": "French deeptech HyLight raises €13M to industrialise autonomous hydrogen-powered airships",
+     "link": "https://tech.eu/2026/10/13/french-deeptech-hylight-raises-eur13m-to-industrialise-autonomous-hydrogen-powered-airships/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "epyr": {
+   "name": "Epyr",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "French industrial energytech company Epyr has raised a €15 million Series A round led by  SlateVC. Existing investors AENU and Daphni are doubling down, alongside WEPA Ventures, OVNI  Capital and Auru...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€15M",
+     "round": "Series A",
+     "title": "French startup Epyr raises €15M following successful industrial heat storage deployment",
+     "link": "https://tech.eu/2026/10/13/french-startup-epyr-raises-eur15m-following-successful-industrial-heat-storage-deployment/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "sainaptic": {
+   "name": "Sainaptic",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "UK-based edtech startup Sainaptic hasraised £1 million in fresh funding to expand its AI-assisted assessment markingtechnology. The round was co-led by Cornerstone VC and Ufi Ventures, withparticipati...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "£1M",
+     "round": "",
+     "title": "Sainaptic lands £1M to expand AI-assisted marking technology",
+     "link": "https://tech.eu/2026/10/13/sainaptic-lands-ps1m-to-expand-ai-assisted-marking-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "transport-data-specialist-alchera": {
+   "name": "Transport data specialist Alchera",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "A Cambridge-founded startup that leverages AI to help cities manage roads and public transport more efficiently has raised £2.7m in seed funding, it said today.Alchera Technologies has raised the fund...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "£2.7M",
+     "round": "Seed",
+     "title": "Transport data specialist Alchera raises £2.7M",
+     "link": "https://tech.eu/2026/10/13/tranport-data-specialist-alchera-raises-ps27m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ubitium": {
+   "name": "Ubitium",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Semiconductor startupUbitium has raised $14 million in new seed funding to develop its universalprocessor for autonomous machines and other physical AI applications. The roundwas led by Ibex Investors...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "$14M",
+     "round": "Seed",
+     "title": "Ubitium raises $14M to bring universal computing to physical AI",
+     "link": "https://tech.eu/2026/10/13/ubitium-lands-14m-to-bring-universal-computing-to-physical-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "parkmundo": {
+   "name": "ParkMundo",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Travel technology company ParkMundo has raised €2.3 millionin seed funding to expand its airport parking marketplace and B2B distributionplatform. The investment marks the company's first external fun...",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€2.3M",
+     "round": "Seed",
+     "title": "ParkMundo raises €2.3M to connect airport parking with global travel platforms",
+     "link": "https://tech.eu/2026/10/13/parkmundo-raises-eur23m-to-connect-airport-parking-with-global-travel-platforms/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "swedish-healthtech-company": {
+   "name": "Swedish healthtech company",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Lund-based digital healthcare provider Yazen Health has secured €50 million in an investment partnership led by European growth investor Verdane, with participation from existing investor Evli Growth Partners (EGP). Yazen specializes in treating obesity as a chronic disease, comb",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€50 million",
+     "round": "Growth",
+     "title": "Swedish healthtech company lands €50 million to expand digital obesity care across Europe",
+     "link": "https://arcticstartup.com/yazen-raises-e50-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "danish-lithuanian-drone-manufacturer": {
+   "name": "Danish-Lithuanian drone manufacturer",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Lithuanian-Danish drone manufacturer Monopulse, operated by MNP Technologijos, has raised more than €2 million to expand production, advance research and development, and accelerate its international expansion. The round was led by Lithuanian early-stage venture capital fund CoIn",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€2 million",
+     "round": "Angel",
+     "title": "Danish-Lithuanian drone manufacturer secures over €2 million to expand production and enter new markets",
+     "link": "https://arcticstartup.com/monopulse-raises-over-e2-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "danish-legaltech-startup": {
+   "name": "Danish legaltech startup",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Copenhagen-based legaltech startup SmallClaims has raised €2 million in a seed round led by Finnish venture capital firm Vendep Capital to scale its AI-powered litigation platform across Europe. The company uses specialised AI agents to automate the small-claims process, from leg",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "€2 million",
+     "round": "Seed",
+     "title": "Danish legaltech startup raises €2 million seed to scale AI-powered litigation across Europe",
+     "link": "https://arcticstartup.com/smallclaims-raises-e2-m-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "greencell-mobility": {
+   "name": "GreenCell Mobility",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Everstone Capital-backed EV startup GreenCell Mobility has raised ₹330 Cr ($34.6 Mn) in an equity funding round led by Impact…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "₹330",
+     "round": "",
+     "title": "GreenCell Mobility Raises ₹330 Cr To Expand Electric Bus Fleet",
+     "link": "https://inc42.com/buzz/greencell-mobility-raises-%e2%82%b9330-cr-to-expand-electric-bus-fleet/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "clueso": {
+   "name": "Clueso",
+   "country": "India",
+   "region": "Asia",
+   "category": "Creative expression",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI video startup Clueso has raised $10 Mn (about ₹95 Cr) in a Series A funding round led by Dharana…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "$10 Mn",
+     "round": "Series A",
+     "title": "Clueso Bags $10 Mn To Automate Enterprise Video Creation With AI Agents",
+     "link": "https://inc42.com/buzz/clueso-bags-10-mn-to-automate-enterprise-video-creation-with-ai-agents/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "thinkmetal": {
+   "name": "ThinkMetal",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Manufacturing startup ThinkMetal has raised ₹27 Cr (around $2.8 Mn) in a funding round led by India Angel Network’s VC…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "₹27",
+     "round": "Angel",
+     "title": "Manufacturing Startup ThinkMetal Raises ₹27 Cr To Initiate Commercialisation",
+     "link": "https://inc42.com/buzz/manufacturing-startup-thinkmetal-raises-%e2%82%b927-cr-to-initiate-commercialisation/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "speciality-chemicals-startup-nusynth": {
+   "name": "Speciality Chemicals Startup NuSynth",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bengaluru-based NuSynth Technologies has raised ₹36.5 Cr (about $4 Mn) in a seed funding round co-led by Avaana Capital and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "₹36.5",
+     "round": "Seed",
+     "title": "Speciality Chemicals Startup NuSynth Raises ₹36.5 Cr From Avaana Capital, Shastra VC",
+     "link": "https://inc42.com/buzz/speciality-chemicals-startup-nusynth-raises-%e2%82%b936-5-cr-from-avaana-capital-shastra-vc/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "fundamentum-frontier-advisors-marks-first": {
+   "name": "Fundamentum Frontier Advisors Marks First",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Ex-Fundamentum’s cofounder Ashish Kumar’s VC firm Fundamentum Frontier Advisors (F2A) has marked the first close of its growth-stage AI and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "₹3,000",
+     "round": "Growth",
+     "title": "Fundamentum Frontier Advisors Marks First Close Of ₹3,000 Cr Deeptech-Focused Fund",
+     "link": "https://inc42.com/buzz/fundamentum-frontier-advisors-marks-first-close-of-%e2%82%b93000-cr-deeptech-focused-fund/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "toothsi-parent-makeo": {
+   "name": "Toothsi Parent MakeO",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "MakeO, the parent of clear aligner brand Toothsi, has raised ₹90 Cr (about $9.4 Mn) in a funding round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "₹90",
+     "round": "",
+     "title": "Toothsi Parent MakeO Raises ₹90 Cr For India, Southeast Asia Expansion",
+     "link": "https://inc42.com/buzz/toothsi-parent-makeo-raises-%e2%82%b990-cr-for-india-southeast-asia-expansion/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "mesa-school": {
+   "name": "Mesa School",
+   "country": "India",
+   "region": "Asia",
+   "category": "Learning & growth",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Bengaluru-based Mesa School of Business has raised ₹110 Cr ($11.4 Mn) in its Series A funding round in a mix…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "₹110",
+     "round": "Series A",
+     "title": "Mesa School Bags ₹110 Cr To Launch New On-Campus Courses",
+     "link": "https://inc42.com/buzz/mesa-school-bags-%e2%82%b9110-cr-to-launch-new-on-campus-courses/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "taps-11-million": {
+   "name": "taps $11 million",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Archa grabs $11m equity and $50m debt to kill personal guarantees and police corporate spend with AI.",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "events": [
+    {
+     "date": "2026-10-13",
+     "amount": "$11 million",
+     "round": "Debt",
+     "title": "Credit card fintech taps $11 million raise",
+     "link": "https://www.startupdaily.net/topic/funding/credit-card-fintech-taps-11-million-raise/",
      "source": "Startup Daily"
     }
    ]
