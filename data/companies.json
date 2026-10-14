@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T19:44:34+00:00",
+ "updated": "2026-10-14T17:46:40+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -20250,10 +20250,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "IPO-bound manufacturing startup Zetwerk has raised ₹500 Cr in a pre-IPO funding round from Bharat Value Fund, a SEBI-registered Category…",
+   "summary": "Manufacturing company Zetwerk has raised ₹2,251.2 Cr from anchor investors ahead of the opening of its initial public offering (IPO)…",
    "audience": "General / mixed",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-07-24",
+   "last_seen": "2026-10-14",
    "events": [
     {
      "date": "2026-07-24",
@@ -20261,6 +20261,14 @@
      "round": "",
      "title": "Exclusive: Zetwerk Bags ₹500 Cr Pre-IPO Funding From Bharat Value Fund",
      "link": "https://inc42.com/buzz/exclusive-zetwerk-bags-%e2%82%b9500-cr-pre-ipo-funding-from-bharat-value-fund/",
+     "source": "Inc42"
+    },
+    {
+     "date": "2026-10-14",
+     "amount": "₹2,251",
+     "round": "",
+     "title": "Zetwerk Raises ₹2,251 Cr From Anchor Investors Ahead Of IPO",
+     "link": "https://inc42.com/buzz/zetwerk-raises-%e2%82%b92251-cr-from-anchor-investors-ahead-of-ipo/",
      "source": "Inc42"
     }
    ]
@@ -33264,12 +33272,12 @@
    "category": "Financial independence",
    "sector": "Fintech",
    "is_ai": false,
-   "research_based": false,
+   "research_based": true,
    "stage": "established",
-   "summary": "Spanish fintech ID Finance has raised €545 million in debt and equity, it said today, as it looks to make its consumer fintech app Plazo Spain’s “go-to” credit platform.Barcelona-headquartered ID Fina...",
+   "summary": "ID Finance has secured €545 million in debt and equity funding from international investors Spice Expeditions, LP, Washington University Investment Management Company, Kingsway Capital, and i80 Group. The financing represents one of the largest transactions completed by a Spanish",
    "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-09-01",
-   "last_seen": "2026-10-13",
+   "last_seen": "2026-10-14",
    "events": [
     {
      "date": "2026-09-01",
@@ -33286,6 +33294,14 @@
      "title": "Spanish fintech ID Finance lands €545M  in debt and equity",
      "link": "https://tech.eu/2026/10/13/spanish-fintech-id-finance-lands-545m-in-debt-and-equity/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-10-14",
+     "amount": "€545 Million",
+     "round": "Debt",
+     "title": "ID Finance Secures €545 Million In Debt And Equity Funding From International Investors",
+     "link": "https://pulse2.com/id-finance-secures-e545-million-in-debt-and-equity-funding-from-international-investors/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -38490,10 +38506,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Helsinki-based Zero has raised a $10.3 million seed round led by New York-based Primary Venture Partners, with participation from Inception Fund, Defiant, Greens Ventures and founders of Lovable, Supercell, Langdock and AMD Silo AI. Zero is developing a GTM operating system desig",
+   "summary": "Helsinki-based Ambio has raised €5.1 million in a seed round led by b2venture, with participation from Montis VC and existing investor Lifeline Ventures. The startup is developing an AI-powered procurement platform for recycled plastics, covering the purchasing process from mater",
    "audience": "General / mixed",
    "first_seen": "2026-09-15",
-   "last_seen": "2026-09-15",
+   "last_seen": "2026-10-14",
    "events": [
     {
      "date": "2026-09-15",
@@ -38501,6 +38517,14 @@
      "round": "Seed",
      "title": "Finnish startup raises $10.3 million seed to replace the traditional CRM with AI agents",
      "link": "https://arcticstartup.com/zero-raises-10-3-million-seed/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-10-14",
+     "amount": "€5.1 million",
+     "round": "Seed",
+     "title": "Finnish startup secures €5.1 million seed to make recycled plastics procurement more reliable",
+     "link": "https://arcticstartup.com/ambio-raises-e5-1m-seed/",
      "source": "ArcticStartup"
     }
    ]
@@ -48830,6 +48854,638 @@
      "title": "Credit card fintech taps $11 million raise",
      "link": "https://www.startupdaily.net/topic/funding/credit-card-fintech-taps-11-million-raise/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "stella-dot-founder": {
+   "name": "Stella & Dot Founder",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "In this Crunchbase News exclusive, we spoke to Marklo AI founder Jessica Herrin about her solution to the marketing problems she encountered when building earlier startups, and how a group of investors, led by Forerunner, are backing that early experience with a $5 million seed f",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$5M",
+     "round": "Seed",
+     "title": "Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo",
+     "link": "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "codewall": {
+   "name": "CodeWall",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "CodeWall has emerged from stealth with $4 million in pre-seed funding to build autonomous attack agents designed to continuously test enterprise security from an attacker’s perspective. The financing was led by Osney Capital, with participation from InReach Ventures, Antler, and ",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$4 Million",
+     "round": "Pre-Seed",
+     "title": "CodeWall Raises $4 Million Pre-Seed Led By Osney Capital To Build Autonomous Attack Agents For Enterprise Security",
+     "link": "https://pulse2.com/codewall-raises-4-million-pre-seed-led-by-osney-capital-to-build-autonomous-attack-agents-for-enterprise-security/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "accelevation": {
+   "name": "Accelevation",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Accelevation Holdings entered into a new $650 million senior secured credit agreement that replaces credit facilities established before the company’s initial public offering and provides additional financial flexibility to support its long-term growth strategy.  \n The post  Acce",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$650 Million",
+     "round": "Growth",
+     "title": "Accelevation Secures $650 Million Credit Agreement Led By Bank Of America, JPMorgan, Morgan Stanley, KeyBank And PNC",
+     "link": "https://pulse2.com/accelevation-secures-650-million-credit-agreement-led-by-bank-of-america-jpmorgan-morgan-stanley-keybank-and-pnc/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "melius": {
+   "name": "Melius",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Melius has raised $25 million to expand its AI-powered creative operating system, including a $5 million seed round led by General Catalyst and a $20 million Series A led by CRV. Genius Ventures, Vine Ventures, and Anti Fund also participated.  \n The post  Melius Raises $25 Milli",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$25 Million",
+     "round": "Seed",
+     "title": "Melius Raises $25 Million To Expand AI Agents Lab For Creative Work",
+     "link": "https://pulse2.com/melius-raises-25-million-to-expand-ai-agents-lab-for-creative-work/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fl-robotics": {
+   "name": "FLÆ Robotics",
+   "country": "Czechia",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Czech technology company FLÆ Roboticshas raised more than €1 million in seed funding from Purple Ventures and Garage Angels to further develop its AI-powered hospitality platform, BE-A, andsupport int...",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "€1 million",
+     "round": "Seed",
+     "title": "FLÆ Robotics raises over €1 million in Seed funding to develop its AI hospitality agent",
+     "link": "https://www.eu-startups.com/2026/10/flae-robotics-raises-over-e1-million-in-seed-funding-to-develop-its-ai-hospitality-agent/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-14",
+     "amount": "€1M",
+     "round": "Seed",
+     "title": "Czech startup FLÆ Robotics lands over €1M to automate hotel guest services",
+     "link": "https://tech.eu/2026/10/14/czech-startup-flae-robotics-lands-over-eur1m-to-automate-hotel-guest-services/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "what-investors-really-want-to-know-about-ip": {
+   "name": "What investors really want to know about IP",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "European startups raised €21.45 billion ($24 billion) in the second quarter of this year, the region’s strongest quarter for venture funding in four years, according to Crunchbase. On the surface, capital is back. Look one level down and the picture changes. 65% of that money wen",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "€21.45 billion",
+     "round": "",
+     "title": "What investors really want to know about IP",
+     "link": "https://www.eu-startups.com/2026/10/what-investors-really-want-to-know-about-ip/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "helsinki-s-ambio": {
+   "name": "Helsinki’s Ambio",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ambio, a Helsinki-based startup building an AI-native end-to-end procurement solution for recycled plastics, has raised a €5.1 million Seed round to make recycled plastics procurement faster and more reliable.  The round was led by b2venture, with participation from Montis and ex",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "€5.1 million",
+     "round": "Seed",
+     "title": "Helsinki’s Ambio raises €5.1 million to scale its AI-powered recycled plastics procurement platform",
+     "link": "https://www.eu-startups.com/2026/10/helsinkis-ambio-raises-e5-1-million-to-scale-its-ai-powered-recycled-plastics-procurement-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "spain-s-full-stack-quantum-computing-company-qilimanjaro-qua": {
+   "name": "Spain’s full-stack quantum computing company Qilimanjaro Qua",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Qilimanjaro Quantum Tech, Spain’s only full-stack quantum computing company, has announced the first close of its Series A funding round at €19.6 million. The round was led by Indra Group through IndraMind, its sovereign artificial intelligence initiative, with a €10 million inve",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "€19.6 million",
+     "round": "Series A",
+     "title": "Spain’s full-stack quantum computing company Qilimanjaro Quantum Tech completes €19.6 million Series A first close",
+     "link": "https://www.eu-startups.com/2026/10/barcelonas-full-stack-quantum-computing-company-qilimanjaro-quantum-tech-completes-e19-6-million-first-close-of-its-series-a/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "warsaw-s-coding-giants": {
+   "name": "Warsaw’s Coding Giants",
+   "country": "Poland",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "EdTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Coding Giants, a Warsaw-based international STEM education platform for children and teenagers, has secured up to €6 million in venture debt financing. The financing came from Orbit Capital, a Central and Eastern European growth-stage investor with more than €200 million in asset",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "€6 million",
+     "round": "Debt",
+     "title": "Warsaw’s Coding Giants secures up to €6 million to expand its STEM education platform beyond Europe",
+     "link": "https://www.eu-startups.com/2026/10/warsaws-coding-giants-secures-up-to-e6-million-to-expand-its-stem-education-platform-beyond-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "salience-labs": {
+   "name": "Salience Labs",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Salience Labs, adeveloper of photonic chips for AI data centre connectivity, has raised $125million in an oversubscribed Series B funding round to accelerate thedeployment of its optical switching tec...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$125M",
+     "round": "Series B",
+     "title": "Salience Labs secures $125M to scale photonic chips for AI data centres",
+     "link": "https://tech.eu/2026/10/14/salience-labs-secures-125m-to-scale-photonic-chips-for-ai-data-centres/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "from-rohlik-to-enterprise-ai-toma-s-c-upr-s-duvo": {
+   "name": "From Rohlik to enterprise AI: Tomáš Čupr's Duvo",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Duvo today announced a $32 million Series A led by Balderton Capital, with participation from existing investors Index Ventures, Northzone, and Credo Ventures. The round brings Duvo's total funding to...",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$32M",
+     "round": "Series A",
+     "title": "From Rohlik to enterprise AI: Tomáš Čupr's Duvo raises $32M Series A",
+     "link": "https://tech.eu/2026/10/14/from-rohlik-to-enterprise-ai-tomas-cuprs-duvo-raises-32m-series-a/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "miracly-launches-with-1-8m-to-automate-ai-powered-marketing": {
+   "name": "Miracly launches with €1.8M to automate AI-powered marketing",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI marketing platform Miracly, developed by TheWild Ventures, the company behind Scandinavian home decor brand Wild Palace,has launched following the announcement of a €1.8 million pre-seed fundingrou...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "€1.8M",
+     "round": "Pre-Seed",
+     "title": "Miracly launches with €1.8M to automate AI-powered marketing",
+     "link": "https://tech.eu/2026/10/14/miracly-launches-with-eur18m-to-automate-ai-powered-marketing/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "polish-spacetech-kp-labs": {
+   "name": "Polish spacetech KP Labs",
+   "country": "Poland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Polish company KP Labs, which develops solutions for processing satellite data directly in Earth orbit, has received €4.42 million (PLN 19.4 million) from Momentum Capital Partners.  As the space indu...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "€4.42M",
+     "round": "",
+     "title": "Polish spacetech KP Labs secures €4.42M from Momentum Capital Partners to scale in-orbit AI data processing",
+     "link": "https://tech.eu/2026/10/14/polish-spacetech-kp-labs-secures-4-42m-from-momentum-capital-partners-to-scale-in-orbit-ai-data-processing/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "stride": {
+   "name": "Stride",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "UK-basedpreventative health startup Stride has raised £4.6 million in seed funding tofurther develop its diagnostics-driven health platform and supportinternational expansion. The round includes inves...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "£4.6M",
+     "round": "Seed",
+     "title": "UK healthtech startup Stride raises £4.6M to expand preventative health platform",
+     "link": "https://tech.eu/2026/10/14/uk-healthtech-startup-stride-raises-ps46m-to-expand-preventative-health-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "orbit-capital-backs-coding-giants-to-scale-stem-education-in": {
+   "name": "Orbit Capital backs Coding Giants to scale STEM education in",
+   "country": "Poland",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Polish educationplatform Coding Giants has secured up to €6 million in venture debt financingfrom Orbit Capital to support its international expansion.Founded eight yearsago, Coding Giants provides te...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "€6 million",
+     "round": "Debt",
+     "title": "Orbit Capital backs Coding Giants to scale STEM education internationally",
+     "link": "https://tech.eu/2026/10/14/orbit-capital-backs-coding-giants-to-scale-stem-education-internationally/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "affinity-labs": {
+   "name": "Affinity Labs",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "London-basedstartup Affinity Labs has raised $2 million in pre-seed funding to expand itsportfolio of creator-led software brands and further develop its AI-poweredproduct development technology. The ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$2M",
+     "round": "Pre-Seed",
+     "title": "Affinity Labs raises $2M to build AI-powered software brands with creators",
+     "link": "https://tech.eu/2026/10/14/affinity-labs-raises-2m-to-build-ai-powered-software-brands-with-creators/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "estonian-startup": {
+   "name": "Estonian startup",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Tallinn-based insurtech Cachet has raised fresh funding led by Nordic venture capital firm Spintop Ventures, bringing its total capital raised to around €11 million. Existing investors Truffle Capital and Icebreaker.vc also participated in the round, which marks Cachet’s first ex",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "€11 million",
+     "round": "",
+     "title": "Estonian startup raises €11 million to expand insurance products for mobility and gig platforms",
+     "link": "https://arcticstartup.com/cachet-raises-e11-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "swedish-agtech-company": {
+   "name": "Swedish agtech company",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Gothenburg-based agtech company OlsAro has raised €5 million in a seed round led by Industrifonden, with Nordic Foodtech VC as co-lead and participation from existing investors Future Food Fund, PINC, AgFunder and GU Ventures. The company develops climate-resilient cereal genetic",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "€5 million",
+     "round": "Seed",
+     "title": "Swedish agtech company raises €5 million to bring climate-resilient wheat to market",
+     "link": "https://arcticstartup.com/olsaro-raises-e5m-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "scimplify": {
+   "name": "Scimplify",
+   "country": "India",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Speciality chemical manufacturing startup Scimplify has raised $25 Mn (around ₹238 Cr) in a fresh funding round led by Hitachi…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$25 Mn",
+     "round": "",
+     "title": "Scimplify Bags $25 Mn To Scale Its Semiconductor Chemicals Business",
+     "link": "https://inc42.com/buzz/scimplify-bags-25-mn-to-scale-its-semiconductor-chemicals-business/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "parallel-loop": {
+   "name": "Parallel Loop",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Enterprise AI startup Parallel Loop has raised $6.6 Mn (about ₹63.1 Cr) in a seed funding round led by 3one4…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$6.6 Mn",
+     "round": "Seed",
+     "title": "Parallel Loop Raises $6.6 Mn To Integrate AI Into Enterprise Workflows",
+     "link": "https://inc42.com/buzz/parallel-loop-raises-6-6-mn-to-integrate-ai-into-enterprise-workflows/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "the-stack": {
+   "name": "The Stack",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "D2C supplement brand The Stack has raised ₹21.5 Cr ($2.2 Mn) in fresh capital to bolster its R&D and expand…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "₹21.5",
+     "round": "",
+     "title": "The Stack Raises ₹21.5 Cr To Broaden Its Supplements Portfolio",
+     "link": "https://inc42.com/buzz/the-stack-raises-%e2%82%b921-5-cr-to-broaden-its-supplements-portfolio/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "traya-in-talks-to": {
+   "name": "Traya In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Mumbai-based customised haircare startup Traya is in talks to raise around ₹300 Cr (about $31 Mn) from Belgium-based investment firm…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "₹300",
+     "round": "",
+     "title": "Exclusive: Traya In Talks To Raise Around ₹300 Cr From Verlinvest",
+     "link": "https://inc42.com/buzz/exclusive-traya-in-talks-to-raise-around-%e2%82%b9300-cr-from-verlinvest/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "circle": {
+   "name": "Circle",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Pre-owned goods marketplace Circle has raised ₹25 Cr (about $2.6 Mn) in a seed funding round led by Nexus Venture…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "₹25",
+     "round": "Seed",
+     "title": "Circle Raises ₹25 Cr To Expand Its Pre-Owned Goods Marketplace Beyond Bengaluru",
+     "link": "https://inc42.com/buzz/circle-raises-%e2%82%b925-cr-to-expand-its-pre-owned-goods-marketplace-beyond-bengaluru/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "spill-games": {
+   "name": "Spill Games",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Mobile gaming studio Spill Games has raised $10.5 Mn (about ₹100 Cr) in a Series A round led by Elevation…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$10.5 Mn",
+     "round": "Series A",
+     "title": "Spill Games Raises $10.5 Mn To Scale AI-Led Mobile Gaming Studio",
+     "link": "https://inc42.com/buzz/spill-games-raises-10-5-mn-to-scale-ai-led-mobile-gaming-studio/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "revrag-ai": {
+   "name": "RevRag.AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Agentic AI startup RevRag.AI has raised $2.5 Mn (about ₹24 Cr) in a seed funding round led by Accion Ventures…",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$2.5 Mn",
+     "round": "Seed",
+     "title": "Agentic AI Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
+     "link": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "bia-health": {
+   "name": "Bia Health",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Startup claims its program can help clinicians make better diagnostic decisions. \n The post  Bia Health raises $2.15 million for AI to reduce unnecessary medical interventions  first appeared on  BetaKit .",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-14",
+   "last_seen": "2026-10-14",
+   "events": [
+    {
+     "date": "2026-10-14",
+     "amount": "$2.15 million",
+     "round": "",
+     "title": "Bia Health raises $2.15 million for AI to reduce unnecessary medical interventions",
+     "link": "https://betakit.com/bia-health-raises-2-15-million-for-ai-to-reduce-unnecessary-medical-interventions/",
+     "source": "BetaKit"
     }
    ]
   }
