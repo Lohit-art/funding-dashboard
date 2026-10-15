@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T17:46:40+00:00",
+ "updated": "2026-10-15T17:35:47+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -47287,13 +47287,13 @@
    "region": "Europe",
    "category": "Entrepreneurship",
    "sector": "E-commerce / Retail",
-   "is_ai": false,
+   "is_ai": true,
    "research_based": true,
-   "stage": "unspecified",
-   "summary": "Fashion manufacturing technology company Rodinia Generation has raised €4 million in a funding round led by Swiss-US venture fund Vitamin°C, with existing investors Climentum Capital and EIFO also participating. Rodinia has developed its patented O-FACTORY® technology for onshore",
+   "stage": "new",
+   "summary": "Copenhagen- and Berlin-based AI startup TODAY has raised €2.8 million in a seed round co-led by High-Tech Gründerfonds (HTGF) and Insurtech Gateway, with participation from SeedX, Lucid Capital, former HDI CEO Herbert Rogenhofer and Tech11 founder Pierre Dubosq. The company devel",
    "audience": "General / mixed",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08",
+   "last_seen": "2026-10-15",
    "events": [
     {
      "date": "2026-10-08",
@@ -47301,6 +47301,14 @@
      "round": "",
      "title": "Danish startup secures €4 million to scale tech-powered apparel manufacturing in Portugal",
      "link": "https://arcticstartup.com/rodinia-generation-raises-e4m/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-10-15",
+     "amount": "€2.8 million",
+     "round": "Seed",
+     "title": "Danish startup raises €2.8 million seed to expand AI platform for financial and insurance advisors",
+     "link": "https://arcticstartup.com/today-raises-e2-8m-seed/",
      "source": "ArcticStartup"
     }
    ]
@@ -49330,10 +49338,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Enterprise AI startup Parallel Loop has raised $6.6 Mn (about ₹63.1 Cr) in a seed funding round led by 3one4…",
+   "summary": "Parallel Loop has launched with $6.6 million in seed funding to help mid-market and large enterprises integrate artificial intelligence into existing technology systems, organizational workflows, and business processes. The round was led by 3one4 Capital, with participation from ",
    "audience": "Enterprises",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "events": [
     {
      "date": "2026-10-14",
@@ -49342,6 +49350,14 @@
      "title": "Parallel Loop Raises $6.6 Mn To Integrate AI Into Enterprise Workflows",
      "link": "https://inc42.com/buzz/parallel-loop-raises-6-6-mn-to-integrate-ai-into-enterprise-workflows/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-10-15",
+     "amount": "$6.6 Million",
+     "round": "Seed",
+     "title": "Parallel Loop Raises $6.6 Million Seed Led By 3one4 Capital To Scale Enterprise AI Transformation",
+     "link": "https://pulse2.com/parallel-loop-raises-6-6-million-seed-led-by-3one4-capital-to-scale-enterprise-ai-transformation/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -49486,6 +49502,574 @@
      "title": "Bia Health raises $2.15 million for AI to reduce unnecessary medical interventions",
      "link": "https://betakit.com/bia-health-raises-2-15-million-for-ai-to-reduce-unnecessary-medical-interventions/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "chariot": {
+   "name": "Chariot",
+   "country": "USA",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "New York-based Chariot Claims has raised $10 million in Series A funding led by Silverton Partners to help consumers pursue claims over alleged privacy violations, hidden fees and subscriptions that are difficult to cancel.",
+   "audience": "Consumers",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$10M",
+     "round": "Series A",
+     "title": "Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions",
+     "link": "https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "sprints": {
+   "name": "Sprints",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Sprints has announced the final close of Sprints V at its €725 million hard cap, with the growth-stage technology fund closing oversubscribed. \n The post  Sprints Closes €725 Million Fund V At Hard Cap  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "€725 Million",
+     "round": "Growth",
+     "title": "Sprints Closes €725 Million Fund V At Hard Cap",
+     "link": "https://pulse2.com/sprints-closes-e725-million-fund-v-at-hard-cap/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "skeleton-technologies": {
+   "name": "Skeleton Technologies",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Skeleton Technologies has secured a strategic nine-figure investment led by Siemens, bringing the high-power systems company's valuation to more than $1 billion and providing capital to expand its U.S. manufacturing and research operations. \n The post  Skeleton Technologies Secur",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$1 Billion",
+     "round": "",
+     "title": "Skeleton Technologies Secures Nine-Figure Investment Led By Siemens At $1 Billion-Plus Valuation",
+     "link": "https://pulse2.com/skeleton-technologies-secures-nine-figure-investment-led-by-siemens-at-1-billion-plus-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "rabot-energy": {
+   "name": "Rabot Energy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Rabot Energy, a provider of dynamic electricity tariffs,has raised $50 million in a Series B funding round to expand its technologyplatform and support its next phase of growth. The round was led by E...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "€50 Million",
+     "round": "Series B",
+     "title": "Rabot Energy Raises €50 Million Series B Led By Endeit And DeepTech & Climate Fund",
+     "link": "https://pulse2.com/rabot-energy-raises-e50-million-series-b-led-by-endeit-and-deeptech-climate-fund/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-10-15",
+     "amount": "$50M",
+     "round": "Series B",
+     "title": "Rabot Energy secures $50M to transform homes into a virtual power plant",
+     "link": "https://tech.eu/2026/10/15/rabot-energy-secures-50m-to-transform-homes-into-a-virtual-power-plant/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "olsaro": {
+   "name": "OlsAro",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "OlsAro has raised €5 million in seed funding to accelerate commercialization of SeedAX, its seed genetics platform designed to develop climate-resilient cereal varieties. \n The post  OlsAro Raises €5 Million Seed Led By Industrifonden To Scale Climate-Resilient Seed Genetics Plat",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "€5 Million",
+     "round": "Seed",
+     "title": "OlsAro Raises €5 Million Seed Led By Industrifonden To Scale Climate-Resilient Seed Genetics Platform",
+     "link": "https://pulse2.com/olsaro-raises-e5-million-seed-led-by-industrifonden-to-scale-climate-resilient-seed-genetics-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "carbonai": {
+   "name": "CarbonAI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "CarbonAI has raised $12 million in funding to expand its agentic AI platform for commercial real estate lending, helping lenders automate underwriting, due diligence, investment memo creation, and post-close loan monitoring. The round was led by Cowboy Ventures, with participatio",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$12 Million",
+     "round": "",
+     "title": "CarbonAI Raises $12 Million Led By Cowboy Ventures For AI-Powered Commercial Real Estate Lending",
+     "link": "https://pulse2.com/carbonai-raises-12-million-led-by-cowboy-ventures-for-ai-powered-commercial-real-estate-lending/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "stand": {
+   "name": "Stand",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Stand has raised $70 million in Series C funding at a $1 billion valuation as the insurance technology company expands its approach to protecting homes in areas exposed to natural disasters. The round was led by Saga Ventures, with participation from Lowercarbon, Eclipse, Equal V",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$70 Million",
+     "round": "Series C",
+     "title": "Stand Raises $70 Million Series C At $1 Billion Valuation Led By Saga Ventures",
+     "link": "https://pulse2.com/stand-raises-70-million-series-c-at-1-billion-valuation-led-by-saga-ventures/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aligned-climate-capital": {
+   "name": "Aligned Climate Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Aligned Climate Capital has secured approximately $387 million in construction-to-permanent financing for a 126-megawatt community solar portfolio comprising 20 projects across Illinois and Maryland. Apterra Infrastructure Capital, an affiliate of Apollo, led the financing. \n The",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$387 Million",
+     "round": "",
+     "title": "Aligned Climate Capital Secures $387 Million Financing Led By Apterra For 126 MW Community Solar Portfolio",
+     "link": "https://pulse2.com/aligned-climate-capital-secures-387-million-financing-led-by-apterra-for-126-mw-community-solar-portfolio/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "metabolize": {
+   "name": "Metabolize",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Metabolize has raised $3.2 million in seed financing to accelerate commercialization of its Precision Metabolite Technology and support the development, validation, and manufacturing of metabolic health products based on Stanford Medicine-originated research. The round was led by",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$3.2 Million",
+     "round": "Seed",
+     "title": "Metabolize Raises $3.2 Million Seed Led By Astanor For Precision Metabolite Technology",
+     "link": "https://pulse2.com/metabolize-raises-3-2-million-seed-led-by-astanor-for-precision-metabolite-technology/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "orbimed": {
+   "name": "OrbiMed",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "OrbiMed has raised $3 billion in commitments across two new private equity funds focused on healthcare and life sciences investments in the U.S., Europe, and Asia. \n The post  OrbiMed Raises $3 Billion Across Global And Asia Healthcare Funds  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$3 Billion",
+     "round": "",
+     "title": "OrbiMed Raises $3 Billion Across Global And Asia Healthcare Funds",
+     "link": "https://pulse2.com/orbimed-raises-3-billion-across-global-and-asia-healthcare-funds/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "elevatry": {
+   "name": "Elevatry",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Munich-based Elevatry, an AI ​​platform for strategic procurement, has closed a €3 million pre-Seed financing round in order to enhance its platform, expand its team, and support market entry in Europe before expanding to North America. Investors include Bayern Kapital, the manag",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "€3 million",
+     "round": "Pre-Seed",
+     "title": "German AI startup Elevatry secures €3 million to automate procurement workflows",
+     "link": "https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "italy-s-panake-s-partners-launches-8-5-million-investment-ve": {
+   "name": "Italy’s Panakès Partners launches €8.5 million investment ve",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Milan’s Panakès Partners has raised 8.5 million euros from Lombardia Venture STEP, the venture capital fund of funds promoted by the Lombardy Region in order to invest in companies that are active in life sciences, MedTech and BioTech sectors. Lombardia Venture STEP, financed by ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "€8.5 million",
+     "round": "",
+     "title": "Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech",
+     "link": "https://www.eu-startups.com/2026/10/italys-panakes-partners-launches-e8-5-million-investment-vehicle-targeting-lombardys-medtech-and-biotech-sectors/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "holo": {
+   "name": "Holo",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI marketing platform Holo has raised €5 million in a seed fundinground to further develop its marketing automation technology and reach moresmall businesses. The round was led by Market One Capital, ...",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "€5 million",
+     "round": "Seed",
+     "title": "Vilnius-based Holo raises €5 million to put marketing on autopilot for small businesses",
+     "link": "https://www.eu-startups.com/2026/10/vilnius-based-holo-raises-e5-million-to-put-marketing-on-autopilot-for-small-businesses/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-15",
+     "amount": "€5M",
+     "round": "Seed",
+     "title": "Vilnius-based Holo raises €5M to bring AI-powered marketing to small businesses",
+     "link": "https://tech.eu/2026/10/15/vilnius-based-holo-raises-eur5m-to-bring-ai-powered-marketing-to-small-businesses/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ai-native-engineering-firm-solvera": {
+   "name": "AI-native engineering firm Solvera",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Solvera, an Oslo-based company building an AI-native engineering firm for the construction industry, today announced a €5.62 million ($6.3 million) pre-Seed round.  The round was led by Seedcamp, with participation from Construct Venture, Inception Fund, Momentum, Obos Ventures, ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "€5.62 million",
+     "round": "Pre-Seed",
+     "title": "Oslo-based AI-native engineering firm Solvera raises €5.62 million pre-Seed after July 2026 launch",
+     "link": "https://www.eu-startups.com/2026/10/oslo-based-ai-native-engineering-firm-solvera-raises-e5-62-million-pre-seed-after-july-2026-launch/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "profitable-french-accounting-company-dougs": {
+   "name": "Profitable French accounting company Dougs",
+   "country": "France",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Dougs, a Lyon-based technology company delivering regulated accounting and financial management services to small businesses, has raised €50 million in funding. The funding came from Expedition Growth Capital, a growth equity firm with offices in London and Boston, backing rapidl",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "€50 million",
+     "round": "Growth",
+     "title": "Profitable French accounting company Dougs raises €50 million to accelerate AI automation",
+     "link": "https://www.eu-startups.com/2026/10/profitable-french-accounting-company-dougs-raises-e50-million-to-accelerate-ai-automation/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "matters-emerges-from-stealth-with-5m-in-pre-seed-funding-to": {
+   "name": "Matters emerges from stealth with $5M in pre-seed funding to",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "AI-powered personalfinance startup Matters has emerged from stealth with $5 million in pre-seedfunding to develop a consumer banking platform focused on helping users managetheir spending and increase...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$5M",
+     "round": "Pre-Seed",
+     "title": "Matters emerges from stealth with $5M in pre-seed funding to build AI-native consumer bank",
+     "link": "https://tech.eu/2026/10/15/matters-emerges-from-stealth-with-5m-in-pre-seed-funding-to-build-ai-native-consumer-bank/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "from-slush-to-sustainable-materials-ambio": {
+   "name": "From Slush to sustainable materials: Ambio",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Deep Tech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Helsinki-based startup Ambio has raised a €5.1 million seed round led by b2venture, with participation from Montis and existing investor Lifeline Ventures, to bring greater trust, reliability, and spe...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "€5.1M",
+     "round": "Seed",
+     "title": "From Slush to sustainable materials: Ambio raises €5.1M for AI-powered plastics procurement",
+     "link": "https://tech.eu/2026/10/15/from-slush-to-sustainable-materials-ambio-raises-eur51m-for-ai-powered-plastics-procurement/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "solvera": {
+   "name": "Solvera",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Oslo-based Solverahas raised $6.3 million in a pre-seed funding round to develop its AI-nativeengineering firm for the construction industry. The round was led by Seedcamp,with participation from Cons...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$6.3M",
+     "round": "Pre-Seed",
+     "title": "Solvera raises $6.3M to scale the AI-native engineering firm",
+     "link": "https://tech.eu/2026/10/15/solvera-raises-63m-to-scale-the-ai-native-engineering-firm/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "startup": {
+   "name": "startup",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Stockholm-based fintech startup Matters has emerged from stealth with a $5 million pre-seed round anchored by Swedish angel investor Jakob Johansson, alongside investors including former Klarna COO Knut Frängsmyr, Voi co-founder Douglas Stark, Röko CEO Johan Bladh, Validio CEO Pa",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$5 million",
+     "round": "Pre-Seed",
+     "title": "Swedish fintech startup secures $5 million pre-seed to build AI-powered consumer bank",
+     "link": "https://arcticstartup.com/matters-raises-5m-pre-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "confido-health": {
+   "name": "Confido Health",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "US-based AI healthtech startup Confido Health has raised $12.5 Mn (about ₹119 Cr) in a Series A extension led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$12.5 Mn",
+     "round": "Series A",
+     "title": "Confido Health Raises $12.5 Mn To Automate Healthcare Administration With AI",
+     "link": "https://inc42.com/buzz/confido-health-raises-12-5-mn-to-automate-healthcare-administration-with-ai/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "shamrock-ai": {
+   "name": "Shamrock AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Enterprise AI startup Shamrock AI has raised $5 Mn (about ₹47.4 Cr) in a seed funding round led by Endiya…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$5 Mn",
+     "round": "Seed",
+     "title": "Shamrock AI Bags $5 Mn To Help Enterprises Deploy AI Agents Reliably",
+     "link": "https://inc42.com/buzz/shamrock-ai-bags-5-mn-to-help-enterprises-deploy-ai-agents-reliably/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "molagri": {
+   "name": "Molagri",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Funding will support hiring more scientists and conducting field trials.  \n The post  Molagri raises $5.2-million USD seed round to bolster work on pesticides that “evolve”  first appeared on  BetaKit .",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$5.2",
+     "round": "Seed",
+     "title": "Molagri raises $5.2-million USD seed round to bolster work on pesticides that “evolve”",
+     "link": "https://betakit.com/molagri-raises-5-2-million-usd-seed-round-to-bolster-work-on-pesticides-that-evolve/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "before-vcs-a-university-writes-the-first-cheque": {
+   "name": "Before VCs, a university writes the first cheque",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "UNSW just out-hustled VCs with $1.6M for 16 pre-seed startups.",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$1.6M",
+     "round": "Pre-Seed",
+     "title": "Before VCs, a university writes the first cheque",
+     "link": "https://www.startupdaily.net/advice/investing/before-vcs-a-university-writes-the-first-cheque/",
+     "source": "Startup Daily"
     }
    ]
   }
