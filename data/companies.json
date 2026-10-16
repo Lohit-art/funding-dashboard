@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:35:47+00:00",
+ "updated": "2026-10-16T17:09:54+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -33274,10 +33274,10 @@
    "is_ai": false,
    "research_based": true,
    "stage": "established",
-   "summary": "ID Finance has secured €545 million in debt and equity funding from international investors Spice Expeditions, LP, Washington University Investment Management Company, Kingsway Capital, and i80 Group. The financing represents one of the largest transactions completed by a Spanish",
+   "summary": "This week, we tracked more than 65 tech funding deals worth over €1.8 billion and over 5 exits, M&A transactions, rumours, and related news stories across Europe.Europe has spent years talking abo...",
    "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-09-01",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-16",
    "events": [
     {
      "date": "2026-09-01",
@@ -33302,6 +33302,14 @@
      "title": "ID Finance Secures €545 Million In Debt And Equity Funding From International Investors",
      "link": "https://pulse2.com/id-finance-secures-e545-million-in-debt-and-equity-funding-from-international-investors/",
      "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-10-16",
+     "amount": "€545M",
+     "round": "",
+     "title": "ID Finance lands €545M, UK launches refugee-focused VC fund, and the race to save EU Inc",
+     "link": "https://tech.eu/2026/10/16/id-finance-lands-545m-uk-launches-refugee-focused-vc-fund-and-the-race-to-save-eu-inc/",
+     "source": "Tech.eu"
     }
    ]
   },
@@ -47993,11 +48001,11 @@
    "sector": "Climate / Energy",
    "is_ai": false,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "HyLight, the French startup specializing in aerial inspection of critical infrastructure using autonomous hydrogen-powered airships, has just raised €13 million from Rubio Impact Ventures, DRW and Teampact Ventures, joined by existing investors Y Combinator and Ring Capital. Foun",
+   "stage": "emerging",
+   "summary": "HyLight has raised €13 million in Series A funding to expand its aerial infrastructure inspection platform and increase its fleet to 15 HyLighters in operation by 2027. \n The post  HyLight Raises €13 Million Series A Led By Rubio Impact Ventures To Scale Infrastructure Inspection",
    "audience": "General / mixed",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-10-12",
+   "last_seen": "2026-10-15",
    "events": [
     {
      "date": "2026-10-12",
@@ -48006,6 +48014,14 @@
      "title": "HyLight raises €13 million for its autonomous airships inspecting Europe’s critical infrastructure",
      "link": "https://www.eu-startups.com/2026/10/hylight-raises-e13-million-for-its-autonomous-airships-inspecting-europes-critical-infrastructure/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-15",
+     "amount": "€13 Million",
+     "round": "Series A",
+     "title": "HyLight Raises €13 Million Series A Led By Rubio Impact Ventures To Scale Infrastructure Inspection Fleet",
+     "link": "https://pulse2.com/hylight-raises-e13-million-series-a-led-by-rubio-impact-ventures-to-scale-infrastructure-inspection-fleet/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -48585,11 +48601,11 @@
    "sector": "E-commerce / Retail",
    "is_ai": false,
    "research_based": false,
-   "stage": "new",
-   "summary": "Travel technology company ParkMundo has raised €2.3 millionin seed funding to expand its airport parking marketplace and B2B distributionplatform. The investment marks the company's first external fun...",
+   "stage": "established",
+   "summary": "ParkMundo has raised €2.3 million in funding to scale its consumer marketplace, expand its B2B partner ecosystem, and accelerate international growth. \n The post  ParkMundo Raises €2.3 Million To Accelerate International Expansion And B2B Airport Parking Platform  appeared first ",
    "audience": "Enterprises",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13",
+   "last_seen": "2026-10-15",
    "events": [
     {
      "date": "2026-10-13",
@@ -48598,6 +48614,14 @@
      "title": "ParkMundo raises €2.3M to connect airport parking with global travel platforms",
      "link": "https://tech.eu/2026/10/13/parkmundo-raises-eur23m-to-connect-airport-parking-with-global-travel-platforms/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-10-15",
+     "amount": "€2.3 Million",
+     "round": "Growth",
+     "title": "ParkMundo Raises €2.3 Million To Accelerate International Expansion And B2B Airport Parking Platform",
+     "link": "https://pulse2.com/parkmundo-raises-e2-3-million-to-accelerate-international-expansion-and-b2b-airport-parking-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -49642,10 +49666,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "CarbonAI has raised $12 million in funding to expand its agentic AI platform for commercial real estate lending, helping lenders automate underwriting, due diligence, investment memo creation, and post-close loan monitoring. The round was led by Cowboy Ventures, with participatio",
+   "summary": "CarbonAI has raised $12 million in funding to expand its agentic AI platform for commercial real estate lending, with the round led by Cowboy Ventures and participation from Timber Grove Ventures, Bling Capital, and Max Ventures. \n The post  CarbonAI Raises $12 Million Led By Cow",
    "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-16",
    "events": [
     {
      "date": "2026-10-15",
@@ -49653,6 +49677,14 @@
      "round": "",
      "title": "CarbonAI Raises $12 Million Led By Cowboy Ventures For AI-Powered Commercial Real Estate Lending",
      "link": "https://pulse2.com/carbonai-raises-12-million-led-by-cowboy-ventures-for-ai-powered-commercial-real-estate-lending/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-10-16",
+     "amount": "$12 Million",
+     "round": "",
+     "title": "CarbonAI Raises $12 Million Led By Cowboy Ventures For AI Agents In Commercial Real Estate Lending",
+     "link": "https://pulse2.com/carbonai-raises-12-million-led-by-cowboy-ventures-for-ai-agents-in-commercial-real-estate-lending/",
      "source": "Pulse 2.0"
     }
    ]
@@ -50070,6 +50102,422 @@
      "title": "Before VCs, a university writes the first cheque",
      "link": "https://www.startupdaily.net/advice/investing/before-vcs-a-university-writes-the-first-cheque/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "punch": {
+   "name": "Punch",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Punch has raised $2 million from returning investor Gutter Capital to expand its AI-powered construction intelligence platform, which connects construction field teams with project management, operations, and accounting workflows. \n The post  Punch Raises $2 Million From Gutter C",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "$2 Million",
+     "round": "",
+     "title": "Punch Raises $2 Million From Gutter Capital To Expand AI-Powered Construction Intelligence Platform",
+     "link": "https://pulse2.com/punch-raises-2-million-from-gutter-capital-to-expand-ai-powered-construction-intelligence-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "subeca": {
+   "name": "Subeca",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Subeca has raised approximately $3 million in additional funding to expand its smart water infrastructure platform and accelerate adoption among utilities and businesses across North America. \n The post  Subeca Raises About $3 Million Series A-2 Led By Burnt Island Ventures For S",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$3 Million",
+     "round": "Series A",
+     "title": "Subeca Raises About $3 Million Series A-2 Led By Burnt Island Ventures For Smart Water Metering",
+     "link": "https://pulse2.com/subeca-raises-about-3-million-series-a-2-led-by-burnt-island-ventures-for-smart-water-metering/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bioconsortia": {
+   "name": "BioConsortia",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "BioConsortia has secured a $15 million equity investment to accelerate the commercial expansion of its microbial technologies for agriculture, including its Zaffre biostimulant and Always N nitrogen-fixing seed treatment products. \n The post  BioConsortia Raises $15 Million To Ac",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$15 Million",
+     "round": "Seed",
+     "title": "BioConsortia Raises $15 Million To Accelerate Global Launch Of Zaffre And Always N",
+     "link": "https://pulse2.com/bioconsortia-raises-15-million-to-accelerate-global-launch-of-zaffre-and-always-n/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "oxford-spin-out-omass-therapeutics": {
+   "name": "Oxford spin-out OMass Therapeutics",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "OMass Therapeutics, a UK BioTech company developing small molecule therapeutics against highly validated target ecosystems, announced an oversubscribed €275 million (£230 million) Series C round. The round was co-led by new investors Bain Capital Life Sciences, Forbion and Novo H",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "€275 million",
+     "round": "Series C",
+     "title": "Oxford spin-out OMass Therapeutics lands €275 million to bring novel small-molecule therapies closer to patients",
+     "link": "https://www.eu-startups.com/2026/10/oxford-spin-out-omass-therapeutics-lands-e275-million-to-bring-novel-small-molecule-therapies-closer-to-patients/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "new-treatment-for-inflammatory-bowel-disease": {
+   "name": "New treatment for inflammatory bowel disease",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Microbiotica, a British clinical-stage biopharma company developing a pipeline of orally-dosed, precision microbiome medicines, today announces the first close of a €42 million (£36 million) Series C financing. The financing was led by British Business Bank, with participation fr",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "€42 million",
+     "round": "Series C",
+     "title": "New treatment for inflammatory bowel disease lands Microbiotica €42 million",
+     "link": "https://www.eu-startups.com/2026/10/new-treatment-for-inflammatory-bowel-disease-lands-microbiotica-e42-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "norwegian-open-banking-provider-neonomics": {
+   "name": "Norwegian open banking provider Neonomics",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Neonomics, the Norwegian full-stack open finance platform that provides financial data, intelligence, verification, and payment infrastructure to businesses across Europe, has raised €3.55 million ($4 million). The company said the funding came from existing shareholders but did ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "€3.56 million",
+     "round": "",
+     "title": "Norwegian open banking provider Neonomics secures €3.56 million after cutting operating costs by nearly half",
+     "link": "https://www.eu-startups.com/2026/10/norwegian-open-banking-provider-neonomics-secures-e3-56-million-after-cutting-operating-costs-by-nearly-half/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-unravel-health": {
+   "name": "London’s Unravel Health",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Unravel Health, a London-based startup developing technology to measure hormones at home daily, has raised €2.96 million (£2.5 million) to develop the Micro Lab, a palm-sized device that reads multiple hormones from a saliva sample in minutes. The round was led by Conduit EIS Imp",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "€2.96 million",
+     "round": "",
+     "title": "London’s Unravel Health raises €2.96 million to help women track hormones at home with a palm-sized lab",
+     "link": "https://www.eu-startups.com/2026/10/londons-unravel-health-raises-e2-96-million-to-help-women-track-hormones-at-home-with-a-palm-sized-lab/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "learnupon": {
+   "name": "LearnUpon",
+   "country": "Ireland",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "LearnUpon, a Dublin-based enterprise learning platform, has secured a €44.5 million ($50 million) growth financing facility. The financing came from Claret Capital Partners, a London-based independent growth debt fund manager, which has deployed over €1.5 billion across more than",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "€44.5 million",
+     "round": "Growth",
+     "title": "Dublin-based LearnUpon secures €44.5 million to scale its agentic learning platform",
+     "link": "https://www.eu-startups.com/2026/10/dublin-based-learnupon-secures-e44-5-million-to-scale-its-agentic-learning-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "strasbourg-founded-goodweek": {
+   "name": "Strasbourg-founded Goodweek",
+   "country": "France",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Goodweek, a Los Angeles-headquartered French startup positioning itself as a one-stop AI management platform for small and medium-sized businesses, has raised a €10.69 million ($12 million) Seed round. The funding round was led by Spanish venture capital firm Adara Ventures, whic",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "€10.69 million",
+     "round": "Seed",
+     "title": "Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager for SMBs",
+     "link": "https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "dj-reinier-zonneveld-launches-ai-music-startup-gaslab-with": {
+   "name": "DJ Reinier Zonneveld launches AI music startup GasLab with $",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "GasLab (Generative AI Solutions Lab), a GenAI music platform created by DJ and producer Reinier Zonneveld, is launched this week, backed by $1 million in pre-seed funding.  GasLab is on a mission to k...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "$1M",
+     "round": "Pre-Seed",
+     "title": "DJ Reinier Zonneveld launches AI music startup GasLab with $1M pre-seed funding",
+     "link": "https://tech.eu/2026/10/16/dj-reinier-zonneveld-launches-ai-music-startup-gaslab-with-1m-pre-seed-funding/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "norwegian-startup": {
+   "name": "Norwegian startup",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Oslo-based fintech Neonomics has secured $4 million in new funding from existing shareholders to support its next phase of growth following a strategic refocus that reduced its operating cost base by nearly 50%. The company provides open finance infrastructure, including financia",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "$6.3 million",
+     "round": "Pre-Seed",
+     "title": "Norwegian startup raises $6.3 million pre-seed round to build AI-native engineering firm",
+     "link": "https://arcticstartup.com/solvera-raises-6-3m/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-10-16",
+     "amount": "$4 million",
+     "round": "Growth",
+     "title": "Norwegian startup secures $4 million to scale open finance and financial data services",
+     "link": "https://arcticstartup.com/neonomics-raises-4m/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "lithuanian-startup": {
+   "name": "Lithuanian startup",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Vilnius-based AI marketing startup Holo has raised $5 million in a seed round led by Market One Capital, with participation from Silicon Gardens, FIRSTPICK, NGL Ventures, Tekton Ventures, Leonis Capital and angel investors. Holo provides an AI-powered marketing platform that gene",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "$5 million",
+     "round": "Seed",
+     "title": "Lithuanian startup raises $5 million seed to expand beyond AI-generated marketing content",
+     "link": "https://arcticstartup.com/holo-raises-5m-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "cult-fit": {
+   "name": "Cult.fit",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Markets regulator SEBI has given its go-ahead to gym chain Cult.fit’s ₹950 Cr IPO about three months after it filed…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "₹950",
+     "round": "",
+     "title": "Cult.fit Gets SEBI Clearance For ₹950 Cr+ IPO",
+     "link": "https://inc42.com/buzz/cult-fit-gets-sebi-clearance-for-%e2%82%b9950-cr-ipo/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "board-clears-plans-to": {
+   "name": "Board Clears Plans To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Urban Company’s board today approved a proposal to raise up to ₹2,500 Cr, alongside approving its financial performance for the…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "₹2,500",
+     "round": "",
+     "title": "Urban Company Board Clears Plans To Raise Up To ₹2,500 Cr",
+     "link": "https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "rapidcanvas": {
+   "name": "RapidCanvas",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Enterprise AI startup RapidCanvas has raised $29 Mn (about ₹280 Cr) in its Series B funding round led by Vertex…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "$29 Mn",
+     "round": "Series B",
+     "title": "Enterprise AI Startup RapidCanvas Nets $29 Mn To Expand GTM Teams",
+     "link": "https://inc42.com/buzz/enterprise-ai-startup-rapidcanvas-nets-29-mn-to-expand-gtm-teams/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "origin": {
+   "name": "Origin",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Emerging out of stealth mode, robotics startup Origin has raised $20 Mn (around ₹189 Cr) in a funding round co-led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "events": [
+    {
+     "date": "2026-10-15",
+     "amount": "$20 Mn",
+     "round": "",
+     "title": "Origin Bags $20 Mn To Build Autonomous Construction Robots",
+     "link": "https://inc42.com/buzz/origin-bags-20-mn-to-build-autonomous-construction-robots/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "mckinsey-alumni": {
+   "name": "McKinsey alumni",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Toronto’s Aerium has set out to build “the next Siemens of the world.” \n The post  McKinsey alumni raise $2.5 million USD to build AI for industrial manufacturers  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "events": [
+    {
+     "date": "2026-10-16",
+     "amount": "$2.5 million",
+     "round": "",
+     "title": "McKinsey alumni raise $2.5 million USD to build AI for industrial manufacturers",
+     "link": "https://betakit.com/mckinsey-alumni-raise-2-5-million-usd-to-build-ai-for-industrial-manufacturers/",
+     "source": "BetaKit"
     }
    ]
   }
