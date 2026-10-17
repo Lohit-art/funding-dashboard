@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T17:09:54+00:00",
+ "updated": "2026-10-17T16:08:17+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -50518,6 +50518,102 @@
      "title": "McKinsey alumni raise $2.5 million USD to build AI for industrial manufacturers",
      "link": "https://betakit.com/mckinsey-alumni-raise-2-5-million-usd-to-build-ai-for-industrial-manufacturers/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "gtcr-leads-200-million-second-lien-term-loan-for-sophos-ref": {
+   "name": "GTCR Leads $200 Million Second Lien Term Loan For Sophos Ref",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "GTCR has jointly led a $200 million investment in Sophos through a second-lien term loan raised in connection with the refinancing of the cybersecurity company's existing $2.45 billion first-lien term loan. \n The post  GTCR Leads $200 Million Second Lien Term Loan For Sophos Refi",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "events": [
+    {
+     "date": "2026-10-17",
+     "amount": "$200 Million",
+     "round": "",
+     "title": "GTCR Leads $200 Million Second Lien Term Loan For Sophos Refinancing",
+     "link": "https://pulse2.com/gtcr-leads-200-million-second-lien-term-loan-for-sophos-refinancing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "estuary-biotherapeutics-launches-with-103-million-to-develo": {
+   "name": "Estuary Biotherapeutics Launches With $103 Million To Develo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Estuary Biotherapeutics has launched with $103 million in committed financing to develop genetic medicines targeting serious kidney diseases, beginning with autosomal dominant polycystic kidney disease. The financing includes a $93 million Series A led by RA Capital Management wi",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "events": [
+    {
+     "date": "2026-10-17",
+     "amount": "$103 Million",
+     "round": "Series A",
+     "title": "Estuary Biotherapeutics Launches With $103 Million To Develop Gene Therapies For Kidney Disease",
+     "link": "https://pulse2.com/estuary-biotherapeutics-launches-with-103-million-to-develop-gene-therapies-for-kidney-disease/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "mueon": {
+   "name": "Mueon",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Mueon Corporation has raised $65 million in Series A funding to scale its Cubelets Exponential Computing Platform for AI and hyperscale infrastructure. Maverick Silicon led the round, with participation from Intel Capital, Geodesic Capital, Oregon Venture Fund, M-Ventures, Wellin",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "events": [
+    {
+     "date": "2026-10-17",
+     "amount": "$65 Million",
+     "round": "Series A",
+     "title": "Mueon Raises $65 Million Series A Led By Maverick Silicon To Scale Cubelets AI Computing Platform",
+     "link": "https://pulse2.com/mueon-raises-65-million-series-a-led-by-maverick-silicon-to-scale-cubelets-ai-computing-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fission": {
+   "name": "Fission",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Fission has raised $10 million in Series A funding to expand liquidity infrastructure for tokenized investment funds, with the round led by Pantera Capital. The financing also included participation from Circle Ventures, New Form, gumi Cryptos Capital, Borderless Capital and Ari ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "events": [
+    {
+     "date": "2026-10-17",
+     "amount": "$10 Million",
+     "round": "Series A",
+     "title": "Fission Raises $10 Million Series A Led By Pantera Capital For Tokenized Fund Liquidity",
+     "link": "https://pulse2.com/fission-raises-10-million-series-a-led-by-pantera-capital-for-tokenized-fund-liquidity/",
+     "source": "Pulse 2.0"
     }
    ]
   }
