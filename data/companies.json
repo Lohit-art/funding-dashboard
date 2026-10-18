@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T16:08:17+00:00",
+ "updated": "2026-10-18T16:20:34+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -50614,6 +50614,30 @@
      "title": "Fission Raises $10 Million Series A Led By Pantera Capital For Tokenized Fund Liquidity",
      "link": "https://pulse2.com/fission-raises-10-million-series-a-led-by-pantera-capital-for-tokenized-fund-liquidity/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "decoding-urban-company-s-2-500-cr-fundraise-proposal": {
+   "name": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
+   "country": "India",
+   "region": "Asia",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Listed home services major Urban Company’s board approved a proposal to raise up to ₹2,500 Cr yesterday, seeking to shore…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17",
+   "events": [
+    {
+     "date": "2026-10-17",
+     "amount": "₹2,500",
+     "round": "",
+     "title": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
+     "link": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
+     "source": "Inc42"
     }
    ]
   }
