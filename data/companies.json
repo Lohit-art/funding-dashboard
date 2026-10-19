@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:20:34+00:00",
+ "updated": "2026-10-19T19:00:26+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -49994,10 +49994,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Stockholm-based fintech startup Matters has emerged from stealth with a $5 million pre-seed round anchored by Swedish angel investor Jakob Johansson, alongside investors including former Klarna COO Knut Frängsmyr, Voi co-founder Douglas Stark, Röko CEO Johan Bladh, Validio CEO Pa",
+   "summary": "Norwegian audit firm Benford has raised €5 million in pre-seed funding in a round led by firstminute capital, Global Founders Capital and Sondo, with participation from industry entrepreneurs including HSO founder Peter ter Maaten, Pennylane co-founders Arthur Waller and Quentin ",
    "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-19",
    "events": [
     {
      "date": "2026-10-15",
@@ -50005,6 +50005,14 @@
      "round": "Pre-Seed",
      "title": "Swedish fintech startup secures $5 million pre-seed to build AI-powered consumer bank",
      "link": "https://arcticstartup.com/matters-raises-5m-pre-seed/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-10-19",
+     "amount": "€5 million",
+     "round": "Pre-Seed",
+     "title": "Norway-based startup secures €5 million pre-seed to expand tech-driven audit services across Europe",
+     "link": "https://arcticstartup.com/benford-raises-e5-m-pre-seed/",
      "source": "ArcticStartup"
     }
    ]
@@ -50638,6 +50646,614 @@
      "title": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
      "link": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chi": {
+   "name": "Tenstorrent hits $6.2B valuation to scale open-weight AI chi",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$6.2B",
+     "round": "",
+     "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+     "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "town": {
+   "name": "Town",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$108 million",
+     "round": "Series B",
+     "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+     "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "dream-labs": {
+   "name": "Dream Labs",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Dream Labs has raised $90 million in seed funding to develop general-purpose AI models designed to control a wide range of robots, while launching what the company describes as the first publicly available API for a robot foundation model. The funding round was led by B Capital a",
+   "audience": "Consumers",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$90 Million",
+     "round": "Seed",
+     "title": "Dream Labs Raises $90 Million Seed To Build Foundation Models For Everyday Robots",
+     "link": "https://pulse2.com/dream-labs-raises-90-million-seed-to-build-foundation-models-for-everyday-robots/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "clean-power-alliance": {
+   "name": "Clean Power Alliance",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Clean Power Alliance has closed its seventh energy prepayment bond transaction, a $1.4 billion financing expected to generate approximately $91.1 million in renewable energy cost savings during the bond’s initial seven-year period. \n The post  Clean Power Alliance Secures $1.4 Bi",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$1.4 Billion",
+     "round": "",
+     "title": "Clean Power Alliance Secures $1.4 Billion Prepay Bond To Generate $91.1 Million In Renewable Energy Savings",
+     "link": "https://pulse2.com/clean-power-alliance-secures-1-4-billion-prepay-bond-to-generate-91-1-million-in-renewable-energy-savings/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "zap-surgical": {
+   "name": "ZAP Surgical",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "ZAP Surgical Systems has secured $36 million in financing led by Catalio Capital Management, with continued support from Baheal, the company’s strategic partner in China. The funding will support the global expansion of ZAP’s non-invasive robotic brain surgery platform and contin",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$36 Million",
+     "round": "",
+     "title": "ZAP Surgical Raises $36 Million Led By Catalio Capital To Scale Non-Invasive Brain Surgery",
+     "link": "https://pulse2.com/zap-surgical-raises-36-million-led-by-catalio-capital-to-scale-non-invasive-brain-surgery/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "salmon": {
+   "name": "Salmon",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Salmon Group has secured $140 million in additional financing to accelerate the expansion of its technology-driven banking and lending platform in the Philippines. The financing consists of $90 million committed by Spice Expeditions, WashU, and Moore, along with $50 million in pr",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$140 Million",
+     "round": "",
+     "title": "Salmon Secures $140 Million To Expand Lending And Banking Products In The Philippines",
+     "link": "https://pulse2.com/salmon-secures-140-million-to-expand-lending-and-banking-products-in-the-philippines/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "turbine-capital": {
+   "name": "Turbine Capital",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Turbine Capital, a Swedish VC fund focused on early-stage DeepTech companies in the Nordics, announced the final close of its first fund at €54 million (SEK 608 million) and a new industrial investor. Mycronic joins the fund alongside Saab, Scania, Volvo Cars and Stena, as well a",
+   "audience": "Consumers",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "€54 million",
+     "round": "",
+     "title": "Turbine Capital closes €54 million DeepTech fund to connect Nordic startups with industrial leaders",
+     "link": "https://www.eu-startups.com/2026/10/turbine-capital-closes-e54-million-deeptech-fund-to-connect-nordic-startups-with-industrial-leaders/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "linkener": {
+   "name": "Linkener",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Energytechnology startup Linkener has raised €7.5 million in a funding round led byKlima Energy Transition Fund, Alantra’s energy transition fund, with existingshareholder GoHub Ventures remaining on ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "€7.5 million",
+     "round": "",
+     "title": "Valencia-based Linkener raises €7.5 million to digitise and optimise energy management for businesses",
+     "link": "https://www.eu-startups.com/2026/10/valencia-based-linkener-raises-e7-5-million-to-digitise-and-optimise-energy-management-for-businesses/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-19",
+     "amount": "€7.5M",
+     "round": "",
+     "title": "Linkener secures €7.5M to expand its energy management platform",
+     "link": "https://tech.eu/2026/10/19/linkener-secures-eur75m-to-expand-its-energy-management-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "spanish-vc-enzo-ventures-doubles-down-on-early-stage-startup": {
+   "name": "Spanish VC Enzo Ventures doubles down on early-stage startup",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Barcelona- and Madrid-based venture capital firm Enzo Ventures has announced the launch of Enzo Ventures II, a new €20 million fund aimed at backing technology startups founded by entrepreneurs from Southern Europe, regardless of where they choose to build their businesses. The f",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "€20 million",
+     "round": "Pre-Seed",
+     "title": "Spanish VC Enzo Ventures doubles down on early-stage startups with new €20 million fund",
+     "link": "https://www.eu-startups.com/2026/10/spanish-vc-enzo-ventures-doubles-down-on-early-stage-startups-with-new-e20-million-fund/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "bristol-s-siloton": {
+   "name": "Bristol’s Siloton",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Siloton, a Bristol-based MedTech startup specialising in miniaturised optical technology for medical imaging, has been awarded a €9.98 million (£8.4 million) contract to accelerate development of its handheld eye imaging system, which makes detecting and monitoring retinal diseas",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "€9.98 million",
+     "round": "",
+     "title": "Bristol’s Siloton wins €9.98 million Innovate UK contract to develop its handheld eye imaging system",
+     "link": "https://www.eu-startups.com/2026/10/bristols-siloton-wins-e9-98-million-innovate-uk-contract-to-develop-its-handheld-eye-imaging-system/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "switzerland-s-nouscom": {
+   "name": "Switzerland’s Nouscom",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Basel-based Nouscom, a clinical-stage, cancer interception focused BioTech developing next-generation immunotherapies, today announced the closing of an oversubscribed €120 million ($135 million) Series D financing to fund the advancement of an investigational off-the-shelf neoan",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "€120 million",
+     "round": "Series D",
+     "title": "Switzerland’s Nouscom bags €120 million to bring innovative cancer immunotherapy closer to clinical trials",
+     "link": "https://www.eu-startups.com/2026/10/switzerlands-nouscom-bags-e120-million-to-bring-innovative-cancer-immunotherapy-closer-to-clinical-trials/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "stockholm-s-vessla-exits-stealth-with-2-94-million-to-bring": {
+   "name": "Stockholm’s Vessla exits stealth with €2.94 million to bring",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Vessla, a Stockholm-based AI startup building an agentic operating system for real estate, has emerged from stealth with €2.94 million ($3.3 million) pre-Seed funding. The funding round was more than 2× oversubscribed and was led by Seedcamp. Other investors joining the round inc",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "€2.94 million",
+     "round": "Pre-Seed",
+     "title": "Stockholm’s Vessla exits stealth with €2.94 million to bring AI agents to property management",
+     "link": "https://www.eu-startups.com/2026/10/stockholms-vessla-exits-stealth-with-e2-94-million-to-bring-ai-agents-to-property-management/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "amsterdam-s-huppa": {
+   "name": "Amsterdam’s Huppa",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Huppa, an Amsterdam-based SportsTech startup offering an all-in-one platform for gyms, CrossFit boxes and studios, has secured €1 million in pre-Seed funding. The investment round was led by a group of seasoned entrepreneurs and investors, including the founders of Dutch tech com",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "€1 million",
+     "round": "Pre-Seed",
+     "title": "Amsterdam’s Huppa raises €1 million to build an operating system for class-based gyms and studios",
+     "link": "https://www.eu-startups.com/2026/10/amsterdams-huppa-raises-e1-million-to-build-an-operating-system-for-class-based-gyms-and-studios/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "enzo-ventures": {
+   "name": "Enzo Ventures",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Barcelona-based Enzo Ventures has closed its second fund, a €20m fund which is backing Southern European founders at the pre-seed stage.Fund II follows Enzo’s strategy it began in 2023, when it invest...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "€20M",
+     "round": "Pre-Seed",
+     "title": "Barcelona-based Enzo Ventures closes €20M Fund II backing Southern European founders",
+     "link": "https://tech.eu/2026/10/19/barcelona-based-enzo-ventures-closes-eur20m-fund-backing-southern-european-founders/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "vessla-exits-stealth-with-3-3m-to-bring-ai-agents-to-proper": {
+   "name": "Vessla exits stealth with $3.3M to bring AI agents to proper",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Stockholm-based AI startup Vesslahas emerged from stealth with a $3.3 million pre-seed funding round led bySeedcamp. Other participants included Inception Fund, Tiny VC, operators fromLovable and Open...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$3.3M",
+     "round": "Pre-Seed",
+     "title": "Vessla exits stealth with $3.3M to bring AI agents to property management",
+     "link": "https://tech.eu/2026/10/19/vessla-exits-stealth-with-33m-to-bring-ai-agents-to-property-management/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "miracly": {
+   "name": "Miracly",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Swedish AI marketing startup Miracly has launched with a $2 million pre-seed round led by Beenext Ventures and Lotus, alongside a Swedish family office and angel investors including Creandum founder Stefan Lindeberg, Deel CEO Alex Bouaziz, 6GAI founder Thomas Ekman, Lassie CEO He",
+   "audience": "Consumers",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$2 million",
+     "round": "Pre-Seed",
+     "title": "New Swedish startup Miracly raises funding to build an AI-powered alternative to traditional marketing agencies",
+     "link": "https://arcticstartup.com/miracly-raises-2m-pre-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "jio-platforms": {
+   "name": "Jio Platforms",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ahead of opening its public issue on Wednesday (October 19), telecom major Jio Platforms has raised ₹8,109.8 Cr from anchor…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "₹8,110",
+     "round": "",
+     "title": "Jio Platforms Raises About ₹8,110 Cr From Anchor Investors",
+     "link": "https://inc42.com/buzz/jio-platforms-raises-over-%e2%82%b98100-cr-from-anchor-investors/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-zetwerk-s-ipo": {
+   "name": "[Update] Zetwerk’s IPO",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | October 19, 2026 20:35 IST B2B manufacturing company Zetwerk’s ₹5,012.3 Cr IPO was oversubscribed 3.06X at the end…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "₹5,012",
+     "round": "",
+     "title": "[Update] Zetwerk’s IPO Closes With 3.06X  Subscription",
+     "link": "https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-tonbo-imaging-ipo": {
+   "name": "[Update] Tonbo Imaging IPO",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update| October 19, 18:30 IST Tonbo Imaging’s ₹852 Cr IPO closed with an oversubscription of 135.9X on the third and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "₹852",
+     "round": "",
+     "title": "[Update] Tonbo Imaging IPO Closes With 135.9X Oversubscription",
+     "link": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "hunar": {
+   "name": "Hunar",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hiring thousands of frontline workers (employees who directly provide goods and services to communities) across multiple cities is a coordination-heavy…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "₹40",
+     "round": "",
+     "title": "Hunar Raises ₹40 Cr To Scale Agentic AI For Frontline Hiring",
+     "link": "https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "even-healthcare": {
+   "name": "Even Healthcare",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Bengaluru-based managed care startup Even Healthcare has raised $50 Mn (about ₹475 Cr) in a Series B funding round led…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$50 Mn",
+     "round": "Series B",
+     "title": "Even Healthcare Raises $50 Mn To Expand Hospital Network Across Bengaluru",
+     "link": "https://inc42.com/buzz/even-healthcare-raises-50-mn-to-expand-hospital-network-across-bengaluru/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "the-pant-project": {
+   "name": "The Pant Project",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Menswear brand The Pant Project has raised ₹109 Cr (about $11.5 Mn) in a Series B funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "₹109",
+     "round": "Series B",
+     "title": "The Pant Project Raises ₹109 Cr To Expand Store Network & Portfolio",
+     "link": "https://inc42.com/buzz/the-pant-project-raises-%e2%82%b9109-cr-to-expand-store-network-portfolio/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "tenstorrent": {
+   "name": "Tenstorrent",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Entertainment & play",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Canadian-founded chipmaker is betting that the future of AI inference is open-source. \n The post  Tenstorrent secures $1.5 billion USD at $6.2-billion valuation to challenge GPU dominance  first appeared on  BetaKit .",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$1.5 billion",
+     "round": "",
+     "title": "Tenstorrent secures $1.5 billion USD at $6.2-billion valuation to challenge GPU dominance",
+     "link": "https://betakit.com/tenstorrent-secures-1-5-billion-usd-at-6-2-billion-valuation-to-challenge-gpu-dominance/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "rozvelt-built-a-high-tech-mask-for-hunters-defence-buyers-s": {
+   "name": "Rozvelt built a high-tech mask for hunters. Defence buyers s",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Montréal startup secures $3.1-million seed round on interest from defence players. \n The post  Rozvelt built a high-tech mask for hunters. Defence buyers see something bigger.  first appeared on  BetaKit .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$3.1",
+     "round": "Seed",
+     "title": "Rozvelt built a high-tech mask for hunters. Defence buyers see something bigger.",
+     "link": "https://betakit.com/rozvelt-built-a-high-tech-mask-for-hunters-defence-buyers-see-something-bigger/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "industrial-operational-intelligence-startup": {
+   "name": "Industrial operational intelligence startup",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Syncrowin grabs $3M to put AI in factories and cut breakdowns and waste before they bite.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$3 million",
+     "round": "Pre-Seed",
+     "title": "Industrial operational intelligence startup raises $3 million pre-seed",
+     "link": "https://www.startupdaily.net/topic/funding/ai-factory-maintenance-startup-syncrowin-bags-3-million-pre-seed/",
+     "source": "Startup Daily"
     }
    ]
   }
