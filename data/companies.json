@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:00:26+00:00",
+ "updated": "2026-10-20T17:46:21+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -31914,10 +31914,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "established",
-   "summary": "GenNx360 Capital Partners has closed its fourth flagship fund with $865 million in commitments, exceeding its target and marking the largest fundraise in the private equity firm's history. \n The post  GenNx360 Capital Partners Closes Record $865 Million Fund IV As Realizations To",
+   "summary": "GenNx360 Capital Partners has closed a single-asset continuation fund for Whitsons Culinary Group with approximately $285 million in total equity commitments. \n The post  GenNx360 Capital Partners Closes $285 Million Continuation Fund For Whitsons Culinary Group  appeared first o",
    "audience": "General / mixed",
    "first_seen": "2026-08-27",
-   "last_seen": "2026-08-27",
+   "last_seen": "2026-10-20",
    "events": [
     {
      "date": "2026-08-27",
@@ -31925,6 +31925,14 @@
      "round": "",
      "title": "GenNx360 Capital Partners Closes Record $865 Million Fund IV As Realizations Top $2 Billion In 2.5 Years",
      "link": "https://pulse2.com/gennx360-capital-partners-closes-record-865-million-fund-iv-as-realizations-top-2-billion-in-2-5-years/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-10-20",
+     "amount": "$285 Million",
+     "round": "",
+     "title": "GenNx360 Capital Partners Closes $285 Million Continuation Fund For Whitsons Culinary Group",
+     "link": "https://pulse2.com/gennx360-capital-partners-closes-285-million-continuation-fund-for-whitsons-culinary-group/",
      "source": "Pulse 2.0"
     }
    ]
@@ -47298,10 +47306,10 @@
    "is_ai": true,
    "research_based": true,
    "stage": "new",
-   "summary": "Copenhagen- and Berlin-based AI startup TODAY has raised €2.8 million in a seed round co-led by High-Tech Gründerfonds (HTGF) and Insurtech Gateway, with participation from SeedX, Lucid Capital, former HDI CEO Herbert Rogenhofer and Tech11 founder Pierre Dubosq. The company devel",
-   "audience": "General / mixed",
+   "summary": "Copenhagen-based startup Plinto has raised €2.9 million in pre-seed funding from People Ventures, Emblem and a group of business angels to develop its AI-powered financial controlling platform. Founded in 2025, the company builds AI agents that integrate with businesses’ existing",
+   "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-20",
    "events": [
     {
      "date": "2026-10-08",
@@ -47317,6 +47325,14 @@
      "round": "Seed",
      "title": "Danish startup raises €2.8 million seed to expand AI platform for financial and insurance advisors",
      "link": "https://arcticstartup.com/today-raises-e2-8m-seed/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-10-20",
+     "amount": "€2.9 million",
+     "round": "Pre-Seed",
+     "title": "Danish startup secures €2.9 million pre-seed to automate invoice checks and prevent duplicate payments",
+     "link": "https://arcticstartup.com/plinto-raises-e2-9-million/",
      "source": "ArcticStartup"
     }
    ]
@@ -50026,10 +50042,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "US-based AI healthtech startup Confido Health has raised $12.5 Mn (about ₹119 Cr) in a Series A extension led by…",
+   "summary": "Confido Health has expanded its Series A funding to $22.5 million as the company scales CareOS, its agentic AI operations platform for healthcare organizations. The latest financing includes a new $12.5 million extension led by Z47, formerly Matrix Partners India. Healthcare priv",
    "audience": "General / mixed",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15",
+   "last_seen": "2026-10-20",
    "events": [
     {
      "date": "2026-10-15",
@@ -50038,6 +50054,14 @@
      "title": "Confido Health Raises $12.5 Mn To Automate Healthcare Administration With AI",
      "link": "https://inc42.com/buzz/confido-health-raises-12-5-mn-to-automate-healthcare-administration-with-ai/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-10-20",
+     "amount": "$22.5 Million",
+     "round": "Series A",
+     "title": "Confido Health Raises Series A Funding To $22.5 Million To Expand Agentic Healthcare Operations Platform",
+     "link": "https://pulse2.com/confido-health-raises-series-a-funding-to-22-5-million-to-expand-agentic-healthcare-operations-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -51254,6 +51278,486 @@
      "title": "Industrial operational intelligence startup raises $3 million pre-seed",
      "link": "https://www.startupdaily.net/topic/funding/ai-factory-maintenance-startup-syncrowin-bags-3-million-pre-seed/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "inspired-capital": {
+   "name": "Inspired Capital",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The raise comes as venture dollars pile up on the West Coast.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "$450M",
+     "round": "",
+     "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
+     "link": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "funding-fell-21-in-q3-as-deals-grew-scarcer": {
+   "name": "Funding Fell 21% In Q3 As Deals Grew Scarcer",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "All told, fintech startups raised $10.6 billion globally in the third quarter of 2026, down 28.4% from $14.9 billion in Q2 2026 and 21.4% from $13.5 billion in Q3 2025.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "$10.6 billion",
+     "round": "",
+     "title": "Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer",
+     "link": "https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "smartcentres": {
+   "name": "SmartCentres",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "SmartCentres Real Estate Investment Trust has closed $450 million in senior unsecured debenture financing, consisting of an additional $150 million of its Series AC debentures and a new $300 million Series AE issuance. \n The post  SmartCentres Closes $450 Million Senior Unsecured",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "$450 Million",
+     "round": "",
+     "title": "SmartCentres Closes $450 Million Senior Unsecured Debenture Financing",
+     "link": "https://pulse2.com/smartcentres-closes-450-million-senior-unsecured-debenture-financing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "terra": {
+   "name": "Terra",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Terra has secured a $183.75 million loan from Monroe Capital's Real Estate Platform to refinance The Offices at THE WELL Bay Harbor Islands, the recently completed Class A office component of Terra's wellness-focused mixed-use development in South Florida.  \n The post  Terra Secu",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "$183.75 Million",
+     "round": "",
+     "title": "Terra Secures $183.75 Million Refinancing From Monroe Capital For The Offices At THE WELL Bay Harbor Islands",
+     "link": "https://pulse2.com/terra-secures-183-75-million-refinancing-from-monroe-capital-for-the-offices-at-the-well-bay-harbor-islands/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ez-bombs": {
+   "name": "EZ Bombs",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "EZ Bombs has raised a $25 million Series A funding round led by CAVU Consumer Partners as the family-founded food company expands its Seasoning Bomb products across major U.S. retailers. \n The post  EZ Bombs Raises $25 Million Series A Led By CAVU Consumer Partners  appeared firs",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "$25 Million",
+     "round": "Series A",
+     "title": "EZ Bombs Raises $25 Million Series A Led By CAVU Consumer Partners",
+     "link": "https://pulse2.com/ez-bombs-raises-25-million-series-a-led-by-cavu-consumer-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "rhino-usa": {
+   "name": "Rhino USA",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Rhino USA has closed a $15 million asset-backed loan facility with Texas Capital to support inventory investment, working capital optimization, and continued expansion across national retail, e-commerce, and international markets. \n The post  Rhino USA Secures $15 Million Asset-B",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "$15 Million",
+     "round": "",
+     "title": "Rhino USA Secures $15 Million Asset-Backed Facility From Texas Capital",
+     "link": "https://pulse2.com/rhino-usa-secures-15-million-asset-backed-facility-from-texas-capital/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "transport-for-biological-material-helps-cellbox": {
+   "name": "Transport for biological material helps Cellbox",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Cellbox Solutions, a German warm-chain logistics technology company, has completed the final closing of its Series A financing, bringing the total to €5 million – the company will develop its business model and expand its offering to include integrated logistics solutions for sen",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "€5 million",
+     "round": "Series A",
+     "title": "Transport for biological material helps Cellbox raise a €5 million Series A",
+     "link": "https://www.eu-startups.com/2026/10/container-for-biological-material-helps-cellbox-raise-a-e5-million-series-a/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "espoo-s-coherence-quantum": {
+   "name": "Espoo’s Coherence Quantum",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Coherence Quantum, an Espoo-based quantum hardware company developing an integrated cryogenic signalling and control platform for future quantum computers, has raised €2.78 million in Seed funding to develop a new approach to the cryogenic infrastructure surrounding solid-state q",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "€2.78 million",
+     "round": "Seed",
+     "title": "Espoo’s Coherence Quantum raises €2.78 million to build infrastructure for larger quantum computers",
+     "link": "https://www.eu-startups.com/2026/10/espoo-based-coherence-quantum-raises-e2-78-million-to-build-infrastructure-for-larger-quantum-computers/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-emerald": {
+   "name": "London’s Emerald",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Emerald, a London-based preventive healthcare platform, has secured an additional €1.66 million (£1.4 million/$1.85 million) in funding. This brings the company’s total funding to date to €3.44 million (£2.9 million). The latest funding includes an €832.2k (£700k) grant from Inno",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "€1.66 million",
+     "round": "Grant",
+     "title": "London’s Emerald secures €1.66 million to scale its preventive healthcare platform",
+     "link": "https://www.eu-startups.com/2026/10/londons-emerald-secures-e1-66-million-to-scale-its-preventive-healthcare-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "surgical-intelligence-company-xrlabs": {
+   "name": "“Surgical Intelligence” company XRlabs",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "XRlabs, the London-based Surgical Intelligence company built by surgeons for surgeons, has raised €7.48 million ($8.4 million) in Seed funding. The round was led by Playground Global, the DeepTech-focused venture firm based in Palo Alto, with participation from London-based Healt",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "€7.48 million",
+     "round": "Seed",
+     "title": "London-based “Surgical Intelligence” company XRlabs raises €7.48 million to bring AI into the operating room",
+     "link": "https://www.eu-startups.com/2026/10/london-based-surgical-intelligence-company-xrlabs-raises-e7-48-million-to-bring-ai-into-the-operating-room/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "copenhagen-s-plinto": {
+   "name": "Copenhagen’s Plinto",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Plinto, a Copenhagen-based startup building AI for real-time controlling, has secured €2.9 million in pre-Seed funding. The round was led by People Ventures and Emblem, with participation from a group of business angels.  “Companies have systems that record every single transacti",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "€2.9 million",
+     "round": "Pre-Seed",
+     "title": "Copenhagen’s Plinto raises €2.9 million to help finance teams catch and fix errors with AI agents",
+     "link": "https://www.eu-startups.com/2026/10/copenhagens-plinto-raises-e2-9-million-to-help-finance-teams-catch-and-fix-errors-with-ai-agents/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-c": {
+   "name": "Daytona hits $1B valuation with $60M Series B for AI agent c",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Daytona, a companydeveloping cloud infrastructure for AI agents, has raised $60 million in aSeries B funding round at a $1 billion valuation, bringing its total funding to$91 million. The round was le...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "$1B",
+     "round": "Series B",
+     "title": "Daytona hits $1B valuation with $60M Series B for AI agent cloud",
+     "link": "https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "coherence-quantum": {
+   "name": "Coherence Quantum",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Finnish quantumhardware startup Coherence Quantum has raised €2.78 million in a seed fundinground to develop its cryogenic signalling and control technology for quantumcomputers. The round was led by ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "€2.78M",
+     "round": "Seed",
+     "title": "Coherence Quantum raises €2.78M to tackle quantum computer scaling challenges",
+     "link": "https://tech.eu/2026/10/20/coherence-quantum-raises-eur278m-to-tackle-quantum-computer-scaling-challenges/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "blackwall-hits-2-2b-valuation-with-100m-series-c-just-week": {
+   "name": "Blackwall hits $2.2B valuation with $100M Series C just week",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Web traffic management platform Blackwall today announced it has raised $100 million in Series C at a valuation of $2.2 billion.Last month it was reported that Blackwall reached a €1 billion valuation...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "$2.2B",
+     "round": "Series C",
+     "title": "Blackwall hits $2.2B valuation with $100M Series C just weeks after joining Estonia's unicorn club",
+     "link": "https://tech.eu/2026/10/20/blackwall-hits-2-2b-valuation-with-100m-series-c-just-weeks-after-joining-estonia-s-unicorn-club/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "ganiga": {
+   "name": "Ganiga",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Italian deeptech startupGaniga has raised €1.5 million in an equity funding round to further developits AI-powered waste management technology and support commercial expansion.The round was led by Ita...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "€2.5M",
+     "round": "",
+     "title": "Ganiga secures €2.5M to expand its AI-powered food waste technology",
+     "link": "https://tech.eu/2026/10/20/ganiga-secures-eur25m-to-expand-its-ai-powered-food-waste-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "plinto": {
+   "name": "Plinto",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Copenhagen-basedAI startup Plinto has raised €2.9 million in a funding round from People Ventures and Emblem to further develop its AI-powered financial transactionmonitoring platform, expand its ente...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "€2.9M",
+     "round": "",
+     "title": "Danish startup Plinto raises €2.9M to streamline financial controls",
+     "link": "https://tech.eu/2026/10/20/danish-startup-plinto-raises-eur29m-to-streamline-financial-controls/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "novus": {
+   "name": "NOVUS",
+   "country": "USA",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Mobility company NOVUS has closed a double-digit million funding round, led by Berlin- and San Francisco-based venture capital firm 468 Capital. The NOVUS One is a lightweight electric two-wheeler tha...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "",
+     "round": "",
+     "title": "NOVUS secures eight-figure funding to take its electric Lightbike from Germany to California",
+     "link": "https://tech.eu/2026/10/19/novus-secures-eight-figure-funding-to-take-its-electric-lightbike-from-germany-to-california/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "lumilab": {
+   "name": "Lumilab",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Copenhagen-based energy technology startup Lumilab has raised a pre-seed funding round led by Giant Ventures, with participation from GANNI founder Nicolaj Reffstrup, former Danish minister and entrepreneur Tommy Ahlers, and former NVIDIA Senior Director Thomas Skov Reunert. Spun",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Danish startup Lumilab raises pre-seed funding to automate energy infrastructure operations",
+     "link": "https://arcticstartup.com/lumilab-raises-pre-seed-funding/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "reaction-dynamics-plans-rapid-expansion-to-launch-new-medium": {
+   "name": "Reaction Dynamics plans rapid expansion to launch new medium",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Longueuil, Que.-based rocket maker plans to raise $350 million CAD, add nearly 300 employees in the next five years. \n The post  Reaction Dynamics plans rapid expansion to launch new medium-lift rocket by 2031  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
+   "events": [
+    {
+     "date": "2026-10-20",
+     "amount": "$350 million",
+     "round": "",
+     "title": "Reaction Dynamics plans rapid expansion to launch new medium-lift rocket by 2031",
+     "link": "https://betakit.com/reaction-dynamics-plans-rapid-expansion-to-launch-new-medium-lift-rocket-by-2031/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "inovia": {
+   "name": "Inovia",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Fund VI will be Inovia’s “first completely AI-native fund” and focus on frontier tech. \n The post  Inovia secures $200-million USD first close for sixth early-stage VC fund  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "events": [
+    {
+     "date": "2026-10-19",
+     "amount": "$200",
+     "round": "",
+     "title": "Inovia secures $200-million USD first close for sixth early-stage VC fund",
+     "link": "https://betakit.com/inovia-secures-200-million-usd-first-close-for-sixth-early-stage-vc-fund/",
+     "source": "BetaKit"
     }
    ]
   }
