@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:46:21+00:00",
+ "updated": "2026-10-21T17:54:12+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -51757,6 +51757,478 @@
      "round": "",
      "title": "Inovia secures $200-million USD first close for sixth early-stage VC fund",
      "link": "https://betakit.com/inovia-secures-200-million-usd-first-close-for-sixth-early-stage-vc-fund/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "valuation-after-sequoia-leads-series-c": {
+   "name": "valuation after Sequoia leads Series C",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$66 million",
+     "round": "Series C",
+     "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+     "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "foursquare-co-founder-says-equity-holders-saw-no-returns-fro": {
+   "name": "Foursquare co-founder says equity holders saw no returns fro",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$411 million",
+     "round": "",
+     "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+     "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "there-s-no-stopping-legora-489-million-for-stockholm-s-le": {
+   "name": "There’s no stopping Legora – €489 million for Stockholm’s Le",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Legora, the Swedish agentic operating system for legal professionals, today announced it has raised a €489 million ($550 million) Series E at an €7.8 bilion ($8.8 billion) post-money valuation in order to continue its international expansion and double down on the Legora aOS. The",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "€489 million",
+     "round": "Series E",
+     "title": "There’s no stopping Legora – €489 million for Stockholm’s LegalTech Unicorn",
+     "link": "https://www.eu-startups.com/2026/10/theres-no-stopping-legora-e489-million-for-stockholms-legaltech-unicorn/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "photon-bridge": {
+   "name": "Photon Bridge",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Creative expression",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Dutch photonics company  Photon Bridge has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "€10 million",
+     "round": "Bridge",
+     "title": "Eindhoven-based Photon Bridge raises €10 million to build optical engines for AI and telecom",
+     "link": "https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-21",
+     "amount": "€10M",
+     "round": "Bridge",
+     "title": "Dutch photonics startup Photon Bridge raises €10M to tackle AI's looming laser bottleneck",
+     "link": "https://tech.eu/2026/10/21/dutch-photonics-startup-photon-bridge-raises-eur10m-to-tackle-ais-looming-laser-bottleneck/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "britain-s-skyfly": {
+   "name": "Britain’s Skyfly",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Skyfly Technologies, a British developer of electric and hybrid-electric vertical take-off aircraft, has closed an €8.91 million ($10 million) Seed round. The round was led by HICO Investment Group, a specialist growth equity investor, with participation from Archangel, a €50 mil",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "€8.91 million",
+     "round": "Seed",
+     "title": "Britain’s Skyfly raises €8.91 million to bring its two-seat Axe eVTOL to market and develop Longbow for defence",
+     "link": "https://www.eu-startups.com/2026/10/britains-skyfly-raises-e8-91-million-to-bring-its-two-seat-axe-evtol-to-market-and-develop-longbow-for-defence/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "sennder-targets-1-billion-in-annual-revenue-as-c-h-robinso": {
+   "name": "sennder targets €1 billion in annual revenue as C.H. Robinso",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "sennder, a German digital road freight forwarder, today announced that it will hit €1 billion in annual revenue for this year, as well as completing the integration of C.H. Robinson’s European operations. The delivery scale-up has raised over €340 million in funding and is now on",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "€1 billion",
+     "round": "",
+     "title": "FreightTech unicorn sennder targets €1 billion in annual revenue as C.H. Robinson integration completes",
+     "link": "https://www.eu-startups.com/2026/10/freighttech-unicorn-sennder-targets-e1-billion-in-annual-revenue-as-c-h-robinson-integration-completes/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "ygo": {
+   "name": "YGO",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "YGO, a company developing anAI-powered platform connecting travel companies with airlines, hotels and touroperators, has raised €8 million in a Series A funding round led by Ventech,with participation...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "€8 million",
+     "round": "Series A",
+     "title": "Berlin-based YGO raises €8 million to make travel inventory bookable through AI agents",
+     "link": "https://www.eu-startups.com/2026/10/berlin-based-ygo-raises-e8-million-to-make-travel-inventory-bookable-through-ai-agents/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-21",
+     "amount": "€8M",
+     "round": "Series A",
+     "title": "YGO secures €8M to scale its AI-powered travel infrastructure",
+     "link": "https://tech.eu/2026/10/21/ygo-secures-eur8m-to-scale-its-ai-powered-travel-infrastructure/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "former-international-boxer-s-legaltech-startup-estatemin": {
+   "name": "Former international boxer’s LegalTech startup EstateMin",
+   "country": "Ireland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "EstateMin, an Irish-founded LegalTech startup helping trust and estate law firms manage estate values with its AI-powered platform, has secured €1 million in pre-Seed funding. The funding round saw participation from NDRC, First Port Syndicate, and Enterprise Ireland, which inves",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "€1 million",
+     "round": "Pre-Seed",
+     "title": "Former international boxer’s LegalTech startup EstateMin raises €1 million to scale in the US",
+     "link": "https://www.eu-startups.com/2026/10/former-international-boxers-legaltech-startup-estatemin-raises-e1-million-to-scale-in-the-us/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "legora-s-valuation-leaps-to-8-8bn-as": {
+   "name": "Legora’s valuation leaps to $8.8BN as",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Swedish legal AI outfit Legora today said it has raised $550 million at an $8.8bn valuation, just six months after completing its last funding round.The Series E funding round was led by Boston-based ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$8.8BN",
+     "round": "Series E",
+     "title": "Legora’s valuation leaps to $8.8BN as raises $550M",
+     "link": "https://tech.eu/2026/10/21/legoras-valuation-leaps-to-88bn-as-raises-550m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "mika-games": {
+   "name": "Mika Games",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Entertainment & play",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Mika Games, a gaminginvestment company founded by Wargaming co-founder Nick Katselapov, has raised$10 million in a funding round led by Flint Capital, with participation fromseveral new and existing i...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$10M",
+     "round": "",
+     "title": "Mika Games gets $10M boost to support mobile game developers",
+     "link": "https://tech.eu/2026/10/21/mika-games-gets-10m-boost-to-support-mobile-game-developers/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "opply": {
+   "name": "Opply",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Opply,a company developing an AI-powered operating platform for consumer packagedgoods (CPG) brands, has raised $7.5 million in a funding round led by Chalfen Ventures, with participation from Index V...",
+   "audience": "Consumers",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$7.5M",
+     "round": "",
+     "title": "Opply raises $7.5M to expand its agentic AI platform for CPG brands",
+     "link": "https://tech.eu/2026/10/21/opply-raises-75m-to-expand-its-agentic-ai-platform-for-cpg-brands/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "go-eve": {
+   "name": "Go Eve",
+   "country": "Ireland",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Go Eve,a joint spin-out from University College Dublin (UCD) and Imperial CollegeLondon, has secured £750,000 in funding from Innovate UK and private investorsto further develop its electric vehicle (...",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "£750K",
+     "round": "",
+     "title": "Go Eve secures £750K to advance its DockChain EV charging technology",
+     "link": "https://tech.eu/2026/10/21/go-eve-secures-ps750k-to-advance-its-dockchain-ev-charging-technology/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "europe-fund-leads-250m-funding-round-in-pigment": {
+   "name": "Europe Fund leads $250M funding round in Pigment",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "French enterprise software startup Pigment has raised $250m at a $2.3bn valuation, it said today, in a funding round led by the EU's new €5bn ($5.6bn) investment fund aimed at scaling up future Europe...",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$250M",
+     "round": "",
+     "title": "Scaleup Europe Fund leads $250M funding round in Pigment",
+     "link": "https://tech.eu/2026/10/21/scaleup-europe-fund-leads-ps250m-funding-round-in-pigment/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "rulen": {
+   "name": "Rulen",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Italian AI startup Rulen (formerly LexSA) has raised€1.8 million in its first funding round to further develop its AI-poweredplatform for the tax and accounting sector and support its commercialexpans...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "€1.8M",
+     "round": "",
+     "title": "Rulen secures €1.8M to turn tax rules into action with AI",
+     "link": "https://tech.eu/2026/10/21/rulen-secures-eur18m-to-turn-tax-rules-into-action-with-ai/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "jenz": {
+   "name": "Jenz",
+   "country": "Norway",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Norwegian AI startup Jenz has raised€540,000 in pre-seed funding from Antler and Ada Ventures. The company has alsoreceived a NOK 1 million (€92,000) startup grant from Innovation Norway.Founded by Re...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "€540K",
+     "round": "Pre-Seed",
+     "title": "Jenz lands €540K four months after hackathon win to streamline retail operations",
+     "link": "https://tech.eu/2026/10/21/jenz-lands-eur540k-four-months-after-hackathon-win-to-streamline-retail-operations/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "backingminds": {
+   "name": "BackingMinds",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swedish venture capital firm BackingMinds has raised €50 million in the first close of its third fund, BackingMinds Invest III, with the European Investment Fund (EIF) contributing €20 million as the anchor investor. The fund plans to invest in around 20 early-stage companies, fo",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "€50 million",
+     "round": "",
+     "title": "BackingMinds raises €50 million in first close of third fund to invest in Nordic startups",
+     "link": "https://arcticstartup.com/backingminds-raises-e50-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "blacksmith": {
+   "name": "Blacksmith",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "San Francisco-based AI code testing startup Blacksmith has raised $66 Mn in a Series C funding round led by Sequoia…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$66 Mn",
+     "round": "Series C",
+     "title": "Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation",
+     "link": "https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "auxoai": {
+   "name": "AuxoAI",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "San Francisco-based enterprise AI startup AuxoAI has raised $20.7 Mn (over ₹195 Cr) in a Series A funding round led…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$20.7M",
+     "round": "Series A",
+     "title": "Enterprise AI Startup AuxoAI Nets $20.7M To Strengthen Its FDE Team",
+     "link": "https://inc42.com/buzz/enterprise-ai-startup-auxoai-nets-20-7m-to-strengthen-its-fde-team/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "live-event-marketing-tech-startup-hive-brings-on-frontier-gr": {
+   "name": "Live event marketing tech startup Hive brings on Frontier Gr",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Kitchener-Waterloo software firm says majority secondary $27-million USD round “isn’t a venture investment.” \n The post  Live event marketing tech startup Hive brings on Frontier Growth with Series B  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$27",
+     "round": "Growth",
+     "title": "Live event marketing tech startup Hive brings on Frontier Growth with Series B",
+     "link": "https://betakit.com/live-event-marketing-tech-startup-hive-brings-on-frontier-growth-with-series-b/",
      "source": "BetaKit"
     }
    ]
