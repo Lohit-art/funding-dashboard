@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T17:54:12+00:00",
+ "updated": "2026-10-22T17:50:59+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -31338,10 +31338,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "established",
-   "summary": "Nebius Group has closed a $5.75 billion private offering of convertible senior notes, providing the AI cloud infrastructure company with additional capital to expand its data center footprint, build out computing infrastructure, and acquire GPUs. \n The post  Nebius Raises $5.75 B",
-   "audience": "General / mixed",
+   "summary": "Nebius Group has secured a $3.5 billion senior secured financing facility from Citi to support the continued expansion of its global AI infrastructure footprint. The 364-day facility will provide additional capital for data center development, GPU procurement, and general corpora",
+   "audience": "Enterprises",
    "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
+   "last_seen": "2026-10-22",
    "events": [
     {
      "date": "2026-08-26",
@@ -31349,6 +31349,14 @@
      "round": "",
      "title": "Nebius Raises $5.75 Billion Through Convertible Notes To Fund AI Data Centers And GPU Expansion",
      "link": "https://pulse2.com/nebius-raises-5-75-billion-through-convertible-notes-to-fund-ai-data-centers-and-gpu-expansion/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-10-22",
+     "amount": "$3.5 Billion",
+     "round": "",
+     "title": "Nebius Secures $3.5 Billion Citi Facility To Fund AI Data Center And GPU Expansion",
+     "link": "https://pulse2.com/nebius-secures-3-5-billion-citi-facility-to-fund-ai-data-center-and-gpu-expansion/",
      "source": "Pulse 2.0"
     }
    ]
@@ -52230,6 +52238,638 @@
      "title": "Live event marketing tech startup Hive brings on Frontier Growth with Series B",
      "link": "https://betakit.com/live-event-marketing-tech-startup-hive-brings-on-frontier-growth-with-series-b/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "investors-break-down-how-founders-can": {
+   "name": "Investors break down how founders can",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "",
+     "round": "Series A",
+     "title": "Investors break down how founders can raise a Series A today",
+     "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "legora": {
+   "name": "Legora",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$550M",
+     "round": "Series E",
+     "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+     "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "slingshot": {
+   "name": "Slingshot",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively.",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$27M",
+     "round": "Seed",
+     "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
+     "link": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "ibm-reports-q3-2026-revenue-of-17-1-billion": {
+   "name": "IBM Reports Q3 2026 Revenue Of $17.1 Billion",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "IBM reported third-quarter 2026 revenue of $17.1 billion, an increase of 5% year over year and 6% at constant currency, supported by growth in its Software and Infrastructure businesses. The technology company also reported net income from continuing operations of $2.2 billion, u",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$17.1 Billion",
+     "round": "Growth",
+     "title": "IBM Reports Q3 2026 Revenue Of $17.1 Billion, Net Income Of $2.2 Billion, And Raises Free Cash Flow Outlook",
+     "link": "https://pulse2.com/ibm-reports-q3-2026-revenue-of-17-1-billion-net-income-of-2-2-billion-and-raises-free-cash-flow-outlook/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "amsterdam-s-indurex": {
+   "name": "Amsterdam’s Indurex",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Indurex, an Amsterdam-based startup building an AI-native platform for Cyber-Physical Systems (CPS) security, has raised €7 million in funding, less than nine months after coming out of stealth. The round was led by Contrarian Ventures, the European early-stage firm that backs en",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "€7 million",
+     "round": "",
+     "title": "Amsterdam’s Indurex raises €7 million to strengthen cybersecurity and safety across cyber-physical systems",
+     "link": "https://www.eu-startups.com/2026/10/amsterdams-indurex-raises-e7-million-to-strengthen-cybersecurity-and-safety-across-cyber-physical-systems/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "spanish-vc-seaya": {
+   "name": "Spanish VC Seaya",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Seaya, a Spanish investment platform, has announced the launch of Seaya Nova, its new growth fund, following a first close of €600 million in just six months – tickets will range from €20-50 million per company. The fund is backed by the European Investment Fund (EIF) under the E",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "€600 million",
+     "round": "Growth",
+     "title": "Spanish VC Seaya closes new fund at €600 million in just six months",
+     "link": "https://www.eu-startups.com/2026/10/spanish-vc-seaya-closes-new-fund-at-e600-million-in-just-six-months/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "lisbon-s-beyond-vision": {
+   "name": "Lisbon’s Beyond Vision",
+   "country": "Portugal",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Beyond Vision, a Lisbon-based manufacturer of unmanned aerial systems and vehicles (drones), announced today the completion of an investment round of over €28 million.  The round was co-led by Índico Capital Partners and Lince Capital, with a follow-on investment from ActiveCap, ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "€28 million",
+     "round": "",
+     "title": "Lisbon’s Beyond Vision raises over €28 million to scale AI drones for civilian and defence markets",
+     "link": "https://www.eu-startups.com/2026/10/lisbons-beyond-vision-raises-over-e28-million-to-scale-ai-drones-for-civilian-and-defence-markets/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "barcelona-s-masia": {
+   "name": "Barcelona’s Masia",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Masia has closed its €18M debut fund to invest in early-stage AI and frontier tech companies with a Barcelona connection, and opened Masia House to bring its founders, international investors and LPs ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "€18 million",
+     "round": "",
+     "title": "Barcelona’s Masia closes €18 million debut fund and opens a physical hub for frontier tech founders and investors",
+     "link": "https://www.eu-startups.com/2026/10/barcelonas-masia-closes-e18-million-debut-fund-and-opens-a-physical-hub-for-frontier-tech-founders-and-investors/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-22",
+     "amount": "€18M",
+     "round": "",
+     "title": "Barcelona's Masia closes €18M debut fund and opens new home for frontier tech founders",
+     "link": "https://tech.eu/2026/10/22/barcelonas-masia-closes-eur18m-debut-fund-and-opens-new-home-for-frontier-tech-founders/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "backed-by-yann-lecun-and-arthur-mensch-swiss-physical-ai-st": {
+   "name": "Backed by Yann LeCun and Arthur Mensch, Swiss Physical AI st",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Enact Intelligence, a physical AI startup headquartered in Zurich, has come out of stealth today with a €26.68 million ($30 million) pre-Seed funding round, one of the largest pre-Seed raises in Europe to date. The round saw participation from institutional investors redalpine, N",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "€26.68 million",
+     "round": "Pre-Seed",
+     "title": "Backed by Yann LeCun and Arthur Mensch, Swiss Physical AI startup Enact Intelligence exits stealth with €26.68 million",
+     "link": "https://www.eu-startups.com/2026/10/backed-by-yann-lecun-and-arthur-mensch-swiss-physical-ai-startup-enact-intelligence-exits-stealth-with-e26-68-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "seaya": {
+   "name": "Seaya",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Investment firm Seaya has announced the launch of Seaya Nova, its new growth fund, after raising €600 million at first close in just six months.  The fund is backed by the European Investment Fund (EI...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "€600M",
+     "round": "Growth",
+     "title": "Seaya raises €600M for new growth fund to back Europe's next global tech leaders",
+     "link": "https://tech.eu/2026/10/22/seaya-raises-eur600m-for-new-growth-fund-to-back-europes-next-global-tech-leaders/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "arke-telekom": {
+   "name": "Arke Telekom",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Connection & community",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Arke Telekom, a company developing defence andcommunications technologies, has secured €1 million in funding from ACT VenturePartners, a venture capital firm focused on deeptech investments. The compa...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "€1M",
+     "round": "",
+     "title": "Arke Telekom lands €1M from ACT Venture Partners to advance drone communications",
+     "link": "https://tech.eu/2026/10/22/arke-telekom-lands-eur1m-from-act-venture-partners-to-advance-drone-communications/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "indurex": {
+   "name": "Indurex",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Industrialcybersecurity company Indurex has raised €7 million in funding to furtherdevelop its AI-powered platform designed to protect critical infrastructure,manufacturing facilities and connected in...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "€7M",
+     "round": "",
+     "title": "Indurex raises €7M to strengthen cybersecurity across critical infrastructure",
+     "link": "https://tech.eu/2026/10/22/indurex-raises-eur7m-to-strengthen-cybersecurity-across-critical-infrastructure/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "anglo-finnish-oxford-university-quantum-spinout-quantrolox": {
+   "name": "Anglo-Finnish Oxford University quantum spinout QuantrolOx",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "An Anglo-Finnish University of Oxford quantum spinout has raised €12m in a funding round, it said today, as investment in the quantum sector continues to heat up.The Series A funding round in Quantrol...",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "€12M",
+     "round": "Series A",
+     "title": "Anglo-Finnish Oxford University quantum spinout QuantrolOx raises €12M",
+     "link": "https://tech.eu/2026/10/22/anglo-finnish-oxford-university-quantum-spinout-raises-eur12m/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "beyond-vision": {
+   "name": "Beyond Vision",
+   "country": "Portugal",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Unmanned aerial systems and vehicles maker Beyond Vision has raised over €28 million, co-led by Índico Capital Partners and Lince Capital, with a follow-on investment from ActiveCap, a shareholder sin...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "€28M",
+     "round": "",
+     "title": "Portuguese drone maker Beyond Vision raises over €28M to scale production and global expansion",
+     "link": "https://tech.eu/2026/10/22/portuguese-drone-maker-beyond-vision-raises-over-eur28m-to-scale-production-and-global-expansion/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "mistral-boss-and-yann-lecun-back-swiss-robotics-startup-enac": {
+   "name": "Mistral boss and Yann LeCun back Swiss robotics startup Enac",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Swiss robotics startup Enact Intelligence has today emerged out of stealth, with a $30m pre-seed round and backing from two heavyweights from the French AI ecosystem, Mistral boss Arthur Mensch and Me...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$30M",
+     "round": "Pre-Seed",
+     "title": "Mistral boss and Yann LeCun back Swiss robotics startup Enact in $30M pre-seed round",
+     "link": "https://tech.eu/2026/10/22/mistral-boss-and-yann-lecun-back-swiss-robotics-startup-enact-in-30m-pre-seed-round/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "reduck": {
+   "name": "Reduck",
+   "country": "USA",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "French-American AI startupReduck has raised $3 million in a pre-seed funding round led by Daphni, withparticipation from Drysdale Ventures and Galion.exe. The company is developingtechnology that enab...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$3M",
+     "round": "Pre-Seed",
+     "title": "Reduck secures $3M to make web automation faster for AI agents",
+     "link": "https://tech.eu/2026/10/22/reduck-secures-3m-to-make-web-automation-faster-for-ai-agents/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "rhymeq-emerges-from-stealth-with-2-2m-to-simplify-quantum-p": {
+   "name": "RhymeQ emerges from stealth with $2.2M to simplify quantum p",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Quantum computing startup RhymeQ has emerged from stealthwith a $2.2 million pre-seed funding round led by Ground State Ventures, withparticipation from Vanagon Ventures, Plug and Play, and Freiraum V...",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$2.2M",
+     "round": "Pre-Seed",
+     "title": "RhymeQ emerges from stealth with $2.2M to simplify quantum programming",
+     "link": "https://tech.eu/2026/10/22/rhymeq-emerges-from-stealth-with-22m-to-simplify-quantum-programming/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "zetwerk-ipo-kae-capital-kalysta": {
+   "name": "Zetwerk IPO: Kae Capital, Kalysta",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Early backers Kae Capital Fund II and Kalysta Capital Fund II bagged 38.3X returns on shares sold through manufacturing company…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "₹440",
+     "round": "",
+     "title": "Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets ₹440 Cr",
+     "link": "https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-travclan": {
+   "name": "[Update] TravClan",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | October 22, 16:51 Delhi-based B2B travel tech startup TravClan has raised a $5 Mn funding round comprising a…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$5 Mn",
+     "round": "",
+     "title": "[Update] TravClan Raises $5 Mn From Flipkart, August One",
+     "link": "https://inc42.com/buzz/flipkart-acquires-minority-stake-in-travel-tech-startup-travclan-to-scale-offerings/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "japanese-themed-dining-chain-harajuku-tokyo-cafe": {
+   "name": "Japanese-Themed Dining Chain Harajuku Tokyo Café",
+   "country": "Japan",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Japanese-themed dining chain Harajuku Tokyo Cafe has raised $3 Mn (around ₹28 Cr) in a pre-Series A funding round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$3 Mn",
+     "round": "Pre-Series A",
+     "title": "Japanese-Themed Dining Chain Harajuku Tokyo Café Raises $3 Mn",
+     "link": "https://inc42.com/buzz/japanese-themed-dining-chain-harajuku-tokyo-cafe-raises-3-mn/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "chapter-homes": {
+   "name": "Chapter Homes",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Omnichannel furniture and home furnishings brand Chapter Homes has raised ₹63 Cr ($6.6 Mn) in a strategic funding round through…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "₹63",
+     "round": "",
+     "title": "Chapter Homes Bags ₹63 Cr To Build Home & Kitchen Tech Brands",
+     "link": "https://inc42.com/buzz/chapter-homes-bags-%e2%82%b963-cr-to-build-home-kitchen-tech-brands/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "karta-ai": {
+   "name": "Karta AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Agentic AI startup Karta AI has raised $3 Mn (around ₹28 Cr) in a seed funding round led by PeerCapital…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$3 Mn",
+     "round": "Seed",
+     "title": "Karta AI Raises $3 Mn To Automate Inbound Calls For BFSI Players",
+     "link": "https://inc42.com/buzz/karta-ai-raises-3-mn-to-automate-inbound-calls-for-bfsi-players/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "curebay": {
+   "name": "CureBay",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Healthtech startup CureBay raised around ₹100 Cr ($10.6 Mn) in a pre-Series C funding round, comprising over ₹69 Cr in…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "₹100",
+     "round": "Pre-Series C",
+     "title": "CureBay Bags ₹100 Cr To Scale Rural Clinics Network, Enhance AI Screening Offerings",
+     "link": "https://inc42.com/buzz/curebay-bags-%e2%82%b9100-cr-to-scale-rural-clinics-network-enhance-ai-screening-offerings/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "patabid": {
+   "name": "PataBid",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Calgary startup is developing agentic AI it says will launch next year. \n The post  PataBid raises $2 million to expand AI construction estimator  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$2 million",
+     "round": "",
+     "title": "PataBid raises $2 million to expand AI construction estimator",
+     "link": "https://betakit.com/patabid-raises-2-million-to-expand-ai-construction-estimator/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "victoria-s-government-backed-alice-anderson-fund-for-women-f": {
+   "name": "Victoria’s government-backed Alice Anderson Fund for women f",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Victoria doubles Alice Anderson Fund with $10m for women-led startups.",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$10 million",
+     "round": "",
+     "title": "Victoria’s government-backed Alice Anderson Fund for women founders scores another $10 million",
+     "link": "https://www.startupdaily.net/topic/venture-capital/victorias-government-backed-alice-anderson-fund-for-women-founders-scores-another-10-million/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "sam-kroonenburg-s-adtech-cuttable-adds-20m-million-series": {
+   "name": "Sam Kroonenburg’s adtech, Cuttable, adds $20m million Series",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Cuttable grabs $20m to make AI ads learn from every flop and winner, not just churn content.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "events": [
+    {
+     "date": "2026-10-21",
+     "amount": "$20m",
+     "round": "Series A",
+     "title": "Sam Kroonenburg’s adtech, Cuttable, adds $20m million Series A",
+     "link": "https://www.startupdaily.net/topic/funding/sam-kroonenburgs-adtech-cuttable-adds-20m-million-series-a/",
+     "source": "Startup Daily"
     }
    ]
   }
