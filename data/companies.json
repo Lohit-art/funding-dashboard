@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:50:59+00:00",
+ "updated": "2026-10-23T17:42:31+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -52618,7 +52618,7 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "French-American AI startupReduck has raised $3 million in a pre-seed funding round led by Daphni, withparticipation from Drysdale Ventures and Galion.exe. The company is developingtechnology that enab...",
+   "summary": "Reduck has raised $3 million in pre-seed funding to build infrastructure that enables AI agents to interact with websites and software environments that do not offer APIs or agent-native integrations. The round was led by Daphni, with participation from Drysdale Ventures and Gali",
    "audience": "General / mixed",
    "first_seen": "2026-10-22",
    "last_seen": "2026-10-22",
@@ -52630,6 +52630,14 @@
      "title": "Reduck secures $3M to make web automation faster for AI agents",
      "link": "https://tech.eu/2026/10/22/reduck-secures-3m-to-make-web-automation-faster-for-ai-agents/",
      "source": "Tech.eu"
+    },
+    {
+     "date": "2026-10-22",
+     "amount": "$3 Million",
+     "round": "Pre-Seed",
+     "title": "Reduck Raises $3 Million To Build Web Fast Lanes For AI Agents",
+     "link": "https://pulse2.com/reduck-raises-3-million/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -52870,6 +52878,390 @@
      "title": "Sam Kroonenburg’s adtech, Cuttable, adds $20m million Series A",
      "link": "https://www.startupdaily.net/topic/funding/sam-kroonenburgs-adtech-cuttable-adds-20m-million-series-a/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "warhound": {
+   "name": "Warhound",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$200M",
+     "round": "",
+     "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+     "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "chicago-atlantic-provides-17-5-million-senior": {
+   "name": "Chicago Atlantic Provides $17.5 Million Senior",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Chicago Atlantic has provided a $17.5 million senior secured term loan to Azuna Inc., a Buffalo, New York-based direct-to-consumer odor-elimination and air care company. \n The post  Chicago Atlantic Provides $17.5 Million Senior Secured Loan To Support Azuna Growth  appeared firs",
+   "audience": "Consumers",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "$17.5 Million",
+     "round": "Growth",
+     "title": "Chicago Atlantic Provides $17.5 Million Senior Secured Loan To Support Azuna Growth",
+     "link": "https://pulse2.com/chicago-atlantic-provides-17-5-million-senior-secured-loan-to-support-azuna-growth/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "biostack": {
+   "name": "BioStack",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "BioStack has raised $9.5 million in seed funding to expand a global healthcare data infrastructure network designed to turn fragmented clinical records into multimodal datasets for medical AI, biotechnology research, and drug development. \n The post  BioStack Raises $9.5 Million ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "$9.5 Million",
+     "round": "Seed",
+     "title": "BioStack Raises $9.5 Million Seed Round To Build Multimodal Data Infrastructure For Medical AI",
+     "link": "https://pulse2.com/biostack-raises-9-5-million-seed-round-to-build-multimodal-data-infrastructure-for-medical-ai/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "formic": {
+   "name": "Formic",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Formic has raised $50 million in growth capital to expand its physical AI platform and accelerate its move from task-specific industrial automation into general-purpose robotics. The financing includes a Series B led by Mercato Partners, with participation from Light Ray Ventures",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "$50 Million",
+     "round": "Growth",
+     "title": "Formic Raises $50 Million To Expand Physical AI And General-Purpose Robotics Across U.S. Manufacturing",
+     "link": "https://pulse2.com/formic-raises-50-million-to-expand-physical-ai-and-general-purpose-robotics-across-u-s-manufacturing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pantheon": {
+   "name": "Pantheon",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Pantheon has closed its latest global private equity secondaries program with $6 billion in commitments, significantly exceeding the strategy's original $3.5 billion target. \n The post  Pantheon Closes $6 Billion Private Equity Secondaries Program Above Target  appeared first on ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$6 Billion",
+     "round": "",
+     "title": "Pantheon Closes $6 Billion Private Equity Secondaries Program Above Target",
+     "link": "https://pulse2.com/pantheon-closes-6-billion-private-equity-secondaries-program-above-target/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fort-robotics": {
+   "name": "FORT Robotics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "FORT Robotics, a Philadelphia-based provider of safety technology for autonomous machines and robotics systems, has secured approximately $20 million in additional financing commitments from existing investors, including Tiger Global and Mark Cuban Companies. The investment consi",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$20 Million",
+     "round": "",
+     "title": "FORT Robotics Secures About $20 Million In New Funding Commitments Led By Tiger Global And Mark Cuban Companies",
+     "link": "https://pulse2.com/fort-robotics-secures-about-20-million-in-new-funding-commitments-led-by-tiger-global-and-mark-cuban-companies/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "gem": {
+   "name": "GEM",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "GEM, an independent investment management firm headquartered in Charlotte, North Carolina, has completed the final closing of GEM Independent Sponsors Fund II, securing $685 million in total program commitments. \n The post  GEM Closes $685 Million Independent Sponsors Fund II To ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$685 Million",
+     "round": "",
+     "title": "GEM Closes $685 Million Independent Sponsors Fund II To Expand Lower Middle Market Private Equity Investments",
+     "link": "https://pulse2.com/gem-closes-685-million-independent-sponsors-fund-ii-to-expand-lower-middle-market-private-equity-investments/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "milan-s-phononic-vibes": {
+   "name": "Milan’s Phononic Vibes",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Phononic Vibes, a Milan-based noise management company that designs and manufactures noise and vibration products for rail, energy, industry, construction and mobility, has secured a €25 million financing round. The company has also launched its new identity and website today.  T",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "€25 million",
+     "round": "",
+     "title": "Milan’s Phononic Vibes secures €25 million to expand noise control tech used by Deutsche Bahn and Mercedes-Benz",
+     "link": "https://www.eu-startups.com/2026/10/milans-phononic-vibes-secures-e25-million-to-expand-noise-control-tech-already-in-service-with-deutsche-bahn-and-in-mercedes-benz/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-cognitive-credit": {
+   "name": "London’s Cognitive Credit",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Cognitive Credit, the London-based provider of corporate credit data, analytics and AI technology, has secured a €35.73 million ($40 million) strategic growth investment. The investment round was led by global growth equity firm Summit Partners, with continued participation from ",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "€35.73 million",
+     "round": "Growth",
+     "title": "London’s Cognitive Credit lands €35.73 million to scale its AI and data platform for credit markets",
+     "link": "https://www.eu-startups.com/2026/10/londons-cognitive-credit-lands-e35-73-million-to-scale-its-ai-and-data-platform-for-credit-markets/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "berlin-s-cygrid-exits-stealth-with-2-66-million-to-stop-ai": {
+   "name": "Berlin’s Cygrid exits stealth with €2.66 million to stop AI ",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Cygrid, a Berlin-based cybersecurity startup, has exited stealth with a €2.66 million pre-Seed funding round for its identity-enforcement platform that controls access to confidential information.  The funding round was led by Atlantic, the pan-European pre-Seed fund, with partic",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "€2.66 million",
+     "round": "Pre-Seed",
+     "title": "Berlin’s Cygrid exits stealth with €2.66 million to stop AI agents from accessing confidential company data",
+     "link": "https://www.eu-startups.com/2026/10/berlins-cygrid-exits-stealth-with-e2-66-million-to-stop-ai-agents-from-accessing-confidential-company-data/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "portuguese-edtech-intuitivo": {
+   "name": "Portuguese EdTech Intuitivo",
+   "country": "Portugal",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Intuitivo, a Portuguese EdTech startup that helps lighten teachers’ administrative load, has raised €1.35 million in Seed funding. The round was led by Caixa Capital and the Impact Innovation Fund, managed by 3xP Global under the Venture Capital Programme of the Capitalisation an",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "€1.35 million",
+     "round": "Seed",
+     "title": "Portuguese EdTech Intuitivo raises €1.35 million to ease teachers’ workload and expand into Brazil",
+     "link": "https://www.eu-startups.com/2026/10/portuguese-edtech-intuitivo-raises-e1-35-million-to-ease-teachers-workload-and-expand-into-brazil/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "zetwerk-makes-its-market-debut-can-scale-alone-widen-its-th": {
+   "name": "Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Th",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Learning & growth",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Companies change course in good times and bad. For Zetwerk, the key turn came after it raised $150 Mn from…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "$150 Mn",
+     "round": "",
+     "title": "Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?",
+     "link": "https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "y-combinator-backed-firstwork": {
+   "name": "Y Combinator-Backed Firstwork",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "US-based HR tech startup Firstwork has raised $15 Mn (over ₹142 Cr) in a Series A funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "$15 Mn",
+     "round": "Series A",
+     "title": "Y Combinator-Backed Firstwork Nets $15 Mn To Expand Footprint Across US And Europe",
+     "link": "https://inc42.com/buzz/y-combinator-backed-firstwork-nets-15-mn-to-expand-footprint-across-us-and-europe/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-tonbo-imaging-shares-end-debut-session-at-62-premi": {
+   "name": "[Update] Tonbo Imaging Shares End Debut Session At 62% Premi",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | October 23, 2026, 16:40 IST Defence tech company Tonbo Imaging’s shares closed their debut session at ₹1,133.65 on…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "₹1,133",
+     "round": "",
+     "title": "[Update] Tonbo Imaging Shares End Debut Session At 62% Premium To IPO Price",
+     "link": "https://inc42.com/buzz/tonbo-imaging-makes-strong-market-debut-lists-at-66-premium-to-ipo-price/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-zetwerk-shares-end-debut-session-8-4-below-issue-p": {
+   "name": "[Update] Zetwerk Shares End Debut Session 8.4% Below Issue P",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | October 23, 2026, 18:07 IST B2B manufacturing company Zetwerk’s shares closed their debut session at ₹138.30 on the…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "₹138.30",
+     "round": "",
+     "title": "[Update] Zetwerk Shares End Debut Session 8.4% Below Issue Price On BSE",
+     "link": "https://inc42.com/buzz/zetwerk-makes-nse-debut-at-5-5-premium-after-%e2%82%b95012-cr-ipo/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "neo-financial": {
+   "name": "Neo Financial",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Financing will be led by ATB Financial and include participation from Vancity, Beem, Alterna, and Innovation Federal Credit Union. \n The post  Neo Financial secures $185-million credit facility from credit unions  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "events": [
+    {
+     "date": "2026-10-22",
+     "amount": "$185",
+     "round": "",
+     "title": "Neo Financial secures $185-million credit facility from credit unions",
+     "link": "https://betakit.com/neo-financial-secures-185-million-credit-facility-from-credit-unions/",
+     "source": "BetaKit"
     }
    ]
   }
