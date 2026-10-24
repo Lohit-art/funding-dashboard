@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:42:31+00:00",
+ "updated": "2026-10-24T16:25:47+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -53262,6 +53262,150 @@
      "title": "Neo Financial secures $185-million credit facility from credit unions",
      "link": "https://betakit.com/neo-financial-secures-185-million-credit-facility-from-credit-unions/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "warhound-launches-with-200-million-seed-round-to-build-dome": {
+   "name": "Warhound Launches With $200 Million Seed Round To Build Dome",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Warhound has emerged from stealth with a $200 million seed round to build a domestic supply of military and public-safety working dogs using advanced genetics, cloning, training, and defense technology. \n The post  Warhound Launches With $200 Million Seed Round To Build Domestic ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "events": [
+    {
+     "date": "2026-10-24",
+     "amount": "$200 Million",
+     "round": "Seed",
+     "title": "Warhound Launches With $200 Million Seed Round To Build Domestic Military Working Dog Supply",
+     "link": "https://pulse2.com/warhound-launches-with-200-million-seed-round-to-build-domestic-military-working-dog-supply/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pathos-ai": {
+   "name": "Pathos AI",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Pathos AI has raised $237 million in Series E financing at a post-money valuation of approximately $3 billion to expand its agentic AI drug development platform and advance a growing portfolio of clinical-stage oncology programs. The financing was led by Bristol Myers Squibb, wit",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "$237 Million",
+     "round": "Series E",
+     "title": "Pathos AI Raises $237 Million Series E At $3 Billion Valuation To Advance AI-Driven Oncology Pipeline",
+     "link": "https://pulse2.com/pathos-ai-raises-237-million-series-e-at-3-billion-valuation-to-advance-ai-driven-oncology-pipeline/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bob": {
+   "name": "BOB",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "BOB AI Holdings has raised $5.5 million in seed funding to expand its AI-powered finance and banking platform designed for small business owners. The round was led by Mischief, with funding from Peter Thiel and participation from Codie Sanchez, Mark Pincus, Karman Ventures, and a",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "$5.5 Million",
+     "round": "Seed",
+     "title": "BOB Raises $5.5 Million Seed Round To Expand AI Finance And Banking Platform For Small Businesses",
+     "link": "https://pulse2.com/bob-raises-5-5-million-seed-round-to-expand-ai-finance-and-banking-platform-for-small-businesses/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "thrive-therapies": {
+   "name": "Thrive Therapies",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Thrive Therapies, a Dallas-based technology-enabled pediatric healthcare company, has raised $7.7 million in funding led by LiveOak Ventures, with participation from Activate Venture Partners and the Charter School Growth Fund. \n The post  Thrive Therapies Raises $7.7 Million To ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "$7.7 Million",
+     "round": "Growth",
+     "title": "Thrive Therapies Raises $7.7 Million To Expand School-Based Healthcare Services For Children With Disabilities",
+     "link": "https://pulse2.com/thrive-therapies-raises-7-7-million-to-expand-school-based-healthcare-services-for-children-with-disabilities/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "zevia": {
+   "name": "Zevia",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Zevia PBC has entered into a definitive agreement with a fund managed by GP Investments Ltd. for a $20 million growth equity investment designed to support the beverage company’s strategic reset and long-term growth initiatives. \n The post  Zevia Secures $20 Million Growth Equity",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "$20 Million",
+     "round": "Growth",
+     "title": "Zevia Secures $20 Million Growth Equity Investment From GP Investments",
+     "link": "https://pulse2.com/zevia-secures-20-million-growth-equity-investment-from-gp-investments/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "zai-lab": {
+   "name": "Zai Lab",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Zai Lab has entered into an agreement to raise approximately $250 million through a private investment in public equity financing, with proceeds primarily earmarked for the global development of its DLL3-targeting antibody-drug conjugate zocilurtatug pelitecan. \n The post  Zai La",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "events": [
+    {
+     "date": "2026-10-23",
+     "amount": "$250 Million",
+     "round": "",
+     "title": "Zai Lab Raises $250 Million PIPE To Advance DLL3-Targeting ADC Zocilurtatug Pelitecan",
+     "link": "https://pulse2.com/zai-lab-raises-250-million-pipe-to-advance-dll3-targeting-adc-zocilurtatug-pelitecan/",
+     "source": "Pulse 2.0"
     }
    ]
   }
