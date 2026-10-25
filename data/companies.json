@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:25:47+00:00",
+ "updated": "2026-10-25T16:57:33+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -53405,6 +53405,30 @@
      "round": "",
      "title": "Zai Lab Raises $250 Million PIPE To Advance DLL3-Targeting ADC Zocilurtatug Pelitecan",
      "link": "https://pulse2.com/zai-lab-raises-250-million-pipe-to-advance-dll3-targeting-adc-zocilurtatug-pelitecan/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bolt-biotherapeutics-acquires-prana-therapies-and": {
+   "name": "Bolt Biotherapeutics Acquires Prana Therapies And",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Bolt Biotherapeutics has acquired Prana Therapies in a stock-for-stock reverse merger and secured a concurrent $120 million private placement to advance Prana’s pipeline of next-generation multispecific antibodies. \n The post  Bolt Biotherapeutics Acquires Prana Therapies And Rai",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "events": [
+    {
+     "date": "2026-10-25",
+     "amount": "$120 Million",
+     "round": "",
+     "title": "Bolt Biotherapeutics Acquires Prana Therapies And Raises $120 Million To Advance PRA-216",
+     "link": "https://pulse2.com/bolt-biotherapeutics-acquires-prana-therapies-and-raises-120-million-to-advance-pra-216/",
      "source": "Pulse 2.0"
     }
    ]
