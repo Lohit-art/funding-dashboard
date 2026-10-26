@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:57:33+00:00",
+ "updated": "2026-10-26T19:01:05+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -2689,11 +2689,11 @@
    "sector": "SpaceTech",
    "is_ai": true,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "SpaceX has signed a computing deal worth up to $6.3 billion with Reflection AI, the open-source artificial intelligence…",
+   "stage": "established",
+   "summary": "SpaceX has closed $40 billion in debt financing to buy graphics processing units to support its growing artificial intelligence operations, according to CEO Elon Musk. \n The post  SpaceX Closes $40 Billion Debt Financing For AI Chip Purchases  appeared first on  Pulse 2.0 .",
    "audience": "Developers & data teams",
    "first_seen": "2026-06-16",
-   "last_seen": "2026-06-23",
+   "last_seen": "2026-10-26",
    "events": [
     {
      "date": "2026-06-16",
@@ -2710,6 +2710,14 @@
      "title": "SpaceX lands $6.3B compute deal with open-source AI startup Reflection and Nvidia is on both sides of the trade",
      "link": "https://techfundingnews.com/spacex-lands-6-3b-compute-deal-with-open-source-ai-startup-reflection-and-nvidia-is-on-both-sides-of-the-trade/",
      "source": "Tech Funding News"
+    },
+    {
+     "date": "2026-10-26",
+     "amount": "$40 Billion",
+     "round": "Debt",
+     "title": "SpaceX Closes $40 Billion Debt Financing For AI Chip Purchases",
+     "link": "https://pulse2.com/spacex-closes-40-billion-debt-financing-for-ai-chip-purchases/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -38530,10 +38538,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Helsinki-based Ambio has raised €5.1 million in a seed round led by b2venture, with participation from Montis VC and existing investor Lifeline Ventures. The startup is developing an AI-powered procurement platform for recycled plastics, covering the purchasing process from mater",
+   "summary": "Helsinki-based technology company Volare has secured €7.1 million in new funding through Springvest, with backing from new and existing investors including Maki.vc, to support plans for a second industrial-scale factory and expansion across Europe and beyond. The company converts",
    "audience": "General / mixed",
    "first_seen": "2026-09-15",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-26",
    "events": [
     {
      "date": "2026-09-15",
@@ -38549,6 +38557,14 @@
      "round": "Seed",
      "title": "Finnish startup secures €5.1 million seed to make recycled plastics procurement more reliable",
      "link": "https://arcticstartup.com/ambio-raises-e5-1m-seed/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-10-26",
+     "amount": "€7.1 million",
+     "round": "",
+     "title": "Finnish startup raises €7.1 million and plans second factory after opening 5,000-tonne insect protein plant",
+     "link": "https://arcticstartup.com/volare-raises-e7-1-million/",
      "source": "ArcticStartup"
     }
    ]
@@ -53430,6 +53446,294 @@
      "title": "Bolt Biotherapeutics Acquires Prana Therapies And Raises $120 Million To Advance PRA-216",
      "link": "https://pulse2.com/bolt-biotherapeutics-acquires-prana-therapies-and-raises-120-million-to-advance-pra-216/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "meta-plans-95-billion-equity": {
+   "name": "Meta Plans $95 Billion Equity",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Meta Platforms has launched approximately $35 billion of concurrent public equity offerings and plans to establish an approximately $60 billion at-the-market program as the company expands investment in artificial intelligence infrastructure and personal superintelligence. \n The ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "$95 Billion",
+     "round": "",
+     "title": "Meta Plans $95 Billion Equity Raise To Fund AI Expansion",
+     "link": "https://pulse2.com/meta-plans-95-billion-equity-raise-to-fund-ai-expansion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "partners-group": {
+   "name": "Partners Group",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Partners Group has closed its second rated feeder vehicle of 2026 for its private credit evergreen strategy, raising $510 million from U.S.-based insurance companies. \n The post  Partners Group Raises $510 Million For Second 2026 Rated Feeder Supporting Private Credit Evergreen S",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "$510 Million",
+     "round": "",
+     "title": "Partners Group Raises $510 Million For Second 2026 Rated Feeder Supporting Private Credit Evergreen Strategy",
+     "link": "https://pulse2.com/partners-group-raises-510-million-for-second-2026-rated-feeder-supporting-private-credit-evergreen-strategy/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "obra-capital": {
+   "name": "Obra Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Obra Capital has closed its fifth collateralized loan obligation offering, Obra CLO 5, with a total size of $403.6 million, bringing the alternative asset manager’s cumulative CLO issuance to more than $2 billion across five transactions in less than two years. \n The post  Obra C",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "$403.6 Million",
+     "round": "",
+     "title": "Obra Capital Closes $403.6 Million Fifth CLO, Bringing Total Issuance Above $2 Billion",
+     "link": "https://pulse2.com/obra-capital-closes-403-6-million-fifth-clo-bringing-total-issuance-above-2-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nevis": {
+   "name": "Nevis",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "London/NY-based Nevis, an AI OS for wealth management, today announced its €62 million ($70 million) Series B in order to expand agent capabilities, deepen integrations across the custodian and WealthTech ecosystem, and grow its product and GTM teams. The round was led by EQT Ven",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "€62 million",
+     "round": "Series B",
+     "title": "WealthTech startup Nevis secures €62 million to automate financial advisory workflows with AI",
+     "link": "https://www.eu-startups.com/2026/10/wealthtech-startup-nevis-secures-e62-million-to-automate-financial-advisory-workflows-with-ai/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "italy-s-z-one-fund": {
+   "name": "Italy’s Z_One Fund",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Z_One Fund, the Italian venture capital fund managed by Eureka! Venture has announced the first close at more than €35 million, with a total fundraising target of €60 million. The fund’s investor base includes some of Italy’s most prominent institutional investors. CDP Venture Ca",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "€35 million",
+     "round": "",
+     "title": "Italy’s Z_One Fund secures over €35 million at first close to back AI and UrbanTech startups",
+     "link": "https://www.eu-startups.com/2026/10/italys-z_one-fund-secures-over-e35-million-at-first-close-to-back-ai-and-urbantech-startups/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "finland-s-volare": {
+   "name": "Finland’s Volare",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Volare, a Finnish DeepTech company turning food-industry side streams into high-quality insect protein, has inaugurated its first industrial-scale facility called Volare 01 in Pori, Finland, and raised €7.1 million in fresh funding. The funding came from Springvest, with backing ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "€7.1 million",
+     "round": "",
+     "title": "Finland’s Volare raises €7.1 million and opens 5,000-tonne insect protein factory",
+     "link": "https://www.eu-startups.com/2026/10/finlands-volare-raises-e7-1-million-and-opens-5000-tonne-insect-protein-factory/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "lausanne-s-sonexos": {
+   "name": "Lausanne’s Sonexos",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Sonexos, a Lausanne-based DeepTech company, has raised approximately €5.4 million (CHF 5 million/USD 6.1 million) in new equity financing to take its solid-state noise control from working prototypes to industrial production. The round was led by Valquest Partners, with participa",
+   "audience": "Consumers",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "€5.4 million",
+     "round": "",
+     "title": "Lausanne’s Sonexos raises €5.4 million to tackle low-frequency noise from fans, compressors and even data centres",
+     "link": "https://www.eu-startups.com/2026/10/lausannes-sonexos-raises-e5-4-million-to-tackle-low-frequency-noise-from-fans-compressors-and-even-data-centres/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "frankfurt-s-quointelligence": {
+   "name": "Frankfurt’s QuoIntelligence",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "QuoIntelligence, the Frankfurt-based cybersecurity startup, has received a new investment from Christian Lindner, the former German Federal Finance Minister. The investment came through his investment vehicle, Christian Lindner Beteiligungsgesellschaft, but the deal’s financial t",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "€7.3 million",
+     "round": "Series A",
+     "title": "Frankfurt’s QuoIntelligence lands backing from ex-German finance minister Christian Lindner months after €7.3 million Series A",
+     "link": "https://www.eu-startups.com/2026/10/frankfurts-quointelligence-secures-backing-from-ex-german-finance-minister-christian-lindner-months-after-e7-3-million-series-a/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "finbee-verslui": {
+   "name": "Finbee Verslui",
+   "country": "Lithuania",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Vilnius-based SME lender Finbee has secured an additional €20 million from private capital asset manager Pollen Street Capital, increasing its senior secured credit facility from €35 million to €55 million. The expanded facility will enable the Vilnius-based company to increase i",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "€55 million",
+     "round": "",
+     "title": "Finbee Verslui secures €55 million facility from Pollen Street Capital to expand SME lending",
+     "link": "https://arcticstartup.com/finbee-verslui-raises-additional-e20-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "north-vector-dynamics": {
+   "name": "North Vector Dynamics",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Led by Europe’s Tech Horizons, raise is one of the largest in Canadian defence tech. \n The post  North Vector Dynamics raises $20 million to scale counter-drone capabilities  first appeared on  BetaKit .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "$20 million",
+     "round": "",
+     "title": "North Vector Dynamics raises $20 million to scale counter-drone capabilities",
+     "link": "https://betakit.com/north-vector-dynamics-raises-20-million-to-scale-counter-drone-capabilities/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "symx-ai-spent-years-unlocking-mining-data-now-it-s-building": {
+   "name": "Symx.ai spent years unlocking mining data. Now it’s building",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Sudbury startup’s $6-million USD Series A and Yokohama partnership mark new stage in its industrial AI push. \n The post  Symx.ai spent years unlocking mining data. Now it’s building “an operating system” for heavy industry  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "$6",
+     "round": "Series A",
+     "title": "Symx.ai spent years unlocking mining data. Now it’s building “an operating system” for heavy industry",
+     "link": "https://betakit.com/symx-ai-spent-years-unlocking-mining-data-now-its-building-an-operating-system-for-heavy-industry/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "dropgenie": {
+   "name": "DropGenie",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Montréal and Boston-based biotech startup aims to draw more data out of small samples. \n The post  DropGenie raises $5 million USD backed by BDC to speed up biological discovery  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "$5 million",
+     "round": "",
+     "title": "DropGenie raises $5 million USD backed by BDC to speed up biological discovery",
+     "link": "https://betakit.com/dropgenie-raises-5-million-usd-backed-by-bdc-to-speed-up-biological-discovery/",
+     "source": "BetaKit"
     }
    ]
   }
