@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T19:01:05+00:00",
+ "updated": "2026-10-27T18:32:52+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -52947,17 +52947,17 @@
   },
   "biostack": {
    "name": "BioStack",
-   "country": "Unknown",
-   "region": "North America",
+   "country": "India",
+   "region": "Asia",
    "category": "Health & longevity",
    "sector": "HealthTech / Bio",
    "is_ai": true,
    "research_based": true,
    "stage": "new",
-   "summary": "BioStack has raised $9.5 million in seed funding to expand a global healthcare data infrastructure network designed to turn fragmented clinical records into multimodal datasets for medical AI, biotechnology research, and drug development. \n The post  BioStack Raises $9.5 Million ",
+   "summary": "AI-powered healthtech platform BioStack has raised $9.5 Mn (₹90.4 Cr) in its seed funding round led by Peak XV Partners,…",
    "audience": "Healthcare providers & patients",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-10-23",
+   "last_seen": "2026-10-26",
    "events": [
     {
      "date": "2026-10-23",
@@ -52966,6 +52966,14 @@
      "title": "BioStack Raises $9.5 Million Seed Round To Build Multimodal Data Infrastructure For Medical AI",
      "link": "https://pulse2.com/biostack-raises-9-5-million-seed-round-to-build-multimodal-data-infrastructure-for-medical-ai/",
      "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-10-26",
+     "amount": "$9.5 Mn",
+     "round": "Seed",
+     "title": "BioStack Nets $9.5 Mn To Build Training Datasets For Medical AI",
+     "link": "https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/",
+     "source": "Inc42"
     }
    ]
   },
@@ -53734,6 +53742,414 @@
      "title": "DropGenie raises $5 million USD backed by BDC to speed up biological discovery",
      "link": "https://betakit.com/dropgenie-raises-5-million-usd-backed-by-bdc-to-speed-up-biological-discovery/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "impress": {
+   "name": "Impress",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Impress, a Spanish digital orthodontics network, has signed a €40 million venture debt loan with the European Investment Bank (EIB) to scale up investments in its AI platform across its network of more than 110 clinics worldwide. The loan will also accelerate the company’s expans",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "€40 million",
+     "round": "Debt",
+     "title": "Impress bags €40 million EIB financing to expand its digital orthodontics network across Europe",
+     "link": "https://www.eu-startups.com/2026/10/impress-bags-e40-million-eib-financing-to-expand-its-digital-orthodontics-network-across-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "french-vc-aquiti": {
+   "name": "French VC Aquiti",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "French VC Aquiti announces the final close of their AVA1 fund at nearly €60 million in order to back founders building across the Greater Southwest of France from pre-Seed onwards. Through its AVA1 fund, Aquiti invests at pre-Seed and Seed, with initial investments ranging from €",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "€60 million",
+     "round": "Pre-Seed",
+     "title": "French VC Aquiti closes €60 million fund for founders outside of traditional venture hubs",
+     "link": "https://www.eu-startups.com/2026/10/french-vc-aquiti-just-closed-their-e60-million-fund-for-founders-outside-of-traditional-venture-hubs/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "british-sme-lender-lovey": {
+   "name": "British SME lender Lovey",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Lovey, a British FinTech and financial services provider specialising in SME lending and brokerage, has today announced a senior secured credit facility of up to €298 million (£250 million) with Pollen Street Capital, an alternative asset manager. The facility is made up of €59 m",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "€298 million",
+     "round": "",
+     "title": "British SME lender Lovey secures up to €298 million to support UK companies",
+     "link": "https://www.eu-startups.com/2026/10/british-sme-lender-lovey-secures-up-to-e298-million-to-support-uk-companies/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "finnish-defencetech-arctic-ravn": {
+   "name": "Finnish DefenceTech Arctic RAVN",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Arctic RAVN, an Espoo-based DefenceTech startup, has secured €2.5 million in convertible loan commitments, surpassing its original €2 million target in under a week. The round, launched in October 2026, saw investor commitments arrive within just five days, a pace that is a refle",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "€2.5 million",
+     "round": "",
+     "title": "Finnish DefenceTech Arctic RAVN secures €2.5 million in loan commitments before its first product launch",
+     "link": "https://www.eu-startups.com/2026/10/finnish-defencetech-arctic-ravn-secures-e2-5-million-in-loan-commitments-before-its-first-product-launch/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "naboo-acquires-uk-meetings-and-events-specialist-pro-ven-fol": {
+   "name": "Naboo acquires UK meetings and events specialist pro-ven fol",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Naboo, a Paris-based EventTech scale-up, has joined forces with UK specialist pro-ven, bringing together two of the Meetings and Events (M&E) sector’s prominent names.  Starting today, pro-ven becomes Naboo UK. Together, the combined entity now oversees €269 million ($300 million",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "€58.7 million",
+     "round": "Series B",
+     "title": "Paris-based Naboo acquires UK meetings and events specialist pro-ven following €58.7 million Series B",
+     "link": "https://www.eu-startups.com/2026/10/paris-based-naboo-acquires-uk-meetings-and-events-specialist-pro-ven-following-e58-7-million-series-b/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "proptech-cortas": {
+   "name": "PropTech Cortas",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Cortas, a Copenhagen-based PropTech startup building what it calls an entirely new operating model for property management, has raised €1.47 million in pre-Seed funding. The round was led by PSV Tech, which has backed Nordic companies for more than two decades and includes Lunar,",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "€1.47 million",
+     "round": "Pre-Seed",
+     "title": "EXCLUSIVE: Copenhagen-based PropTech Cortas lands €1.47 million in a pre-Seed round led by PSV Tech",
+     "link": "https://www.eu-startups.com/2026/10/exclusive-copenhagen-based-proptech-cortas-lands-e1-47-million-in-a-pre-seed-round-led-by-psv-tech/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "finnish-defensetech-startup": {
+   "name": "Finnish defensetech startup",
+   "country": "Finland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Finnish defence technology company Arctic RAVN has secured €2.5 million in convertible loan commitments, exceeding its €2 million target in five days. The company manufactures electronic speed controllers (ESCs) and is developing flight controllers (FCs) for unmanned systems, wit",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "€2.5 million",
+     "round": "",
+     "title": "Finnish defensetech startup secures €2.5 million to scale drone electronics production",
+     "link": "https://arcticstartup.com/arctic-ravn-raises-e2-5-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "nova-spectral-ai": {
+   "name": "Nova Spectral AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bengaluru-based Nova Spectral AI has raised ₹21.2 Cr ($2.3 Mn) in a seed funding round led by Shastra VC, with…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "₹21.2",
+     "round": "Seed",
+     "title": "Nova Spectral AI Raises ₹21.2 Cr To Build Indigenous Infrared Sensor Chips",
+     "link": "https://inc42.com/buzz/nova-spectral-ai-raises-%e2%82%b921-2-cr-to-build-indigenous-infrared-sensor-chips/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ex-pixxel-engineer-effy-john-s-parsec-aerospace-in-talks-to": {
+   "name": "Ex-Pixxel Engineer Effy John’s Parsec Aerospace In Talks To",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Aerospace technology startup Parsec Aerospace, founded by former Pixxel engineer Effy John, is in talks to raise around $10 Mn…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "$10 Mn",
+     "round": "",
+     "title": "Exclusive: Ex-Pixxel Engineer Effy John’s Parsec Aerospace In Talks To Raise $10 Mn",
+     "link": "https://inc42.com/buzz/ex-pixxel-engineer-effy-johns-parsec-aerospace-in-talks-to-raise-10-mn/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "live2-ai": {
+   "name": "Live2.ai",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Bengaluru-based AI startup Live2.ai has raised ₹130 Cr ($13.7 Mn) in a pre-Series B funding round led by IvyCap Ventures.…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "₹130",
+     "round": "Pre-Series B",
+     "title": "Live2.ai Raises ₹130 Cr To Scale AI Marketing SaaS Platform",
+     "link": "https://inc42.com/buzz/live2-ai-raises-%e2%82%b9130-cr-to-scale-ai-marketing-saas-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "troovy": {
+   "name": "Troovy",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Healthy snacking brand Troovy has raised ₹100 Cr ($10.5 Mn) in a Series B funding round led by existing investor…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "₹100",
+     "round": "Series B",
+     "title": "Healthy Snacking Brand Troovy Bags ₹100 Cr To Expand Offline Presence, Enter New Categories",
+     "link": "https://inc42.com/buzz/healthy-snacking-brand-troovy-bags-%e2%82%b9100-cr-to-expand-offline-presence-enter-new-categories/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "simplismart": {
+   "name": "Simplismart",
+   "country": "USA",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI infrastructure startup Simplismart has raised $14 Mn (around ₹133 Cr) in a Series B funding round led by Dallas…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "$14 Mn",
+     "round": "Series B",
+     "title": "Simplismart Bags $14 Mn To Expand AI Inference Platform",
+     "link": "https://inc42.com/buzz/simplismart-bags-14-mn-to-expand-ai-inference-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "mochatrade": {
+   "name": "Mochatrade",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Fintech startup Mochatrade, which offers US Stock tokens trading platform for Indian traders, announced the raise of $5.5 Mn (₹52.3…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "$5.5 Mn",
+     "round": "",
+     "title": "Mochatrade Raises $5.5 Mn To Build A US Stock Trading Platform For Indian Traders",
+     "link": "https://inc42.com/buzz/mochatrade-raises-5-5-mn-to-build-a-us-stock-trading-platform-for-indian-traders/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "rotoris": {
+   "name": "Rotoris",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Luxury watch brand Rotoris has raised $8.5 Mn (₹80.9 Cr) in a Series A funding round led by Blume Ventures.…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "$8.5 Mn",
+     "round": "Series A",
+     "title": "Luxury Watch Brand Rotoris Raises $8.5 Mn To Grow Retail Footprint",
+     "link": "https://inc42.com/buzz/luxury-watch-brand-rotoris-raises-8-5-mn-to-grow-retail-footprint/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "cent": {
+   "name": "Cent",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Healthtech startup Cent, launched by Practo cofounder Shashank ND earlier this year, announced the raise of $15 Mn (about ₹143…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "$15 Mn",
+     "round": "",
+     "title": "Cent Raises $15 Mn To Scale AI-Led Preventive Healthcare Platform",
+     "link": "https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "matiks": {
+   "name": "Matiks",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Social gaming platform Matiks has raised $10 Mn (₹95.1 Cr) in its Pre-Series A funding round led by General Catalyst. …",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "$10 Mn",
+     "round": "Pre-Series A",
+     "title": "Matiks Bags $10 Mn To Take Its Puzzle Gaming Platform Global",
+     "link": "https://inc42.com/buzz/matiks-bags-10-mn-to-take-its-puzzle-gaming-platform-global/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "mp-space-takes-off-with-23-million-seed-round": {
+   "name": "MP Space takes off with $23 million Seed round",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ex-Tesla duo MP Space grabs $23m to make Aussie spacecraft batteries and drag satellite power out of the bespoke dark ages.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "events": [
+    {
+     "date": "2026-10-26",
+     "amount": "$23 million",
+     "round": "Seed",
+     "title": "Satellite batteries startup MP Space takes off with $23 million Seed round",
+     "link": "https://www.startupdaily.net/topic/funding/satellite-batteries-startup-mp-space-takes-off-with-23-million-seed-round/",
+     "source": "Startup Daily"
     }
    ]
   }
