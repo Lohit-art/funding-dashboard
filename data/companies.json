@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T18:32:52+00:00",
+ "updated": "2026-10-28T18:39:05+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -11986,10 +11986,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "HIVE, a London-based physical AI company building the intelligence layer for industrial machines, today announced a €13.1 million ($15 million) pre-Series A round to further build its platform, expand its founding team, and scale its commercial deployments.  The round was led by ",
+   "summary": "Hive has raised a $27 million Series B investment from Frontier Growth to expand its marketing platform for the live events industry and accelerate development of new artificial intelligence capabilities. \n The post  Hive Raises $27 Million Series B From Frontier Growth To Scale ",
    "audience": "General / mixed",
    "first_seen": "2026-07-07",
-   "last_seen": "2026-07-07",
+   "last_seen": "2026-10-28",
    "events": [
     {
      "date": "2026-07-07",
@@ -12006,6 +12006,14 @@
      "title": "London-based HIVE raises €13.1 million to build “silicon brain” for industrial machines",
      "link": "https://www.eu-startups.com/2026/07/london-based-hive-raises-e13-1-million-to-build-silicon-brain-for-industrial-machines/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-10-28",
+     "amount": "$27 Million",
+     "round": "Series B",
+     "title": "Hive Raises $27 Million Series B From Frontier Growth To Scale Live Events Marketing Platform",
+     "link": "https://pulse2.com/hive-raises-27-million-series-b-from-frontier-growth-to-scale-live-events-marketing-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -54149,6 +54157,558 @@
      "round": "Seed",
      "title": "Satellite batteries startup MP Space takes off with $23 million Seed round",
      "link": "https://www.startupdaily.net/topic/funding/satellite-batteries-startup-mp-space-takes-off-with-23-million-seed-round/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "numeracle": {
+   "name": "Numeracle",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Numeracle, a McLean, Virginia-based company that verifies businesses and links their identities to the phone numbers they use to contact customers, has raised $28 million from Edison Partners to help businesses whose calls are incorrectly labeled as spam or blocked by phone carri",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$28M",
+     "round": "",
+     "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
+     "link": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "blue-arbor-technologies": {
+   "name": "Blue Arbor Technologies",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Blue Arbor Technologies has raised $10.5 million in Series A funding to advance its RESTORE Neuromuscular Interface System, a platform designed to improve prosthetic control for people with limb loss. The round was led by strategic partner Ottobock, a global provider of prostheti",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$10.5 Million",
+     "round": "Series A",
+     "title": "Blue Arbor Technologies Raises $10.5 Million Series A Led By Ottobock",
+     "link": "https://pulse2.com/blue-arbor-technologies-raises-10-5-million-series-a-led-by-ottobock/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "northstar-security": {
+   "name": "Northstar Security",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Northstar Security has emerged from stealth with $7 million in seed funding to develop its agentic AI platform for identifying and resolving interconnected cybersecurity risks. The round was led by Wing Venture Capital, with participation from MVP, Outliers, and cybersecurity ind",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$7 Million",
+     "round": "Seed",
+     "title": "Northstar Security Raises $7 Million Seed Funding Led By Wing Venture Capital",
+     "link": "https://pulse2.com/northstar-security-raises-7-million-seed-funding-led-by-wing-venture-capital/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "alliant-energy-u-s-department-of-energy": {
+   "name": "Alliant Energy: U.S. Department Of Energy",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The U.S. Department of Energy’s Office of Energy Dominance Financing has closed a $5.1 billion loan package for Alliant Energy to expand power generation and strengthen grid reliability across Iowa and Wisconsin. \n The post  Alliant Energy: U.S. Department Of Energy Closes $5.1 B",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$5.1 Billion",
+     "round": "",
+     "title": "Alliant Energy: U.S. Department Of Energy Closes $5.1 Billion Loan Package",
+     "link": "https://pulse2.com/alliant-energy-u-s-department-of-energy-closes-5-1-billion-loan-package/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ground-up-investing-reaches-6-million-first": {
+   "name": "Ground Up Investing Reaches $6 Million First",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ground Up Investing has reached a $6 million first close for its second impact investment fund, which is targeting $20 million to support agricultural businesses across Africa and Latin America. \n The post  Ground Up Investing Reaches $6 Million First Close For $20 Million Fund 2",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$6 Million",
+     "round": "",
+     "title": "Ground Up Investing Reaches $6 Million First Close For $20 Million Fund 2",
+     "link": "https://pulse2.com/ground-up-investing-reaches-6-million-first-close-for-20-million-fund-2/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "coherence-neuro": {
+   "name": "Coherence Neuro",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Coherence Neuro has raised a $45 million Series A co-led by Founders Fund and The OpenAI Startup Fund to advance technology designed to continuously monitor cancer and eventually enable treatment systems that adapt based on real-time biological data. \n The post  Coherence Neuro R",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$45 Million",
+     "round": "Series A",
+     "title": "Coherence Neuro Raises $45 Million Series A Co-Led By Founders Fund And The OpenAI Startup Fund",
+     "link": "https://pulse2.com/coherence-neuro-raises-45-million-series-a-co-led-by-founders-fund-and-the-openai-startup-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cognitive-credit": {
+   "name": "Cognitive Credit",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Cognitive Credit has secured a $40 million strategic growth investment led by Summit Partners, with continued participation from ETFS Capital, to accelerate global expansion and product development. \n The post  Cognitive Credit Raises $40 Million Strategic Growth Investment Led B",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$40 Million",
+     "round": "Growth",
+     "title": "Cognitive Credit Raises $40 Million Strategic Growth Investment Led By Summit Partners",
+     "link": "https://pulse2.com/cognitive-credit-raises-40-million-strategic-growth-investment-led-by-summit-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "kevel": {
+   "name": "Kevel",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Kevel has raised $52 million in new capital to accelerate development of its artificial intelligence-powered commerce media infrastructure and expand globally. \n The post  Kevel Raises $52 Million To Scale AI-Driven Commerce Media Infrastructure  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$52 Million",
+     "round": "",
+     "title": "Kevel Raises $52 Million To Scale AI-Driven Commerce Media Infrastructure",
+     "link": "https://pulse2.com/kevel-raises-52-million-to-scale-ai-driven-commerce-media-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "deetken-impact-completes-100-million-first": {
+   "name": "Deetken Impact Completes $100 Million First",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Deetken Impact has completed a $100 million first close of its Inclusive Climate Action Fund, advancing the impact investment manager toward a $300 million fundraising target. \n The post  Deetken Impact Completes $100 Million First Close Of Inclusive Climate Action Fund  appeared",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$100 Million",
+     "round": "",
+     "title": "Deetken Impact Completes $100 Million First Close Of Inclusive Climate Action Fund",
+     "link": "https://pulse2.com/deetken-impact-completes-100-million-first-close-of-inclusive-climate-action-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "inovia-capital-holds-200-million-first": {
+   "name": "Inovia Capital Holds $200 Million First",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Inovia Capital has held a $200 million first close for Inovia Venture Fund 6, its latest venture capital fund focused on backing technology companies and emerging frontier technologies. \n The post  Inovia Capital Holds $200 Million First Close For Venture Fund 6  appeared first o",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$200 Million",
+     "round": "",
+     "title": "Inovia Capital Holds $200 Million First Close For Venture Fund 6",
+     "link": "https://pulse2.com/inovia-capital-holds-200-million-first-close-for-venture-fund-6/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "upwind": {
+   "name": "Upwind",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Upwind has raised $400 million in Series C funding at a $3.8 billion valuation as the cloud and AI security company expands its platform for securing increasingly complex enterprise infrastructure and autonomous AI agents. The round was led by Bessemer Venture Partners, with part",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$400 Million",
+     "round": "Series C",
+     "title": "Upwind Raises $400 Million Series C At $3.8 Billion Valuation As Revenue Quadruples",
+     "link": "https://pulse2.com/upwind-raises-400-million-series-c-at-3-8-billion-valuation-as-revenue-quadruples/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "my-grandfather-fell-and-remained-on-the-floor-for-an-entire": {
+   "name": "“My grandfather fell and remained on the floor for an entire",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Magic Vision, an Italian DeepTech startup developing AI and computer vision technologies to monitor and support older people and vulnerable individuals, has closed a €600k funding round. Investors include SixS, the Italian company behind Gecos, a management software platform for ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "€600k",
+     "round": "",
+     "title": "“My grandfather fell and remained on the floor for an entire day” – Magic Vision raises €600k for monitoring tech",
+     "link": "https://www.eu-startups.com/2026/10/my-grandfather-fell-and-remained-on-the-floor-for-an-entire-day-magic-vision-raises-e600k-for-monitoring-tech/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "opinion-scaling-is-the-real-test-of-europe-s-ai-boom": {
+   "name": "OPINION: Scaling is the real test of Europe’s AI boom",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Europe’s AI funding boom is not benefiting every part of the market equally. Recorded Series A–C investment rose by approximately 66% in the first nine months of 2026, yet funding in rounds worth €22.2 million to less than €88.9 million declined by around 8%. This middle segment ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "€22.2 million",
+     "round": "Series A",
+     "title": "OPINION: Scaling is the real test of Europe’s AI boom",
+     "link": "https://www.eu-startups.com/2026/10/opinion-scaling-is-the-real-test-of-europes-ai-boom/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-ap-ventures": {
+   "name": "London’s AP Ventures",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AP Ventures, a London-based independent VC firm investing in early-stage industrial and energy technologies, today announced the final close of AP Ventures Fund III LP (Fund III).  The VC firm has raised €269.62 million ($300 million) in commitments for Fund III from a “diverse g",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "€269.62 million",
+     "round": "",
+     "title": "London’s AP Ventures closes €269.62 million third fund to back early-stage industrial and energy tech startups",
+     "link": "https://www.eu-startups.com/2026/10/londons-ap-ventures-closes-e269-million-third-fund-to-back-early-stage-industrial-and-energy-tech-startups/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "poland-s-autofixer": {
+   "name": "Poland’s Autofixer",
+   "country": "Poland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Autofixer, a Polish online car parts platform, has raised €3 million in venture debt financing to expand further across Europe, develop its platform and grow its team. The financing came from Orbit Capital, a growth-stage venture debt and growth equity firm, whose portfolio inclu",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "€3 million",
+     "round": "Debt",
+     "title": "Poland’s Autofixer raises €3 million in venture debt to scale its online car parts platform",
+     "link": "https://www.eu-startups.com/2026/10/polands-autofixer-raises-e3-million-in-venture-debt-to-scale-its-online-car-parts-platform/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "barcelona-s-artiso": {
+   "name": "Barcelona’s Artiso",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Artiso, a Barcelona-based FashionTech startup building an AI operating system built for fashion teams, has raised more than €3 million in a fully equity pre-Seed round.  Criteria Venture Tech led the round and has supported the company since it emerged from stealth. Swanlaab Vent",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "€3 million",
+     "round": "Pre-Seed",
+     "title": "Barcelona’s Artiso raises over €3 million to scale its AI operating system for fashion teams",
+     "link": "https://www.eu-startups.com/2026/10/barcelonas-artiso-raises-over-e3-million-to-scale-its-ai-operating-system-for-fashion-teams/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "danish-biotech-samplix": {
+   "name": "Danish BioTech Samplix",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Samplix, a Danish BioTech company developing droplet microfluidics technology for functional single-cell analysis, has announced a €25 million first closing of a financing round.  The financing comprises €3 million in new capital and €22 million in shareholder convertible bonds. ",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "€25 million",
+     "round": "",
+     "title": "Danish BioTech Samplix secures €25 million in first close of financing round to scale antibody discovery",
+     "link": "https://www.eu-startups.com/2026/10/danish-biotech-samplix-secures-e25-million-in-first-close-of-financing-round-to-scale-antibody-discovery/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "estonia-s-blackwall": {
+   "name": "Estonia’s Blackwall",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Blackwall, a Tallinn-based cybersecurity company, has raised $100 million in a Series C funding round led by AVP, with participation from existing investors Dawn Capital, MMC Ventures and Tera Ventures. The investment values the company at $2.2 billion. Blackwall will use the fun",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$100M",
+     "round": "Series C",
+     "title": "Estonia’s Blackwall lands $100M at $2.2B valuation to expand web security platform",
+     "link": "https://arcticstartup.com/blackwall-raises-100-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "danish-proptech-startup": {
+   "name": "Danish proptech startup",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "PropTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Copenhagen-based proptech startup Cortas has raised approximately €1.47 million in a pre-seed funding round backed by PSV Tech, JRNY Capital, EIFO and technology entrepreneurs, including the founders of Flatpay and Spirii. Cortas combines property management services with in-hous",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "€1.47 million",
+     "round": "Pre-Seed",
+     "title": "Danish proptech startup raises €1.47 million pre-seed to combine property management and software development",
+     "link": "https://arcticstartup.com/cortas-raises-e1-47-million-pre-seed/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "holiday-tribe-in-talks-to": {
+   "name": "Holiday Tribe In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Traveltech startup Holiday Tribe is in talks to raise around ₹50 Cr (about $5.2 Mn) in a fresh funding round,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "₹50",
+     "round": "",
+     "title": "Exclusive: Holiday Tribe In Talks To Raise ₹50 Cr From RPSG Capital Ventures, Others",
+     "link": "https://inc42.com/buzz/holiday-tribe-in-talks-to-raise-%e2%82%b950-cr-from-rpsg-capital-ventures-others/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "why-indian-ai-founders-are-eyeing-silicon-valley-and-what-th": {
+   "name": "Why Indian AI Founders Are Eyeing Silicon Valley And What Th",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "When AI-powered sales intelligence startup Reo.Dev raised $11.3 Mn in July 2026, its priorities reflected a growing reality for Indian…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$11.3 Mn",
+     "round": "",
+     "title": "Why Indian AI Founders Are Eyeing Silicon Valley And What They Risk Leaving Behind",
+     "link": "https://inc42.com/resources/why-indian-ai-founders-are-eyeing-silicon-valley-and-what-they-risk-leaving-behind/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "qwikbuild": {
+   "name": "QwikBuild",
+   "country": "Japan",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bengaluru-based enterprise AI startup QwikBuild has raised $2.3 Mn (around ₹22 Cr) in a pre-seed funding round led by Japanese…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "events": [
+    {
+     "date": "2026-10-28",
+     "amount": "$2.3 Mn",
+     "round": "Pre-Seed",
+     "title": "Exclusive: QwikBuild Raises $2.3 Mn To Expand Enterprise AI Platform",
+     "link": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "airtree-tops-up-ai-robotics-startup-s-pre-seed-with-another": {
+   "name": "Airtree tops up AI robotics startup’s pre-Seed with another ",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Airtree throws $5m more at Metacognition’s AI robots as Australia fights being a model-hosting backwater.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "events": [
+    {
+     "date": "2026-10-27",
+     "amount": "$5 million",
+     "round": "Pre-Seed",
+     "title": "Airtree tops up AI robotics startup’s pre-Seed with another $5 million",
+     "link": "https://www.startupdaily.net/topic/funding/airtree-tops-up-ai-robotics-startups-pre-seed-with-another-5-million/",
      "source": "Startup Daily"
     }
    ]
