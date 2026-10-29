@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T18:39:05+00:00",
+ "updated": "2026-10-29T18:47:30+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -38544,12 +38544,12 @@
    "category": "Time freedom",
    "sector": "Enterprise SaaS",
    "is_ai": true,
-   "research_based": false,
+   "research_based": true,
    "stage": "new",
-   "summary": "Helsinki-based technology company Volare has secured €7.1 million in new funding through Springvest, with backing from new and existing investors including Maki.vc, to support plans for a second industrial-scale factory and expansion across Europe and beyond. The company converts",
-   "audience": "General / mixed",
+   "summary": "Espoo-based quantum hardware startup Coherence Quantum has raised €2.78 million in a seed funding round led by Helsinki-based Lifeline Ventures, with participation from technology entrepreneur Mårten Mickos. Spun out of Aalto University’s Quantum Computing and Devices group, the ",
+   "audience": "Researchers & scientists",
    "first_seen": "2026-09-15",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-10-29",
    "events": [
     {
      "date": "2026-09-15",
@@ -38573,6 +38573,14 @@
      "round": "",
      "title": "Finnish startup raises €7.1 million and plans second factory after opening 5,000-tonne insect protein plant",
      "link": "https://arcticstartup.com/volare-raises-e7-1-million/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-10-29",
+     "amount": "€2.78 million",
+     "round": "Seed",
+     "title": "Finnish startup secures €2.78 million seed round to tackle quantum computing’s hardware challenges",
+     "link": "https://arcticstartup.com/coherence-quantum-raises-e2-78m-seed/",
      "source": "ArcticStartup"
     }
    ]
@@ -50417,11 +50425,11 @@
    "sector": "SpaceTech",
    "is_ai": true,
    "research_based": false,
-   "stage": "established",
-   "summary": "Oslo-based fintech Neonomics has secured $4 million in new funding from existing shareholders to support its next phase of growth following a strategic refocus that reduced its operating cost base by nearly 50%. The company provides open finance infrastructure, including financia",
+   "stage": "new",
+   "summary": "Norwegian HR tech startup Fronted has raised approximately €1.7 million (NOK 18 million) in a seed round led by Swedish investment firm Kaknäs Invest, with participation from Skagerak Capital, existing investors Sondo, Antler and Play Capital, and new angel investors such as Eiri",
    "audience": "General / mixed",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16",
+   "last_seen": "2026-10-29",
    "events": [
     {
      "date": "2026-10-16",
@@ -50437,6 +50445,14 @@
      "round": "Growth",
      "title": "Norwegian startup secures $4 million to scale open finance and financial data services",
      "link": "https://arcticstartup.com/neonomics-raises-4m/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-10-29",
+     "amount": "€1.7 million",
+     "round": "Seed",
+     "title": "Norwegian startup gets €1.7 million seed to expand global hiring platform",
+     "link": "https://arcticstartup.com/fronted-raises-e1-8m-seed/",
      "source": "ArcticStartup"
     }
    ]
@@ -54710,6 +54726,414 @@
      "title": "Airtree tops up AI robotics startup’s pre-Seed with another $5 million",
      "link": "https://www.startupdaily.net/topic/funding/airtree-tops-up-ai-robotics-startups-pre-seed-with-another-5-million/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "series-b-funding-is-up-but-fewer-deals-are-getting-done": {
+   "name": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Crunchbase data shows that so far this year, investors have poured around $48 billion into financings around the Series B stage, the highest tally in years. Yet round counts are below year-ago levels and are on track for a multiyear low. We take a look at the data.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "$48 billion",
+     "round": "Series B",
+     "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
+     "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "jumbo-series-a-rounds-hiding-the-real-squeeze-on-seed-startu": {
+   "name": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startu",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI megarounds are masking a shrinking Series A market, leaving seed founders facing higher revenue expectations and longer timelines despite larger seed checks. To improve their chances, MGV's Marc Schröder says, founders should size their seed funding around Series A milestones.",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "",
+     "round": "Series A",
+     "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
+     "link": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "installed-building-products": {
+   "name": "Installed Building Products",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Installed Building Products has closed a $250 million increase to its existing Term Loan B, bringing the total outstanding principal amount of the facility to approximately $740 million. \n The post  Installed Building Products Closes $250 Million Incremental Term Loan B  appeared",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "$250 Million",
+     "round": "",
+     "title": "Installed Building Products Closes $250 Million Incremental Term Loan B",
+     "link": "https://pulse2.com/installed-building-products-closes-250-million-incremental-term-loan-b/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "archera": {
+   "name": "Archera",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Archera has raised $15 million in Series C funding to expand its insurance-backed cloud commitment platform as the company surpasses approximately $5.6 billion in annual cloud and AI spending under management. The round was led by Pivot Investment Partners, with participation fro",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "$15 Million",
+     "round": "Series C",
+     "title": "Archera Raises $15 Million Series C Led By Pivot Investment Partners",
+     "link": "https://pulse2.com/archera-raises-15-million-series-c-led-by-pivot-investment-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "kalshi": {
+   "name": "Kalshi",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Kalshi has raised $1 billion in Series G funding at a $40 billion post-money valuation as the prediction market company expands into a broader range of financial products and international markets. The round was co-led by Wellington and Sequoia. Additional investors included Bail",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "$1 Billion",
+     "round": "Series G",
+     "title": "Kalshi Raises $1 Billion Series G At $40 Billion Valuation For Prediction Market Platform",
+     "link": "https://pulse2.com/kalshi-raises-1-billion-series-g-at-40-billion-valuation-for-prediction-market-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tool-that-identifies-ai-generated-material-helps-pixel-syste": {
+   "name": "Tool that identifies AI-generated material helps Pixel Syste",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Swedish AI startup Pixel Systems has raised €2.7 million ($3.1 million) in a Seed round to accelerate their commercial initiatives and continue building the technology that helps identify AI-generated and manipulated images, documents, and other digital material. The round was le",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "€2.7 million",
+     "round": "Seed",
+     "title": "Tool that identifies AI-generated material helps Pixel Systems raise €2.7 million",
+     "link": "https://www.eu-startups.com/2026/10/tool-that-identifies-ai-generated-material-helps-pixel-systems-raise-e2-7-million/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "bleu-robotics": {
+   "name": "Bleu Robotics",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bleu Robotics, a Paris-based startup building AI models for industrial humanoid robots, has raised a €5 million pre-Seed round, to reach its goal of reducing the full humanoid robot deployment process to one hour or shorter. The round was co-led by Contrarian Ventures and OVNI Ca",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "€5 million",
+     "round": "Pre-Seed",
+     "title": "French startup Bleu Robotics secures €5 million to teach humanoid robots new tasks with fewer demonstrations",
+     "link": "https://www.eu-startups.com/2026/10/french-startup-bleu-robotics-secures-e5-million-to-teach-humanoid-robots-new-tasks-with-fewer-demonstrations/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "strollme": {
+   "name": "StrollMe",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "AI Infrastructure",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Strollme, a German provider of children’s mobility on subscription, has secured €22 million in equity and debt financing to support their growth in its existing markets and lay the foundation for future expansion into other European countries. Existing investors including Hanse V",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "€22 million",
+     "round": "Debt",
+     "title": "StrollMe bags €22 million to put more bikes, strollers and car seats into European homes",
+     "link": "https://www.eu-startups.com/2026/10/strollme-bags-e22-million-to-put-more-bikes-strollers-and-car-seats-into-european-homes/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "pieterjan-bouten-s-entourage": {
+   "name": "Pieterjan Bouten’s Entourage",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Entourage, the London-based early-stage VC firm founded by Showpad co-founder and former CEO Pieterjan Bouten, today announced the close of its €100 million second fund, just over two years after launching its first fund in 2024. Entourage Fund II has been backed entirely by entr",
+   "audience": "Consumers",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "€100 million",
+     "round": "",
+     "title": "Pieterjan Bouten’s Entourage closes €100 million second fund after surpassing €75 million target in two weeks",
+     "link": "https://www.eu-startups.com/2026/10/pieterjan-boutens-entourage-closes-e100-million-second-fund-after-surpassing-e75-million-target-in-two-weeks/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "freiburg-s-vuse-xr": {
+   "name": "Freiburg’s VUSE XR",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "VUSE XR, a Freiburg-based startup developing enterprise software for mixed reality training, today announced the closing of a €1.2 million pre-Seed financing round. The round was led by IACD, a Düsseldorf-based business angel network, with additional participation from individual",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "€1.2 million",
+     "round": "Pre-Seed",
+     "title": "EXCLUSIVE: Freiburg’s VUSE XR raises €1.2 million to bring AI-powered mixed reality training to enterprises",
+     "link": "https://www.eu-startups.com/2026/10/exclusive-freiburgs-vuse-xr-raises-e1-2-million-to-bring-ai-powered-mixed-reality-training-to-enterprises/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "braid": {
+   "name": "Braid",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Connection & community",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Braid, a Dutch company that enables enterprises to launch their own branded mobile connectivity, has raised €34.13 million ($38 million) in a Series A funding round. The company also announced its rebrand from Next Communications. The raise marks the company’s first external capi",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "€34.13 million",
+     "round": "Series A",
+     "title": "Profitable Dutch startup Braid raises €34.13 million to help brands launch their own mobile connectivity",
+     "link": "https://www.eu-startups.com/2026/10/profitable-dutch-startup-braid-raises-e34-12-to-help-brands-launch-their-own-mobile-connectivity/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "bijnis-rebrands-as-zorit": {
+   "name": "Bijnis Rebrands As Zorit",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Delhi-based B2B ecommerce startup Bijnis has rebranded as Zorit and raised  ₹27 Cr in a funding round led by Sparrow…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "₹27",
+     "round": "",
+     "title": "Bijnis Rebrands As Zorit, Raises ₹27 Cr For B2B Quick Commerce",
+     "link": "https://inc42.com/buzz/bijnis-rebrands-as-zorit-raises-%e2%82%b927-cr-for-b2b-quick-commerce/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "venttup": {
+   "name": "Venttup",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "For hardware and deeptech startups, the challenge does not end with a working prototype. Moving to commercial production requires manufacturing…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "$3 Mn",
+     "round": "Bridge",
+     "title": "Venttup Raises $3 Mn To Bridge India’s Precision Manufacturing Gap",
+     "link": "https://inc42.com/buzz/venttup-raises-3-mn-to-bridge-indias-precision-manufacturing-gap/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ace-blend": {
+   "name": "Ace Blend",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "D2C nutrition and dietary supplements brand Ace Blend has raised $9.9 Mn (about ₹95 Cr) in a Series A2 funding…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "$9.9 Mn",
+     "round": "Series A2",
+     "title": "Ace Blend Raises $9.9 Mn To Fund Clinical Trials, Expand Nutrition Portfolio",
+     "link": "https://inc42.com/buzz/ace-blend-raises-9-9-mn-to-fund-clinical-trials-expand-nutrition-portfolio/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "feds-to-buy-stake-in-cohere-via-planned-7-billion-series-e": {
+   "name": "Feds to buy stake in Cohere via planned $7-billion Series E ",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The Government of Canada is investing $1.6 billion in the Canadian AI darling. \n The post  Feds to buy stake in Cohere via planned $7-billion Series E at $36-billion valuation  first appeared on  BetaKit .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "$7",
+     "round": "Series E",
+     "title": "Feds to buy stake in Cohere via planned $7-billion Series E at $36-billion valuation",
+     "link": "https://betakit.com/canada-to-invest-up-to-1-6-billion-in-ai-firm-cohere/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "solink": {
+   "name": "Solink",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Ottawa company wants to expand beyond video surveillance into broader business intelligence for the physical world. \n The post  Solink raises more than $100 million USD to help physical stores keep an eye on their business  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "$100 million",
+     "round": "",
+     "title": "Solink raises more than $100 million USD to help physical stores keep an eye on their business",
+     "link": "https://betakit.com/solink-raises-more-than-100-million-usd-to-help-physical-stores-keep-an-eye-on-their-business/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "bot-food": {
+   "name": "Bot Food",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entertainment & play",
+   "sector": "FoodTech / AgTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Repeat AI entrepreneurs behind Wysdom are betting personal context will be key as AI becomes more powerful. \n The post  Bot Food secures $1.5 million to give AI users more control over their data  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "$1.5 million",
+     "round": "",
+     "title": "Bot Food secures $1.5 million to give AI users more control over their data",
+     "link": "https://betakit.com/bot-food-secures-1-5-million-to-give-ai-users-more-control-over-their-data/",
+     "source": "BetaKit"
     }
    ]
   }
