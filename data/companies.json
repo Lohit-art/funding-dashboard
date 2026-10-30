@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:47:30+00:00",
+ "updated": "2026-10-30T18:24:32+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -55134,6 +55134,438 @@
      "title": "Bot Food secures $1.5 million to give AI users more control over their data",
      "link": "https://betakit.com/bot-food-secures-1-5-million-to-give-ai-users-more-control-over-their-data/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "collective": {
+   "name": "Collective",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Collective has raised $100 million in new financing to accelerate development of its AI-native financial operating system for solo entrepreneurs and expand into banking and insurance products. \n The post  Collective Raises $100 Million To Build AI Financial OS For Solo Businesses",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$100 Million",
+     "round": "",
+     "title": "Collective Raises $100 Million To Build AI Financial OS For Solo Businesses",
+     "link": "https://pulse2.com/collective-raises-100-million-to-build-ai-financial-os-for-solo-businesses/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "usd-ai-leads-106-million-gpu-financing-for-nexgen-cloud": {
+   "name": "USD.AI Leads $106 Million GPU Financing For NexGen Cloud",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "USD.AI has led and closed a $106 million senior secured term loan for NexGen Cloud to finance additional GPU capacity in Finland. Silver Point Capital and Victory Park Capital participated alongside USD.AI in the four-year facility. \n The post  USD.AI Leads $106 Million GPU Finan",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$106 Million",
+     "round": "",
+     "title": "USD.AI Leads $106 Million GPU Financing For NexGen Cloud",
+     "link": "https://pulse2.com/usd-ai-leads-106-million-gpu-financing-for-nexgen-cloud/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "crux-labs": {
+   "name": "Crux Labs",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Crux Labs has emerged from stealth with more than $6 million in oversubscribed funding to develop technology that helps enterprises evaluate AI agents against human expertise and continuously improve their performance. Benchstrength and Misneach co-led the round, with participati",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$6 Million",
+     "round": "",
+     "title": "Crux Labs Raises Over $6 Million To Improve AI Agent Performance With Human Judgment",
+     "link": "https://pulse2.com/crux-labs-raises-over-6-million-to-improve-ai-agent-performance-with-human-judgment/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "wabi": {
+   "name": "Wabi",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Wabi has raised $55 million at a $1.25 billion valuation as the personal AI company expands a platform designed around shared experiences between people rather than single-user AI conversations. IVP led the financing. \n The post  Wabi Raises $55 Million At $1.25 Billion Valuation",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$55 Million",
+     "round": "",
+     "title": "Wabi Raises $55 Million At $1.25 Billion Valuation Led By IVP",
+     "link": "https://pulse2.com/wabi-raises-55-million-at-1-25-billion-valuation-led-by-ivp/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "skoka": {
+   "name": "Skoka",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Skoka has raised $21.5 million and submitted a bundled Premarket Tobacco Product Application to the U.S. Food and Drug Administration covering 55 nicotine pouch products. \n The post  Skoka Raises $21.5 Million And Commits $15 Million To FDA Nicotine Pouch Regulatory Program  appe",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$21.5 Million",
+     "round": "",
+     "title": "Skoka Raises $21.5 Million And Commits $15 Million To FDA Nicotine Pouch Regulatory Program",
+     "link": "https://pulse2.com/skoka-raises-21-5-million-and-commits-15-million-to-fda-nicotine-pouch-regulatory-program/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "trashlab": {
+   "name": "TrashLab",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "TrashLab has raised a $12 million growth round to expand its AI-native software platform for waste and recycling operators. Ventana led the financing, with participation from existing investors Bienville Capital, Harlem Capital, and CreativeCo. \n The post  TrashLab Raises $12 Mil",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$12 Million",
+     "round": "Growth",
+     "title": "TrashLab Raises $12 Million To Scale AI-Native Operating System For Waste Haulers",
+     "link": "https://pulse2.com/trashlab-raises-12-million-to-scale-ai-native-operating-system-for-waste-haulers/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "midstream-health": {
+   "name": "Midstream Health",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Midstream Health has raised $20 million in Series A funding to expand its autonomous financial operations platform for U.S. health systems. Valtruis led the round, with continued participation from Andreessen Horowitz, Foundry, and CommonSpirit Ventures. \n The post  Midstream Hea",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$20 Million",
+     "round": "Series A",
+     "title": "Midstream Health Raises $20 Million Series A Led By Valtruis",
+     "link": "https://pulse2.com/midstream-health-raises-20-million-series-a-led-by-valtruis/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "serval": {
+   "name": "Serval",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Serval has raised $150 million in Series C financing at a $3 billion valuation as the AI-native enterprise service management company expands its automation platform across large organizations. Sequoia led the round, which increased Serval’s total funding to $277 million. \n The p",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$150 Million",
+     "round": "Series C",
+     "title": "Serval Raises $150 Million Series C At $3 Billion Valuation Led By Sequoia",
+     "link": "https://pulse2.com/serval-raises-150-million-series-c-at-3-billion-valuation-led-by-sequoia/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "opentrons": {
+   "name": "Opentrons",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Opentrons Labworks has raised $40 million in Series E funding to expand its robotics, software, and data infrastructure for AI-driven scientific experimentation. \n The post  Opentrons Raises $40 Million Series E To Expand AI-Driven Laboratory Automation  appeared first on  Pulse ",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$40 Million",
+     "round": "Series E",
+     "title": "Opentrons Raises $40 Million Series E To Expand AI-Driven Laboratory Automation",
+     "link": "https://pulse2.com/opentrons-raises-40-million-series-e-to-expand-ai-driven-laboratory-automation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "wrapped-health": {
+   "name": "Wrapped Health",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Wrapped Health has raised $2.1 million in pre-seed funding to expand its AI-native infrastructure connecting clinical recommendations with consumer health products and services. The round was co-led by Lightbank and Arteria Capital, the healthcare AI investment firm founded by fo",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$2.1 Million",
+     "round": "Pre-Seed",
+     "title": "Wrapped Health Raises $2.1 Million Pre-Seed Funding To Connect Clinical Care And Consumer Health",
+     "link": "https://pulse2.com/wrapped-health-raises-2-1-million-pre-seed-funding-to-connect-clinical-care-and-consumer-health/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "madrid-s-talky": {
+   "name": "Madrid’s Talky",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Talky Labs, a Spanish startup developing AI-powered technology to automate accounting and financial operations, has raised €1.5 million in a pre-Seed funding round to support team expansion, further product development and improvements to the company’s technical infrastructure. T",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "€1.5 million",
+     "round": "Pre-Seed",
+     "title": "Madrid’s Talky raises €1.5 million to teach AI the unwritten rules of accounting",
+     "link": "https://www.eu-startups.com/2026/10/madrids-talky-raises-e1-5-million-to-teach-ai-the-unwritten-rules-of-accounting/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "paperfoam": {
+   "name": "PaperFoam",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "PaperFoam, a Dutch company that manufactures sustainable, biodegradable, starch-based packaging, has secured a €2 million loan from Invest International to expand its production facility in the Czech Republic and strengthen working capital for its Malaysian and U.S. plants. The H",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "€2 million",
+     "round": "",
+     "title": "PaperFoam secures €2 million loan to scale sustainable packaging made from starch and natural fibres",
+     "link": "https://www.eu-startups.com/2026/10/paperfoam-secures-e2-million-loan-to-scale-sustainable-packaging-made-from-starch-and-natural-fibres/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-easol": {
+   "name": "London’s Easol",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Easol, a London-based experience commerce platform, has closed a €26.78 million ($30 million) Series A extension round, bringing its total raised to date to €53.57 million ($60 million). The round comprises €17.85 million ($20 million) in equity and an €8.92 million ($10 million)",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "€26.78 million",
+     "round": "Series A",
+     "title": "London’s Easol secures €26.78 million Series A extension as it launches AI agents for experience businesses",
+     "link": "https://www.eu-startups.com/2026/10/londons-easol-secures-e26-78-million-series-a-extension-as-it-launches-ai-agents-for-experience-businesses/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-ares-intelligence": {
+   "name": "London’s Ares Intelligence",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ares Intelligence, a London-based startup building what it describes as an evidence-based platform for AI transformation, has secured €2.9 million (£2.48 million) in funding. The round was backed by Creandum and Lakestar, with participation from angels connected to Google DeepMin",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "€2.9 million",
+     "round": "",
+     "title": "EXCLUSIVE: London’s Ares Intelligence raises €2.9 million to turn employee insights into AI adoption plans",
+     "link": "https://www.eu-startups.com/2026/10/exclusive-londons-ares-intelligence-raises-e2-6-million-to-turn-employee-insights-into-ai-adoption-plans/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "manastu-space": {
+   "name": "Manastu Space",
+   "country": "India",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Spacetech startup Manastu Space raised ₹22 Cr ($2.3 Mn) from Gandhi Securities and Investments, the Thacker Legacy Trusts, and a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "₹22",
+     "round": "",
+     "title": "Exclusive: Manastu Space Raises ₹22 Cr In Ongoing Funding Round",
+     "link": "https://inc42.com/buzz/exclusive-manastu-space-raises-%e2%82%b922-cr-in-ongoing-funding-round/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "pine-labs-hits-new-high-ace-blend": {
+   "name": "Pine Labs Hits New High, Ace Blend",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Pine Labs Sees Profits Swell Pine Labs put up a strong show in Q2 FY27. Buoyed by broad-based improvement across…",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$9.9 Mn",
+     "round": "",
+     "title": "Pine Labs Hits New High, Ace Blend Bags $9.9 Mn & More",
+     "link": "https://inc42.com/buzz/pine-labs-hits-new-high-ace-blend-bags-9-9-mn-more/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "smylo-in-talks-to": {
+   "name": "Smylo In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C cat food startup Smylo is in advanced talks to raise around ₹30 Cr (about $3.2 Mn) in a mix…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "₹30",
+     "round": "",
+     "title": "Exclusive: Smylo In Talks To Raise ₹30 Cr To Expand Cat Food Portfolio",
+     "link": "https://inc42.com/buzz/exclusive-smylo-in-talks-to-raise-%e2%82%b930-cr-to-expand-cat-food-portfolio/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "let-s-game-now": {
+   "name": "Let’s Game Now",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The Indian gaming industry has been forced to rethink its growth strategy after the government banned real money gaming (RMG)…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "events": [
+    {
+     "date": "2026-10-29",
+     "amount": "₹30",
+     "round": "Growth",
+     "title": "Let’s Game Now Bags ₹30 Cr To Organise More Esports Tournaments",
+     "link": "https://inc42.com/buzz/lets-game-now-bags-%e2%82%b930-cr-to-organise-more-esports-tournaments/",
+     "source": "Inc42"
     }
    ]
   }
