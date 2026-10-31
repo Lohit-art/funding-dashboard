@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:24:32+00:00",
+ "updated": "2026-10-31T17:29:55+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -55566,6 +55566,222 @@
      "title": "Let’s Game Now Bags ₹30 Cr To Organise More Esports Tournaments",
      "link": "https://inc42.com/buzz/lets-game-now-bags-%e2%82%b930-cr-to-organise-more-esports-tournaments/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "bites": {
+   "name": "Bites",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Learning & growth",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Bites has raised $40 million in Series A funding led by PeakSpan Capital, bringing the company’s total funding to $55 million and providing new capital to expand its AI-native frontline performance platform. Existing investors Vertex Ventures, Horizon Capital, Rittenhouse Venture",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "events": [
+    {
+     "date": "2026-10-31",
+     "amount": "$40 Million",
+     "round": "Series A",
+     "title": "Bites Raises $40 Million Series A To Expand AI-Powered Frontline Training Platform",
+     "link": "https://pulse2.com/bites-raises-40-million-series-a-to-expand-ai-powered-frontline-training-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "broccoli": {
+   "name": "Broccoli",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Broccoli has raised $52 million across its Series A and Series B funding rounds, both led by Khosla Ventures, with participation from Y Combinator and Operator Partners. The two rounds were completed just nine months apart as Broccoli expands its AI platform for home-services bus",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "events": [
+    {
+     "date": "2026-10-31",
+     "amount": "$52 Million",
+     "round": "Series A",
+     "title": "Broccoli Raises $52 Million Across Series A And Series B Led By Khosla Ventures",
+     "link": "https://pulse2.com/broccoli-raises-52-million-across-series-a-and-series-b-led-by-khosla-ventures/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "general-compute": {
+   "name": "General Compute",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "General Compute has raised $100 million in Series A funding co-led by Blackbird and Abstract to build a heterogeneous AI inference cloud using specialized chips from Cerebras, SambaNova, Positron AI, and other hardware providers. Fuse Venture Partners, Village Global, Bold Capita",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "events": [
+    {
+     "date": "2026-10-31",
+     "amount": "$100 Million",
+     "round": "Series A",
+     "title": "General Compute Raises $100 Million Series A To Build Inference Cloud For Alternative AI Chips",
+     "link": "https://pulse2.com/general-compute-raises-100-million-series-a-to-build-inference-cloud-for-alternative-ai-chips/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fragment": {
+   "name": "Fragment",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Fragment has launched with $56 million in total funding to build AI software that automates complex procurement and payment workflows for large enterprises. The financing includes a Series A led by 8VC and a seed round co-led by General Catalyst and A*. Angel investors include Ro",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "events": [
+    {
+     "date": "2026-10-31",
+     "amount": "$56 Million",
+     "round": "Series A",
+     "title": "Fragment Raises $56 Million To Automate Complex Enterprise Procurement Work",
+     "link": "https://pulse2.com/fragment-raises-56-million-to-automate-complex-enterprise-procurement-work/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "dulo": {
+   "name": "Dulo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Dulo, an artificial intelligence startup co-founded by Sebastian Thrun and Adrian Aoun, has raised $130 million in seed funding to develop what the company describes as an Engineering Superintelligence focused on hardware design, according to The Information. \n The post  Dulo Rai",
+   "audience": "General / mixed",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "events": [
+    {
+     "date": "2026-10-31",
+     "amount": "$130 Million",
+     "round": "Seed",
+     "title": "Dulo Raises $130 Million Seed Funding To Build Engineering Superintelligence",
+     "link": "https://pulse2.com/dulo-raises-130-million-seed-funding-to-build-engineering-superintelligence/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "capgrid": {
+   "name": "CapGrid",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Delhi NCR-based B2B manufacturing startup CapGrid has raised ₹50 Cr (about $5.2 Mn) in a Pre-Series B round to develop…",
+   "audience": "Enterprises",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "events": [
+    {
+     "date": "2026-10-31",
+     "amount": "₹50",
+     "round": "Pre-Series B",
+     "title": "CapGrid Secures ₹50 Cr Funding To Deepen Its Manufacturing Play",
+     "link": "https://inc42.com/buzz/capgrid-secures-%e2%82%b950-cr-funding-to-deepen-its-manufacturing-play/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "numour-in-talks-to": {
+   "name": "Numour In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Delhi NCR-based D2C skincare brand Numour is in talks to raise nearly $3.1 Mn (about ₹30 Cr) in a funding…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "events": [
+    {
+     "date": "2026-10-31",
+     "amount": "$3.1 Mn",
+     "round": "",
+     "title": "Exclusive: D2C Skincare Brand Numour In Talks To Raise $3.1 Mn From Sharrp Ventures",
+     "link": "https://inc42.com/buzz/numour-in-talks-to-raise-3-1-mn-from-sharrp-ventures/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "upliance-ai-in-talks-to": {
+   "name": "upliance.ai In Talks To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "D2C home appliance startup upliance.ai is in advanced talks to raise $3 Mn to $4 Mn (around ₹28-₹37 Cr) in…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31",
+   "events": [
+    {
+     "date": "2026-10-31",
+     "amount": "$4 Mn",
+     "round": "",
+     "title": "Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion",
+     "link": "https://inc42.com/buzz/exclusive-upliance-ai-in-talks-to-raise-up-to-4-mn-for-rd-global-expansion-2/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "bloomsco": {
+   "name": "Bloomsco",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Learning & growth",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Montréal startup was co-founded by former Pressbooks and Dialogue leaders. \n The post  Bloomsco raises $1 million pre-seed from BDC, Telegraph for military training platform  first appeared on  BetaKit .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-10-30",
+   "last_seen": "2026-10-30",
+   "events": [
+    {
+     "date": "2026-10-30",
+     "amount": "$1 million",
+     "round": "Pre-Seed",
+     "title": "Bloomsco raises $1 million pre-seed from BDC, Telegraph for military training platform",
+     "link": "https://betakit.com/bloomsco-raises-1-million-pre-seed-from-bdc-telegraph-for-military-training-platform/",
+     "source": "BetaKit"
     }
    ]
   }
