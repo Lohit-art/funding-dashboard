@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:15:24+00:00",
+ "updated": "2026-11-02T22:08:44+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -38593,11 +38593,11 @@
    "sector": "Climate / Energy",
    "is_ai": true,
    "research_based": true,
-   "stage": "emerging",
-   "summary": "Stockholm-based IPercept has raised $16.5 million in a Series A round co-led by Isogon Ventures and 2150, with existing investors Luminar Ventures, RunwayFBU, J12 Ventures, and AI.Fund also participating. Spun out of KTH Royal Institute of Technology, IPercept develops patented p",
+   "stage": "new",
+   "summary": "Stockholm-based AI startup Pixel Systems has raised $3.1 million in a seed round led by Unconventional Ventures, at a pre-money valuation of approximately $21 million. The company develops digital forensics technology to detect AI-generated and manipulated digital content. Its pl",
    "audience": "Researchers & scientists",
    "first_seen": "2026-09-15",
-   "last_seen": "2026-09-29",
+   "last_seen": "2026-11-02",
    "events": [
     {
      "date": "2026-09-15",
@@ -38621,6 +38621,14 @@
      "round": "Series A",
      "title": "Swedish startup raises $16.5 million to make CNC machines more intelligent",
      "link": "https://arcticstartup.com/ipercept-raises-16-5m-series-a/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-11-02",
+     "amount": "$3.1 million",
+     "round": "Seed",
+     "title": "Swedish startup raises $3.1 million seed to verify AI-generated and manipulated content",
+     "link": "https://arcticstartup.com/pixel-systems-raises-3-1-million-seed/",
      "source": "ArcticStartup"
     }
    ]
@@ -53562,10 +53570,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "London/NY-based Nevis, an AI OS for wealth management, today announced its €62 million ($70 million) Series B in order to expand agent capabilities, deepen integrations across the custodian and WealthTech ecosystem, and grow its product and GTM teams. The round was led by EQT Ven",
+   "summary": "Nevis has raised a $70 million Series B led by EQT Ventures, bringing the wealth management AI company’s total funding to $110 million since its founding two years ago. The round also included new strategic investors The Charles Schwab Corporation and QuantumLight, the investment",
    "audience": "General / mixed",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26",
+   "last_seen": "2026-11-02",
    "events": [
     {
      "date": "2026-10-26",
@@ -53574,6 +53582,14 @@
      "title": "WealthTech startup Nevis secures €62 million to automate financial advisory workflows with AI",
      "link": "https://www.eu-startups.com/2026/10/wealthtech-startup-nevis-secures-e62-million-to-automate-financial-advisory-workflows-with-ai/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-11-02",
+     "amount": "$70 Million",
+     "round": "Series B",
+     "title": "Nevis Raises $70 Million Series B As Assets On Platform Reach $700 Billion",
+     "link": "https://pulse2.com/nevis-raises-70-million-series-b-as-assets-on-platform-reach-700-billion/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -55782,6 +55798,414 @@
      "title": "Bloomsco raises $1 million pre-seed from BDC, Telegraph for military training platform",
      "link": "https://betakit.com/bloomsco-raises-1-million-pre-seed-from-bdc-telegraph-for-military-training-platform/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "town-lane": {
+   "name": "Town Lane",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Town Lane has closed Town Lane Real Estate Opportunities Fund II at its $1.9 billion hard cap, giving the real estate investment firm additional capital to pursue opportunities across U.S. commercial real estate and throughout the capital stack. \n The post  Town Lane Raises $1.9 ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "$1.9 Billion",
+     "round": "",
+     "title": "Town Lane Raises $1.9 Billion For Second Real Estate Investment Fund",
+     "link": "https://pulse2.com/town-lane-raises-1-9-billion-for-second-real-estate-investment-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "machenta": {
+   "name": "Machenta",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Learning & growth",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Machenta has raised $40 million in seed funding to develop and scale robot foundation models designed to let robots learn new physical tasks from a single demonstration. The round was led by Creandum and Union Square Ventures and represents the largest seed financing raised by a ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "$40 Million",
+     "round": "Seed",
+     "title": "Machenta Raises $40 Million Seed Round To Build Instant-Learning Robot Foundation Models",
+     "link": "https://pulse2.com/machenta-raises-40-million-seed-round-to-build-instant-learning-robot-foundation-models/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "hyperbolic": {
+   "name": "Hyperbolic",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Hyperbolic has raised $30 million in Series A1 funding led by Walden Catalyst to expand its platform for aggregating, orchestrating, and trading AI compute capacity across a fragmented global GPU market. The round also included Dell Technologies Capital, General Catalyst, Vista E",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "$30 Million",
+     "round": "Series A1",
+     "title": "Hyperbolic Raises $30 Million Series A1 To Build Global AI Compute Grid",
+     "link": "https://pulse2.com/hyperbolic-raises-30-million-series-a1-to-build-global-ai-compute-grid/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pif-and-aramco": {
+   "name": "PIF And Aramco",
+   "country": "Saudi Arabia",
+   "region": "Middle East",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Saudi Arabia’s Public Investment Fund and Aramco have completed a transaction that gives Aramco a 49% stake in HUMAIN while PIF retains 51% ownership, accelerating the artificial intelligence company’s global expansion plans. \n The post  PIF And Aramco Close HUMAIN Transaction Wi",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "$2.6 Billion",
+     "round": "",
+     "title": "PIF And Aramco Close HUMAIN Transaction With $2.6 Billion Cash Contribution And 49% Aramco Stake",
+     "link": "https://pulse2.com/pif-and-aramco-close-humain-transaction-with-2-6-billion-cash-contribution-and-49-aramco-stake/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ae-industrial-partners": {
+   "name": "AE Industrial Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "AE Industrial Partners has closed an approximately $850 million single-asset continuation vehicle in connection with the recapitalization of portfolio company Blue Raven, providing additional capital to support the defense distribution platform’s next phase of growth. \n The post ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "$850 Million",
+     "round": "Growth",
+     "title": "AE Industrial Partners Closes $850 Million Blue Raven Continuation Vehicle Led By Lexington Partners",
+     "link": "https://pulse2.com/ae-industrial-partners-closes-850-million-blue-raven-continuation-vehicle-led-by-lexington-partners/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "looking-for-a-job-estonia-s-roleo-just": {
+   "name": "Looking for a job? Estonia’s Roleo just",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Roleo, an Estonian personal AI career agent, has raised €2.9 million to expand across Europe and help tech professionals discover career opportunities – without the hassle of searching and applying. The round was led by the Baltic venture capital firm Practica Capital and include",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "€2.9 million",
+     "round": "",
+     "title": "Looking for a job? Estonia’s Roleo just raised €2.9 million to help you on your journey",
+     "link": "https://www.eu-startups.com/2026/11/looking-for-a-job-estonias-roleo-just-raised-e2-9-million-to-help-you-on-your-journey/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "swedish-vc-creandum": {
+   "name": "Swedish VC Creandum",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Stockholm-based venture capital firm Creandum has closed a €668 million ($750 million) fund, Creandum VIII, to back early-stage technology startups from pre-Seed to Series A. The fund, its largest to date, will support approximately 30 investments over the next two years, with a ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "€668 million",
+     "round": "Pre-Seed",
+     "title": "Swedish VC Creandum closes €668 million CVIII fund – its largest to date",
+     "link": "https://www.eu-startups.com/2026/11/swedish-vc-creandum-closes-e668-million-cviii-fund-its-largest-to-date/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "hypersonica": {
+   "name": "Hypersonica",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Hypersonica, the British-German defence company developing sovereign hypersonic deep-strike systems for Europe and its allies, has secured €100 million in Series B funding. The Series B funding round was co-led by Lightspeed and General Catalyst, with continued participation from",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "€100 million",
+     "round": "Series B",
+     "title": "Hypersonica secures €100 million to boost sovereign hypersonic deep-strike systems for Europe and its allies",
+     "link": "https://www.eu-startups.com/2026/11/hypersonica-secures-e100-million-to-boost-sovereign-hypersonic-deep-strike-systems-for-europe-and-its-allies/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "gallium-defence-emerges-from-stealth-with-7-1-million-to-sc": {
+   "name": "Gallium Defence emerges from stealth with €7.1 million to sc",
+   "country": "France",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Gallium Defence, a Paris-based startup working on drone detection at a fraction of the cost of legacy systems, has emerged from stealth with a €7.1 million Seed funding round. The round was led by Keen Venture Partners and 360 Capital, with participation from Omnes Capital and Po",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "€7.1 million",
+     "round": "Seed",
+     "title": "Paris-based Gallium Defence emerges from stealth with €7.1 million to scale affordable drone detection",
+     "link": "https://www.eu-startups.com/2026/11/paris-based-gallium-defense-emerges-from-stealth-with-e7-1-million-to-scale-affordable-drone-detection/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "munich-s-marble-cognition": {
+   "name": "Munich’s Marble Cognition",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Marble Cognition (Marble), a Munich-based startup building AI coworkers that understand how work is executed to optimise and automate business operations, has raised €3.35 million ($3.75 million) in a pre-Seed round.  The round was co-led by Heartcore and Seedcamp, with participa",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "€3.35 million",
+     "round": "Pre-Seed",
+     "title": "Munich’s Marble Cognition raises €3.35 million to build AI coworkers that learn business processes before automating them",
+     "link": "https://www.eu-startups.com/2026/11/munichs-marble-cognition-raises-e3-35-million-to-build-ai-coworkers-that-learn-business-processes-before-automating-them/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "seamoretech": {
+   "name": "Seamoretech",
+   "country": "Portugal",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Seamoretech, a Porto-based CleanTech startup that converts desalination brine into freshwater and critical minerals, has secured €1.1 million in the first closing of its Seed round. The round saw participation from Rypples, 7Seas Capital, and Crédito Agrícola, bringing together i",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "€1.1 million",
+     "round": "Seed",
+     "title": "Porto’s female-led startup Seamoretech secures €1.1 million to turn desalination brine into freshwater and critical minerals",
+     "link": "https://www.eu-startups.com/2026/11/portos-seamoretech-secures-e1-1-million-to-turn-desalination-brine-into-freshwater-and-critical-minerals/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "former-veriff-and-wise-executives": {
+   "name": "Former Veriff and Wise executives",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Tallinn-based AI career platform Roleo has raised €2.9 million in a funding round led by Baltic venture capital firm Practica Capital, with participation from Nordic investor Inventure. Founded by Veriff co-founder Janer Gorohhov and former Wise engineer Vahur Hansen, Roleo devel",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "€2.9 million",
+     "round": "",
+     "title": "Former Veriff and Wise executives gets €2.9 million for AI-powered career platform",
+     "link": "https://arcticstartup.com/roleo-raises-e2-9-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "swedish-sortrace": {
+   "name": "Swedish Sortrace",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Stockholm-based waste technology startup Sortrace has raised approximately $800,000 in a funding round led by Almi Invest, with participation from Antler, Gorilla Capital and several business angels. The company uses camera sensors and AI-powered computer vision on waste collecti",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "$800,000",
+     "round": "",
+     "title": "Swedish Sortrace secures funding to help municipalities improve household waste sorting",
+     "link": "https://arcticstartup.com/sortrace-raises-800k/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "clinics-on-cloud": {
+   "name": "Clinics On Cloud",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Health tech startup Clinics On Cloud has raised ₹120 Cr (around $12.5 Mn) in its Series A funding round from…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "₹120",
+     "round": "Series A",
+     "title": "Clinics On Cloud Bags ₹120 Cr To Take Its Health ATMs Global",
+     "link": "https://inc42.com/buzz/clinics-on-cloud-bags-%e2%82%b9120-cr-to-take-its-health-atms-global/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "two-point-o": {
+   "name": "Two Point O",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "India’s clean energy transition is attracting significant capital, but much of it is flowing into utility-scale projects. Smaller installations across…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "$10 Mn",
+     "round": "Bridge",
+     "title": "Two Point O Bags $10 Mn To Bridge The Financing Gap In Clean Energy",
+     "link": "https://inc42.com/buzz/two-point-o-bags-10-mn-to-bridge-the-financing-gap-in-clean-energy/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "hey-cleo": {
+   "name": "Hey Cleo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ten Black-led startups from across Canada pitched to more than 300 guests at sixth annual summit.  \n The post  Hey Cleo wins $100,000 investment at DMZ’s Black Innovation Summit  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "$100,000",
+     "round": "",
+     "title": "Hey Cleo wins $100,000 investment at DMZ’s Black Innovation Summit",
+     "link": "https://betakit.com/hey-cleo-wins-100000-investment-at-dmzs-black-innovation-summit/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "victorian-auto-manufacturer": {
+   "name": "Victorian auto manufacturer",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Clutch grabs $6.77m to build PowerNet portable batteries, but plug-in home use still breaks the rules.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01",
+   "events": [
+    {
+     "date": "2026-11-01",
+     "amount": "$6.77 million",
+     "round": "",
+     "title": "Victorian auto manufacturer scores $6.77 million from ARENA to make portable batteries",
+     "link": "https://www.startupdaily.net/topic/climate-tech/victorian-auto-manufacturer-scores-6-77-million-from-arena-to-make-portable-batteries/",
+     "source": "Startup Daily"
     }
    ]
   }
