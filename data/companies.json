@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T22:08:44+00:00",
+ "updated": "2026-11-03T19:57:16+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -50434,10 +50434,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Norwegian HR tech startup Fronted has raised approximately €1.7 million (NOK 18 million) in a seed round led by Swedish investment firm Kaknäs Invest, with participation from Skagerak Capital, existing investors Sondo, Antler and Play Capital, and new angel investors such as Eiri",
+   "summary": "Trondheim-based biotech company Vitroscope has raised $7 million in a financing package comprising a $5 million seed round co-led by Cerberus Ventures and YZR Capital, alongside $2 million in non-dilutive funding from the Research Council of Norway. Arcas Ventures, Golden Egg Che",
    "audience": "General / mixed",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-29",
+   "last_seen": "2026-11-03",
    "events": [
     {
      "date": "2026-10-16",
@@ -50461,6 +50461,14 @@
      "round": "Seed",
      "title": "Norwegian startup gets €1.7 million seed to expand global hiring platform",
      "link": "https://arcticstartup.com/fronted-raises-e1-8m-seed/",
+     "source": "ArcticStartup"
+    },
+    {
+     "date": "2026-11-03",
+     "amount": "$7 million",
+     "round": "Seed",
+     "title": "Norwegian startup secures $7 million to scale technology for studying living human tissue",
+     "link": "https://arcticstartup.com/vitroscope-raises-7m/",
      "source": "ArcticStartup"
     }
    ]
@@ -55978,10 +55986,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Hypersonica, the British-German defence company developing sovereign hypersonic deep-strike systems for Europe and its allies, has secured €100 million in Series B funding. The Series B funding round was co-led by Lightspeed and General Catalyst, with continued participation from",
+   "summary": "Hypersonica has raised €100 million in Series B funding to accelerate development of sovereign hypersonic deep-strike systems for Europe and allied countries. The financing was co-led by Lightspeed and General Catalyst, with continued participation from existing investors includi",
    "audience": "Government & public sector",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-03",
    "events": [
     {
      "date": "2026-11-02",
@@ -55990,6 +55998,14 @@
      "title": "Hypersonica secures €100 million to boost sovereign hypersonic deep-strike systems for Europe and its allies",
      "link": "https://www.eu-startups.com/2026/11/hypersonica-secures-e100-million-to-boost-sovereign-hypersonic-deep-strike-systems-for-europe-and-its-allies/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-11-03",
+     "amount": "€100 Million",
+     "round": "Series B",
+     "title": "Hypersonica Raises €100 Million Series B To Develop European Hypersonic Deep-Strike Systems",
+     "link": "https://pulse2.com/hypersonica-raises-e100-million-series-b-to-develop-european-hypersonic-deep-strike-systems/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -56206,6 +56222,438 @@
      "title": "Victorian auto manufacturer scores $6.77 million from ARENA to make portable batteries",
      "link": "https://www.startupdaily.net/topic/climate-tech/victorian-auto-manufacturer-scores-6-77-million-from-arena-to-make-portable-batteries/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "trajectory": {
+   "name": "Trajectory",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The one-year-old startup is now valued at $300 million.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "$45M",
+     "round": "",
+     "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+     "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "deal-ever-lifts-global-venture-funding-to-59b-in-october": {
+   "name": "Deal Ever Lifts Global Venture Funding To $59B In October",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Global venture funding in October totaled $59 billion, a 45% jump from a year earlier, per Crunchbase data, in large part due to a record-setting $15.9 billion funding round for China’s DeepSeek.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "$59B",
+     "round": "",
+     "title": "China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October",
+     "link": "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "spendrule": {
+   "name": "SpendRule",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "SpendRule has raised $4 million in seed funding led by Mark Cuban’s Radical Investments, with participation from Zeal Capital Partners, bringing the AI contract enforcement company’s total funding to $6 million. \n The post  SpendRule Raises $4 Million Seed Round Led By Mark Cuban",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "$4 Million",
+     "round": "Seed",
+     "title": "SpendRule Raises $4 Million Seed Round Led By Mark Cuban’s Radical Investments",
+     "link": "https://pulse2.com/spendrule-raises-4-million-seed-round-led-by-mark-cubans-radical-investments/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sunshine-buns": {
+   "name": "Sunshine Buns",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Sunshine Buns has raised $7 million in Series A funding as the premium frozen cinnamon roll brand expands its retail footprint with a nationwide launch at Target. The Utah-based company is rolling out at participating Target stores across the U.S., building on earlier expansion i",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "$7 Million",
+     "round": "Series A",
+     "title": "Sunshine Buns Raises $7 Million Series A And Expands Nationwide At Target",
+     "link": "https://pulse2.com/sunshine-buns-raises-7-million-series-a-and-expands-nationwide-at-target/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nphase": {
+   "name": "nPhase",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "nPhase has raised $30 million in Series D funding led by Viking Global Investors to expand its AI-native clinical data platform for pharmaceutical companies and contract research organizations. The financing marks nPhase’s first equity raise since 2017 and will support the compan",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "$30 Million",
+     "round": "Series D",
+     "title": "nPhase Raises $30 Million Series D Led By Viking Global Investors To Expand AI-Native Clinical Data Platform",
+     "link": "https://pulse2.com/nphase-raises-30-million-series-d-led-by-viking-global-investors-to-expand-ai-native-clinical-data-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "carelumi": {
+   "name": "CareLumi",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "CareLumi has raised $2.5 million in an oversubscribed pre-seed financing round to expand its platform for verifying artificial intelligence, automated workflows, and software used across healthcare organizations. The round was led by Izou Partners, with participation from Fifth S",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "$2.5 Million",
+     "round": "Pre-Seed",
+     "title": "CareLumi Raises $2.5 Million Pre-Seed Round To Build Verification Layer For Healthcare AI",
+     "link": "https://pulse2.com/carelumi-raises-2-5-million-pre-seed-round-to-build-verification-layer-for-healthcare-ai/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ease": {
+   "name": "EASE",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "EASE Holdings has raised $9.5 million in additional equity from AAFC Group to expand its medical equipment-as-a-service platform in South Africa and Ghana. The new investment brings EASE’s total equity funding to $24 million and, together with its existing debt facilities, will s",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "$9.5 Million",
+     "round": "Debt",
+     "title": "EASE Raises $9.5 Million To Expand AI-Enabled Medical Imaging And Surgical Robotics In South Africa And Ghana",
+     "link": "https://pulse2.com/ease-raises-9-5-million-to-expand-ai-enabled-medical-imaging-and-surgical-robotics-in-south-africa-and-ghana/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "roleo": {
+   "name": "Roleo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Consumer Apps",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Roleo has raised €2.9 million in funding to expand its personal AI career agent for technology professionals across Europe, bringing the company’s total funding to €3.46 million. The round was led by Practica Capital, with participation from Inventure. \n The post  Roleo Raises €2",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "€2.9 Million",
+     "round": "",
+     "title": "Roleo Raises €2.9 Million To Expand Personal AI Career Agent Across Europe",
+     "link": "https://pulse2.com/roleo-raises-e2-9-million-to-expand-personal-ai-career-agent-across-europe/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tallia": {
+   "name": "Tallia",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "London-based AI startup Tallia, formerly known as Revax, has secured €4 million ($4.5 million) in Seed funding to expand its AI-powered research and drafting platform for tax and accountancy professionals. The round was co-led by Outward VC and the Institute of Chartered Accounta",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "€4 million",
+     "round": "Seed",
+     "title": "Tallia raises €4 million to bring AI-powered research and review to tax firms",
+     "link": "https://www.eu-startups.com/2026/11/london-based-tallia-raises-e4-million-to-bring-ai-powered-research-and-review-to-tax-firms/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "turning-pollution-into-everyday-products-southampton-s-vir": {
+   "name": "Turning pollution into everyday products – Southampton’s Vir",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Viridi, a British DeepTech that enables the transformation of waste carbon dioxide into chemical products, has closed a €2.6 million (£2.2 million) round to scale their technology, strengthen its team and support its expansion into Asia and the US. The round was led by Odyssey Ve",
+   "audience": "Consumers",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "€2.6 million",
+     "round": "",
+     "title": "Turning pollution into everyday products – Southampton’s Virdi raises €2.6 million to transform waste",
+     "link": "https://www.eu-startups.com/2026/11/turning-pollution-into-everyday-products-southamptons-virdi-raises-e2-6-million-to-transform-waste/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "evertrue-capital": {
+   "name": "Evertrue Capital",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "British VC firm Evertrue Capital, the debut fund of Yvonne Bajela, has closed at €15 million ($17 million) aiming to invest €299-€599k (£250k–£500k) at pre-Seed in founders building frontier technologies primarily in the UK and Europe. The fund is backed by Phoenix Court through ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "€15 million",
+     "round": "Pre-Seed",
+     "title": "Evertrue Capital raises €15 million debut fund backed by British Business Bank and Phoenix Court",
+     "link": "https://www.eu-startups.com/2026/11/4-evertrue-capital-raises-e15-million-debut-fund-backed-by-british-business-bank-and-phoenix-court/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "conlio": {
+   "name": "Conlio",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Conlio, a German AI-powered financial operations platform for road freight forwarders, today announces a €6.4 million fundraise to expand across Europe – accelerating the automation of financial systems across freight. The fundraise was led by Piton Capital, with participation fr",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "€6.4 million",
+     "round": "",
+     "title": "FreightTech startup Conlio secures €6.4 million to expand AI-powered financial automation across Europe",
+     "link": "https://www.eu-startups.com/2026/11/freighttech-startup-conlio-secures-e6-4-million-to-expand-ai-powered-financial-automation-across-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "following-austria-s-first-commercial-satellite-launch-tumbl": {
+   "name": "Following Austria’s first commercial satellite launch, Tumbl",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "SpaceTech company Tumbleweed has raised €6.9 million, allegedly the largest SpaceTech Seed round ever raised in Austria, four months after the startup put the country’s first commercial satellite in orbit. The round was led by PactVC, with participation from Vanagon Ventures, ear",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "€6.9 million",
+     "round": "Seed",
+     "title": "Following Austria’s first commercial satellite launch, Tumbleweed raises €6.9 million to accelerate space missions",
+     "link": "https://www.eu-startups.com/2026/11/following-austrias-first-commercial-satellite-launch-tumbleweed-raises-e6-9-million-to-accelerate-space-missions/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "solo-vc-robin-capital": {
+   "name": "Solo VC Robin Capital",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Berlin-based VC firm Robin Capital has closed its second €15 million fund, bringing total commitments across its two early-stage funds to €30 million. The new fund, Robin Capital Fund II, follows the firm’s first €15 million vehicle closed in 2024. It has already made 17 investme",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "€15 million",
+     "round": "",
+     "title": "Solo VC Robin Capital closes €15 million second fund to back AI, robotics and space startups",
+     "link": "https://www.eu-startups.com/2026/11/solo-vc-robin-capital-closes-e15-million-second-fund-to-back-ai-robotics-and-space-startups/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "creandum": {
+   "name": "Creandum",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Creandum has closed its eighth fund at $750 million to invest in early-stage technology companies from pre-seed to Series A, as the European venture capital firm expands its global reach and puts artificial intelligence at the centre of its investment and operational strategy. Th",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "$750 million",
+     "round": "Pre-Seed",
+     "title": "Creandum closes $750 million eighth fund to back early-stage technology companies",
+     "link": "https://arcticstartup.com/creandum-closes-750m-eighth-fund/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "giva": {
+   "name": "GIVA",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bengaluru-based D2C jewellery brand GIVA has raised ₹975 Cr (about $103 Mn) in a funding round led by Multiples Alternate…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "₹975",
+     "round": "",
+     "title": "GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27",
+     "link": "https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "nuuk-to": {
+   "name": "Nuuk To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C home appliances brand Nuuk is raising around ₹100 Cr (about $10.5 Mn) in a funding round led by Wipro…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "₹100",
+     "round": "",
+     "title": "Exclusive: Nuuk To Raise ₹100 Cr From Wipro Consumer Care Ventures, RPSG At ₹500 Cr Valuation",
+     "link": "https://inc42.com/buzz/nuuk-to-raise-%e2%82%b9100-cr-from-wipro-consumer-care-ventures-rpsg-at-%e2%82%b9500-cr-valuation/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "powerup-money": {
+   "name": "PowerUp Money",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bengaluru-based wealthtech startup PowerUp Money has raised $10 Mn (₹95 Cr) in a fresh funding round led by Flourish Ventures,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-02",
+   "last_seen": "2026-11-02",
+   "events": [
+    {
+     "date": "2026-11-02",
+     "amount": "$10 Mn",
+     "round": "",
+     "title": "PowerUp Money Raises $10 Mn To Expand Wealth Management Services",
+     "link": "https://inc42.com/buzz/powerup-money-raises-10-mn-to-expand-wealth-management-services/",
+     "source": "Inc42"
     }
    ]
   }
