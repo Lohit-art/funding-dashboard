@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:57:16+00:00",
+ "updated": "2026-11-04T20:16:35+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -56654,6 +56654,374 @@
      "title": "PowerUp Money Raises $10 Mn To Expand Wealth Management Services",
      "link": "https://inc42.com/buzz/powerup-money-raises-10-mn-to-expand-wealth-management-services/",
      "source": "Inc42"
+    }
+   ]
+  },
+  "ted-schlein-s-ballistic-ventures-seeks-490m-for-new-funds-a": {
+   "name": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds a",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "events": [
+    {
+     "date": "2026-11-03",
+     "amount": "$490M",
+     "round": "",
+     "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+     "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "most-venture-capital-is-going-to-companies-that-are-founded": {
+   "name": "Most Venture Capital Is Going To Companies That Are Founded ",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "More than half of all seed- through growth-stage venture capital raised in the U.S. so far in 2026 went to seven companies founded or led by men who are already billionaires. Together, these companies raised more than $260 billion in equity funding in the first 10 months of the y",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "$260 billion",
+     "round": "Seed",
+     "title": "Most Venture Capital Is Going To Companies That Are Founded Or Led By Billionaires",
+     "link": "https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "specific-biologics": {
+   "name": "Specific Biologics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Specific Biologics, a biotechnology company developing precision gene-editing therapies, has completed an oversubscribed $35 million Series A financing round led by Hatteras Venture Partners. Existing investors Lumira Ventures and adMare BioInnovations participated alongside new ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "$35 Million",
+     "round": "Series A",
+     "title": "Specific Biologics Raises $35 Million Series A Led By Hatteras Venture Partners For ALS Gene-Editing Therapy",
+     "link": "https://pulse2.com/specific-biologics-raises-35-million-series-a-led-by-hatteras-venture-partners-for-als-gene-editing-therapy/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bit-bio": {
+   "name": "bit.bio",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "bit.bio, a Cambridge, UK-based biotechnology company specializing in human cell programming, has raised $25 million in Series D funding to expand its portfolio of human cell models and meet growing demand from pharmaceutical companies, biotechnology businesses, and research organ",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "$25 Million",
+     "round": "Series D",
+     "title": "bit.bio Raises $25 Million In Series D Funding As Human Cell Model Demand Surges 76%",
+     "link": "https://pulse2.com/bit-bio-raises-25-million-in-series-d-funding-as-human-cell-model-demand-surges-76/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "eloelo-group": {
+   "name": "EloElo Group",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Microdrama platform Story TV’s parent EloElo Group has raised $80 Mn (nearly ₹756 Cr) in a Series C funding round…",
+   "audience": "Consumers",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "$80 Million",
+     "round": "Series C",
+     "title": "EloElo Group Raises $80 Million Series C Led By Hornbill Capital And NBCUniversal To Expand AI-Powered Entertainment",
+     "link": "https://pulse2.com/eloelo-group-raises-80-million-series-c-led-by-hornbill-capital-and-nbcuniversal-to-expand-ai-powered-entertainment/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-11-04",
+     "amount": "$80 Mn",
+     "round": "Series C",
+     "title": "EloElo Group Bags $80 Mn From NBCUniversal, Others To Take Its Microdrama Biz Global",
+     "link": "https://inc42.com/buzz/eloelo-group-bags-80-mn-to-take-its-microdrama-biz-global/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "sentra": {
+   "name": "Sentra",
+   "country": "USA",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Sentra, a New York- and Tel Aviv-based data security company, has raised $150 million in strategic capital led by Capital One Ventures to accelerate the development of its agentic data security platform and expand its global operations. The investment follows a year in which the ",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "$150 Million",
+     "round": "Growth",
+     "title": "Sentra Raises $150 Million Led By Capital One Ventures To Expand Agentic AI Data Security Platform",
+     "link": "https://pulse2.com/sentra-raises-150-million-led-by-capital-one-ventures-to-expand-agentic-ai-data-security-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tired-of-roku-and-the-like-spain-s-titan-os-just": {
+   "name": "Tired of Roku and the like? Spain’s Titan OS just",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Titan OS, a Barcelona-based technology, entertainment and advertising company, today announced a €40 million ($46 million) financing round to further develop their smart TV Operating System. The round saw participation from existing investors Highland Europe and Mangrove Capital ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "€40 million",
+     "round": "",
+     "title": "Tired of Roku and the like? Spain’s Titan OS just raised €40 million to provide you with an alternative.",
+     "link": "https://www.eu-startups.com/2026/11/tired-of-roku-and-the-like-spains-titan-os-just-raised-e40-million-to-provide-you-with-an-alternative/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "return": {
+   "name": "Return",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Amsterdam-based Return, an energy storage startup specialising in large-scale battery systems and energy flexibility services, has secured €835 million in portfolio financing underwritten by Deutsche Bank and Rabobank. The financing will support the company’s expansion in Germany",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "€835 million",
+     "round": "",
+     "title": "Return secures €835 million financing to expand battery storage capacity in Germany",
+     "link": "https://www.eu-startups.com/2026/11/return-secures-e835-million-financing-to-expand-battery-storage-capacity-in-germany/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "copenhagen-s-biograil": {
+   "name": "Copenhagen’s Biograil",
+   "country": "Denmark",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Biograil, a Copenhagen-based BioTech company developing an oral device to deliver therapeutics that would otherwise require injection, has closed a €20 million funding round. The round was backed by Verve Ventures and Megatrend Invest. HTGF, which led the company’s Seed syndicate",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "€20 million",
+     "round": "Seed",
+     "title": "Copenhagen’s Biograil raises €20 million for oral drug delivery device designed as an alternative to injections",
+     "link": "https://www.eu-startups.com/2026/11/copenhagens-biograil-raises-e20-million-for-oral-drug-delivery-device-designed-as-an-alternative-to-injections/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "station-f-unveils-2026-future-40-as-its-startups": {
+   "name": "STATION F unveils 2026 Future 40 as its startups",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "The world’s biggest startup campus, STATION F, has revealed its top 40 companies for 2026, as well as announcing that STATION F companies have raised a record €2 billion in 2026 alone. This is the 8th edition of the annual list, with 320 companies recognised to date. This year’s ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "€2 billion",
+     "round": "",
+     "title": "STATION F unveils 2026 Future 40 as its startups raise a record €2 billion",
+     "link": "https://www.eu-startups.com/2026/11/station-f-unveils-2026-future-40-as-its-startups-raise-a-record-e2-billion/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "jawbuddy": {
+   "name": "JawBuddy",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "JawBuddy, a Leipzig-based HealthTech startup that helps people reduce jaw pain, bruxism, and TMJ-related tension, has raised €818k in a pre-Seed round led by healthcare platform HALBZEIT. The round was also backed by Dr. Siegfried Marquardt, a specialist in aesthetic and function",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "€818k",
+     "round": "Pre-Seed",
+     "title": "Leipzig-based JawBuddy raises €818k to help people reduce jaw pain, bruxism, and TMJ-related tension",
+     "link": "https://www.eu-startups.com/2026/11/leipzig-based-jawbuddy-raises-e818k-to-help-people-reduce-jaw-pain-bruxism-and-tmj-related-tension/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "peppermint-robotics": {
+   "name": "Peppermint Robotics",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Keeping hospital corridors clean or moving goods across factory floors involves repetitive, physically demanding work. For facility management companies, finding…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "₹100",
+     "round": "",
+     "title": "Peppermint Robotics Bags ₹100 Cr To Scale Its Industrial Robotics Bet",
+     "link": "https://inc42.com/buzz/peppermint-robotics-bags-%e2%82%b9100-cr-to-scale-its-industrial-robotics-bet/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "razorpay": {
+   "name": "Razorpay",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Fintech major Razorpay has received SEBI’s approval for its proposed ₹5,000-6,000 Cr IPO, sources told Inc42. The offering is expected…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "₹6,000",
+     "round": "",
+     "title": "Razorpay Gets SEBI Nod For ₹6,000 Cr IPO",
+     "link": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "ada-to-merge-with-dialpad-in-deal-reportedly-valuing-firm-at": {
+   "name": "Ada to merge with Dialpad in deal reportedly valuing firm at",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Toronto AI customer service company was worth $1.2 billion USD after closing Series C financing in 2021. \n The post  Ada to merge with Dialpad in deal reportedly valuing firm at $600 million  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "$600 million",
+     "round": "Series C",
+     "title": "Ada to merge with Dialpad in deal reportedly valuing firm at $600 million",
+     "link": "https://betakit.com/ada-to-merge-with-dialpad-in-deal-reportedly-valuing-firm-at-600-million/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "canada-is-creating-more-startups-but-fewer-are-raising-pre": {
+   "name": "Canada is creating more startups, but fewer are raising pre-",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "The country is on track for more company creation in 2026 than 2025. AI could be a factor. \n The post  Canada is creating more startups, but fewer are raising pre-seed capital: report  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "events": [
+    {
+     "date": "2026-11-04",
+     "amount": "",
+     "round": "Pre-Seed",
+     "title": "Canada is creating more startups, but fewer are raising pre-seed capital: report",
+     "link": "https://betakit.com/canada-is-creating-more-startups-but-fewer-are-raising-pre-seed-capital-report/",
+     "source": "BetaKit"
     }
    ]
   }
