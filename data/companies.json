@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:16:35+00:00",
+ "updated": "2026-11-05T20:28:14+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -57022,6 +57022,630 @@
      "title": "Canada is creating more startups, but fewer are raising pre-seed capital: report",
      "link": "https://betakit.com/canada-is-creating-more-startups-but-fewer-are-raising-pre-seed-capital-report/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "nurx-and-journey-clinical-co-founders": {
+   "name": "Nurx And Journey Clinical Co-Founders",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "new",
+   "summary": "Siggy has raised $6 million in pre-seed funding to build a mental health service that uses AI to collect patients’ histories and track progress between appointments with licensed clinicians, the startup told Crunchbase News exclusively.",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$6M",
+     "round": "Pre-Seed",
+     "title": "Exclusive: Nurx And Journey Clinical Co-Founders Raise $6M For Mental Health Startup Siggy",
+     "link": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "arena-io": {
+   "name": "Arena.io",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Arena.io, an AI-powered workforce intelligence and talent matching platform, has secured $4.5 million in financing to expand its workforce mobility solutions, strengthen partnerships with public-sector and educational organizations, and accelerate product development. Investors p",
+   "audience": "Consumers",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$4.5 Million",
+     "round": "",
+     "title": "Arena.io Raises $4.5 Million To Expand AI-Powered Workforce Mobility And Labor Market Intelligence",
+     "link": "https://pulse2.com/arena-io-raises-4-5-million-to-expand-ai-powered-workforce-mobility-and-labor-market-intelligence/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nyquis": {
+   "name": "Nyquis",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Nyquis, a San Francisco-based company developing high-resolution monitoring technology for electrical infrastructure, has raised $6.3 million in seed funding co-led by Gigascale Capital and South Park Commons. Additional investors include Allison Pickens Ventures, Friale, Soverei",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$6.3 Million",
+     "round": "Seed",
+     "title": "Nyquis Raises $6.3 Million Seed Round To Improve Grid Monitoring And Wildfire Risk Detection",
+     "link": "https://pulse2.com/nyquis-raises-6-3-million-seed-round-to-improve-grid-monitoring-and-wildfire-risk-detection/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "fact-base": {
+   "name": "Fact Base",
+   "country": "Japan",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fact Base, a Tokyo-based software company developing digital solutions for small and medium-sized manufacturers, has raised approximately $28.8 million in Series D financing to accelerate international expansion and strengthen its manufacturing technology platform. \n The post  Fa",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$28.8 Million",
+     "round": "Series D",
+     "title": "Fact Base Raises $28.8 Million Series D Led By Insight Partners To Expand Manufacturing Software Globally",
+     "link": "https://pulse2.com/fact-base-raises-28-8-million-series-d-led-by-insight-partners-to-expand-manufacturing-software-globally/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "shinka": {
+   "name": "Shinka",
+   "country": "Ireland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Shinka, a Dublin-based advertising technology company developing programmatic mediation solutions for digital out-of-home and connected television advertising, has raised €1.9 million ($2.2 million) in seed funding. The financing was led by a group of Irish angel investors, with ",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "€1.9 Million",
+     "round": "Seed",
+     "title": "Shinka Raises €1.9 Million Seed Round To Expand Digital Out-Of-Home Advertising Platform",
+     "link": "https://pulse2.com/shinka-raises-e1-9-million-seed-round-to-expand-digital-out-of-home-advertising-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "billd": {
+   "name": "Billd",
+   "country": "USA",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Billd, an Austin, Texas-based provider of working capital financing for commercial construction subcontractors, has secured a $100 million credit facility from Victory Park Capital (VPC), a Chicago-based alternative investment firm specializing in private credit and asset-backed ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$100 Million",
+     "round": "",
+     "title": "Billd Secures $100 Million Credit Facility From Victory Park Capital To Expand Construction Financing",
+     "link": "https://pulse2.com/billd-secures-100-million-credit-facility-from-victory-park-capital-to-expand-construction-financing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "beacon-holdings": {
+   "name": "Beacon Holdings",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Beacon Holdings, a Toronto-headquartered technology investment company focused on acquiring and operating established software businesses, has secured a $50 million strategic investment from the Canada Pension Plan Investment Board (CPP Investments). \n The post  Beacon Holdings S",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$50 Million",
+     "round": "",
+     "title": "Beacon Holdings Secures $50 Million Investment From CPP Investments To Expand AI Software Portfolio",
+     "link": "https://pulse2.com/beacon-holdings-secures-50-million-investment-from-cpp-investments-to-expand-ai-software-portfolio/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "humble-robotics": {
+   "name": "Humble Robotics",
+   "country": "USA",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Humble Robotics, a San Francisco-based developer of autonomous electric freight vehicles, has raised $51 million in Series A funding to advance its approach to commercial freight transportation. The financing was led by Obvious Ventures, with participation from existing investors",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$51 Million",
+     "round": "Series A",
+     "title": "Humble Robotics Raises $51 Million Series A To Scale Autonomous Electric Freight Transportation",
+     "link": "https://pulse2.com/humble-robotics-raises-51-million-series-a-to-scale-autonomous-electric-freight-transportation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "circularity-fuels": {
+   "name": "Circularity Fuels",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Circularity Fuels, a Redwood City, California-based renewable fuels company developing technology to convert dairy biogas into sustainable aviation fuel, has raised $7 million in seed funding co-led by Trucks Venture Capital and DCVC. \n The post  Circularity Fuels Raises $7 Milli",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$7 Million",
+     "round": "Seed",
+     "title": "Circularity Fuels Raises $7 Million Seed Round To Scale Sustainable Aviation Fuel Production From Dairy Biogas",
+     "link": "https://pulse2.com/circularity-fuels-raises-7-million-seed-round-to-scale-sustainable-aviation-fuel-production-from-dairy-biogas/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cowboy": {
+   "name": "Cowboy",
+   "country": "USA",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Cowboy, a New York-based technology company developing infrastructure for autonomous artificial intelligence agents, has emerged from stealth with $5 million in funding and the launch of its AI agent marketplace. \n The post  Cowboy Raises $5 Million In Seed Funding To Launch AI A",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$5 Million",
+     "round": "Seed",
+     "title": "Cowboy Raises $5 Million In Seed Funding To Launch AI Agent Marketplace And Developer Platform",
+     "link": "https://pulse2.com/cowboy-raises-5-million-in-seed-funding-to-launch-ai-agent-marketplace-and-developer-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "avum": {
+   "name": "Avum",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Avum has been awarded a $61.05 million U.S. Army contract to sustain and modernize the Virtual Contracting Enterprise business intelligence suite. \n The post  Avum Wins $61.05 Million Army Contract To Modernize Virtual Contracting Enterprise  appeared first on  Pulse 2.0 .",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$61.05 Million",
+     "round": "",
+     "title": "Avum Wins $61.05 Million Army Contract To Modernize Virtual Contracting Enterprise",
+     "link": "https://pulse2.com/avum-wins-61-05-million-army-contract-to-modernize-virtual-contracting-enterprise/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "finpilot": {
+   "name": "Finpilot",
+   "country": "USA",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Finpilot, a Seattle-based developer of an AI-native operating system for institutional investment management, has raised $10 million in Series A funding led by Lobby Capital, with participation from existing investor Madrona. The financing will support the company's expansion as ",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$10 Million",
+     "round": "Series A",
+     "title": "Finpilot Raises $10 Million Series A Led By Lobby Capital To Expand AI Agents For Institutional Investors",
+     "link": "https://pulse2.com/finpilot-raises-10-million-series-a-led-by-lobby-capital-to-expand-ai-agents-for-institutional-investors/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "phaze": {
+   "name": "Phaze",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Phaze, a technology company developing high-performance remote computing infrastructure for employees and artificial intelligence agents, has raised $8.75 million in seed funding led by a16z, with participation from Indie, NextView, Makers, and Lerer Hippeau. The financing will s",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$8.75 Million",
+     "round": "Seed",
+     "title": "Phaze Raises $8.75 Million In Seed Funding To Expand Remote Computing Access For People And AI Agents",
+     "link": "https://pulse2.com/phaze-raises-8-75-million-in-seed-funding-to-expand-remote-computing-access-for-people-and-ai-agents/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "germany-s-v-ridion": {
+   "name": "Germany’s VÆRIDION",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Munich-based aviation startup VÆRIDION has raised €30 million in a Series A2 funding round and selected for a €94.5 million grant from the European Commission’s Innovation Fund, bringing the combined value to €124.5 million. The investment round was co-led by Dutch investors SHIF",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "€124 million",
+     "round": "Series A2",
+     "title": "Germany’s VÆRIDION raises €124 million to bring electric regional flights closer to reality",
+     "link": "https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "stockholm-s-green-voltis": {
+   "name": "Stockholm’s Green Voltis",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Green Voltis, a Stockholm-based route-to-market (RTM) optimiser that uses AI to operate and trade battery storage across European power markets, has raised €13.5 million in a Series A round, with Lochpine Capital as the sole investor. The company optimises standalone battery stor",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "€13.5 million",
+     "round": "Series A",
+     "title": "Stockholm’s Green Voltis raises €13.5 million to operate and trade battery storage across European power markets using AI",
+     "link": "https://www.eu-startups.com/2026/11/stockholms-green-voltis-raises-e13-5-million-to-operate-and-trade-battery-storage-across-european-power-markets-using-ai/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "barcelona-s-kabilio": {
+   "name": "Barcelona’s Kabilio",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "Entrepreneurship",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Kabilio, a Barcelona-based startup building an AI platform for accounting firms and the small businesses they serve, has closed a €10 million funding round.  The round was led by Picus Capital and Visionaries; they also led Kabilio’s pre-Seed round. CDTI, Spain’s public agency fo",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "€10 million",
+     "round": "Pre-Seed",
+     "title": "Barcelona’s Kabilio raises €10 million to deploy its AI accounting agent as client base nears 500 firms",
+     "link": "https://www.eu-startups.com/2026/11/barcelonas-kabilio-raises-e10-million-to-deploy-its-ai-accounting-agent-as-client-base-nears-500-firms/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "sequoia-capital": {
+   "name": "Sequoia Capital",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Sequoia Capital, one of Silicon Valley’s oldest and most prominent venture capital firms, has closed its London office as part of a broader restructuring. In an announcement titled “The Sequoia of Tomorrow”, the firm outlined several sweeping changes and confirmed that it has rai",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "€8.9 billion",
+     "round": "",
+     "title": "Sequoia Capital raises around €8.9 billion in new funds and closes London office; most local partners opt to stay in Europe",
+     "link": "https://www.eu-startups.com/2026/11/sequoia-capital-raises-around-e8-9-billion-in-new-funds-and-closes-london-office-most-local-partners-opt-to-stay-in-europe/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "oxford-s-fluorok": {
+   "name": "Oxford’s FluoRok",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "FluoRok, an Oxford-based chemical manufacturing startup that has developed a patented process to produce fluorochemicals without using highly hazardous hydrogen fluoride (HF), has secured a €26.64 million ($30 million) Series A financing round. The round was led by Orano Ventures",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "€26.64 million",
+     "round": "Series A",
+     "title": "Oxford’s FluoRok raises €26.64 million to scale fluorochemical production without hazardous hydrogen fluoride",
+     "link": "https://www.eu-startups.com/2026/11/oxfords-fluorok-raises-e26-64-million-to-scale-fluorochemical-production-without-the-hazardous-hydrogen-fluoride/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "venomics-ai": {
+   "name": "Venomics AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bengaluru-based biotechnology startup Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round co-led by Speciale…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$2.7 Mn",
+     "round": "Pre-Seed",
+     "title": "Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine",
+     "link": "https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-exclusive-rapidclaims-in-talks-to": {
+   "name": "[Update] Exclusive: RapidClaims In Talks To",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | November 5, 19:43 After the story was published, RapidClaims founder and CEO Dushyant Mishra said the startup is…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$30 Mn",
+     "round": "",
+     "title": "[Update] Exclusive: RapidClaims In Talks To Raise $30 Mn",
+     "link": "https://inc42.com/buzz/rapidclaims-in-talks-to-raise-30-mn-from-westbridge-capital-others/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "cosmoserve": {
+   "name": "Cosmoserve",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Cosmoserve Space has raised $6 Mn in a seed funding round led by Japan-based Rebright Partners. While Aranya Holdings and…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$6 Mn",
+     "round": "Seed",
+     "title": "Spacetech Startup Cosmoserve Nets $6 Mn, Eyes Commercialisation By 2028",
+     "link": "https://inc42.com/buzz/spacetech-startup-cosmoserve-nets-6-mn-eyes-commercialisation-by-2028/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "daksham-capital-launches-300-cr-consumer-fund-marks-first": {
+   "name": "Daksham Capital Launches ₹300 Cr Consumer Fund, Marks First",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Multi-family office and wealth management group Daksham Capital has launched its maiden consumer-focused fund, Daksham Growth Ventures (DGV) Fund I,…",
+   "audience": "Consumers",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "₹300",
+     "round": "Growth",
+     "title": "Daksham Capital Launches ₹300 Cr Consumer Fund, Marks First Close At ₹125 Cr",
+     "link": "https://inc42.com/buzz/daksham-capital-launches-%e2%82%b9300-cr-consumer-fund-marks-first-close-at-%e2%82%b9125-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "physicswallah-s-q2-profit-surge-elo-elo": {
+   "name": "PhysicsWallah’s Q2 Profit Surge, Elo Elo",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "PhysicsWallah Back Among Profits PhysicsWallah had a blockbuster Q2 FY27. The quarter saw the edtech giant swing back to profitability.…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$80 Mn",
+     "round": "",
+     "title": "PhysicsWallah’s Q2 Profit Surge, Elo Elo Bags $80 Mn & More",
+     "link": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "altm": {
+   "name": "altM",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Cleantech startup altM has raised $10.3 Mn (₹97.5 Cr) in a Series A funding round led by new investors Rainmatter…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$10.3 Mn",
+     "round": "Series A",
+     "title": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing",
+     "link": "https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "cppib-takes-50-million-usd-stake-in-ai-holding-firm-beacon": {
+   "name": "CPPIB takes $50-million USD stake in AI holding firm Beacon ",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Funding helps lift two-year-old Toronto company’s Series C round to $425 million USD. \n The post  CPPIB takes $50-million USD stake in AI holding firm Beacon Software  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$50",
+     "round": "Series C",
+     "title": "CPPIB takes $50-million USD stake in AI holding firm Beacon Software",
+     "link": "https://betakit.com/cppib-takes-50-million-usd-stake-in-ai-holding-firm-beacon-software/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "perth-logistics-analysis-startup-indrus-moves-on-750-000-pr": {
+   "name": "Perth logistics analysis startup Indrus moves on $750,000 pr",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Indrus grabs $750k to expose yard chaos with AI camera tracking for trucks and trailers.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$750,000",
+     "round": "Pre-Seed",
+     "title": "Perth logistics analysis startup Indrus moves on $750,000 pre-Seed",
+     "link": "https://www.startupdaily.net/topic/funding/perth-logistics-analysis-startup-indrus-moves-on-750000-pre-seed/",
+     "source": "Startup Daily"
     }
    ]
   }
