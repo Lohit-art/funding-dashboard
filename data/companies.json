@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:28:14+00:00",
+ "updated": "2026-11-06T19:50:55+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -57645,6 +57645,102 @@
      "round": "Pre-Seed",
      "title": "Perth logistics analysis startup Indrus moves on $750,000 pre-Seed",
      "link": "https://www.startupdaily.net/topic/funding/perth-logistics-analysis-startup-indrus-moves-on-750000-pre-seed/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "feathery-interview-with-co-founder-and-ceo-peter-dun-about": {
+   "name": "Feathery: Interview With Co-Founder And CEO Peter Dun About ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Feathery is an AI-powered financial services technology company that automates client onboarding, account opening, advisor transitions, and other operational workflows for more than 300 wealth management and insurance firms, having raised $30 million in total funding. Pulse 2.0 i",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "events": [
+    {
+     "date": "2026-11-06",
+     "amount": "$30 million",
+     "round": "",
+     "title": "Feathery: Interview With Co-Founder And CEO Peter Dun About AI-Powered Wealth Management And Client Onboarding",
+     "link": "https://pulse2.com/feathery-profile-peter-dun-interview/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "harbinger": {
+   "name": "Harbinger",
+   "country": "USA",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Harbinger, an American industrial technology platform company focused on electrification, has raised $240 million in Series D funding to expand its manufacturing capabilities and enter new markets across mobility, energy, defense, and autonomous systems. The financing was co-led ",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "events": [
+    {
+     "date": "2026-11-06",
+     "amount": "$240 Million",
+     "round": "Series D",
+     "title": "Harbinger Raises $240 Million In Series D Funding Led By Tiger Global To Expand Electrification And AI Infrastructure",
+     "link": "https://pulse2.com/harbinger-raises-240-million-in-series-d-funding-led-by-tiger-global-to-expand-electrification-and-ai-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "leidos-4-63-billion-q3-revenue-and-49-6-billion-backlog-h": {
+   "name": "Leidos: $4.63 Billion Q3 Revenue And $49.6 Billion Backlog H",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Leidos Holdings, a Reston, Virginia-based defense technology and government services company, reported third-quarter 2026 revenue of $4.63 billion, representing a 4% increase from the prior-year period. The company also generated $413 million in net income, secured $5.5 billion i",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "events": [
+    {
+     "date": "2026-11-06",
+     "amount": "$4.63 Billion",
+     "round": "",
+     "title": "Leidos: $4.63 Billion Q3 Revenue And $49.6 Billion Backlog Highlight Defense Technology Demand",
+     "link": "https://pulse2.com/leidos-4-63-billion-q3-revenue-and-49-6-billion-backlog-highlight-defense-technology-demand/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ai-coworker-startup": {
+   "name": "AI coworker startup",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Future Secure AI grabs US$80m at a US$1.2b valuation to unleash AI co-workers globally.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "events": [
+    {
+     "date": "2026-11-05",
+     "amount": "$115 million",
+     "round": "",
+     "title": "AI coworker startup raises $115 million",
+     "link": "https://www.startupdaily.net/topic/funding/future-secure-ai-raises-us80-million-for-ai-co-workers/",
      "source": "Startup Daily"
     }
    ]
