@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:50:55+00:00",
+ "updated": "2026-11-07T17:56:25+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -57742,6 +57742,102 @@
      "title": "AI coworker startup raises $115 million",
      "link": "https://www.startupdaily.net/topic/funding/future-secure-ai-raises-us80-million-for-ai-co-workers/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "falfurrias-management-partners-appoints-greg-stewart-as-part": {
+   "name": "Falfurrias Management Partners Appoints Greg Stewart As Part",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Falfurrias Management Partners, a Charlotte, North Carolina-based private equity firm that has raised approximately $4 billion across eight investment funds, has appointed Greg Stewart as a partner. Stewart will help lead investments in technology and business services, bringing ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "events": [
+    {
+     "date": "2026-11-07",
+     "amount": "$4 billion",
+     "round": "",
+     "title": "Falfurrias Management Partners Appoints Greg Stewart As Partner To Expand Technology And Business Services Investments",
+     "link": "https://pulse2.com/falfurrias-management-partners-appoints-greg-stewart-as-partner-to-expand-technology-and-business-services-investments/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aformic": {
+   "name": "Aformic",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Aformic, a Duncan, South Carolina-based robotics company developing autonomous mobile robots and fleet management software, has secured $6.95 million in seed funding led by Veteran Ventures Capital. The investment will support Aformic's expansion across North America and accelera",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "events": [
+    {
+     "date": "2026-11-07",
+     "amount": "$6.95 Million",
+     "round": "Seed",
+     "title": "Aformic Raises $6.95 Million In Seed Funding Led By Veteran Ventures Capital For Autonomous Industrial Robotics",
+     "link": "https://pulse2.com/aformic-raises-6-95-million-in-seed-funding-led-by-veteran-ventures-capital-for-autonomous-industrial-robotics/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "emvena-therapeutics": {
+   "name": "Emvena Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Emvena Therapeutics, a Philadelphia-based biotechnology company developing placenta-targeted messenger RNA medicines, has received the inaugural investment from the Penn-BioNTech Innovative Therapeutics Seed Fund. The financing will support development of Emvena's investigational",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "events": [
+    {
+     "date": "2026-11-07",
+     "amount": "$50 Million",
+     "round": "Seed",
+     "title": "Emvena Therapeutics Secures First Investment From $50 Million Penn-BioNTech Fund To Advance Placenta-Targeted mRNA Medicines",
+     "link": "https://pulse2.com/emvena-therapeutics-secures-first-investment-from-50-million-penn-biontech-fund-to-advance-placenta-targeted-mrna-medicines/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "numica": {
+   "name": "Numica",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Numica, an accounting services company operating an AI-native business platform, has announced $21 million in funding from Roosh and Flashpoint Capital. The investment will support its strategy of acquiring established U.S. accounting practices and integrating their operations in",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "events": [
+    {
+     "date": "2026-11-06",
+     "amount": "$21 Million",
+     "round": "",
+     "title": "Numica Raises $21 Million From Roosh And Flashpoint Capital To Acquire Accounting Firms And Expand AI-Native Platform",
+     "link": "https://pulse2.com/numica-raises-21-million-from-roosh-and-flashpoint-capital-to-acquire-accounting-firms-and-expand-ai-native-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   }
