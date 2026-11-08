@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T17:56:25+00:00",
+ "updated": "2026-11-08T18:13:22+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -57586,10 +57586,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "emerging",
-   "summary": "Cleantech startup altM has raised $10.3 Mn (₹97.5 Cr) in a Series A funding round led by new investors Rainmatter…",
+   "summary": "altM, a Bengaluru-based industrial biotechnology company, has raised $10.3 million in Series A funding to expand production of specialty chemicals manufactured from agricultural residues. \n The post  altM Raises $10.3 Million In Series A Funding To Scale Specialty Chemicals Made ",
    "audience": "General / mixed",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-08",
    "events": [
     {
      "date": "2026-11-05",
@@ -57598,6 +57598,14 @@
      "title": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing",
      "link": "https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-11-08",
+     "amount": "$10.3 Million",
+     "round": "Series A",
+     "title": "altM Raises $10.3 Million In Series A Funding To Scale Specialty Chemicals Made From Agricultural Waste",
+     "link": "https://pulse2.com/altm-raises-10-3-million-in-series-a-funding-to-scale-specialty-chemicals-made-from-agricultural-waste/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -57837,6 +57845,222 @@
      "round": "",
      "title": "Numica Raises $21 Million From Roosh And Flashpoint Capital To Acquire Accounting Firms And Expand AI-Native Platform",
      "link": "https://pulse2.com/numica-raises-21-million-from-roosh-and-flashpoint-capital-to-acquire-accounting-firms-and-expand-ai-native-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nfs-capital": {
+   "name": "NFS Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "NFS Capital, a Beverly, Massachusetts-based equipment finance company, has closed a $250 million warehouse credit facility with Fifth Third Bank. The financing establishes a new banking relationship and increases NFS Capital's total bank facility capacity to approximately $800 mi",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "events": [
+    {
+     "date": "2026-11-08",
+     "amount": "$250 Million",
+     "round": "",
+     "title": "NFS Capital Closes $250 Million Credit Facility With Fifth Third Bank, Expanding Total Bank Capacity To $800 Million",
+     "link": "https://pulse2.com/nfs-capital-closes-250-million-credit-facility-with-fifth-third-bank-expanding-total-bank-capacity-to-800-million/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sharewillow": {
+   "name": "ShareWillow",
+   "country": "USA",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "ShareWillow, a technology company developing performance-based compensation software for home service businesses, has raised $8.5 million in seed funding to expand its platform and develop AI agents supporting technicians throughout their daily work. The financing included backin",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "events": [
+    {
+     "date": "2026-11-08",
+     "amount": "$8.5 Million",
+     "round": "Seed",
+     "title": "ShareWillow Raises $8.5 Million In Seed Funding To Expand AI-Powered Performance Pay For Home Service Technicians",
+     "link": "https://pulse2.com/sharewillow-raises-8-5-million-in-seed-funding-to-expand-ai-powered-performance-pay-for-home-service-technicians/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "quint-computing": {
+   "name": "Quint Computing",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "Quint Computing, a German quantum computing startup developing superconducting processors, has raised €9.1 million in financing to advance a hardware architecture designed to reduce the complexity and cost of quantum error correction. The round was led by Vsquared Ventures, with ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "events": [
+    {
+     "date": "2026-11-08",
+     "amount": "€9.1 Million",
+     "round": "",
+     "title": "Quint Computing Raises €9.1 Million To Develop Quantum Processors With Lower Error Correction Costs",
+     "link": "https://pulse2.com/quint-computing-raises-e9-1-million-to-develop-quantum-processors-with-lower-error-correction-costs/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sporta": {
+   "name": "SPORTA",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "SPORTA, a United Kingdom-based financial technology company developing banking and digital infrastructure for the sports industry, has secured a £5 million follow-on investment from the Lazaroo-Hood Group. \n The post  SPORTA Secures £5 Million Follow-On Investment From Lazaroo-Ho",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "events": [
+    {
+     "date": "2026-11-08",
+     "amount": "£5 Million",
+     "round": "",
+     "title": "SPORTA Secures £5 Million Follow-On Investment From Lazaroo-Hood Group To Build Sports-Focused Bank",
+     "link": "https://pulse2.com/sporta-secures-5-million-follow-on-investment-from-lazaroo-hood-group-to-build-sports-focused-bank/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "traversal": {
+   "name": "Traversal",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Traversal, an artificial intelligence company developing autonomous software reliability technology, has raised $120 million in Series B funding at a $1 billion valuation. The financing was co-led by Kleiner Perkins, Redpoint Ventures, and Khosla Ventures, with significant partic",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "events": [
+    {
+     "date": "2026-11-08",
+     "amount": "$120 Million",
+     "round": "Series B",
+     "title": "Traversal Raises $120 Million In Series B Funding At $1 Billion Valuation To Expand AI-Powered Software Reliability Platform",
+     "link": "https://pulse2.com/traversal-raises-120-million-in-series-b-funding-at-1-billion-valuation-to-expand-ai-powered-software-reliability-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "t-therapeutics": {
+   "name": "T-Therapeutics",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "T-Therapeutics, a Cambridge, United Kingdom-based biotechnology company developing T cell receptor therapies for cancer and autoimmune diseases, has raised $133 million in an oversubscribed Series B financing round. The investment was co-led by Advent Life Sciences and British Bu",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "events": [
+    {
+     "date": "2026-11-08",
+     "amount": "$133 Million",
+     "round": "Series B",
+     "title": "T-Therapeutics Raises $133 Million In Series B Funding To Advance Cancer And Autoimmune Disease Treatments",
+     "link": "https://pulse2.com/t-therapeutics-raises-133-million-in-series-b-funding-to-advance-cancer-and-autoimmune-disease-treatments/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "betski": {
+   "name": "Betski",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Entertainment & play",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Betski, an online gaming technology company, has secured a $15 million strategic investment commitment from Nimbus Capital to accelerate its international expansion and further develop its proprietary digital gaming platform. \n The post  Betski Secures $15 Million Investment Comm",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "events": [
+    {
+     "date": "2026-11-08",
+     "amount": "$15 Million",
+     "round": "",
+     "title": "Betski Secures $15 Million Investment Commitment From Nimbus Capital To Support Global Expansion",
+     "link": "https://pulse2.com/betski-secures-15-million-investment-commitment-from-nimbus-capital-to-support-global-expansion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tumbleweed": {
+   "name": "Tumbleweed",
+   "country": "Austria",
+   "region": "Europe",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Tumbleweed, an Austrian space technology company developing commercial microgravity research infrastructure, has raised €6.9 million in seed funding to expand its satellite platform and increase access to research opportunities in orbit. \n The post  Tumbleweed Raises €6.9 Million",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "events": [
+    {
+     "date": "2026-11-08",
+     "amount": "€6.9 Million",
+     "round": "Seed",
+     "title": "Tumbleweed Raises €6.9 Million In Seed Funding To Expand Microgravity Research And Launch Three Space Missions In 2027",
+     "link": "https://pulse2.com/tumbleweed-raises-e6-9-million-in-seed-funding-to-expand-microgravity-research-and-launch-three-space-missions-in-2027/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "avanlee-care": {
+   "name": "Avanlee Care",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Avanlee Care, a Montana-founded healthcare technology company focused on supporting family caregivers, has raised $3.5 million in new funding, bringing its total capital raised to $6 million. \n The post  Avanlee Care Raises $3.5 Million, Bringing Total Funding To $6 Million To Ex",
+   "audience": "Consumers",
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "events": [
+    {
+     "date": "2026-11-08",
+     "amount": "$3.5 Million",
+     "round": "",
+     "title": "Avanlee Care Raises $3.5 Million, Bringing Total Funding To $6 Million To Expand Family Caregiving Technology",
+     "link": "https://pulse2.com/avanlee-care-raises-3-5-million-bringing-total-funding-to-6-million-to-expand-family-caregiving-technology/",
      "source": "Pulse 2.0"
     }
    ]
