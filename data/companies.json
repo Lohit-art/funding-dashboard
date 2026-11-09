@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:13:22+00:00",
+ "updated": "2026-11-09T22:52:19+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -58062,6 +58062,198 @@
      "title": "Avanlee Care Raises $3.5 Million, Bringing Total Funding To $6 Million To Expand Family Caregiving Technology",
      "link": "https://pulse2.com/avanlee-care-raises-3-5-million-bringing-total-funding-to-6-million-to-expand-family-caregiving-technology/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "series-a-in-2026-capital-is-flowing-faster-but-fewer-start": {
+   "name": "Series A In 2026: Capital Is Flowing Faster, But Fewer Start",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "More money is pouring into Series A rounds, but it isn’t opening the door to more startups. U.S. companies have raised $42 billion at that stage this year through October, up roughly 60% year over year, while deal counts remain on pace with the past few years, Crunchbase data sho",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "events": [
+    {
+     "date": "2026-11-09",
+     "amount": "$42 billion",
+     "round": "Series A",
+     "title": "Series A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut",
+     "link": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "spines-64-million-growth-financing-as-ai-publishing-platfo": {
+   "name": "Spines: $64 Million Growth Financing As AI Publishing Platfo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Spines, an AI-powered publishing platform designed to help authors turn manuscripts into professionally published books, has secured $64 million in growth financing. The capital includes a $29 million Series A-1 equity round led by Zeev Ventures and a $35 million non-dilutive fin",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "events": [
+    {
+     "date": "2026-11-09",
+     "amount": "$64 Million",
+     "round": "Growth",
+     "title": "Spines: $64 Million Growth Financing As AI Publishing Platform Reaches $50 Million Revenue Run Rate",
+     "link": "https://pulse2.com/spines-64-million-growth-financing-as-ai-publishing-platform-reaches-50-million-revenue-run-rate/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "surgery-partners-healthspan-partners": {
+   "name": "Surgery Partners: HealthSpan Partners",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Surgery Partners and HealthSpan Partners have amended their merger agreement to increase the cash consideration for Surgery Partners shareholders to $25 per share, with the total enterprise value potentially reaching approximately $6 billion. The revised agreement follows an unso",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "events": [
+    {
+     "date": "2026-11-09",
+     "amount": "$25",
+     "round": "",
+     "title": "Surgery Partners: HealthSpan Partners Raises Merger Offer To $25 Per Share In Deal Valued At Up To $6 Billion",
+     "link": "https://pulse2.com/surgery-partners-healthspan-partners-raises-merger-offer-to-25-per-share-in-deal-valued-at-up-to-6-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "astral-5-5-million-funding-to-expand-personalized-ai-educa": {
+   "name": "Astral: $5.5 Million Funding To Expand Personalized AI Educa",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Learning & growth",
+   "sector": "EdTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Astral, an artificial intelligence education company developing personalized learning technology, has raised $5.5 million in total funding to expand access to its AI-powered tutoring platform across all 50 U.S. states. The financing will support the company's efforts to provide i",
+   "audience": "Consumers",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "events": [
+    {
+     "date": "2026-11-09",
+     "amount": "$5.5 Million",
+     "round": "",
+     "title": "Astral: $5.5 Million Funding To Expand Personalized AI Education Platform Across All 50 States",
+     "link": "https://pulse2.com/astral-5-5-million-funding-to-expand-personalized-ai-education-platform-across-all-50-states/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "project-omega-80-million-series-a-funding-to-develop-nucle": {
+   "name": "Project Omega: $80 Million Series A Funding To Develop Nucle",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Project Omega, a nuclear technology company developing fuel recycling infrastructure and long-duration power systems, has raised $80 million in Series A financing to advance its domestic nuclear fuel recovery platform and commercial product development. The funding will support c",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "events": [
+    {
+     "date": "2026-11-09",
+     "amount": "$80 Million",
+     "round": "Series A",
+     "title": "Project Omega: $80 Million Series A Funding To Develop Nuclear Fuel Recycling And Long-Duration Power Systems",
+     "link": "https://pulse2.com/project-omega-80-million-series-a-funding-to-develop-nuclear-fuel-recycling-and-long-duration-power-systems/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "coframe-35-million-funding-to-expand-autonomous-ai-website": {
+   "name": "Coframe: $35 Million Funding To Expand Autonomous AI Website",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Coframe, an artificial intelligence company developing self-optimizing digital experiences, has raised $35 million in total funding, including a $25 million Series A round co-led by Khosla Ventures and Hanabi Capital. The investment will support development of the company's auton",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "events": [
+    {
+     "date": "2026-11-09",
+     "amount": "$35 Million",
+     "round": "Series A",
+     "title": "Coframe: $35 Million Funding To Expand Autonomous AI Website And Advertising Optimization Platform",
+     "link": "https://pulse2.com/coframe-35-million-funding-to-expand-autonomous-ai-website-and-advertising-optimization-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "melbourne-adtech-vudoo": {
+   "name": "Melbourne adtech Vudoo",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Vudoo bags $22M to turn ads into checkouts and storm the US.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "events": [
+    {
+     "date": "2026-11-09",
+     "amount": "$22 million",
+     "round": "Series B",
+     "title": "Melbourne adtech Vudoo raises $22 million Series B as in-ad checkout takes on the US",
+     "link": "https://www.startupdaily.net/topic/funding/melbourne-adtech-vudoo-raises-22-million-series-b-as-in-ad-checkout-takes-on-the-us/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "invest-rural-puts-investors-on-a-bus-after-bathurst-brewer": {
+   "name": "Invest Rural puts investors on a bus after Bathurst brewer",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Invest Rural drags city money onto a bus so regional founders can meet funders beyond the bank.",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "events": [
+    {
+     "date": "2026-11-09",
+     "amount": "$513,000",
+     "round": "",
+     "title": "Invest Rural puts investors on a bus after Bathurst brewer raises $513,000",
+     "link": "https://www.startupdaily.net/topic/funding/invest-rural-puts-investors-on-a-bus-after-bathurst-brewer-raises-513000/",
+     "source": "Startup Daily"
     }
    ]
   }
