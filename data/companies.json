@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:52:19+00:00",
+ "updated": "2026-11-10T20:12:31+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -58254,6 +58254,198 @@
      "title": "Invest Rural puts investors on a bus after Bathurst brewer raises $513,000",
      "link": "https://www.startupdaily.net/topic/funding/invest-rural-puts-investors-on-a-bus-after-bathurst-brewer-raises-513000/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "anthropic-seeks-record-88-5b-tied-to-public-market-debut": {
+   "name": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to a public market debut. On Tuesday, the AI giant submitted an updated S-1 filing for its upcoming public offering, unv",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "events": [
+    {
+     "date": "2026-11-10",
+     "amount": "$88.5B",
+     "round": "",
+     "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
+     "link": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "primordial-labs-18-million-series-a-funding-to-expand-ai-p": {
+   "name": "Primordial Labs: $18 Million Series A Funding To Expand AI-P",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Primordial Labs, a defense technology company developing natural-language command and control software for military systems, has raised $18 million in Series A funding to expand deployment of its Anura platform. The investment will support the company's engineering and product de",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "events": [
+    {
+     "date": "2026-11-10",
+     "amount": "$18 Million",
+     "round": "Series A",
+     "title": "Primordial Labs: $18 Million Series A Funding To Expand AI-Powered Military Command And Control Platform",
+     "link": "https://pulse2.com/primordial-labs-18-million-series-a-funding-to-expand-ai-powered-military-command-and-control-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "staera-semiconductor-4-6-million-pre-seed-funding-to-devel": {
+   "name": "Staera Semiconductor: $4.6 Million Pre-Seed Funding To Devel",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Staera Semiconductor has emerged from stealth with $4.6 million in pre-seed funding to develop optical interconnect technology that integrates light-based data links directly into silicon chips. Formerly known as New Silicon Corporation, the company is advancing its Lightwire pla",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "events": [
+    {
+     "date": "2026-11-10",
+     "amount": "$4.6 Million",
+     "round": "Pre-Seed",
+     "title": "Staera Semiconductor: $4.6 Million Pre-Seed Funding To Develop Optical Interconnect Technology For AI Chips",
+     "link": "https://pulse2.com/staera-semiconductor-4-6-million-pre-seed-funding-to-develop-optical-interconnect-technology-for-ai-chips/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sparxity-90-million-total-funding-to-advance-sparse-native": {
+   "name": "Sparxity: $90 Million Total Funding To Advance Sparse-Native",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Sparxity, a German semiconductor and AI infrastructure company developing sparse-native computing systems, has closed its Series A financing, bringing its cumulative funding to $90 million. The investment will support the development of specialized chips designed to improve the e",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "events": [
+    {
+     "date": "2026-11-10",
+     "amount": "$90 Million",
+     "round": "Series A",
+     "title": "Sparxity: $90 Million Total Funding To Advance Sparse-Native AI Computing And Semiconductor Technology",
+     "link": "https://pulse2.com/sparxity-90-million-total-funding-to-advance-sparse-native-ai-computing-and-semiconductor-technology/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "froncort-ai": {
+   "name": "Froncort.AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Healthcare AI startup Froncort.AI has secured $2.3 Mn (₹21.5 Cr) in fresh capital from Google’s philanthropic arm, Google.org, to scale…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "events": [
+    {
+     "date": "2026-11-10",
+     "amount": "$2.3 Mn",
+     "round": "",
+     "title": "Froncort.AI Raises $2.3 Mn From Google.org To Expand AI-Based Disease Surveillance",
+     "link": "https://inc42.com/buzz/froncort-ai-raises-2-3-mn-from-google-org-to-expand-ai-based-disease-surveillance/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "inmobi": {
+   "name": "InMobi",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Ahead of its long due IPO, adtech unicorn InMobi has bolstered its marketing by securing a naming rights for Bengaluru’s…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "events": [
+    {
+     "date": "2026-11-10",
+     "amount": "₹65",
+     "round": "",
+     "title": "InMobi Secures Naming Rights For Bengaluru’s Ibbaluru Metro Station For ₹65 Cr",
+     "link": "https://inc42.com/buzz/inmobi-secures-naming-rights-for-bengalurus-ibbaluru-metro-station-for-%e2%82%b965-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "why-an-ex-cohere-leader-doesn-t-want-you-to-call-his-new-law": {
+   "name": "Why an ex-Cohere leader doesn’t want you to call his new law",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Blackletter has raised $6 million USD to build a law firm on top of its AI tech. \n The post  Why an ex-Cohere leader doesn’t want you to call his new law firm “AI-native”  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "events": [
+    {
+     "date": "2026-11-10",
+     "amount": "$6 million",
+     "round": "",
+     "title": "Why an ex-Cohere leader doesn’t want you to call his new law firm “AI-native”",
+     "link": "https://betakit.com/why-an-ex-cohere-leader-doesnt-want-you-to-call-his-new-law-firm-ai-native/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "blue-j": {
+   "name": "Blue J",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Toronto-based firm valued at more than $700 million USD after growing revenue 529 percent in three years. \n The post  AI tax research platform Blue J raises $176-million USD Series E  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "events": [
+    {
+     "date": "2026-11-10",
+     "amount": "$176",
+     "round": "Series E",
+     "title": "AI tax research platform Blue J raises $176-million USD Series E",
+     "link": "https://betakit.com/ai-tax-research-platform-blue-j-raises-176-million-usd-series-e/",
+     "source": "BetaKit"
     }
    ]
   }
