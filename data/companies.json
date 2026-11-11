@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:12:31+00:00",
+ "updated": "2026-11-11T19:59:46+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -58446,6 +58446,198 @@
      "title": "AI tax research platform Blue J raises $176-million USD Series E",
      "link": "https://betakit.com/ai-tax-research-platform-blue-j-raises-176-million-usd-series-e/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "proximal-ventures": {
+   "name": "Proximal Ventures",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "events": [
+    {
+     "date": "2026-11-10",
+     "amount": "$27.5 million",
+     "round": "",
+     "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+     "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "nubank-alum": {
+   "name": "Nubank Alum",
+   "country": "Mexico",
+   "region": "Latin America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Colombia-based startup, Palomma, has raised $10 million in Series A funding led by Mexican venture firm Cometa to expand its financial services business for landlords, tenants and property managers, Crunchbase News has exclusively learned.",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "events": [
+    {
+     "date": "2026-11-11",
+     "amount": "$14M",
+     "round": "Series A",
+     "title": "Exclusive: Nubank Alum Raises $14M For Colombia’s Palomma To Tackle Rent Payments, Landlord Financing",
+     "link": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "zus-health-33-million-series-b-to-expand-connected-healthc": {
+   "name": "Zus Health: $33 Million Series B To Expand Connected Healthc",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Zus Health has raised $33 million in Series B funding to expand its intelligent patient record platform, national healthcare data network, and artificial intelligence-powered clinical workflows. Drive Capital led the round, with participation from Sanofi Ventures, HealthX Venture",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "events": [
+    {
+     "date": "2026-11-11",
+     "amount": "$33 Million",
+     "round": "Series B",
+     "title": "Zus Health: $33 Million Series B To Expand Connected Healthcare And AI Platform",
+     "link": "https://pulse2.com/zus-health-33-million-series-b-to-expand-connected-healthcare-and-ai-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nanopath-25-million-series-b-to-advance-women-s-health-mol": {
+   "name": "Nanopath: $25 Million Series B To Advance Women’s Health Mol",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Nanopath has raised $25 million in Series B financing to advance a 15-minute molecular test for vaginitis and prepare its point-of-care diagnostics platform for potential commercialization. The round includes $2 million in nondilutive grant funding and was co-led by Norwest and S",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "events": [
+    {
+     "date": "2026-11-11",
+     "amount": "$25 Million",
+     "round": "Series B",
+     "title": "Nanopath: $25 Million Series B To Advance Women’s Health Molecular Testing",
+     "link": "https://pulse2.com/nanopath-25-million-series-b-to-advance-womens-health-molecular-testing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "update-greenjoules": {
+   "name": "[Update] Greenjoules",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Update | November 11, 17:18 IST Months after Inc42 exclusively reported on Greenjoules’s fundraise, the cleantech startup announced the closure…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "events": [
+    {
+     "date": "2026-11-11",
+     "amount": "₹150",
+     "round": "Series B",
+     "title": "[Update] Greenjoules Closes Series B Round At ₹150 Cr",
+     "link": "https://inc42.com/buzz/exclusive-greenjoules-raises-%e2%82%b962-cr-funding-from-amazon-singularity-to-scale-green-energy-operations/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-kissht": {
+   "name": "[Update] Kissht",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | November 11, 12:15 IST Kissht parent OnEMI Technology Solutions has completed its ₹832.20 Cr preferential issue, allotting 2.65…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "events": [
+    {
+     "date": "2026-11-11",
+     "amount": "₹832",
+     "round": "",
+     "title": "[Update] Kissht Raises ₹832 Cr Via Preferential Issue, 24 New Investors Join Cap Table",
+     "link": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "airwallex-crypto-sceptic-jack-zhang-s-new-blockchain-side-hu": {
+   "name": "Airwallex crypto sceptic Jack Zhang’s new blockchain side hu",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Airwallex cofounder and CEO Jack Zhang has a side hustle – a fintech blockchain startup, this time, which has raised $114 million across its Seed and Series A rounds in...",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "events": [
+    {
+     "date": "2026-11-11",
+     "amount": "$67 million",
+     "round": "Series A",
+     "title": "Airwallex crypto sceptic Jack Zhang’s new blockchain side hustle just raised a $67 million Series A",
+     "link": "https://www.startupdaily.net/topic/funding/airwallex-crypto-sceptic-jack-zhangs-new-blockchain-side-hustle-just-raised-a-67-million-series-a/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "kiwi-agtech-aimer-farming": {
+   "name": "Kiwi agtech Aimer Farming",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Aimer Farming bags NZ$3m to turn grass data into beef profits.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "events": [
+    {
+     "date": "2026-11-11",
+     "amount": "$2.44 million",
+     "round": "",
+     "title": "Kiwi agtech Aimer Farming raises $2.44 million to solve the grass-to-beef ratio problem",
+     "link": "https://www.startupdaily.net/topic/funding/kiwi-agtech-aimer-farming-raises-2-44-million-to-solve-the-grass-to-beef-ratio-problem/",
+     "source": "Startup Daily"
     }
    ]
   }
