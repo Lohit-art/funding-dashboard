@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:59:46+00:00",
+ "updated": "2026-11-12T20:38:33+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -58638,6 +58638,222 @@
      "title": "Kiwi agtech Aimer Farming raises $2.44 million to solve the grass-to-beef ratio problem",
      "link": "https://www.startupdaily.net/topic/funding/kiwi-agtech-aimer-farming-raises-2-44-million-to-solve-the-grass-to-beef-ratio-problem/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "athlete-to-athlete-8-million-series-a-expands-youth-sports": {
+   "name": "Athlete To Athlete: $8 Million Series A Expands Youth Sports",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Athlete To Athlete, a Santa Monica-based mentorship platform connecting young athletes with college athletes, has raised $8 million in Series A funding led by Rally Ventures. The round also included participation from Newbound VC, Scrum Ventures, and UpHonest Capital. \n The post ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "events": [
+    {
+     "date": "2026-11-12",
+     "amount": "$8 Million",
+     "round": "Series A",
+     "title": "Athlete To Athlete: $8 Million Series A Expands Youth Sports Mentorship",
+     "link": "https://pulse2.com/athlete-to-athlete-8-million-series-a-expands-youth-sports-mentorship/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tristar-ai-12-4-million-series-a-expands-real-time-factory": {
+   "name": "Tristar AI: $12.4 Million Series A Expands Real-Time Factory",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Tristar AI has raised $12.4 million in Series A funding to expand its AI-powered visual inspection and edge-computing platform for manufacturers. \n The post  Tristar AI: $12.4 Million Series A Expands Real-Time Factory Inspection  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "events": [
+    {
+     "date": "2026-11-12",
+     "amount": "$12.4 Million",
+     "round": "Series A",
+     "title": "Tristar AI: $12.4 Million Series A Expands Real-Time Factory Inspection",
+     "link": "https://pulse2.com/tristar-ai-12-4-million-series-a-expands-real-time-factory-inspection/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "delphina-7-5-million": {
+   "name": "Delphina: $7.5 Million",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Delphina has raised $7.5 million in new funding, bringing its cumulative financing to $15 million. Radical Ventures and Costanoa co-led the round, with participation from Tenacity Capital and individual investors connected to AI and economics research. \n The post  Delphina: $7.5 ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "events": [
+    {
+     "date": "2026-11-12",
+     "amount": "$7.5 Million",
+     "round": "",
+     "title": "Delphina: $7.5 Million Raised To Expand AI-Powered Context Factory For Business Analytics",
+     "link": "https://pulse2.com/delphina-7-5-million-raised-to-expand-ai-powered-context-factory-for-business-analytics/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "neurosterix-105-million-series-b-to-advance-schizophrenia": {
+   "name": "Neurosterix: $105 Million Series B To Advance Schizophrenia ",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Neurosterix has raised $105 million in Series B financing to advance its lead schizophrenia treatment into Phase 2 development and expand its pipeline of selective allosteric modulators for neuropsychiatric disorders. \n The post  Neurosterix: $105 Million Series B To Advance Schi",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "events": [
+    {
+     "date": "2026-11-12",
+     "amount": "$105 Million",
+     "round": "Series B",
+     "title": "Neurosterix: $105 Million Series B To Advance Schizophrenia Drug Into Phase 2",
+     "link": "https://pulse2.com/neurosterix-105-million-series-b-to-advance-schizophrenia-drug-into-phase-2/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "eli-radiopharma-nearly-60-million-series-a-financing-to-ad": {
+   "name": "Eli Radiopharma: Nearly $60 Million Series A Financing To Ad",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Eli Radiopharma has raised nearly $60 million (RMB 400 million) in Series A financing to advance its radiopharmaceutical pipeline toward clinical development. The funding will support preclinical research, regulatory submissions, early-stage clinical studies, and the expansion of",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "events": [
+    {
+     "date": "2026-11-12",
+     "amount": "$60 Million",
+     "round": "Series A",
+     "title": "Eli Radiopharma: Nearly $60 Million Series A Financing To Advance Radiopharmaceutical Pipeline Toward Clinical Development",
+     "link": "https://pulse2.com/eli-radiopharma-nearly-60-million-series-a-financing-to-advance-radiopharmaceutical-pipeline-toward-clinical-development/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "sofina-to-lead-platinumrx-s-32-mn-funding-at-200-mn-valuat": {
+   "name": "Sofina To Lead PlatinumRx’s $32 Mn Funding At $200 Mn Valuat",
+   "country": "India",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Online pharmacy startup PlatinumRx is in talks to raise around $32 Mn (over ₹300 Cr) in a funding round led…",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "events": [
+    {
+     "date": "2026-11-12",
+     "amount": "$32 Mn",
+     "round": "",
+     "title": "Exclusive: Sofina To Lead PlatinumRx’s $32 Mn Funding At $200 Mn Valuation",
+     "link": "https://inc42.com/buzz/sofina-to-lead-platinumrxs-32-mn-funding-at-200-mn-valuation/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "conexus-venture-capital": {
+   "name": "Conexus Venture Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Regina-based VC re-opened the fund earlier this year after increased demand from investors. \n The post  Conexus Venture Capital raises additional $5 million for Fund II  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "events": [
+    {
+     "date": "2026-11-12",
+     "amount": "$5 million",
+     "round": "",
+     "title": "Conexus Venture Capital raises additional $5 million for Fund II",
+     "link": "https://betakit.com/conexus-venture-capital-raises-additional-5-million-for-fund-ii/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "bluwave-ai": {
+   "name": "BluWave-ai",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Nearly 10 years in, Ottawa company eyes surge in demand from AI infrastructure build-out. \n The post  BluWave-ai secures $8.1 million for energy grid software as data centres strain load  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "events": [
+    {
+     "date": "2026-11-12",
+     "amount": "$8.1 million",
+     "round": "",
+     "title": "BluWave-ai secures $8.1 million for energy grid software as data centres strain load",
+     "link": "https://betakit.com/bluwave-ai-secures-8-1-million-for-energy-grid-software-as-data-centres-strain-load/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "northside-ventures-aims-to-build-institutional-angel-invest": {
+   "name": "Northside Ventures aims to build “institutional angel invest",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "The Toronto VC has closed $17 million to date to back Canadian tech startups at inception. \n The post  Northside Ventures aims to build “institutional angel investor” with $30-million USD second fund  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "events": [
+    {
+     "date": "2026-11-12",
+     "amount": "$30",
+     "round": "Angel",
+     "title": "Northside Ventures aims to build “institutional angel investor” with $30-million USD second fund",
+     "link": "https://betakit.com/northside-ventures-aims-to-build-institutional-angel-investor-with-30-million-usd-second-fund/",
+     "source": "BetaKit"
     }
    ]
   }
