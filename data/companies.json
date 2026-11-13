@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:38:33+00:00",
+ "updated": "2026-11-13T20:19:01+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -58854,6 +58854,126 @@
      "title": "Northside Ventures aims to build “institutional angel investor” with $30-million USD second fund",
      "link": "https://betakit.com/northside-ventures-aims-to-build-institutional-angel-investor-with-30-million-usd-second-fund/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "ridero-2-7-million-pre-seed-funding-expands-flexible-vehic": {
+   "name": "Ridero: $2.7 Million Pre-Seed Funding Expands Flexible Vehic",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Ridero has raised $2.7 million in total pre-seed funding to develop AI-powered financial infrastructure for vehicle leasing and other residual-based financing products. RiverPark Ventures, NY Ventures, Green Egg Ventures, Blackpoint Capital, and Potamkin Ventures backed the compa",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "events": [
+    {
+     "date": "2026-11-13",
+     "amount": "$2.7 Million",
+     "round": "Pre-Seed",
+     "title": "Ridero: $2.7 Million Pre-Seed Funding Expands Flexible Vehicle Financing",
+     "link": "https://pulse2.com/ridero-2-7-million-pre-seed-funding-expands-flexible-vehicle-financing/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "norwest-4-billion-fund-expands-global-multi-stage-investme": {
+   "name": "Norwest: $4 Billion Fund Expands Global Multi-Stage Investme",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Norwest has closed Norwest 18, a $4 billion global investment fund that will back venture and growth equity opportunities across technology, healthcare, and consumer markets. The vehicle is the largest fund in the firm’s 65-year history and increases its total capital under manag",
+   "audience": "Consumers",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "events": [
+    {
+     "date": "2026-11-13",
+     "amount": "$4 Billion",
+     "round": "Growth",
+     "title": "Norwest: $4 Billion Fund Expands Global Multi-Stage Investment Strategy",
+     "link": "https://pulse2.com/norwest-4-billion-fund-expands-global-multi-stage-investment-strategy/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "entreprenorth": {
+   "name": "EntrepreNorth",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Sinew Impact Fund will provide more risk capital to early-stage Indigenous startups with ties to Canada’s North. \n The post  EntrepreNorth secures $8-million initial close of fund for Indigenous entrepreneurs  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "events": [
+    {
+     "date": "2026-11-13",
+     "amount": "$8",
+     "round": "",
+     "title": "EntrepreNorth secures $8-million initial close of fund for Indigenous entrepreneurs",
+     "link": "https://betakit.com/entreprenorth-secures-8-million-initial-close-of-fund-for-indigenous-entrepreneurs/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "thirst-quenched-office-drinks-dispenser-refilled-taps-5-6": {
+   "name": "Thirst quenched: Office drinks dispenser Refilled taps $5.6 ",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Refilled bags $5.6m to get rid of plastic bottles with smart office drink taps for Google, Meta and others.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "events": [
+    {
+     "date": "2026-11-13",
+     "amount": "$5.6 million",
+     "round": "Series A",
+     "title": "Thirst quenched: Office drinks dispenser Refilled taps $5.6 million Series A",
+     "link": "https://www.startupdaily.net/topic/funding/thirst-quenched-office-drinks-dispenser-refilled-taps-5-6-million-series-a/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "quantum-of-unicorn-q-ctrl-hits-1-4-billion-valuation-from": {
+   "name": "Quantum of unicorn: Q-CTRL hits $1.4 billion valuation from ",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Scientific discovery",
+   "sector": "Deep Tech",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Q-CTRL bags $425m to become Australia’s first quantum unicorn.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "events": [
+    {
+     "date": "2026-11-12",
+     "amount": "$1.4 billion",
+     "round": "Series C",
+     "title": "Quantum of unicorn: Q-CTRL hits $1.4 billion valuation from $425m Series C",
+     "link": "https://www.startupdaily.net/topic/funding/quantum-of-unicorn-q-ctrl-hits-1-4-billion-valuation-from-425m-series-c/",
+     "source": "Startup Daily"
     }
    ]
   }
