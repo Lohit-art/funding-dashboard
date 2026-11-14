@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:19:01+00:00",
+ "updated": "2026-11-14T18:38:24+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -58974,6 +58974,222 @@
      "title": "Quantum of unicorn: Q-CTRL hits $1.4 billion valuation from $425m Series C",
      "link": "https://www.startupdaily.net/topic/funding/quantum-of-unicorn-q-ctrl-hits-1-4-billion-valuation-from-425m-series-c/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "avatar-capital-partners-156-million-first": {
+   "name": "Avatar Capital Partners: $156 Million First",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Avatar Capital Partners (ACP), an Asia-based alternative asset management firm focused on real estate and other investment opportunities, has secured $156 million in commitments at the first close of its second fund. The firm also announced a strategic partnership with GCM Grosve",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "events": [
+    {
+     "date": "2026-11-14",
+     "amount": "$156 Million",
+     "round": "",
+     "title": "Avatar Capital Partners: $156 Million First Close For Fund II With GCM Grosvenor And Teacher Retirement System Of Texas",
+     "link": "https://pulse2.com/avatar-capital-partners-156-million-first-close-for-fund-ii-with-gcm-grosvenor-and-teacher-retirement-system-of-texas/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "q-ctrl-290-million-series-c-funding-led-by-salesforce-vent": {
+   "name": "Q-CTRL: $290 Million Series C Funding Led By Salesforce Vent",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Scientific discovery",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Q-CTRL, a developer of AI-powered quantum infrastructure software, has raised $290 million (A$415 million) in Series C funding led by Salesforce Ventures, with significant participation from Bullhound Capital and Affinity Partners. The oversubscribed financing establishes Q-CTRL ",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "events": [
+    {
+     "date": "2026-11-14",
+     "amount": "$290 Million",
+     "round": "Series C",
+     "title": "Q-CTRL: $290 Million Series C Funding Led By Salesforce Ventures Creates New Quantum Technology Unicorn",
+     "link": "https://pulse2.com/q-ctrl-290-million-series-c-funding-led-by-salesforce-ventures-creates-new-quantum-technology-unicorn/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "numica-21-million-in-equity-and-debt-financing-to-acquire": {
+   "name": "Numica: $21 Million In Equity And Debt Financing To Acquire ",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Numica, a New York-based AI-first accounting platform that acquires and modernizes small accounting practices, has secured $21 million in combined equity and debt financing from Roosh X and Flashpoint Capital. The financing will support Numica's strategy of acquiring established ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "events": [
+    {
+     "date": "2026-11-14",
+     "amount": "$21 Million",
+     "round": "Debt",
+     "title": "Numica: $21 Million In Equity And Debt Financing To Acquire Accounting Firms And Expand AI-Native Platform",
+     "link": "https://pulse2.com/numica-21-million-in-equity-and-debt-financing-to-acquire-accounting-firms-and-expand-ai-native-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "vulcanforms-500-million-financing-led-by-j-p-morgan-and-a": {
+   "name": "VulcanForms: $500 Million Financing Led By J.P. Morgan And A",
+   "country": "USA",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "VulcanForms, a Boston-based advanced digital manufacturing company, has secured an agreement for $500 million in financing led by J.P. Morgan and funds managed by Apollo. The financing will support construction of three new factories, expansion of domestic production capacity, an",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "events": [
+    {
+     "date": "2026-11-14",
+     "amount": "$500 Million",
+     "round": "",
+     "title": "VulcanForms: $500 Million Financing Led By J.P. Morgan And Apollo To Build Three New U.S. Manufacturing Factories",
+     "link": "https://pulse2.com/vulcanforms-500-million-financing-led-by-j-p-morgan-and-apollo-to-build-three-new-u-s-manufacturing-factories/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "orakl-oncology-34-million-series-a-funding-co-led-by-norrs": {
+   "name": "Orakl Oncology: $34 Million Series A Funding Co-Led By Norrs",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Orakl Oncology, an artificial intelligence-driven biotechnology company developing technologies to improve the prediction of cancer drug responses, has raised $34 million in Series A funding co-led by Norrsken VC and Singular. The financing will support the company's continued ex",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "events": [
+    {
+     "date": "2026-11-14",
+     "amount": "$34 Million",
+     "round": "Series A",
+     "title": "Orakl Oncology: $34 Million Series A Funding Co-Led By Norrsken VC And Singular To Expand AI-Powered Cancer Drug Discovery",
+     "link": "https://pulse2.com/orakl-oncology-34-million-series-a-funding-co-led-by-norrsken-vc-and-singular-to-expand-ai-powered-cancer-drug-discovery/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "proterra-investment-partners-680-million-final": {
+   "name": "Proterra Investment Partners: $680 Million Final",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Proterra Investment Partners, a Minneapolis-based private investment firm specializing in the food and agriculture value chain, has completed the final close of Proterra Credit Fund 3 with $680 million in capital commitments, exceeding its original $500 million fundraising target",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "events": [
+    {
+     "date": "2026-11-14",
+     "amount": "$680 Million",
+     "round": "",
+     "title": "Proterra Investment Partners: $680 Million Final Close For Credit Fund 3 Exceeds Target As Total Commitments Top $1 Billion",
+     "link": "https://pulse2.com/proterra-investment-partners-680-million-final-close-for-credit-fund-3-exceeds-target-as-total-commitments-top-1-billion/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ballistic-ventures-490-million-fundraising-target-for-two": {
+   "name": "Ballistic Ventures: $490 Million Fundraising Target For Two ",
+   "country": "USA",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Ballistic Ventures, a San Francisco-based venture capital firm specializing in cybersecurity investments, is seeking to raise $490 million across two new investment funds as artificial intelligence drives demand for technologies that protect businesses against increasingly sophis",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "events": [
+    {
+     "date": "2026-11-14",
+     "amount": "$490 Million",
+     "round": "",
+     "title": "Ballistic Ventures: $490 Million Fundraising Target For Two New Cybersecurity Funds Amid AI Security Boom",
+     "link": "https://pulse2.com/ballistic-ventures-490-million-fundraising-target-for-two-new-cybersecurity-funds-amid-ai-security-boom/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "griffin-20-million-series-b-funding-led-by-octagon-partner": {
+   "name": "Griffin: $20 Million Series B Funding Led By Octagon Partner",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Griffin, a United Kingdom-based licensed bank providing embedded banking infrastructure to fintech companies and technology platforms, has raised $20 million in Series B funding led by Octagon Partners. Notion Capital, A+ Ventures, Nordic Ninja, Breega, and other existing investo",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "events": [
+    {
+     "date": "2026-11-14",
+     "amount": "$20 Million",
+     "round": "Series B",
+     "title": "Griffin: $20 Million Series B Funding Led By Octagon Partners To Expand Card Issuing And Stablecoin Banking Services",
+     "link": "https://pulse2.com/griffin-20-million-series-b-funding-led-by-octagon-partners-to-expand-card-issuing-and-stablecoin-banking-services/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nebuly-21-million-series-a-funding-led-by-planven-to-expan": {
+   "name": "Nebuly: $21 Million Series A Funding Led By Planven To Expan",
+   "country": "USA",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Nebuly, an enterprise AI analytics company headquartered in New York and Turin, Italy, has raised $21 million in Series A funding led by Planven. The financing will support the expansion of its platform for measuring the financial and operational value of AI agents, along with ad",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "events": [
+    {
+     "date": "2026-11-14",
+     "amount": "$21 Million",
+     "round": "Series A",
+     "title": "Nebuly: $21 Million Series A Funding Led By Planven To Expand Enterprise AI Return On Investment Platform",
+     "link": "https://pulse2.com/nebuly-21-million-series-a-funding-led-by-planven-to-expand-enterprise-ai-return-on-investment-platform/",
+     "source": "Pulse 2.0"
     }
    ]
   }
