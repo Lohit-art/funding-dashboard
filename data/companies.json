@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:14:09+00:00",
+ "updated": "2026-11-16T22:43:56+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -59190,6 +59190,318 @@
      "title": "Nebuly: $21 Million Series A Funding Led By Planven To Expand Enterprise AI Return On Investment Platform",
      "link": "https://pulse2.com/nebuly-21-million-series-a-funding-led-by-planven-to-expand-enterprise-ai-return-on-investment-platform/",
      "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "helsing-backer-plural": {
+   "name": "Helsing backer Plural",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "$1.1B",
+     "round": "",
+     "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+     "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "plural": {
+   "name": "Plural",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "London-based startup investor Plural, with a portfolio mix of energy, compute, defense, robotics, health and software,\nsays it has closed on its largest fund to date — just over $1.1 billion, or 1 billion euros — to lead early-stage investments across Europe.",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "$1.1B",
+     "round": "",
+     "title": "VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For ‘GDP-Level Impact’",
+     "link": "https://news.crunchbase.com/venture/plural-closes-billion-euro-fund-european-ai-robotics-defense-startup-investment/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "horizon-capital-reaches-200-million-second": {
+   "name": "Horizon Capital Reaches €200 Million Second",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Horizon Capital has secured €200 million in commitments for its Catalyst Fund, reaching two-thirds of its €300 million target as it invests in Ukraine’s energy, digital infrastructure and construction sectors. \n The post  Horizon Capital Reaches €200 Million Second Close For Ukra",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "€200 Million",
+     "round": "",
+     "title": "Horizon Capital Reaches €200 Million Second Close For Ukraine Catalyst Fund",
+     "link": "https://pulse2.com/horizon-capital-reaches-e200-million-second-close-for-ukraine-catalyst-fund/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "galvanize-therapeutics": {
+   "name": "Galvanize Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Galvanize Therapeutics has closed an oversubscribed $130 million Series D financing to expand its commercial business, generate clinical evidence and develop additional pulsed electric field technologies. \n The post  Galvanize Therapeutics Raises $130 Million Series D To Expand P",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "$130 Million",
+     "round": "Series D",
+     "title": "Galvanize Therapeutics Raises $130 Million Series D To Expand PEF Ablation Platform",
+     "link": "https://pulse2.com/galvanize-therapeutics-raises-130-million-series-d-to-expand-pef-ablation-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "numa": {
+   "name": "Numa",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Numa has raised $45 million in Series C funding led by Blue Cloud Ventures, bringing its total financing to $96 million as it expands its AI platform across dealership operations. Threshold Ventures, Costanoa, Touring Capital, Gradient Ventures and Tokio Marine Future Fund partic",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "$45 Million",
+     "round": "Series C",
+     "title": "Numa Raises $45 Million Series C As Dealership AI Revenue Triples",
+     "link": "https://pulse2.com/numa-raises-45-million-series-c-as-dealership-ai-revenue-triples/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "remedy-robotics": {
+   "name": "Remedy Robotics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Remedy Robotics has raised $62 million in Series B funding to advance its AI-enabled endovascular robotic platform toward clinical trials and potential regulatory approval. DCVC led the round, with participation from UC Investments, Skip Capital and Hostplus. Existing investors B",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "$62 Million",
+     "round": "Series B",
+     "title": "Remedy Robotics Raises $62 Million Series B For Cardiovascular Robotic System Development",
+     "link": "https://pulse2.com/remedy-robotics-raises-62-million-series-b-for-cardiovascular-robotic-system-development/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "cube-infrastructure-fund-iv-reaches-587-million-first": {
+   "name": "Cube Infrastructure Fund IV Reaches €587 Million First",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Cube Infrastructure Managers has secured €587 million in commitments, including co-investment commitments, at the first close of its fourth flagship infrastructure fund. \n The post  Cube Infrastructure Fund IV Reaches €587 Million First Close  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "€587 Million",
+     "round": "",
+     "title": "Cube Infrastructure Fund IV Reaches €587 Million First Close",
+     "link": "https://pulse2.com/cube-infrastructure-fund-iv-reaches-e587-million-first-close/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "dreamteam": {
+   "name": "Dreamteam",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "SpaceTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI-native customer relationship management (CRM) platform Dreamteam, cofounded by former Freshworks executives, has emerged out of stealth mode. The startup…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "$53 Mn",
+     "round": "",
+     "title": "Dreamteam Bags $53 Mn To Disrupt The CRM Space With AI",
+     "link": "https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "smartphone-price-hike-samsung-xiaomi-models": {
+   "name": "Smartphone Price Hike: Samsung, Xiaomi Models",
+   "country": "India",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Samsung and Xiaomi have increased smartphone prices by up to ₹4,000 across 48 variants in India amid rising memory chip…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "₹4,000",
+     "round": "",
+     "title": "Smartphone Price Hike: Samsung, Xiaomi Models Get Costlier By Up To ₹4,000 In India",
+     "link": "https://inc42.com/buzz/samsung-xiaomi-models-get-costlier-by-up-to-%e2%82%b94000-in-india/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "update-urban-company-shareholders-approve-2-500-cr-fundra": {
+   "name": "[Update] Urban Company Shareholders Approve ₹2,500 Cr Fundra",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | November 16, 2026 Urban Company shareholders have approved a proposal to raise up to ₹2,500 Cr through the…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "₹2,500",
+     "round": "",
+     "title": "[Update] Urban Company Shareholders Approve ₹2,500 Cr Fundraise",
+     "link": "https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "bharat-semi": {
+   "name": "Bharat Semi",
+   "country": "India",
+   "region": "Asia",
+   "category": "Infrastructure & tools",
+   "sector": "Semiconductors",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Bengaluru-based semiconductor startup Bharat Semi has raised $24 Mn (around ₹215 Cr) in a seed funding round to develop programmable…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "$24 Mn",
+     "round": "Seed",
+     "title": "Bharat Semi Raises $24 Mn To Build Smart Sensors For Physical AI",
+     "link": "https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "verafin-alum-led-verlo": {
+   "name": "Verafin alum-led Verlo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Staircase Ventures led the St. John’s startup’s round, with backing from Pelorus and Verafin leaders. \n The post  Verafin alum-led Verlo nabs $4.5 million to build AI operating system for wealth managers  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "$4.5 million",
+     "round": "",
+     "title": "Verafin alum-led Verlo nabs $4.5 million to build AI operating system for wealth managers",
+     "link": "https://betakit.com/verafin-alum-led-verlo-nabs-4-5-million-to-build-ai-operating-system-for-wealth-managers/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "colab-founders-pocket-3-65-million-seed-round-for-insolvenc": {
+   "name": "CoLab founders pocket $3.65 million Seed round for insolvenc",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "CoLab’s collapse birthed Morgan AI: a $3.65m-backed insolvency copilot hunting creditor cash and UK growth.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "$3.65 million",
+     "round": "Seed",
+     "title": "CoLab founders pocket $3.65 million Seed round for insolvency fintech named after their former administrator",
+     "link": "https://www.startupdaily.net/topic/funding/colab-founders-pocket-3-65-million-seed-round-for-insolvency-fintech-named-after-their-former-administrator/",
+     "source": "Startup Daily"
     }
    ]
   }
