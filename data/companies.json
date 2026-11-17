@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:43:56+00:00",
+ "updated": "2026-11-17T21:29:42+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -59501,6 +59501,270 @@
      "round": "Seed",
      "title": "CoLab founders pocket $3.65 million Seed round for insolvency fintech named after their former administrator",
      "link": "https://www.startupdaily.net/topic/funding/colab-founders-pocket-3-65-million-seed-round-for-insolvency-fintech-named-after-their-former-administrator/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "genesis-ai": {
+   "name": "Genesis AI",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Mobility & logistics",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding at a $3.5 billion valuation.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "events": [
+    {
+     "date": "2026-11-17",
+     "amount": "$500M",
+     "round": "Series A",
+     "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
+     "link": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "the-money-cleared-the-bank-now-the-founder-is-the-risk": {
+   "name": "The Money Cleared The Bank. Now The Founder Is The Risk.",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The first 90 days after a funding round can be overwhelming for founders, but executive coach Kelly Meerbott explains how they can protect their decision-making by pausing before major commitments, acknowledging stress, scheduling candid co-founder conversations, and seeking supp",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "events": [
+    {
+     "date": "2026-11-17",
+     "amount": "",
+     "round": "",
+     "title": "The Money Cleared The Bank. Now The Founder Is The Risk.",
+     "link": "https://news.crunchbase.com/startups/founder-venture-funding-pressure-meerbott-you-loud-clear/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "arcturus-therapeutics": {
+   "name": "Arcturus Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Arcturus Therapeutics has expanded its collaboration with Meiji Seika Pharma through a $50 million equity investment, an additional technology license and a proposed pandemic preparedness partnership in Japan. \n The post  Arcturus Therapeutics Secures $50 Million Meiji Investment",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "events": [
+    {
+     "date": "2026-11-17",
+     "amount": "$50 Million",
+     "round": "",
+     "title": "Arcturus Therapeutics Secures $50 Million Meiji Investment At 80% Premium",
+     "link": "https://pulse2.com/arcturus-therapeutics-secures-50-million-meiji-investment-at-80-premium/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "medicus-pharma": {
+   "name": "Medicus Pharma",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Medicus Pharma has closed $4.25 million in equity financings and exchanged $10.5 million in debt for preferred shares, strengthening its balance sheet as it advances its precision oncology strategy. \n The post  Medicus Pharma Closes $4.25 Million Equity Financing And $10.5 Millio",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "events": [
+    {
+     "date": "2026-11-17",
+     "amount": "$4.25 Million",
+     "round": "Debt",
+     "title": "Medicus Pharma Closes $4.25 Million Equity Financing And $10.5 Million Debt Exchange",
+     "link": "https://pulse2.com/medicus-pharma-closes-4-25-million-equity-financing-and-10-5-million-debt-exchange/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pro-climbing-league": {
+   "name": "Pro Climbing League",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Pro Climbing League has raised £3.2 million in seed funding as it prepares to expand its head-to-head climbing competition format into a European tour in 2027. \n The post  Pro Climbing League Raises £3.2 Million Seed Round Ahead Of European Tour  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "events": [
+    {
+     "date": "2026-11-17",
+     "amount": "£3.2 Million",
+     "round": "Seed",
+     "title": "Pro Climbing League Raises £3.2 Million Seed Round Ahead Of European Tour",
+     "link": "https://pulse2.com/pro-climbing-league-raises-3-2-million-seed-round-ahead-of-european-tour/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "olyv": {
+   "name": "Olyv",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Despite advances in financial inclusion, a large section of India’s salaried and self-employed population continues to struggle to access formal…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "events": [
+    {
+     "date": "2026-11-17",
+     "amount": "$6 Mn",
+     "round": "",
+     "title": "Olyv Raises $6 Mn To Expand Financial Services Play Beyond Lending",
+     "link": "https://inc42.com/buzz/olyv-raises-6-mn-to-expand-financial-services-play-beyond-lending/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "lumov-eyes-33-cr-in-peak-xv-surge-led-round": {
+   "name": "Lumov Eyes ₹33 Cr In Peak XV Surge-Led Round",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bengaluru-based D2C orthopaedic products brand Lumov is in talks to raise around ₹33 Cr (about $3.5 Mn) in a funding…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "events": [
+    {
+     "date": "2026-11-17",
+     "amount": "₹33",
+     "round": "",
+     "title": "D2C Brand Lumov Eyes ₹33 Cr In Peak XV Surge-Led Round",
+     "link": "https://inc42.com/buzz/d2c-brand-lumov-eyes-%e2%82%b933-cr-in-peak-xv-surge-led-round/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "d2c-price-hike-bharat-semi": {
+   "name": "D2C Price Hike, Bharat Semi",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "D2C Brands Caught In Margin Squeeze Rising crude prices are squeezing India’s D2C brands. Increasing freight and raw material costs…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "events": [
+    {
+     "date": "2026-11-17",
+     "amount": "$24 Mn",
+     "round": "",
+     "title": "D2C Price Hike, Bharat Semi Bags $24 Mn & More",
+     "link": "https://inc42.com/buzz/d2c-price-hike-bharat-semi-bags-24-mn-more/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "promise-robotics-announces-40-million-series-b-round": {
+   "name": "Promise Robotics announces $40-million Series B round",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Toronto-based robotics company has factories in Calgary and near Edmonton.  \n The post  Physical AI company Promise Robotics announces $40-million Series B round  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "events": [
+    {
+     "date": "2026-11-17",
+     "amount": "$40",
+     "round": "Series B",
+     "title": "Physical AI company Promise Robotics announces $40-million Series B round",
+     "link": "https://betakit.com/physical-ai-company-promise-robotics-announces-40-million-series-b-round/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "heylist": {
+   "name": "Heylist",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Creative expression",
+   "sector": "Gaming / Media",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Montréal startup connects brands like L’Oréal and KitchenAid with nano-influencers. \n The post  Heylist closes $3.1 million to fuel the niche creator economy  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-17",
+   "last_seen": "2026-11-17",
+   "events": [
+    {
+     "date": "2026-11-17",
+     "amount": "$3.1 million",
+     "round": "",
+     "title": "Heylist closes $3.1 million to fuel the niche creator economy",
+     "link": "https://betakit.com/heylist-closes-3-1-million-to-fuel-the-niche-creator-economy/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "expat-s-remote-surgery-medtech": {
+   "name": "Expat’s remote surgery medtech",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Remedy Robotics just banked $92m to make remote stroke surgery real.",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "events": [
+    {
+     "date": "2026-11-16",
+     "amount": "$92 million",
+     "round": "Series B",
+     "title": "Expat’s remote surgery medtech scores $92 million Series B for stroke care",
+     "link": "https://www.startupdaily.net/topic/funding/expats-remote-surgery-medtech-scores-92-million-series-b-for-stroke-care/",
      "source": "Startup Daily"
     }
    ]
