@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:29:42+00:00",
+ "updated": "2026-11-18T21:05:14+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -59765,6 +59765,414 @@
      "round": "Series B",
      "title": "Expat’s remote surgery medtech scores $92 million Series B for stroke care",
      "link": "https://www.startupdaily.net/topic/funding/expats-remote-surgery-medtech-scores-92-million-series-b-for-stroke-care/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "payhawk-announces-280m": {
+   "name": "Payhawk announces $280M",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$280M",
+     "round": "",
+     "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+     "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+     "source": "TechCrunch Venture"
+    }
+   ]
+  },
+  "endeem": {
+   "name": "Endeem",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Endeem has emerged from stealth with $2.5 million in oversubscribed pre-seed financing and the general availability of its security platform for enterprise AI agents. \n The post  Endeem Raises $2.5 Million To Secure Enterprise AI Agents  appeared first on  Pulse 2.0 .",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$2.5 Million",
+     "round": "Pre-Seed",
+     "title": "Endeem Raises $2.5 Million To Secure Enterprise AI Agents",
+     "link": "https://pulse2.com/endeem-raises-2-5-million-to-secure-enterprise-ai-agents/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "compute-desk": {
+   "name": "Compute Desk",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Infrastructure & tools",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Compute Desk has raised $45 million in a funding round led by Lightspeed Venture Partners to build infrastructure for pricing, trading, hedging and clearing computing capacity. Other investors include Menlo Ventures, Hedosophia, Motive Partners, Crucible Capital, Inovia Capital, ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$45 Million",
+     "round": "",
+     "title": "Compute Desk Raises $45 Million To Build Compute Risk Markets",
+     "link": "https://pulse2.com/compute-desk-raises-45-million-to-build-compute-risk-markets/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "onward-therapeutics": {
+   "name": "Onward Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Onward Therapeutics has raised NT$900 million, or approximately $28 million, in Series B financing to support its clinical-stage cancer programs, clinical-supply manufacturing, and early research. \n The post  Onward Therapeutics Raises $28 Million To Advance Oncology Pipeline  ap",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$28 Million",
+     "round": "Series B",
+     "title": "Onward Therapeutics Raises $28 Million To Advance Oncology Pipeline",
+     "link": "https://pulse2.com/onward-therapeutics-raises-28-million-to-advance-oncology-pipeline/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "ireland-s-disseqt-ai": {
+   "name": "Ireland’s Disseqt AI",
+   "country": "Ireland",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Enterprise SaaS",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Disseqt AI, a Dublin-based AI assurance platform, has raised €7.3 million ($8 million) to help enterprises deploy AI agents safely, at scale and enable them to meet regulatory requirements. Gresham House Ventures led the round, with participation from Sure Valley Ventures (SVV), ",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "€7.3 million",
+     "round": "",
+     "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
+     "link": "https://www.eu-startups.com/2026/11/irelands-disseqt-ai-raises-e7-3-million-to-safely-deploy-ai-agents/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "payhawk": {
+   "name": "Payhawk",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Payhawk, a London-based AI-native spend management platform, today announced a €255.14 million ($280 million) Series C round, valuing the business at €1.82 billion ($2 billion) as it builds the global finance operating system (OS) for the AI era. The round was led by Growth Equit",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "€255.14 million",
+     "round": "Series C",
+     "title": "Bulgaria’s first unicorn Payhawk raises €255.14 million at €1.82 billion valuation in Goldman Sachs-led Series C round",
+     "link": "https://www.eu-startups.com/2026/11/bulgarias-first-unicorn-payhawk-raises-e255-14-million-at-e1-82-billion-valuation-to-build-a-global-finance-os-for-the-ai-era/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "french-frugal-ai-infrastructure-startup-mountain": {
+   "name": "French frugal AI infrastructure startup MountAIn",
+   "country": "France",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "MountAIn, a Grenoble-based frugal AI infrastructure company, has raised €7.3 million in Seed funding to run advanced AI on microcontrollers costing less than €9.11 ($10).  The round was led by 360 Capital and Supernova Invest, with participation from Crédit Agricole Alpes Dévelop",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "€7.3 million",
+     "round": "Seed",
+     "title": "French frugal AI infrastructure startup MountAIn raises €7.3 million to bring advanced AI to sub-€9 chips",
+     "link": "https://www.eu-startups.com/2026/11/french-frugal-ai-infrastructure-startup-mountain-raises-e7-3-million-to-bring-advanced-ai-to-sub-e9-chips/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "meatable-co-founder-s-new-firm-iconic": {
+   "name": "Meatable co-founder’s new firm Iconic",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Iconic, an Amsterdam-based startup building an AI operating system for large capital projects, has raised €9.1 million ($10 million) in Seed funding to bring AI-powered intelligence to these projects, with five major clients already onboard. Peak Capital, an early-stage venture c",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "€9.1 million",
+     "round": "Seed",
+     "title": "Meatable co-founder’s new firm Iconic raises €9.1 million to build AI operating system for large capital projects",
+     "link": "https://www.eu-startups.com/2026/11/meatable-co-founders-new-firm-iconic-raises-e9-1-million-to-build-ai-operating-system-for-large-capital-projects/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "london-s-perry-ai": {
+   "name": "London’s Perry AI",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Perry AI, the London-based startup building an AI-powered legal operating system for private equity and venture capital funds, has raised €2 million ($2.2 million) in a Seed funding round. The round was led by Haatch, with participation from Antler, Syncorp Ventures, Araya Ventur",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "€2 million",
+     "round": "Seed",
+     "title": "London’s Perry AI raises €2 million to bring AI-powered legal intelligence to private capital funds",
+     "link": "https://www.eu-startups.com/2026/11/londons-perry-ai-raises-e2-million-to-bring-ai-powered-legal-intelligence-to-private-capital-funds/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "botsync": {
+   "name": "Botsync",
+   "country": "Singapore",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Singapore-based robotics startup Botsync has raised $11 Mn (about ₹103 Cr) in a funding round led by IvyCap Ventures to…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$11 Mn",
+     "round": "",
+     "title": "Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors",
+     "link": "https://inc42.com/buzz/botsync-raises-11-mn-to-connect-robots-and-machines-on-factory-floors/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "humyn-labs": {
+   "name": "Humyn Labs",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Physical AI startup Humyn Labs has raised $47 Mn (about ₹439 Cr) to expand its data collection and robot deployment…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$47 Mn",
+     "round": "",
+     "title": "Humyn Labs Raises $47 Mn To Collect Training Data For Robots",
+     "link": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "soket-ai": {
+   "name": "Soket AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI startup Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv’s applied research and innovation initiative Finserv…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$4 Mn",
+     "round": "",
+     "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon",
+     "link": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "enerzolve-to": {
+   "name": "Enerzolve To",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bengaluru-based deeptech startup Enerzolve Smart Technologies is in talks to raise around $16- 20 Mn (₹150-186 Cr) in a fresh…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$20 Mn",
+     "round": "",
+     "title": "Deeptech Startup Enerzolve To Raise $20 Mn From Jungle Ventures, Others",
+     "link": "https://inc42.com/buzz/deeptech-startup-enerzolve-to-raise-20-mn-from-jungle-ventures-others/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "recove-ventures": {
+   "name": "Recove Ventures",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bengaluru-based Recove Ventures has raised ₹56.3 Cr (slightly over $6 Mn) in a funding round from investors like Samara Capital’s…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "₹56",
+     "round": "",
+     "title": "Recove Ventures Nets ₹56 Cr To Expand Recycling Business",
+     "link": "https://inc42.com/buzz/recove-ventures-nets-%e2%82%b956-cr-to-expand-recycling-business/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "henfruit": {
+   "name": "Henfruit",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Egg brand Henfruit has raised $15 Mn (about ₹140 Cr) in a Series A round from Lok Capital, DSG Consumer…",
+   "audience": "Consumers",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$15 Mn",
+     "round": "Series A",
+     "title": "Egg Brand Henfruit Raises $15 Mn In First External Funding Round",
+     "link": "https://inc42.com/buzz/egg-brand-henfruit-raises-15-mn-in-first-external-funding-round/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "from-olympic-figure-skater-to-entrepreneur-sportlogiq-s-cra": {
+   "name": "From Olympic figure skater to entrepreneur: Sportlogiq’s Cra",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The Montréal AI startup has raised $2.4 million to tackle what could be Buntin’s biggest challenge yet. \n The post  From Olympic figure skater to entrepreneur: Sportlogiq’s Craig Buntin is back to help automate homebuilding with Rise  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$2.4 million",
+     "round": "",
+     "title": "From Olympic figure skater to entrepreneur: Sportlogiq’s Craig Buntin is back to help automate homebuilding with Rise",
+     "link": "https://betakit.com/from-olympic-figure-skater-to-entrepreneur-sportlogiqs-craig-buntin-is-back-to-help-automate-homebuilding-with-rise/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "mnd-biotech-celosia-therapeutics": {
+   "name": "MND biotech Celosia Therapeutics",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Six NSW startups shared in $7m from the NSW government's new tech commercialisation fund.",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$2 million",
+     "round": "",
+     "title": "MND biotech Celosia Therapeutics bags $2 million as six startups score NSW govt commercialisation grants",
+     "link": "https://www.startupdaily.net/topic/funding/mnd-biotech-celosia-therapeutics-bags-2-million-as-six-startups-score-nsw-govt-commercialisation-grants/",
      "source": "Startup Daily"
     }
    ]
