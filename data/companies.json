@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:05:14+00:00",
+ "updated": "2026-11-19T21:10:15+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -60017,11 +60017,11 @@
    "sector": "Robotics",
    "is_ai": true,
    "research_based": false,
-   "stage": "unspecified",
-   "summary": "Physical AI startup Humyn Labs has raised $47 Mn (about ₹439 Cr) to expand its data collection and robot deployment…",
+   "stage": "established",
+   "summary": "Humyn Labs has raised $47 million to expand its physical AI research and data-deployment operations. The financing comprises $26 million in equity and $21 million in venture debt. \n The post  Humyn Labs Raises $47 Million To Scale Physical AI Data Operations  appeared first on  P",
    "audience": "General / mixed",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "events": [
     {
      "date": "2026-11-18",
@@ -60030,6 +60030,14 @@
      "title": "Humyn Labs Raises $47 Mn To Collect Training Data For Robots",
      "link": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-11-19",
+     "amount": "$47 Million",
+     "round": "Debt",
+     "title": "Humyn Labs Raises $47 Million To Scale Physical AI Data Operations",
+     "link": "https://pulse2.com/humyn-labs-raises-47-million-to-scale-physical-ai-data-operations/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -60174,6 +60182,390 @@
      "title": "MND biotech Celosia Therapeutics bags $2 million as six startups score NSW govt commercialisation grants",
      "link": "https://www.startupdaily.net/topic/funding/mnd-biotech-celosia-therapeutics-bags-2-million-as-six-startups-score-nsw-govt-commercialisation-grants/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "what-s-next-for-recruiting-job-hunting-and-hr-more-ai-of": {
+   "name": "What’s Next For Recruiting, Job Hunting And HR? More AI, Of ",
+   "country": "Unknown",
+   "region": "Global",
+   "category": "Security & trust",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "So far this year, venture backers have poured close to $4 billion into an assortment of global companies focused on recruiting, finding jobs and streamlining processes associated with HR and payroll management, Crunchbase data shows. Not surprisingly, the vast majority are also i",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$4 billion",
+     "round": "",
+     "title": "What’s Next For Recruiting, Job Hunting And HR? More AI, Of Course",
+     "link": "https://news.crunchbase.com/venture/data-recruiting-job-hunting-hr-ai-startups-mercor/",
+     "source": "Crunchbase News"
+    }
+   ]
+  },
+  "mantech": {
+   "name": "MANTECH",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "MANTECH has been awarded a seven-year, $2.9 billion contract to provide logistics and sustainment services supporting U.S. Special Operations Command–Pacific and its mission partners. \n The post  MANTECH Wins $2.9 Billion Indo-Pacific Logistics And Sustainment Contract  appeared ",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$2.9 Billion",
+     "round": "",
+     "title": "MANTECH Wins $2.9 Billion Indo-Pacific Logistics And Sustainment Contract",
+     "link": "https://pulse2.com/mantech-wins-2-9-billion-indo-pacific-logistics-and-sustainment-contract/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "rbc-signals": {
+   "name": "RBC Signals",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "RBC Signals has secured a $10 million strategic growth investment led by Washington Harbour Partners. The financing will support expansion of RBC Signals’ government services and commercialization of higher-frequency communications, optical connectivity, intersatellite links, and",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$10 Million",
+     "round": "Growth",
+     "title": "RBC Signals Secures $10 Million To Expand Space Connectivity Platform",
+     "link": "https://pulse2.com/rbc-signals-secures-10-million-to-expand-space-connectivity-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "linq": {
+   "name": "Linq",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Linq has raised $90 million in financing led by Andreessen Horowitz to expand an infrastructure platform for customer-facing AI agents. \n The post  Linq Raises $90 Million To Build Infrastructure For AI Agents  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$90 Million",
+     "round": "",
+     "title": "Linq Raises $90 Million To Build Infrastructure For AI Agents",
+     "link": "https://pulse2.com/linq-raises-90-million-to-build-infrastructure-for-ai-agents/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "metacomp-adds-about-10-million-from-tether-and-further": {
+   "name": "MetaComp Adds About $10 Million From Tether And Further",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "MetaComp has extended its pre-Series A-plus financing with approximately $10 million from Tether and Further Asset Management. \n The post  MetaComp Adds About $10 Million From Tether And Further  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$10 Million",
+     "round": "Pre-Series A",
+     "title": "MetaComp Adds About $10 Million From Tether And Further",
+     "link": "https://pulse2.com/metacomp-adds-about-10-million-from-tether-and-further/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "megarobo": {
+   "name": "MegaRobo",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "MegaRobo has raised nearly $200 million to develop infrastructure that connects AI systems to scientific experiments and other complex physical environments. The round brings the company’s cumulative funding to approximately $600 million. \n The post  MegaRobo Raises Nearly $200 M",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$200 Million",
+     "round": "",
+     "title": "MegaRobo Raises Nearly $200 Million For Physical AI Infrastructure",
+     "link": "https://pulse2.com/megarobo-raises-nearly-200-million-for-physical-ai-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pulley": {
+   "name": "Pulley",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Life management",
+   "sector": "PropTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Pulley has raised $64 million across two financing rounds to expand its permitting services and introduce products covering additional phases of real estate development. \n The post  Pulley Raises $64 Million To Accelerate Real Estate Development  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$64 Million",
+     "round": "",
+     "title": "Pulley Raises $64 Million To Accelerate Real Estate Development",
+     "link": "https://pulse2.com/pulley-raises-64-million-to-accelerate-real-estate-development/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "vitrivax": {
+   "name": "VitriVax",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "VitriVax has closed an oversubscribed $87 million Series C to move its Lyme disease vaccine candidate into a first-in-human clinical trial and expand its proprietary vaccine pipeline. F-Prime, NEA, RA Capital Management, and Sanofi Ventures co-led the round. Eli Lilly and existin",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$87 Million",
+     "round": "Series C",
+     "title": "VitriVax Raises $87 Million To Advance Lyme Disease Vaccine",
+     "link": "https://pulse2.com/vitrivax-raises-87-million-to-advance-lyme-disease-vaccine/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "stepsecurity": {
+   "name": "StepSecurity",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Security & trust",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "StepSecurity has raised an oversubscribed $20 million Series A led by Elephant, bringing its total funding to $23 million. Existing investors Runtime Ventures, Inner Loop Capital, and SaaS Ventures also participated. \n The post  StepSecurity Raises $20 Million To Prevent Software",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$20 Million",
+     "round": "Series A",
+     "title": "StepSecurity Raises $20 Million To Prevent Software Supply Chain Attacks",
+     "link": "https://pulse2.com/stepsecurity-raises-20-million-to-prevent-software-supply-chain-attacks/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "disseqt-ai": {
+   "name": "Disseqt AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Disseqt AI, which builds AI agents for AI governance and testing, has raised $8 Mn (about ₹75 Cr) in a…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$8 Mn",
+     "round": "",
+     "title": "AI Startup Disseqt AI Raises $8 Mn To Scale International Operations",
+     "link": "https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "nepra": {
+   "name": "NEPRA",
+   "country": "India",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Ahmedabad-based waste management startup NEPRA has raised ₹110 Cr (about $11.7 Mn) in an equity funding round from the Private…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "₹110",
+     "round": "",
+     "title": "NEPRA Raises ₹110 Cr To Expand Plastic Recycling Capacity",
+     "link": "https://inc42.com/buzz/nepra-raises-%e2%82%b9110-cr-to-expand-plastic-recycling-capacity/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "inprime-finserv": {
+   "name": "InPrime Finserv",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Bengaluru-based NBFC InPrime Finserv has raised ₹101 Cr (about $10.7 Mn) in a Series B funding round led by Dutch…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "₹101",
+     "round": "Series B",
+     "title": "InPrime Finserv Raises ₹101 Cr To Expand Lending, Enter Micro-Mortgages",
+     "link": "https://inc42.com/buzz/inprime-finserv-raises-%e2%82%b9101-cr-to-expand-lending-enter-micro-mortgages/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "august-ai": {
+   "name": "August AI",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI healthtech startup August AI has raised $12 Mn from Accel, Peak XV Partners, and Claypond Capital to expand its…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$12 Mn",
+     "round": "",
+     "title": "August AI Raises $12 Mn To Expand AI Healthcare Assistant In The US",
+     "link": "https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "style-union": {
+   "name": "Style Union",
+   "country": "India",
+   "region": "Asia",
+   "category": "Entrepreneurship",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Omnichannel fast fashion brand Style Union’s parent Nexon Omniverse Ltd has raised ₹485 Cr (nearly $51.8 Mn) in its Series…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "₹485",
+     "round": "",
+     "title": "Omnichannel Fashion Brand Style Union Bags ₹485 Cr To Expand Store Network",
+     "link": "https://inc42.com/buzz/omnichannel-fashion-brand-style-union-bags-%e2%82%b9485-cr-to-expand-store-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "boba-bhai": {
+   "name": "Boba Bhai",
+   "country": "India",
+   "region": "Asia",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Quick service restaurant (QSR) chain Boba Bhai has raised $18 Mn (about ₹168 Cr) in its Series B funding round…",
+   "audience": "SMBs & merchants",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19",
+   "events": [
+    {
+     "date": "2026-11-19",
+     "amount": "$18 Mn",
+     "round": "Series B",
+     "title": "Boba Bhai Bags $18 Mn To Build A Multi-Brand QSR Chain",
+     "link": "https://inc42.com/buzz/boba-bhai-bags-18-mn-to-build-a-multi-brand-qsr-chain/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "odaia": {
+   "name": "Odaia",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "established",
+   "summary": "University of Toronto spinout will use funding to advance its AI platform and grow its market share. \n The post  Odaia raises $15-million Series C round, inks deal with US health marketing agency  first appeared on  BetaKit .",
+   "audience": "Researchers & scientists",
+   "first_seen": "2026-11-18",
+   "last_seen": "2026-11-18",
+   "events": [
+    {
+     "date": "2026-11-18",
+     "amount": "$15",
+     "round": "Series C",
+     "title": "Odaia raises $15-million Series C round, inks deal with US health marketing agency",
+     "link": "https://betakit.com/odaia-raises-15-million-series-c-round-inks-deal-with-us-health-agency/",
+     "source": "BetaKit"
     }
    ]
   }
