@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:10:15+00:00",
+ "updated": "2026-11-20T20:54:55+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -60566,6 +60566,174 @@
      "title": "Odaia raises $15-million Series C round, inks deal with US health marketing agency",
      "link": "https://betakit.com/odaia-raises-15-million-series-c-round-inks-deal-with-us-health-agency/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "redwire": {
+   "name": "Redwire",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Redwire has received an approximately $15 million contract to supply Extensible Low-Profile Solar Array wings for an AscendArc geosynchronous communications satellite. \n The post  Redwire Wins $15 Million Solar Array Contract From AscendArc  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "events": [
+    {
+     "date": "2026-11-20",
+     "amount": "$15 Million",
+     "round": "",
+     "title": "Redwire Wins $15 Million Solar Array Contract From AscendArc",
+     "link": "https://pulse2.com/redwire-wins-15-million-solar-array-contract-from-ascendarc/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "nodal-networks": {
+   "name": "Nodal Networks",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Nodal Networks has raised $11.3 million in seed financing to expand its AI decision-intelligence platform for container terminals. Eniac Ventures led the round, with participation from NewRoad Capital Partners, Riot Ventures, Trail Mix Ventures, and Liquid 2 Ventures. The financi",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "events": [
+    {
+     "date": "2026-11-20",
+     "amount": "$11.3 Million",
+     "round": "Seed",
+     "title": "Nodal Networks Raises $11.3 Million For AI-Powered Freight Operations",
+     "link": "https://pulse2.com/nodal-networks-raises-11-3-million-for-ai-powered-freight-operations/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "vibe-coding-has-a-business-problem-a-6-6-million-investmen": {
+   "name": "Vibe coding has a business problem. A €6.6 million investmen",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "AI tools have made building an application easier than ever. But turning a quickly generated prototype into a secure, reliable and revenue-generating business is another challenge altogether. As the vibe coding trend lowers the barriers to software development, the infrastructure",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "events": [
+    {
+     "date": "2026-11-20",
+     "amount": "€6.6 million",
+     "round": "",
+     "title": "Vibe coding has a business problem. A €6.6 million investment aims to solve it",
+     "link": "https://arcticstartup.com/cloudbackend-raises-e6-6-million/",
+     "source": "ArcticStartup"
+    }
+   ]
+  },
+  "centre-s-antariksh-vc-fund-leads-satsure-s-200-cr-series-b": {
+   "name": "Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B ",
+   "country": "India",
+   "region": "Asia",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Spacetech startup SatSure has raised ₹60 Cr from Central government-backed spacetech VC fund, Antariksh Venture Capital Fund (AVCF).  The amount…",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "events": [
+    {
+     "date": "2026-11-20",
+     "amount": "₹200",
+     "round": "Series B",
+     "title": "Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B Round",
+     "link": "https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "urban-company": {
+   "name": "Urban Company",
+   "country": "India",
+   "region": "Asia",
+   "category": "Life management",
+   "sector": "E-commerce / Retail",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Home services marketplace Urban Company has raised ₹2,500 Cr through a qualified institutional placement (QIP), attracting bids worth over ₹15,000…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "events": [
+    {
+     "date": "2026-11-20",
+     "amount": "₹2,500",
+     "round": "",
+     "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
+     "link": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "backkr": {
+   "name": "Backkr",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Backkr bags NZ$500k to prove real rooms beat ad dashboards for client leads.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "events": [
+    {
+     "date": "2026-11-20",
+     "amount": "$500,000",
+     "round": "",
+     "title": "Kiwi startup Backkr raises NZ$500,000 to deliver client better leads",
+     "link": "https://www.startupdaily.net/topic/funding/kiwi-startup-backkr-raises-nz500000-to-deliver-client-better-leads/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "queensland-cloud-migration-startup-mulga-grabs-2-6-million": {
+   "name": "Queensland cloud migration startup Mulga grabs $2.6 million ",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Mulga grabs $2.6m to crack AWS lock-in and move apps to Oracle, Cisco or on-prem without rewrites.",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "events": [
+    {
+     "date": "2026-11-20",
+     "amount": "$2.6 million",
+     "round": "Pre-Seed",
+     "title": "Queensland cloud migration startup Mulga grabs $2.6 million pre-Seed",
+     "link": "https://www.startupdaily.net/topic/funding/queensland-cloud-migration-startup-mulga-grabs-2-6-million-pre-seed/",
+     "source": "Startup Daily"
     }
    ]
   }
