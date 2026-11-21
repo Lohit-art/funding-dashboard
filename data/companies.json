@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:54:55+00:00",
+ "updated": "2026-11-21T19:55:57+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -60335,13 +60335,13 @@
    "region": "North America",
    "category": "Life management",
    "sector": "PropTech",
-   "is_ai": false,
+   "is_ai": true,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Pulley has raised $64 million across two financing rounds to expand its permitting services and introduce products covering additional phases of real estate development. \n The post  Pulley Raises $64 Million To Accelerate Real Estate Development  appeared first on  Pulse 2.0 .",
+   "summary": "Pulley has announced $64 million in funding to expand its permitting business and introduce products supporting additional stages of real estate development. \n The post  Pulley Raises $64 Million To Expand AI-Powered Real Estate Development Platform  appeared first on  Pulse 2.0 ",
    "audience": "General / mixed",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "events": [
     {
      "date": "2026-11-19",
@@ -60349,6 +60349,14 @@
      "round": "",
      "title": "Pulley Raises $64 Million To Accelerate Real Estate Development",
      "link": "https://pulse2.com/pulley-raises-64-million-to-accelerate-real-estate-development/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-11-20",
+     "amount": "$64 Million",
+     "round": "",
+     "title": "Pulley Raises $64 Million To Expand AI-Powered Real Estate Development Platform",
+     "link": "https://pulse2.com/pulley-raises-64-million-to-expand-ai-powered-real-estate-development-platform/",
      "source": "Pulse 2.0"
     }
    ]
@@ -60386,10 +60394,10 @@
    "is_ai": false,
    "research_based": false,
    "stage": "emerging",
-   "summary": "StepSecurity has raised an oversubscribed $20 million Series A led by Elephant, bringing its total funding to $23 million. Existing investors Runtime Ventures, Inner Loop Capital, and SaaS Ventures also participated. \n The post  StepSecurity Raises $20 Million To Prevent Software",
+   "summary": "StepSecurity has raised an oversubscribed $20 million Series A to expand its software supply chain security platform, bringing total funding to $23 million. Elephant led the round, with participation from existing investors Runtime Ventures, Inner Loop Capital and SaaS Ventures. ",
    "audience": "General / mixed",
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "events": [
     {
      "date": "2026-11-19",
@@ -60397,6 +60405,14 @@
      "round": "Series A",
      "title": "StepSecurity Raises $20 Million To Prevent Software Supply Chain Attacks",
      "link": "https://pulse2.com/stepsecurity-raises-20-million-to-prevent-software-supply-chain-attacks/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-11-20",
+     "amount": "$20 Million",
+     "round": "Series A",
+     "title": "StepSecurity Raises $20 Million Series A To Expand Software Supply Chain Protection",
+     "link": "https://pulse2.com/stepsecurity-raises-20-million-series-a-to-expand-software-supply-chain-protection/",
      "source": "Pulse 2.0"
     }
    ]
@@ -60734,6 +60750,78 @@
      "title": "Queensland cloud migration startup Mulga grabs $2.6 million pre-Seed",
      "link": "https://www.startupdaily.net/topic/funding/queensland-cloud-migration-startup-mulga-grabs-2-6-million-pre-seed/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "swish-fy26-revenue-surges": {
+   "name": "Swish FY26: Revenue Surges",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Quick food delivery startup Swish clocked in a revenue of over ₹50 Cr in its first fiscal year. However, heavy…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "events": [
+    {
+     "date": "2026-11-21",
+     "amount": "₹50",
+     "round": "",
+     "title": "Swish FY26: Revenue Surges Close To ₹50 Cr While Loss Widens To ₹91 Cr",
+     "link": "https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "celcius-logistics-eyes-100-cr-to-expand-cold-chain-network": {
+   "name": "Celcius Logistics Eyes ₹100 Cr To Expand Cold Chain Network",
+   "country": "India",
+   "region": "Asia",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Cold-chain logistics provider Celcius Logistics is in advanced talks to raise ₹100 Cr in a Pre-Series C funding round from…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-21",
+   "events": [
+    {
+     "date": "2026-11-21",
+     "amount": "₹100",
+     "round": "Pre-Series C",
+     "title": "Exclusive: Celcius Logistics Eyes ₹100 Cr To Expand Cold Chain Network",
+     "link": "https://inc42.com/buzz/exclusive-celcius-logistics-eyes-%e2%82%b9100-cr-to-expand-cold-chain-network/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "dominion-dynamics-taps-canadian-and-nato-partners-for-autono": {
+   "name": "Dominion Dynamics taps Canadian and NATO partners for autono",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Defence tech startup has also landed a $17-million federal contract to make a drone minehunter. \n The post  Dominion Dynamics taps Canadian and NATO partners for autonomous wingman project  first appeared on  BetaKit .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20",
+   "events": [
+    {
+     "date": "2026-11-20",
+     "amount": "$17",
+     "round": "",
+     "title": "Dominion Dynamics taps Canadian and NATO partners for autonomous wingman project",
+     "link": "https://betakit.com/dominion-dynamics-taps-canadian-and-nato-partners-for-autonomous-wingman-project/",
+     "source": "BetaKit"
     }
    ]
   }
