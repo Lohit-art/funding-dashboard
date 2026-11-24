@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:08:11+00:00",
+ "updated": "2026-11-24T00:35:18+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -60822,6 +60822,366 @@
      "title": "Dominion Dynamics taps Canadian and NATO partners for autonomous wingman project",
      "link": "https://betakit.com/dominion-dynamics-taps-canadian-and-nato-partners-for-autonomous-wingman-project/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "redalpine": {
+   "name": "Redalpine",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Swiss venture capital firm redalpine has closed RAC VIII with $250 million in commitments to invest in European deep-technology companies. \n The post  Redalpine Closes $250 Million Fund To Back European Deeptech Companies  appeared first on  Pulse 2.0 .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "$250 Million",
+     "round": "",
+     "title": "Redalpine Closes $250 Million Fund To Back European Deeptech Companies",
+     "link": "https://pulse2.com/redalpine-closes-250-million-fund-to-back-european-deeptech-companies/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "agon": {
+   "name": "Agon",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "A British defence startup founded by a former Anduril director, which is building virtual battlefields where AI-powered autonomous weapons practice fighting, has raised $70m in a Series A fuding round...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "$70 Million",
+     "round": "Series A",
+     "title": "Agon Raises $70 Million At $450 Million Valuation To Build European Defense AI Infrastructure",
+     "link": "https://pulse2.com/agon-raises-70-million-at-450-million-valuation-to-build-european-defense-ai-infrastructure/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-11-23",
+     "amount": "€63.98 million",
+     "round": "Series A",
+     "title": "UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure",
+     "link": "https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-11-23",
+     "amount": "$70M",
+     "round": "Series A",
+     "title": "Defence startup Agon raises $70M, with UK's SovAI and NSSIF investing",
+     "link": "https://tech.eu/2026/11/23/defence-startup-agon-raises-70m-with-uk-sovai-and-nssif-investing/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "energy-vault": {
+   "name": "Energy Vault",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Energy Vault has closed $78 million in construction and bridge financing for its SOSA Energy Center, a 150 MW/300 MWh battery energy storage project in Madison County, Texas. \n The post  Energy Vault Closes $78 Million Financing For Texas Battery Storage Project  appeared first o",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "$78 Million",
+     "round": "Bridge",
+     "title": "Energy Vault Closes $78 Million Financing For Texas Battery Storage Project",
+     "link": "https://pulse2.com/energy-vault-closes-78-million-financing-for-texas-battery-storage-project/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "playbook": {
+   "name": "Playbook",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Munich’s Playbook, a startup developing neurological AI to ensure rule-based compliance in pharmaceutical industries, has raised €8 million to turn documents into data AI can read, but not change. Heal Capital leads the round, together with Bayern Kapital and existing investor Ca",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "€8 million",
+     "round": "",
+     "title": "German startup Playbook secures €8 million to help pharma companies deploy AI safely",
+     "link": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "theseus-robotics": {
+   "name": "Theseus Robotics",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Theseus Robotics, a Swiss startup developing AI-powered robots to automate shelf restocking and online grocery order picking, has secured €455k ($500k) from Y Combinator and will be launching in a grocery store in Silicon Valley. The investment follows earlier backing from Founde",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "€455k",
+     "round": "",
+     "title": "Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US",
+     "link": "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "acorda": {
+   "name": "Acorda",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Acorda, a London-based FinTech startup helping payment providers stop financial scams through shared risk data, has raised €2.15 million (£1.8 million) in a pre-Seed funding round. The round was led by Concept Ventures, the first venture capital firm to back AI unicorn Eleven Lab",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "€2.15 million",
+     "round": "Pre-Seed",
+     "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
+     "link": "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "coprod": {
+   "name": "coprod",
+   "country": "Switzerland",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Robotics hardware startup coprod has raised $6 million in a pre-seedfunding round led by Founderful and PROTOTYPE, with participation from GeneralCatalyst, Pace Ventures, Tiny Supercomputer Investment...",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "€5.45 million",
+     "round": "Pre-Seed",
+     "title": "Swiss startup coprod raises €5.45 million to solve “integration hell” in robotics and physical AI hardware",
+     "link": "https://www.eu-startups.com/2026/11/swiss-startup-coprod-raises-e5-45-million-to-solve-integration-hell-in-robotics-and-physical-ai-hardware/",
+     "source": "EU-Startups"
+    },
+    {
+     "date": "2026-11-23",
+     "amount": "$6M",
+     "round": "",
+     "title": "Swiss startup coprod raises $6M to make building robot hardware as simple as developing software",
+     "link": "https://tech.eu/2026/11/23/swiss-startup-coprod-raises-6m-to-make-building-robot-hardware-as-simple-as-developing-software/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "holosolis": {
+   "name": "HoloSolis",
+   "country": "France",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "HoloSolis, a Paris-based solar manufacturing startup, has closed a Series A funding round of more than €15 million to build Europe’s next solar gigafactory. The round saw participation from four new investors: Crédit Agricole Group, through four of its regional banks; investment ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "€15 million",
+     "round": "Series A",
+     "title": "Paris-based HoloSolis raises over €15 million to advance €1 billion solar gigafactory in France",
+     "link": "https://www.eu-startups.com/2026/11/paris-based-holosolis-raises-over-e15-million-to-advance-e1-billion-solar-gigafactory-in-france/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "former-monzo-scam-prevention-team": {
+   "name": "Former Monzo scam prevention team",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "London-based fintech startup Acorda, whichhelps payment providers detect and prevent scams, has raised £1.8 million in apre-seed funding round led by Concept Ventures, with participation from NFG Vent...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "£1.8M",
+     "round": "Seed",
+     "title": "Former Monzo scam prevention team raises £1.8M for Acorda to help banks fight fraud with better data",
+     "link": "https://tech.eu/2026/11/23/former-monzo-scam-prevention-team-raises-ps18m-for-acorda-to-help-banks-fight-fraud-with-better-data/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "matters-ai": {
+   "name": "Matters.AI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "AI-native data security platform Matters.AI (formerly OptiQ.AI) has raised ₹115 Cr ($12.0 Mn) in a pre-Series A funding round led…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "₹115",
+     "round": "Pre-Series A",
+     "title": "Data Security Startup Matters.AI Nets ₹115 Cr From Tanglin Venture Partners, Others",
+     "link": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "zavya": {
+   "name": "Zavya",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Budget jewellery startup Zavya has raised ₹22.6 Cr ($2.4 Mn) in a pre-Series A funding round led by Daksham Growth…",
+   "audience": "Consumers",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "₹22.6",
+     "round": "Pre-Series A",
+     "title": "Zavya Nets ₹22.6 Cr To Scale Everyday Silver Jewellery Biz",
+     "link": "https://inc42.com/buzz/zavya-nets-%e2%82%b922-6-cr-to-scale-everyday-silver-jewellery-biz/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "myriota": {
+   "name": "Myriota",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Scientific discovery",
+   "sector": "SpaceTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Budding telco Myriota grabs $60m to wire the physical world from space, scaling satellite IoT for tanks, trackers and defence.",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "$60 million",
+     "round": "Series C",
+     "title": "Satellite maker Myriota lands first $60 million in Series C build",
+     "link": "https://www.startupdaily.net/topic/funding/satellite-maker-myriota-lands-first-60-million-in-series-c-build/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "pockets-9-5-million-to-cut-ai-training-and-model-costs": {
+   "name": "pockets $9.5 million to cut AI training and model costs",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "A South Australian startup targeting two key costs of the AI age has raised $9.5 million (US$6.5m). The round for Adelaide’s P3 State was led by Main Sequence, with US...",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "$9.5 million",
+     "round": "",
+     "title": "Adelaide AI startup pockets $9.5 million to cut AI training and model costs",
+     "link": "https://www.startupdaily.net/topic/funding/adelaide-ai-startup-pockets-9-5-million-to-cut-ai-training-and-model-costs/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "brisbane-medtech": {
+   "name": "Brisbane medtech",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Laronix bags $5m to clone lost voices from 10 seconds of audio and take AVA global—see how medtech is making silence obsolete.",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "events": [
+    {
+     "date": "2026-11-23",
+     "amount": "$5 million",
+     "round": "Pre-Series A",
+     "title": "Brisbane medtech lands $5 million pre-Series A to give patients back their lost voices",
+     "link": "https://www.startupdaily.net/topic/funding/brisbane-medtech-lands-5-million-pre-series-a-to-give-patients-back-their-lost-voices/",
+     "source": "Startup Daily"
     }
    ]
   }
