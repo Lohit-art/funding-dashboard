@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:35:18+00:00",
+ "updated": "2026-11-24T22:54:32+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -60922,10 +60922,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "unspecified",
-   "summary": "Munich’s Playbook, a startup developing neurological AI to ensure rule-based compliance in pharmaceutical industries, has raised €8 million to turn documents into data AI can read, but not change. Heal Capital leads the round, together with Bayern Kapital and existing investor Ca",
+   "summary": "AI agents taking on tasks in pharmaceutical companies must follow the same procedures as human employees. Munich-based Playbook is developing technology that turns standard operating procedures (SOPs)...",
    "audience": "Healthcare providers & patients",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "events": [
     {
      "date": "2026-11-23",
@@ -60934,6 +60934,14 @@
      "title": "German startup Playbook secures €8 million to help pharma companies deploy AI safely",
      "link": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-11-24",
+     "amount": "€8M",
+     "round": "",
+     "title": "Playbook raises €8M to help pharma companies keep AI agents compliant",
+     "link": "https://tech.eu/2026/11/24/playbook-raises-eur8m-to-help-pharma-companies-keep-ai-agents-compliant/",
+     "source": "Tech.eu"
     }
    ]
   },
@@ -60970,10 +60978,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "new",
-   "summary": "Acorda, a London-based FinTech startup helping payment providers stop financial scams through shared risk data, has raised €2.15 million (£1.8 million) in a pre-Seed funding round. The round was led by Concept Ventures, the first venture capital firm to back AI unicorn Eleven Lab",
+   "summary": "Acorda has raised £1.8 million in pre-seed financing to develop technology that helps banks and payment providers identify scam risks on both sides of a transaction. Concept Ventures and NFG Ventures participated in the financing alongside a group of angel investors. \n The post  ",
    "audience": "Banks, insurers & finance teams",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-24",
    "events": [
     {
      "date": "2026-11-23",
@@ -60982,6 +60990,14 @@
      "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
      "link": "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/",
      "source": "EU-Startups"
+    },
+    {
+     "date": "2026-11-24",
+     "amount": "£1.8 Million",
+     "round": "Pre-Seed",
+     "title": "Acorda Raises £1.8 Million To Help Payment Providers Detect Scams Before Money Moves",
+     "link": "https://pulse2.com/acorda-raises-1-8-million-to-help-payment-providers-detect-scams-before-money-moves/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -61182,6 +61198,502 @@
      "title": "Brisbane medtech lands $5 million pre-Series A to give patients back their lost voices",
      "link": "https://www.startupdaily.net/topic/funding/brisbane-medtech-lands-5-million-pre-series-a-to-give-patients-back-their-lost-voices/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "intelligent-legal-solutions": {
+   "name": "Intelligent Legal Solutions",
+   "country": "USA",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "LegalTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Legaltech company Intelligent Legal Solutions (ILS), developer ofthe ProVision platform for private investment funds lawyers, has raised $11million in a Series A round co-led by Aquiline and BlackFin ...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$11 Million",
+     "round": "Series A",
+     "title": "Intelligent Legal Solutions Raises $11 Million to Expand Private Funds Technology",
+     "link": "https://pulse2.com/intelligent-legal-solutions-raises-11-million-to-expand-private-funds-technology/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-11-24",
+     "amount": "$11M",
+     "round": "Series A",
+     "title": "Intelligent Legal Solutions secures $11M Series A to expand ProVision platform",
+     "link": "https://tech.eu/2026/11/24/intelligent-legal-solutions-secures-11m-series-a-to-expand-provision-platform/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "whereable-ai": {
+   "name": "Whereable.ai",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Mobility / Logistics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Whereable.ai has raised $2.26 million in pre-Series A financing to develop world model-based autonomous driving software for industrial and logistics environments. Quad Ventures, LOTTE Ventures and the Korea Credit Guarantee Fund participated in the round, which brings the compan",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$2.26 Million",
+     "round": "Pre-Series A",
+     "title": "Whereable.ai Raises $2.26 Million to Advance Autonomous Driving for Industrial Sites",
+     "link": "https://pulse2.com/whereable-ai-raises-2-26-million-to-advance-autonomous-driving-for-industrial-sites/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "leash-biosciences": {
+   "name": "Leash Biosciences",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Leash Biosciences has raised $11 million to expand experimental environments used to evaluate and train artificial intelligence systems for scientific research. \n The post  Leash Biosciences Raises $11 Million to Build Training Environments for Scientific AI  appeared first on  P",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$11 Million",
+     "round": "",
+     "title": "Leash Biosciences Raises $11 Million to Build Training Environments for Scientific AI",
+     "link": "https://pulse2.com/leash-biosciences-raises-11-million-to-build-training-environments-for-scientific-ai/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "apricity-robotics": {
+   "name": "Apricity Robotics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": true,
+   "stage": "emerging",
+   "summary": "Apricity Robotics has raised $16.1 million in Series A funding to complete development of a robotic system designed to reduce the physical strain of diagnostic ultrasound examinations. JumpStart Ventures led the round, with participation from funds advised by The O.H.I.O. Fund, O",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$16.1 Million",
+     "round": "Series A",
+     "title": "Apricity Robotics Raises $16.1 Million to Advance Robotic Ultrasound Assistant",
+     "link": "https://pulse2.com/apricity-robotics-raises-16-1-million-to-advance-robotic-ultrasound-assistant/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "tagomics": {
+   "name": "Tagomics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Tagomics has closed a $13 million seed extension to expand LiquiPath, its blood-based platform for monitoring drug safety and organ health. The round was co-led by We Venture Capital, the corporate venture arm of diagnostics company Werfen, and existing investor Calculus Capital.",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$13 Million",
+     "round": "Seed",
+     "title": "Tagomics Raises $13 Million to Scale Organ Health Platform Following Strong Pharmaceutical Demand",
+     "link": "https://pulse2.com/tagomics-raises-13-million-to-scale-organ-health-platform-following-strong-pharmaceutical-demand/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bayesline": {
+   "name": "Bayesline",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bayesline has completed a $4 million institutional financing round to expand its financial analytics platform, which allows investment managers to build and update custom risk models in seconds. \n The post  Bayesline Raises $4 Million to Expand GPU-Powered Investment Risk Platfor",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$4 Million",
+     "round": "",
+     "title": "Bayesline Raises $4 Million to Expand GPU-Powered Investment Risk Platform",
+     "link": "https://pulse2.com/bayesline-raises-4-million-to-expand-gpu-powered-investment-risk-platform/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "yreka-western-railroad": {
+   "name": "Yreka Western Railroad",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Mobility & logistics",
+   "sector": "Mobility / Logistics",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Yreka Western Railroad has received a $60.2 million federal grant to modernize its freight corridor between Yreka and Montague in Northern California. \n The post  Yreka Western Railroad Secures $60.2 Million Federal Grant for California Freight Modernization  appeared first on  P",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$60.2 Million",
+     "round": "Grant",
+     "title": "Yreka Western Railroad Secures $60.2 Million Federal Grant for California Freight Modernization",
+     "link": "https://pulse2.com/yreka-western-railroad-secures-60-2-million-federal-grant-for-california-freight-modernization/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "aidenai": {
+   "name": "AidenAI",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "HRTech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment…",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$32 Million",
+     "round": "Series A",
+     "title": "AidenAI Raises $32 Million to Build Enterprise AI Platform and Engineering Workforce",
+     "link": "https://pulse2.com/aidenai-raises-32-million-to-build-enterprise-ai-platform-and-engineering-workforce/",
+     "source": "Pulse 2.0"
+    },
+    {
+     "date": "2026-11-24",
+     "amount": "$32 Mn",
+     "round": "Series A",
+     "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
+     "link": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "avicena": {
+   "name": "Avicena",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "AI Infrastructure",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Avicena has raised more than $100 million in Series C funding to accelerate the commercialization of its LightBundle microLED optical interconnect platform. The round included InterVest, Tiger Global, Cerberus Capital Management, SK hynix Ventures, Samsung Catalyst Fund, AMD Vent",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$100 Million",
+     "round": "Series C",
+     "title": "Avicena Raises More Than $100 Million to Commercialize Optical Interconnects for AI Infrastructure",
+     "link": "https://pulse2.com/avicena-raises-more-than-100-million-to-commercialize-optical-interconnects-for-ai-infrastructure/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "bcomp": {
+   "name": "Bcomp",
+   "country": "Romania",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Bcomp, a Fribourg-based CleanTech startup specialising in high-performance bio-based materials, has secured €20 million from the European Investment Bank (EIB) to build a high-volume manufacturing plant in the Romanian city of Timișoara and continue research and development in Fr",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "€20 million",
+     "round": "Debt",
+     "title": "Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics",
+     "link": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "amsterdam-s-good-heat": {
+   "name": "Amsterdam’s Good Heat",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Good Heat, an Amsterdam-based startup that delivers zero-carbon heat as a service to industrial heat users, has raised €2 million to support its growing project pipeline.  The round is led by SET Ventures, Europe’s leading energy VC, with participation from Shell Ventures and exi",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "€2 million",
+     "round": "",
+     "title": "Amsterdam’s Good Heat raises €2 million to replace industrial gas-fired steam boilers with heat batteries",
+     "link": "https://www.eu-startups.com/2026/11/amsterdams-good-heat-raises-e2-million-to-replace-industrial-gas-fired-steam-boilers-with-heat-batteries/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "commerzventures": {
+   "name": "CommerzVentures",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "CommerzVentures, a Frankfurt-based specialist venture capital firm focused on financial services, has closed its fourth fund at €50 million. The fourth fund — CommerzVentures IV (Fund IV) — is anchored by Commerzbank and is deliberately smaller than its predecessors; the firm man",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "€50 million",
+     "round": "",
+     "title": "Frankfurt-based CommerzVentures closes €50 million Fund IV, betting on early-stage FinTech and AI",
+     "link": "https://www.eu-startups.com/2026/11/frankfurt-based-commerzventures-closes-e50-million-fund-iv-betting-on-early-stage-fintech-and-ai/",
+     "source": "EU-Startups"
+    }
+   ]
+  },
+  "pliant": {
+   "name": "Pliant",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Fintech Pliant today announced that it has secured more than €200 million in additional debt financing capacity through three transactions with Ascory Bank AG and Viola Credit.  ​ The announcement fol...",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "€200M",
+     "round": "Debt",
+     "title": "Pliant secures over €200M in debt financing to scale European payments business",
+     "link": "https://tech.eu/2026/11/24/pliant-secures-over-eur200m-in-debt-financing-to-scale-european-payments-business/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "trustly-completes-60m-funding": {
+   "name": "Trustly completes $60M funding",
+   "country": "Sweden",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Swedish fintech Trustly today confirmed it had completed a $60m funding round, having last month said it had received $40m in commitments from its key shareholders.Trustly said it had received a total...",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$60M",
+     "round": "",
+     "title": "Trustly completes $60M funding raise",
+     "link": "https://tech.eu/2026/11/24/trustly-completes-60m-funding-raise/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "reversa": {
+   "name": "Reversa",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Reversa, a company developing AI agents to automateregulatory processes for businesses and public institutions, has raised€750,000 in a pre-seed funding round led by Itnig, the investment fund ofFacto...",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "€750K",
+     "round": "Pre-Seed",
+     "title": "Reversa raises €750K to automate regulatory processes with AI agents",
+     "link": "https://tech.eu/2026/11/24/reversa-raises-eur750k-to-automate-regulatory-processes-with-ai-agents/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "polish-foodtech-tasted": {
+   "name": "Polish foodtech TASTED",
+   "country": "Poland",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "FoodTech / AgTech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Polish-founded foodtech TASTED has raised  $6.5 million and has launched in Westwood Village, its first US neighbourhood.Investors include the founder of Techland, BADideas.fund, Level2 Ventures, Vast...",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$6.5M",
+     "round": "",
+     "title": "Polish foodtech TASTED raises $6.5M as it launches in Los Angeles",
+     "link": "https://tech.eu/2026/11/24/polish-foodtech-tasted-raises-65m-as-it-launches-in-los-angeles/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "good-heat": {
+   "name": "Good Heat",
+   "country": "Netherlands",
+   "region": "Europe",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Amsterdam-based cleantech company Good Heat,which develops and operates electric thermal energy storage systems forindustrial applications, has raised €2 million in a funding round led by SET Ventures...",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "€2M",
+     "round": "",
+     "title": "Good Heat secures €2M to expand industrial heat battery solutions across Europe",
+     "link": "https://tech.eu/2026/11/24/good-heat-secures-eur2m-to-expand-industrial-heat-battery-solutions-across-europe/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "nordic-and-ukrainian-investors-back-pai-defence-with-5m-to": {
+   "name": "Nordic and Ukrainian investors back Pai Defence with $5M to ",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Security & trust",
+   "sector": "Cybersecurity",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Pai Defence, the British-Ukrainian battle-tested situational awareness startup, today secured $5 million pre-seed led by Gardar, the Nordic venture capital fund, alongside major VCs operating on the g...",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$5M",
+     "round": "Pre-Seed",
+     "title": "Nordic and Ukrainian investors back Pai Defence with $5M to tackle frontline drone threats",
+     "link": "https://tech.eu/2026/11/24/nordic-and-ukrainian-investors-back-pai-defence-with-5m-to-tackle-frontline-drone-threats/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "cosine-robots": {
+   "name": "Cosine Robots",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bengaluru-based robotics hardware startup Cosine Robots has raised ₹22.4 Cr (about $2.4 Mn) in a funding round led by Avaana…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "₹22.4",
+     "round": "",
+     "title": "Cosine Robots Bags ₹22.4 Cr To Scale Robotics Hardware Production",
+     "link": "https://inc42.com/buzz/cosine-robots-bags-%e2%82%b922-4-cr-to-scale-robotics-hardware-production/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "apiary-therapeutics": {
+   "name": "Apiary Therapeutics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "It’s the second investment out of BDC Capital’s Life Sciences Venture Fund. \n The post  Apiary Therapeutics raises $7.3 million for engineered stem cell therapies  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$7.3 million",
+     "round": "",
+     "title": "Apiary Therapeutics raises $7.3 million for engineered stem cell therapies",
+     "link": "https://betakit.com/apiary-therapeutics-raises-7-3-million-for-engineered-stem-cell-therapies/",
+     "source": "BetaKit"
     }
    ]
   }
