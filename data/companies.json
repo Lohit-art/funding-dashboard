@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:54:32+00:00",
+ "updated": "2026-11-25T22:08:04+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -61090,10 +61090,10 @@
    "is_ai": true,
    "research_based": false,
    "stage": "emerging",
-   "summary": "AI-native data security platform Matters.AI (formerly OptiQ.AI) has raised ₹115 Cr ($12.0 Mn) in a pre-Series A funding round led…",
+   "summary": "Matters.AI has raised ₹115 crore (US$12 million) in a pre-Series A round led by Tanglin Venture Partners. The company said the investment brings its total funding to ₹175 crore (US$18.25 million) and will support product research and development and expansion across North America",
    "audience": "General / mixed",
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-23",
+   "last_seen": "2026-11-25",
    "events": [
     {
      "date": "2026-11-23",
@@ -61102,6 +61102,14 @@
      "title": "Data Security Startup Matters.AI Nets ₹115 Cr From Tanglin Venture Partners, Others",
      "link": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/",
      "source": "Inc42"
+    },
+    {
+     "date": "2026-11-25",
+     "amount": "₹115",
+     "round": "Pre-Series A",
+     "title": "Matters.AI Raises ₹115 Crore ($12 Million) To Expand Data Security For AI Agents And Employees",
+     "link": "https://pulse2.com/matters-ai-raises-%e2%82%b9115-crore-12-million-to-expand-data-security-for-ai-agents-and-employees/",
+     "source": "Pulse 2.0"
     }
    ]
   },
@@ -61694,6 +61702,390 @@
      "title": "Apiary Therapeutics raises $7.3 million for engineered stem cell therapies",
      "link": "https://betakit.com/apiary-therapeutics-raises-7-3-million-for-engineered-stem-cell-therapies/",
      "source": "BetaKit"
+    }
+   ]
+  },
+  "circode-biomed": {
+   "name": "CirCode Biomed",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "CirCode Biomed has closed a Series A+ financing round in the tens of millions of dollars to advance its circular RNA therapeutics pipeline and strengthen its drug development and manufacturing platform. \n The post  CirCode Biomed Closes Series A+ To Advance Circular RNA Therapies",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "",
+     "round": "Series A",
+     "title": "CirCode Biomed Closes Series A+ To Advance Circular RNA Therapies",
+     "link": "https://pulse2.com/circode-biomed-closes-series-a-to-advance-circular-rna-therapies/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "arch-mi": {
+   "name": "Arch MI",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Arch Mortgage Insurance Company has secured $202.5 million in indemnity reinsurance covering a pool representing approximately $55 billion in mortgages through Bellemeade Re 2026-1, a special-purpose reinsurer. \n The post  Arch MI Secures $202.5 Million In Reinsurance Through Bel",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "$202.5 Million",
+     "round": "",
+     "title": "Arch MI Secures $202.5 Million In Reinsurance Through Bellemeade Transaction",
+     "link": "https://pulse2.com/arch-mi-secures-202-5-million-in-reinsurance-through-bellemeade-transaction/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "adani-airport-holdings-signs-2-790-crore-us-300-million-e": {
+   "name": "Adani Airport Holdings Signs ₹2,790 Crore (US$300 Million) E",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Adani Airport Holdings has signed a binding agreement to raise ₹2,790 crore (US$300 million) from funds and affiliates of 360 ONE Alternates Asset Management, bringing its announced equity raise to US$1.35 billion. \n The post  Adani Airport Holdings Signs ₹2,790 Crore (US$300 Mil",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "₹2,790",
+     "round": "",
+     "title": "Adani Airport Holdings Signs ₹2,790 Crore (US$300 Million) Equity Deal At An $18 Billion Valuation",
+     "link": "https://pulse2.com/adani-airport-holdings-signs-%e2%82%b92790-crore-us300-million-equity-deal-at-an-18-billion-valuation/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "pliant-adds-more-than-200-million-in-debt-capacity-for-its": {
+   "name": "Pliant Adds More Than €200 Million In Debt Capacity For Its ",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Berlin-based payments company Pliant has secured more than €200 million in additional debt financing capacity through three transactions with Ascory Bank and Viola Credit. The arrangements will help Pliant fund customer credit balances and meet settlement collateral requirements ",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "€200 Million",
+     "round": "Debt",
+     "title": "Pliant Adds More Than €200 Million In Debt Capacity For Its European Card Business",
+     "link": "https://pulse2.com/pliant-adds-more-than-e200-million-in-debt-capacity-for-its-european-card-business/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "permut": {
+   "name": "Permut",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Time freedom",
+   "sector": "E-commerce / Retail",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "new",
+   "summary": "Permut, a conversational AI agent platform that businesses can deploy across any channel they use to engage with their customers, has closed a €3 million seed round.Permut solves a challenge many dire...",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "€3M",
+     "round": "Seed",
+     "title": "Permut raises €3M to turn conversational AI into a revenue driver for brands",
+     "link": "https://tech.eu/2026/11/25/permut-raises-eur3m-to-turn-conversational-ai-into-a-revenue-driver-for-brands/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "aqura-systems": {
+   "name": "Aqura Systems",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Food & agriculture",
+   "sector": "Robotics",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Scottishaquatech company Aqura Systems has raised £2.1 million in a funding round ledby Archangels alongside Scottish Enterprise to advance its AI-powered roboticmonitoring platform for fish farms. Th...",
+   "audience": "Enterprises",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "£2.1M",
+     "round": "",
+     "title": "Aqura Systems raises £2.1M to advance AI-powered fish farm monitoring",
+     "link": "https://tech.eu/2026/11/25/aqura-systems-raises-ps21m-to-advance-ai-powered-fish-farm-monitoring/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "payhawk-backer-eleven": {
+   "name": "Payhawk backer Eleven",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Investment firm Eleven, an early-stage investor behind 160+ startups across Europe, has reached a €57 million first close for its fourth fund, with the European Investment Fund (EIF) returning as an a...",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "€57M",
+     "round": "",
+     "title": "Payhawk backer Eleven secures €57M first close for Fund IV",
+     "link": "https://tech.eu/2026/11/25/payhawk-backer-eleven-secures-eur57m-first-close-for-fund-iv/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "anthropic-backer-jaan-tallinn-backs-sequent": {
+   "name": "Anthropic backer Jaan Tallinn backs Sequent",
+   "country": "Estonia",
+   "region": "Europe",
+   "category": "Infrastructure & tools",
+   "sector": "DevTools / Cloud",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "The investor who led Anthropic's first major funding round is backing a startup that builds AI tools to help developers mathematically verify how software behaves, amid AI’s growing use in detecting s...",
+   "audience": "Developers & data teams",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "",
+     "round": "",
+     "title": "Anthropic backer Jaan Tallinn backs Sequent",
+     "link": "https://tech.eu/2026/11/25/anthropic-backer-jann-tallinn-backs-sequent/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "bound": {
+   "name": "Bound",
+   "country": "Unknown",
+   "region": "Europe",
+   "category": "Financial independence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "established",
+   "summary": "AI-powered foreign exchange (FX) riskmanagement platform Bound has secured a three-year $50 million debt facilityfrom global alternative credit manager Viola Credit to support its growingtrading book ...",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "$50M",
+     "round": "Debt",
+     "title": "Bound secures $50M to advance FX risk management for mid-market companies",
+     "link": "https://tech.eu/2026/11/25/bound-secures-50m-to-advance-fx-risk-management-for-mid-market-companies/",
+     "source": "Tech.eu"
+    }
+   ]
+  },
+  "lok-capital-announces-first": {
+   "name": "Lok Capital Announces First",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Societal transformation",
+   "sector": "Consumer Apps",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Social impact focused investor Lok Capital has raised over $130 Mn in the first close of its latest AIF, Fund…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "$130 Mn",
+     "round": "",
+     "title": "Lok Capital Announces First Close Of Fund V At $130 Mn",
+     "link": "https://inc42.com/buzz/lok-capital-announces-first-close-of-fund-v-at-130-mn/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "aeravti-ventures-launches-300-cr-fund-ii-marks-first": {
+   "name": "Aeravti Ventures Launches ₹300 Cr Fund II, Marks First",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Bengaluru-based VC firm Aeravti Ventures has launched its second fund, Aeravti Ventures II, with a target corpus of ₹300 Cr,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "₹300",
+     "round": "",
+     "title": "Aeravti Ventures Launches ₹300 Cr Fund II, Marks First Close At Over ₹150 Cr",
+     "link": "https://inc42.com/buzz/aeravti-ventures-launches-%e2%82%b9300-cr-fund-ii-marks-first-close-at-over-%e2%82%b9150-cr/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "pb-fintech-turtlemint-shares-rally-up-to-8-after-irdai-for": {
+   "name": "PB Fintech, Turtlemint Shares Rally Up To 8% After IRDAI For",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Update | November 25, 19:49 IST Turtlemint’s shares closed the trading session 3.17% higher at ₹1,124.60 apiece on the BSE.…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "₹1,124",
+     "round": "",
+     "title": "PB Fintech, Turtlemint Shares Rally Up To 8% After IRDAI Forms Reforms Review Panel",
+     "link": "https://inc42.com/buzz/pb-fintech-turtlemint-shares-rally-up-to-8-after-irdai-forms-reforms-review-panel/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "as-wildfire-activity-heats-up-sensenet-has-fuelled-up-to-ex": {
+   "name": "As wildfire activity heats up, SenseNet has fuelled up to ex",
+   "country": "Canada",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Vancouver startup closes $43-million USD Series B round to detect and manage US wildfires. \n The post  As wildfire activity heats up, SenseNet has fuelled up to expand south of the border  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "$43",
+     "round": "Series B",
+     "title": "As wildfire activity heats up, SenseNet has fuelled up to expand south of the border",
+     "link": "https://betakit.com/as-wildfire-activity-heats-up-sensenet-has-fuelled-up-to-expand-south-of-the-border/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "online-estate-planner-safewill": {
+   "name": "Online estate planner Safewill",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Safewill grabs $15m at a $160m valuation to drag wills and estate admin out of paper hell for banks and super funds.",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "$15 million",
+     "round": "Series C",
+     "title": "Online estate planner Safewill raises $15 million Series C",
+     "link": "https://www.startupdaily.net/other/online-estate-planner-safewill-raises-15-million-series-c/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "telehealth-startup": {
+   "name": "Telehealth startup",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "new",
+   "summary": "NewDoc banks $2m to make telehealth more like a real GP relationship.",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "events": [
+    {
+     "date": "2026-11-25",
+     "amount": "$2 million",
+     "round": "Seed",
+     "title": "Telehealth startup scores $2 million Seed round",
+     "link": "https://www.startupdaily.net/topic/funding/telehealth-startup-scores-2-million-seed-round/",
+     "source": "Startup Daily"
+    }
+   ]
+  },
+  "free-period-products-startup-on-the-house": {
+   "name": "Free period products startup On the House",
+   "country": "Unknown",
+   "region": "Oceania",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "On the House banks $5.5M to make free period products bathroom basics via ad-funded dispensers",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "events": [
+    {
+     "date": "2026-11-24",
+     "amount": "$5.5 million",
+     "round": "Series A",
+     "title": "Free period products startup On the House raises $5.5 million Series A",
+     "link": "https://www.startupdaily.net/topic/funding/free-period-products-startup-on-the-house-raises-5-5-million-series-a/",
+     "source": "Startup Daily"
     }
    ]
   }
