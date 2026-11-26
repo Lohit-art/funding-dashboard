@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:08:04+00:00",
+ "updated": "2026-11-26T22:06:47+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -62086,6 +62086,246 @@
      "title": "Free period products startup On the House raises $5.5 million Series A",
      "link": "https://www.startupdaily.net/topic/funding/free-period-products-startup-on-the-house-raises-5-5-million-series-a/",
      "source": "Startup Daily"
+    }
+   ]
+  },
+  "celero-capital": {
+   "name": "Celero Capital",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Celero Capital has closed its second private equity fund at an increased hard cap of €425 million, reaching its final close seven months after launch. The fund was oversubscribed, meaning investor demand exceeded the amount Celero could accept even after raising the cap. \n The po",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "events": [
+    {
+     "date": "2026-11-26",
+     "amount": "€425 Million",
+     "round": "",
+     "title": "Celero Capital Raises €425 Million For Its Second Nordic Buyout Fund In Seven Months",
+     "link": "https://pulse2.com/celero-capital-raises-e425-million-for-its-second-nordic-buyout-fund-in-seven-months/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "m-g-reaches-900-million-first": {
+   "name": "M&G Reaches $900 Million First",
+   "country": "UK",
+   "region": "Europe",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "M&G Investments has raised $900 million at the first close of its Catalyst Growth Equity Fund, which backs technology-led private companies looking to expand internationally. The British Business Bank, Mubadala Capital and M&G’s £136 billion With Profits Fund are cornerstone inve",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "events": [
+    {
+     "date": "2026-11-26",
+     "amount": "$900 Million",
+     "round": "Growth",
+     "title": "M&G Reaches $900 Million First Close For Catalyst With Around $200 Million Planned For British Companies",
+     "link": "https://pulse2.com/mg-reaches-900-million-first-close-for-catalyst-with-around-200-million-planned-for-british-companies/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "invl": {
+   "name": "INVL",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "INVL Asset Management has secured €70.6 million in commitments at the first close of its European Banking Opportunities Fund, giving it capital to begin investing in banks across Central and Eastern Europe. The fund attracted 41 investors from Lithuania, Latvia and Estonia, and I",
+   "audience": "Banks, insurers & finance teams",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "events": [
+    {
+     "date": "2026-11-26",
+     "amount": "€70.6 Million",
+     "round": "",
+     "title": "INVL Secures €70.6 Million To Start Investing In Central And Eastern European Banks",
+     "link": "https://pulse2.com/invl-secures-e70-6-million-to-start-investing-in-central-and-eastern-european-banks/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "gef-capital-partners-announces-first": {
+   "name": "GEF Capital Partners Announces First",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Climate & sustainability",
+   "sector": "Climate / Energy",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Climate focused PE firm GEF Capital Partners announced the first close of its fourth India-focused climate fund at $615 Mn,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "events": [
+    {
+     "date": "2026-11-26",
+     "amount": "$615 Mn",
+     "round": "",
+     "title": "GEF Capital Partners Announces First Close Of India Climate Fund IV At $615 Mn",
+     "link": "https://inc42.com/buzz/gef-capital-partners-announces-first-close-of-india-climate-fund-iv-at-615-mn/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "finnable": {
+   "name": "Finnable",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "established",
+   "summary": "Bengaluru-based digital lending startup Finnable has raised ₹405 Cr ($43.8 Mn) in a Series C funding round led by Bharat…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "events": [
+    {
+     "date": "2026-11-26",
+     "amount": "₹405",
+     "round": "Series C",
+     "title": "Finnable Nets ₹405 Cr To Scale Digital Lending Business",
+     "link": "https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "electronics-manufacturing-startup-elecbits-to": {
+   "name": "Electronics Manufacturing Startup Elecbits To",
+   "country": "Unknown",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Electronics design and manufacturing startup Elecbits is in talks to raise fresh capital in the range of $12-15 Mn in…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "events": [
+    {
+     "date": "2026-11-26",
+     "amount": "$15 Mn",
+     "round": "",
+     "title": "Exclusive: Electronics Manufacturing Startup Elecbits To Raise Up To $15 Mn From Xponentia Capital",
+     "link": "https://inc42.com/buzz/exclusive-electronics-manufacturing-startup-elecbits-to-raise-up-to-15-mn-from-xponentia-capital/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "xebo-ai": {
+   "name": "XEBO.ai",
+   "country": "UAE",
+   "region": "Middle East",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Dubai-headquartered experience management company XEBO.ai has raised $10.5 Mn (around ₹97.1 Cr) in a Series A funding round from Emirates…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "events": [
+    {
+     "date": "2026-11-26",
+     "amount": "$10.5 Mn",
+     "round": "Series A",
+     "title": "XEBO.ai Bags $10.5 Mn To Expand Its Customer Experience Platform",
+     "link": "https://inc42.com/buzz/xebo-ai-bags-10-5-mn-to-strengthen-ai-solutions-stack/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "green-aero": {
+   "name": "Green Aero",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Deeptech startup Green Aero has raised $14 Mn (₹129.2 Cr) in a Series A funding round led by Crane Ventures,…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "events": [
+    {
+     "date": "2026-11-26",
+     "amount": "$14 Mn",
+     "round": "Series A",
+     "title": "Green Aero Raises $14 Mn To Build Jet Engines, Combat Drones",
+     "link": "https://inc42.com/buzz/green-aero-raises-14-mn-to-build-jet-engines-combat-drones/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "vegapay": {
+   "name": "Vegapay",
+   "country": "India",
+   "region": "Asia",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "Mumbai-based fintech startup Vegapay has raised $10 Mn (₹92.3 Cr) in a Series A funding round co-led by Vertex Ventures…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "events": [
+    {
+     "date": "2026-11-26",
+     "amount": "$10 Mn",
+     "round": "Series A",
+     "title": "Vegapay Bags $10 Mn To Scale Credit Line On UPI Infrastructure",
+     "link": "https://inc42.com/buzz/vegapay-bags-10-mn-to-scale-credit-line-on-upi-infrastructure/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "acet-spinoff-ascension-capital-announces-30-million-first": {
+   "name": "ACET spinoff Ascension Capital announces $30-million first",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Societal transformation",
+   "sector": "Other",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "unspecified",
+   "summary": "The Québec government could provide up to $25 million if matched dollar-for-dollar. \n The post  ACET spinoff Ascension Capital announces $30-million first close of new early-stage fund  first appeared on  BetaKit .",
+   "audience": "Government & public sector",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "events": [
+    {
+     "date": "2026-11-26",
+     "amount": "$30",
+     "round": "",
+     "title": "ACET spinoff Ascension Capital announces $30-million first close of new early-stage fund",
+     "link": "https://betakit.com/acet-spinoff-ascension-capital-announces-30-million-first-close-of-new-early-stage-fund/",
+     "source": "BetaKit"
     }
    ]
   }
