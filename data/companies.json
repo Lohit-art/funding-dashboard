@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:06:47+00:00",
+ "updated": "2026-11-27T21:48:17+00:00",
  "companies": {
   "base10-partners": {
    "name": "Base10 Partners",
@@ -62325,6 +62325,102 @@
      "round": "",
      "title": "ACET spinoff Ascension Capital announces $30-million first close of new early-stage fund",
      "link": "https://betakit.com/acet-spinoff-ascension-capital-announces-30-million-first-close-of-new-early-stage-fund/",
+     "source": "BetaKit"
+    }
+   ]
+  },
+  "trudoc-promotes-dr-tarek-turk-to-ceo": {
+   "name": "TruDoc Promotes Dr. Tarek Turk To CEO",
+   "country": "Saudi Arabia",
+   "region": "Middle East",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": false,
+   "stage": "emerging",
+   "summary": "TruDoc Healthcare has appointed Dr. Tarek Turk as chief executive officer to lead its expansion in the United Arab Emirates, Saudi Arabia and other international markets. The appointment follows a $15 million pre-Series B funding round. The Dubai-based healthcare provider says it",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "events": [
+    {
+     "date": "2026-11-27",
+     "amount": "$15 million",
+     "round": "Pre-Series B",
+     "title": "TruDoc Promotes Dr. Tarek Turk To CEO",
+     "link": "https://pulse2.com/trudoc-promotes-dr-tarek-turk-to-ceo/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "salvia-bioelectronics": {
+   "name": "Salvia BioElectronics",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Health & longevity",
+   "sector": "HealthTech / Bio",
+   "is_ai": false,
+   "research_based": true,
+   "stage": "established",
+   "summary": "Salvia BioElectronics has signed a €25 million venture debt agreement with the European Investment Bank to advance clinical development of MySalvia, an investigational device for people with resistant migraine. The financing is backed by the European Commission’s InvestEU program",
+   "audience": "Healthcare providers & patients",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "events": [
+    {
+     "date": "2026-11-27",
+     "amount": "€25 Million",
+     "round": "Debt",
+     "title": "Salvia BioElectronics Secures €25 Million From The EIB To Advance Its Migraine Implant",
+     "link": "https://pulse2.com/salvia-bioelectronics-secures-e25-million-from-the-eib-to-advance-its-migraine-implant/",
+     "source": "Pulse 2.0"
+    }
+   ]
+  },
+  "kabeer-biswas-m": {
+   "name": "Kabeer Biswas’ M",
+   "country": "India",
+   "region": "Asia",
+   "category": "Professional excellence",
+   "sector": "Other",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "Dunzo cofounder Kabeer Biswas’ AI startup M has raised $9 Mn (₹82 Cr) in a fresh funding round led by…",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "events": [
+    {
+     "date": "2026-11-27",
+     "amount": "$9 Mn",
+     "round": "",
+     "title": "Kabeer Biswas’ M Raises $9 Mn Led By RTP Global",
+     "link": "https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global/",
+     "source": "Inc42"
+    }
+   ]
+  },
+  "meet-the-teen-founders-turning-wealth-mogging-into-a-fast-gr": {
+   "name": "Meet the teen founders turning wealth mogging into a fast-gr",
+   "country": "Unknown",
+   "region": "North America",
+   "category": "Financial independence",
+   "sector": "Fintech",
+   "is_ai": true,
+   "research_based": false,
+   "stage": "unspecified",
+   "summary": "LarpGPT and its AI-powered social game has crossed a million users and closed $1 million USD. \n The post  Meet the teen founders turning wealth mogging into a fast-growing startup  first appeared on  BetaKit .",
+   "audience": "General / mixed",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "events": [
+    {
+     "date": "2026-11-27",
+     "amount": "$1 million",
+     "round": "",
+     "title": "Meet the teen founders turning wealth mogging into a fast-growing startup",
+     "link": "https://betakit.com/meet-the-teen-founders-turning-wealth-mogging-into-a-fast-growing-startup/",
      "source": "BetaKit"
     }
    ]
